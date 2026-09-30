@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 56 piezas agendadas.
 
 
 ## Miércoles 30/9
-
-**18:00 — Post** · ganancia-real · `2026-09-30-05-post`
-
-<img src="piezas/2026-09-30/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El saldo del banco te da tranquilidad… hasta que llegan las cuentas por pagar.
-
-Tu ganancia real es lo que entró menos lo que ya debes, no lo que ves en la app del banco. Antes de gastar, resta lo que todavía no has pagado.
-
-Kentra te muestra ese número sin hacer cuentas. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-09-30-03-historia`
 
@@ -687,5 +671,6 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- miércoles 30/9 · 18:00 · Post `2026-09-30-05-post` · IG ✓ · FB ✓
 - miércoles 30/9 · 12:00 · Carrusel `2026-09-30-02-carrusel` · IG ✓ · FB ✓
 - miércoles 30/9 · 08:00 · Historia `2026-09-30-01-historia` · IG ✓ · FB ✓
