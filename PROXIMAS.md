@@ -2,10 +2,6 @@
 
 Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
 
-## ⚠️ Con error
-
-- **miércoles 30/9 · 12:00** Carrusel `2026-09-30-02-carrusel`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
-
 
 ## Miércoles 30/9
 
@@ -691,4 +687,5 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- miércoles 30/9 · 12:00 · Carrusel `2026-09-30-02-carrusel` · IG ✓ · FB ✓
 - miércoles 30/9 · 08:00 · Historia `2026-09-30-01-historia` · IG ✓ · FB ✓

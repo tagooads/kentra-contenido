@@ -42,7 +42,12 @@
         "facebook"
       ],
       "intentos": 1,
-      "error": "IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked."
+      "media_id": "18134288108495427",
+      "publicado_ig": true,
+      "fb_post_id": "956335110897891_122141785527213382",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-09-30T18:25:58.476Z"
     },
     {
       "id": "2026-09-30-05-post",
