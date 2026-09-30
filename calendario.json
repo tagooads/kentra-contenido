@@ -40,7 +40,9 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "intentos": 1,
+      "error": "IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked."
     },
     {
       "id": "2026-09-30-05-post",

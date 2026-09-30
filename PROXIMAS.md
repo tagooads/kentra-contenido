@@ -1,25 +1,13 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
+
+## ⚠️ Con error
+
+- **miércoles 30/9 · 12:00** Carrusel `2026-09-30-02-carrusel`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 
 
 ## Miércoles 30/9
-
-**12:00 — Carrusel** · ganancia-real · `2026-09-30-02-carrusel`
-
-<img src="piezas/2026-09-30/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-09-30/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-09-30/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-09-30/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-09-30/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-09-30/02-carrusel-6.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-La mayoría sabe cuánto vendió. Muy pocos saben cuánto les quedó.
-
-En este carrusel: los 3 pasos para calcular tu ganancia real, con el ejemplo de una cafetería que vendió $8.400.000 y le quedaron $1.450.000 (17 % de margen). Guárdalo para tu próximo cierre de mes.
-
-Si no quieres hacer la cuenta a mano, Kentra la hace sola. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #GananciaReal
-
-</details>
 
 **18:00 — Post** · ganancia-real · `2026-09-30-05-post`
 
