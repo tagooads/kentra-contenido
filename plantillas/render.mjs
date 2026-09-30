@@ -224,6 +224,21 @@ L.ui = (p, t, hist) => {
 };
 
 // cita: frase grande
+// captura: pantallazo real de la app dentro de un celular (archivos en marca/capturas/)
+L.captura = (p, t, hist) => `
+  ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
+  <h1 class="${p.tam || "media"}">${rich(p.titulo)}</h1>
+  ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
+  <div style="flex:1;min-height:0;position:relative;overflow:hidden;margin:0 -76px;-webkit-mask:linear-gradient(#000 78%,transparent);mask:linear-gradient(#000 78%,transparent)">
+    <div style="position:absolute;left:50%;top:6px;transform:translateX(-50%);width:${hist ? 720 : 600}px;aspect-ratio:0.46;border-radius:70px;background:#0B1220;padding:16px;box-shadow:0 40px 90px rgba(0,0,0,.35)">
+      <div style="width:100%;height:100%;border-radius:56px;overflow:hidden;background:#fff">
+        <img src="${MARCA("capturas/" + (p.captura || "dashboard-movil.png"))}" style="width:100%;display:block;margin-top:-${p.recorte || "0"}">
+      </div>
+    </div>
+  </div>
+  ${p.nota ? `<div style="align-self:flex-end;margin-top:-150px;position:relative;max-width:420px;background:#47C08B;color:#0F1E38;font-weight:800;font-size:${hist ? 38 : 34}px;line-height:1.2;padding:24px 30px;border-radius:28px;box-shadow:0 20px 40px rgba(0,0,0,.3)">${rich(p.nota)}</div>` : ""}
+  ${pieFooter(t, p.cta, hist)}`;
+
 L.cita = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <div style="flex:1;display:flex;flex-direction:column;justify-content:${hist && conMascota(p) ? "flex-start" : "center"};gap:34px">

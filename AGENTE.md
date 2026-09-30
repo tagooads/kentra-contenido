@@ -33,7 +33,7 @@ Rota los pilares: nunca dos posts seguidos del mismo pilar; un gancho no se repi
 | Hora (Bogotá) | Pieza | Formato | Destino |
 |---|---|---|---|
 | 08:00 | Historia 1 — gancho o dato (a menudo la versión historia del post del día) | historia 1080×1920 | Instagram + Facebook |
-| 12:00 | Post del día (1 carrusel por semana, el jueves) | post 1080×1350 | Instagram + Facebook |
+| 12:00 | Post del día — **carrusel 3 veces por semana (martes, jueves y sábado)**, post de una imagen los otros días | post 1080×1350 | Instagram + Facebook |
 | 19:00 | Historia 2 — tip, pregunta u objeción con CTA | historia 1080×1920 | Instagram + Facebook |
 
 - Las historias no llevan caption: el CTA va dentro de la imagen como botón (`cta` con `boton:true`) y dice `kentra.pro` o `kentra.pro/quiz`. Toda historia lleva CTA. El render lo cambia solo por la ruta corta con UTM de historias (`kentra.pro/h`, `kentra.pro/q`) cuando `config.json` tiene `rutas_cortas_activas: true`. La API de Instagram no permite stickers de enlace en historias, por eso el link va escrito en la imagen.
@@ -112,3 +112,10 @@ El workflow `Publicar en Instagram y Facebook` corre cada hora (minuto 7): publi
 - [ ] Todas las imágenes revisadas a ojo; ningún DESBORDE.
 - [ ] `calendario.json` válido, fechas futuras, rutas de imagen existentes, captions con hashtags.
 - [ ] Commit y push hechos; `investigacion/` y `memoria.md` actualizados.
+
+
+## 9. Carruseles
+
+- **3 carruseles por semana** (martes, jueves y sábado a las 12:00). Son el formato que más se guarda y comparte. Estructura: portada con gancho (`mascota` o `pregunta`) → 3–5 slides de contenido (`cita`, `dato`, `lista`, `ui`) → cierre con CTA (`lista` o `precio`). 4 a 7 slides en total. Temas: "X errores / señales / gastos", paso a paso de una función, antes y después, comparación de planes.
+- Layout `captura` (pantallazo real de la app dentro de un celular): solo con archivos de `marca/capturas/`, que deben venir de una **cuenta demo con datos inventados**. Nunca uses capturas con nombres o cifras de negocios reales. Si la carpeta no existe, usa `ui`.
+- Al terminar la semana ejecuta `node scripts/proximas.mjs` para actualizar `PROXIMAS.md`.
