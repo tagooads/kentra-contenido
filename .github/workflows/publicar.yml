@@ -1,0 +1,38 @@
+name: Publicar en Instagram
+
+on:
+  schedule:
+    - cron: "7 * * * *" # cada hora, al minuto 7
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Publicar piezas pendientes
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ vars.IG_USER_ID }}
+        run: node scripts/publicar.mjs
+      - name: Guardar estado del calendario
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain calendario.json)" ]; then
+            git config user.name "kentra-bot"
+            git config user.email "kentra-bot@users.noreply.github.com"
+            git add calendario.json
+            git commit -m "Estado de publicación $(date -u +%FT%RZ)"
+            git pull --rebase origin main
+            git push
+          fi
