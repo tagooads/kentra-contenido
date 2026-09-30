@@ -3,6 +3,7 @@ name: Publicar en Instagram y Facebook
 on:
   schedule:
     - cron: "7 * * * *" # cada hora, al minuto 7
+    - cron: "*/15 * * * *" # respaldo: GitHub se salta ejecuciones
   workflow_dispatch:
   push:
     branches: [main]

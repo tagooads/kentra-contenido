@@ -133,7 +133,9 @@ for (const pieza of calendario.piezas) {
   if (completa) {
     pieza.publicado = true; pieza.publicado_en = new Date().toISOString(); delete pieza.error; publicadas++;
   } else {
-    pieza.intentos = (pieza.intentos || 0) + 1;
+    // Bloqueos de cuenta o de token (no de la pieza) no gastan intentos: se reintenta sola al levantarse el bloqueo.
+    const deCuenta = errores.length && errores.every((e) => /API access blocked|access token|OAuth|session has expired|temporarily blocked/i.test(e));
+    if (!deCuenta) pieza.intentos = (pieza.intentos || 0) + 1;
     pieza.error = errores.join(" | ");
     fallos++;
     console.error(`❌ ${pieza.id}: ${pieza.error}`);
