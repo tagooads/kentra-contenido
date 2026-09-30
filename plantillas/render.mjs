@@ -237,7 +237,19 @@ L.tip = (p, t, hist) => L.lista({ ...p, numerar: true }, t, hist);
 
 // portada / slide de carrusel: se manejan como layouts normales por slide
 
+// Historias: si kentra.pro ya tiene las rutas cortas (/h y /q redirigen con UTM de historias), el botón las usa.
+let CONFIG = {};
+try { CONFIG = JSON.parse(await readFile(path.join(RAIZ, "config.json"), "utf8")); } catch {}
+function ctaHistoria(cta) {
+  if (!cta || !CONFIG.rutas_cortas_activas) return cta;
+  const texto = typeof cta === "string" ? cta : cta.texto;
+  const corto = CONFIG.rutas_cortas?.[String(texto).trim()];
+  if (!corto) return cta;
+  return typeof cta === "string" ? corto : { ...cta, texto: corto };
+}
+
 function html(p, formato) {
+  if (formato === "historia") p = { ...p, cta: ctaHistoria(p.cta) };
   const tema = p.tema || "navy";
   const t = TEMAS[tema] || TEMAS.navy;
   const hist = formato === "historia";

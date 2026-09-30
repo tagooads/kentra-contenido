@@ -1,0 +1,8 @@
+{
+  "rutas_cortas_activas": false,
+  "rutas_cortas": {
+    "kentra.pro/quiz": "kentra.pro/q",
+    "kentra.pro": "kentra.pro/h"
+  },
+  "link_bio_instagram": "https://kentra.pro/?utm_source=instagram&utm_medium=bio&utm_campaign=organico"
+}

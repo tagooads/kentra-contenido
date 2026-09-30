@@ -36,7 +36,7 @@ Rota los pilares: nunca dos posts seguidos del mismo pilar; un gancho no se repi
 | 12:00 | Post del día (1 carrusel por semana, el jueves) | post 1080×1350 | Instagram + Facebook |
 | 19:00 | Historia 2 — tip, pregunta u objeción con CTA | historia 1080×1920 | Instagram + Facebook |
 
-- Las historias no llevan caption: el CTA va dentro de la imagen (`kentra.pro` o `kentra.pro/quiz`).
+- Las historias no llevan caption: el CTA va dentro de la imagen como botón (`cta` con `boton:true`) y dice `kentra.pro` o `kentra.pro/quiz`. Toda historia lleva CTA. El render lo cambia solo por la ruta corta con UTM de historias (`kentra.pro/h`, `kentra.pro/q`) cuando `config.json` tiene `rutas_cortas_activas: true`. La API de Instagram no permite stickers de enlace en historias, por eso el link va escrito en la imagen.
 - Un post lleva caption (ver §5). Un carrusel: 4 a 6 slides, portada con gancho, cierre con CTA.
 - Temas de fondo: `navy` ~50 %, `verde` ~25 %, `claro`/`blanco` ~25 %. Mascota en no más de la mitad de las piezas para que no canse; el personaje Excel solo en `versus`.
 
@@ -70,7 +70,9 @@ Campos comunes: `formato` (post | historia), `tema` (navy | verde | claro | blan
 
 ## 5. Captions (solo posts y carruseles)
 
-Estructura: **gancho** (1 línea, repite o complementa el título, no lo copia) → **cuerpo** (2–4 líneas cortas, una idea) → **CTA** ("Empieza en kentra.pro · desde $15/mes" o "Diagnóstico gratis en kentra.pro/quiz") → 4–6 hashtags al final: siempre `#Kentra #FinanzasParaNegocios #Emprendedores` más 1–3 del tema o vertical (`#Pymes #NegocioPropio #Restaurantes #TiendaOnline #Freelancer #FinanzasPersonales`). Máximo 600 caracteres, máximo 3 emojis. Nada de "link en bio" en Facebook (ahí el enlace se escribe completo).
+Estructura: **gancho** (1 línea que complementa lo que se ve en la imagen, no la copia) → **cuerpo** (2–4 líneas cortas que explican exactamente lo que muestra la pieza: si es un `dato`, las cifras; si es `ui`, qué se ve en la pantalla; si es un carrusel, qué va a encontrar al deslizar) → **línea de CTA** que termina con el marcador literal `{CTA}` (ej. "Desde $15/mes. {CTA}" o "Haz el diagnóstico en 2 minutos. {CTA}") → 4–6 hashtags al final: siempre `#Kentra #FinanzasParaNegocios #Emprendedores` más 1–3 del tema o vertical (`#Pymes #NegocioPropio #Restaurantes #TiendaOnline #Freelancer`). Máximo 600 caracteres, máximo 3 emojis.
+
+**Nunca escribas links ni "kentra.pro" en el caption.** El publicador reemplaza `{CTA}` según la plataforma: en Instagram por "👉 Toca el link de nuestra bio y empieza hoy." (los links del texto no son clicables en Instagram) y en Facebook por el link directo con UTM (`utm_source=facebook&utm_medium=organico&utm_campaign=contenido&utm_content=<id de la pieza>`). Todo caption de post o carrusel debe tener exactamente un `{CTA}`.
 
 ## 6. Procedimiento semanal (domingo) — sigue el orden
 

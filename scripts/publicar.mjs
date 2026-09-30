@@ -16,6 +16,17 @@ const VENTANA_HORAS = 12; // no publica piezas atrasadas más de 12 h
 
 if (!TOKEN) { console.error("Falta el secreto IG_TOKEN."); process.exit(1); }
 
+// Llamado a la acción por plataforma. En Instagram los links del texto no son clicables: se manda a la bio.
+// En Facebook sí: link directo con UTM para medir qué publicación trajo la visita.
+function captionPara(pieza, plataforma) {
+  const base = pieza.caption || "";
+  if (plataforma === "instagram") {
+    return base.replace(/\{CTA\}/g, "👉 Toca el link de nuestra bio y empieza hoy.");
+  }
+  const link = `https://kentra.pro/?utm_source=facebook&utm_medium=organico&utm_campaign=contenido&utm_content=${encodeURIComponent(pieza.id)}`;
+  return base.replace(/\{CTA\}/g, `👉 Empieza aquí: ${link}`).replace(/link (de nuestra |en (la )?)bio/gi, link);
+}
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const url = (archivo) => (archivo.startsWith("http") ? archivo : RAW + archivo);
 
@@ -52,9 +63,9 @@ async function publicarInstagram(pieza) {
       await esperarContenedor(h.id);
       hijos.push(h.id);
     }
-    creacion = await api(`${IG_USER_ID}/media`, { media_type: "CAROUSEL", children: hijos.join(","), caption: pieza.caption || "" });
+    creacion = await api(`${IG_USER_ID}/media`, { media_type: "CAROUSEL", children: hijos.join(","), caption: captionPara(pieza, "instagram") });
   } else {
-    creacion = await api(`${IG_USER_ID}/media`, { image_url: url(imgs[0]), caption: pieza.caption || "" });
+    creacion = await api(`${IG_USER_ID}/media`, { image_url: url(imgs[0]), caption: captionPara(pieza, "instagram") });
   }
   await esperarContenedor(creacion.id);
   const pub = await api(`${IG_USER_ID}/media_publish`, { creation_id: creacion.id });
@@ -74,7 +85,7 @@ async function tokenPagina() {
 async function publicarFacebook(pieza) {
   const t = await tokenPagina();
   const imgs = pieza.imagenes || [];
-  const caption = (pieza.caption || "").replace(/link en (la )?bio/gi, "kentra.pro");
+  const caption = captionPara(pieza, "facebook");
   if (pieza.tipo === "historia") {
     const foto = await api(`${FB_PAGE_ID}/photos`, { url: url(imgs[0]), published: "false" }, { token: t });
     const r = await api(`${FB_PAGE_ID}/photo_stories`, { photo_id: foto.id }, { token: t });
