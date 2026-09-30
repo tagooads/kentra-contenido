@@ -1,0 +1,19 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Funcionalidades",
+ "titulo": "Lo que hace Kentra por tu negocio",
+ "items": [
+  "Ingresos y gastos por categoría",
+  "Ganancia real del mes, sin fórmulas",
+  "Comprobantes PDF con tu logo",
+  "Alertas de deudas y cuotas por vencer",
+  "Tu equipo con roles: administrador o colaborador"
+ ],
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

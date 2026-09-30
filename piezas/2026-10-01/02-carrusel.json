@@ -1,0 +1,73 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "mascota",
+   "kicker": "Desliza",
+   "titulo": "4 gastos que se comen tu ganancia sin que lo notes",
+   "sub": "No son los grandes. Son los que nadie registra.",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   },
+   "mascotaPos": "right:24px;bottom:190px;height:600px"
+  },
+  {
+   "layout": "cita",
+   "kicker": "1 de 4",
+   "titulo": "La comisión de la pasarela de pagos.",
+   "sub": "3 % de cada venta parece poco. En un mes son días enteros de trabajo.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "2 de 4",
+   "titulo": "El domicilio que “absorbes” para cerrar la venta.",
+   "sub": "Si no lo registras, no existe. Pero sí sale de tu bolsillo.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "3 de 4",
+   "titulo": "La cuota de la tarjeta del negocio.",
+   "sub": "Se paga sola cada mes y por eso nadie la cuenta como gasto.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "4 de 4",
+   "titulo": "El sueldo que no te pagas.",
+   "sub": "Si tu trabajo no cuesta nada, tu ganancia está inflada.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "lista",
+   "kicker": "Cierre",
+   "titulo": "Kentra los ve por ti",
+   "items": [
+    "Cada gasto en su categoría",
+    "Alerta cuando una categoría se pasa",
+    "Ganancia real del mes en una pantalla"
+   ],
+   "cta": {
+    "texto": "Desde $15/mes",
+    "boton": true
+   }
+  }
+ ]
+}

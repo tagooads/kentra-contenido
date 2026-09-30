@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "¿Cuánto te quedó este mes?",
+ "sub": "No cuánto vendiste. Cuánto te quedó. Haz el diagnóstico gratis en 2 minutos.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

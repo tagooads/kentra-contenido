@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "¿Todavía cierras el mes en Excel?",
+ "sub": "Hay una forma más simple de saber cuánto ganaste.",
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

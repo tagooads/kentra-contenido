@@ -1,0 +1,13 @@
+{
+ "layout": "mascota",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Sin Excel",
+ "titulo": "Tu ganancia real, en una sola pantalla.",
+ "sub": "Registras lo que entra y lo que sale. Kentra hace el resto.",
+ "mascota": "app",
+ "cta": {
+  "texto": "Desde $15/mes",
+  "boton": true
+ }
+}

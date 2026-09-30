@@ -18,4 +18,5 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ vars.IG_USER_ID }}
+          FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
         run: node scripts/verificar.mjs

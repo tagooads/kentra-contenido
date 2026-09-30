@@ -1,0 +1,13 @@
+{
+  "name": "kentra-contenido",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node plantillas/render.mjs",
+    "publicar": "node scripts/publicar.mjs",
+    "verificar": "node scripts/verificar.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.50.0"
+  }
+}

@@ -1,0 +1,7 @@
+{"layout":"carrusel","formato":"post","tema":"navy",
+ "slides":[
+  {"layout":"mascota","kicker":"Carrusel","titulo":"5 gastos que se comen tu ganancia sin que lo notes","sub":"Desliza →","mascota":"telefono","cta":{"texto":"kentra.pro","boton":false}},
+  {"layout":"cita","kicker":"1 de 5","titulo":"Las comisiones de las plataformas de pago.","sub":"3 % de cada venta parece poco. En un mes son días de trabajo.","cta":{"texto":"kentra.pro","boton":false}},
+  {"layout":"cita","kicker":"2 de 5","titulo":"Los domicilios que “absorbes” para cerrar la venta.","sub":"Si no los registras, no existen. Y sí salen de tu bolsillo.","cta":{"texto":"kentra.pro","boton":false}},
+  {"layout":"lista","kicker":"Cierre","titulo":"Kentra los ve por ti","items":["Cada gasto en su categoría","Alerta cuando una categoría se pasa","Ganancia real del mes en una pantalla"],"cta":{"texto":"Desde $15/mes","boton":true}}
+ ]}

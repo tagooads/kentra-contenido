@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "¿Muy pequeño para Kentra?",
+ "sub": "Si tu negocio mueve dinero cada mes, es para ti. Pruébalo con el diagnóstico gratis.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

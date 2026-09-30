@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Funcionalidades",
+ "titulo": "Kentra lo registra por ti",
+ "items": [
+  "Ingresos y gastos por categoría, con alertas",
+  "Sube la factura y se registra sola (plan Pro)",
+  "Comprobantes PDF con tu logo",
+  "KentrAI responde tus dudas financieras"
+ ],
+ "cierre": "Desde el celular o el computador.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}
