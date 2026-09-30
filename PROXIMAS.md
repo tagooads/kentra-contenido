@@ -1,13 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 36 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 35 piezas agendadas.
 
 
 ## Miércoles 30/9
-
-**08:00 — Historia** · ganancia-real · `2026-09-30-01-historia`
-
-<img src="piezas/2026-09-30/01-historia.jpg" width="160">
 
 **12:00 — Carrusel** · ganancia-real · `2026-09-30-02-carrusel`
 
@@ -330,3 +326,7 @@ KentraI te hace la cuenta con tus propios números. 👉 [link de la bio en Inst
 
 <img src="piezas/2026-10-11/03-historia.jpg" width="160">
 
+
+## Últimas publicadas
+
+- miércoles 30/9 · 08:00 · Historia `2026-09-30-01-historia` · IG ✓ · FB ✓
