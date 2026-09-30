@@ -8,7 +8,7 @@ import { readFile, writeFile } from "node:fs/promises";
 const GRAPH = "https://graph.facebook.com/v21.0";
 const TOKEN = process.env.IG_TOKEN;
 const IG_USER_ID = process.env.IG_USER_ID || "17841480064403784";
-const FB_PAGE_ID = process.env.FB_PAGE_ID || "";
+const FB_PAGE_ID = process.env.FB_PAGE_ID || "956335110897891";
 const REPO = process.env.GITHUB_REPOSITORY || "tagooads/kentra-contenido";
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/`;
 const MAX_INTENTOS = 3;

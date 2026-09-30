@@ -2,7 +2,7 @@
 // No publica nada.
 const TOKEN = process.env.IG_TOKEN;
 const IG_USER_ID = process.env.IG_USER_ID || "17841480064403784";
-const FB_PAGE_ID = process.env.FB_PAGE_ID || "";
+const FB_PAGE_ID = process.env.FB_PAGE_ID || "956335110897891";
 const GRAPH = "https://graph.facebook.com/v21.0";
 if (!TOKEN) { console.error("Falta el secreto IG_TOKEN."); process.exit(1); }
 
