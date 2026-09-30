@@ -1,0 +1,13 @@
+{
+ "layout": "app",
+ "formato": "cuadrado",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "kicker": "Tip de la semana",
+ "titulo": "Cobra con un comprobante profesional",
+ "pantalla": "comprobante",
+ "nota": "PDF con tu logo en segundos"
+}

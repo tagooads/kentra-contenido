@@ -1,0 +1,13 @@
+{
+ "layout": "app",
+ "formato": "cuadrado",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "kicker": "Cierre de mes",
+ "titulo": "Cierra octubre en 15 minutos",
+ "pantalla": "dashboard",
+ "nota": "Tu saldo neto: lo que de verdad te quedó"
+}

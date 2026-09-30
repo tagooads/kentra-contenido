@@ -1,0 +1,13 @@
+{
+ "layout": "app",
+ "formato": "cuadrado",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "kicker": "Caso de la semana",
+ "titulo": "¿Qué categoría se te está escapando?",
+ "pantalla": "categorias",
+ "nota": "Kentra te avisa cuando te pasas"
+}

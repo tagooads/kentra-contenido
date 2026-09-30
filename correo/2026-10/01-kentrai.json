@@ -1,0 +1,13 @@
+{
+ "layout": "app",
+ "formato": "cuadrado",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "kicker": "Tip de la semana",
+ "titulo": "Pregúntale a KentrAI cómo te fue",
+ "pantalla": "kentrai",
+ "nota": "Te responde con tus propios números"
+}
