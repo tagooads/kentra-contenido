@@ -1,0 +1,17 @@
+{
+ "layout": "tip",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Tip",
+ "titulo": "Separa tu dinero del de tu negocio",
+ "items": [
+  "Una cuenta para el negocio, otra para ti",
+  "Págate un sueldo fijo cada mes",
+  "Lo que sobra es ganancia, no tu bolsillo"
+ ],
+ "cierre": "Kentra te muestra cuánto sobra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

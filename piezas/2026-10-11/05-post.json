@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "blanco",
+ "titulo": "¿Y si no es para ti? Garantía de 30 días.",
+ "sub": "Acceso inmediato, sin permanencia y con garantía de 30 días. Empieza tranquilo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

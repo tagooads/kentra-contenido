@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "¿Quién te avisa si un gasto se dispara?",
+ "sub": "Kentra. Alertas automáticas por categoría.",
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

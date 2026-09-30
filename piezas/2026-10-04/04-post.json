@@ -1,0 +1,33 @@
+{
+ "layout": "ui",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Restaurantes",
+ "titulo": "¿Subieron los insumos y no lo viste?",
+ "app": {
+  "negocio": "Restaurante Doña Rosa",
+  "mes": "Septiembre",
+  "ingresos": "$9.200.000",
+  "gastos": "$8.100.000",
+  "ganancia": "$1.100.000",
+  "barras": [
+   70,
+   75,
+   80,
+   85,
+   90,
+   95,
+   100
+  ],
+  "rojo": [
+   4,
+   5,
+   6
+  ]
+ },
+ "cierre": "Si no lo mides, no lo ves. Kentra te avisa cuando una categoría se pasa.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

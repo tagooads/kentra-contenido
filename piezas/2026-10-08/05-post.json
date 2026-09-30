@@ -1,0 +1,33 @@
+{
+ "layout": "ui",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Salones de belleza",
+ "titulo": "¿Agenda llena y aun así no sobra?",
+ "app": {
+  "negocio": "Salón Bella Vista",
+  "mes": "Septiembre",
+  "ingresos": "$5.600.000",
+  "gastos": "$4.900.000",
+  "ganancia": "$700.000",
+  "barras": [
+   60,
+   65,
+   70,
+   80,
+   85,
+   90,
+   88
+  ],
+  "rojo": [
+   3,
+   4,
+   5
+  ]
+ },
+ "cierre": "Productos, arriendo y comisiones: Kentra te muestra dónde se va.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

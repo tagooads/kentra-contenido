@@ -28,14 +28,18 @@ Rota los pilares: nunca dos posts seguidos del mismo pilar; un gancho no se repi
 
 ## 3. Cadencia y formatos
 
-**3 piezas al día, todos los días**:
+**3 posts en el feed al día (1 carrusel + 2 posts de una imagen) + historias, todos los días** (regla de Gato, 30 sep):
 
 | Hora (Bogotá) | Pieza | Formato | Destino |
 |---|---|---|---|
-| 08:00 | Historia 1 — gancho o dato (a menudo la versión historia del post del día) | historia 1080×1920 | Instagram + Facebook |
-| 12:00 | **Carrusel del día, todos los días** (ver §9) | post 1080×1350 | Instagram + Facebook |
+| 08:00 | Historia 1 — gancho o dato | historia 1080×1920 | Instagram + Facebook |
+| 10:00 | **Post 1** (una imagen; puede ser la versión post de la historia 1) | post 1080×1350 | Instagram + Facebook |
+| 12:00 | **Carrusel del día** (ver §9) | post 1080×1350 | Instagram + Facebook |
+| 18:00 | **Post 2** (una imagen; puede ser la versión post de la historia 2) | post 1080×1350 | Instagram + Facebook |
 | 19:00 | Historia 2 — tip, pregunta u objeción con CTA | historia 1080×1920 | Instagram + Facebook |
 
+- Nunca menos de 3 posts de feed al día (2 posts + 1 carrusel). Las historias son adicionales: pueden ser más de 2 si aportan.
+- Archivos: `01-historia`, `02-carrusel`, `03-historia`, `04-post` (10:00), `05-post` (18:00). Cada post lleva caption (§5).
 - Las historias no llevan caption: el CTA va dentro de la imagen como botón (`cta` con `boton:true`) y dice `kentra.pro` o `kentra.pro/quiz`. Toda historia lleva CTA. **Nunca escribas rutas cortas (`/h`, `/q`) ni parámetros en las imágenes**: se ven mal. La API de Instagram no permite stickers de enlace en historias, por eso el link va escrito en la imagen como `kentra.pro` o `kentra.pro/quiz` (`config.json` → `rutas_cortas_activas: false`, no lo cambies).
 - Un carrusel lleva caption (ver §5): 6 a 9 slides, portada con gancho, cierre con CTA.
 - Temas de fondo: `navy` ~50 %, `verde` ~25 %, `claro`/`blanco` ~25 %. Mascota en no más de la mitad de las piezas para que no canse; el personaje Excel solo en `versus`.
@@ -82,7 +86,7 @@ Estructura: **gancho** (1 línea que complementa lo que se ve en la imagen, no l
 1. **Preparar**: clona el repositorio si no está, `npm install`, lee `AGENTE.md`, `producto.md`, `competencia.md`, `memoria.md` y el `calendario.json` (qué se publicó, qué falló, qué hooks ya se usaron).
 2. **Rendimiento propio**: con `ads_get_ig_media` (cuenta de anuncios 830092816592067, IG 17841480064403784) mira likes y comentarios de las últimas publicaciones; cruza con `calendario.json` por `media_id` para saber qué pilar y layout fue cada una. Anota en `memoria.md` los 3 mejores y los 3 peores de la semana y una hipótesis de por qué.
 3. **Competencia**: `ads_library_search` con los `page_ids` de `competencia.md` (`ad_active_status: ACTIVE`) y 2–3 búsquedas por término en CO/MX/CL. Busca ángulos nuevos, ofertas, formatos. Escribe `investigacion/AAAA-MM-DD.md` (10 líneas: qué vi, qué adopto, qué evito). Si descubres un competidor nuevo, agrégalo a `competencia.md`.
-4. **Plan de la semana**: se produce la primera semana (lunes a domingo) posterior a hoy que **no esté completa** en `calendario.json`; si la que empieza mañana ya tiene sus 21 piezas, se produce la siguiente (así siempre hay una semana de colchón). 21 piezas: tabla con fecha, hora, formato, pilar, layout, gancho. Comprueba la mezcla de pilares (§2), la rotación de temas de fondo y que ningún gancho repita los últimos 21 días.
+4. **Plan de la semana**: se produce la primera semana (lunes a domingo) posterior a hoy que **no esté completa** en `calendario.json`; si la que empieza mañana ya tiene sus 35 piezas, se produce la siguiente (así siempre hay una semana de colchón). 35 piezas: tabla con fecha, hora, formato, pilar, layout, gancho. Comprueba la mezcla de pilares (§2), la rotación de temas de fondo y que ningún gancho repita los últimos 21 días.
 5. **Escribir los JSON** en `piezas/AAAA-MM-DD/`. Reglas de §1 y §4. Cada historia 1 suele ser la versión `historia` del post del día (mismo mensaje, menos texto); la historia 2 es independiente (tip, pregunta, objeción).
 6. **Renderizar**: `node plantillas/render.mjs piezas/<cada carpeta>`. Si sale DESBORDE, acorta el texto y repite.
 7. **Revisar cada imagen** (ábrela y mírala; no confíes solo en el render): texto completo y legible, nada tapado por la mascota, cifras coherentes (ingresos − gastos = ganancia), ortografía y acentos, CTA visible, logo presente, sin palabras prohibidas. Corrige y vuelve a renderizar hasta que las 21 estén bien.
@@ -110,7 +114,7 @@ El workflow `Publicar en Instagram y Facebook` corre cada hora (minuto 7): publi
 
 ## 8. Lista de control antes de dar por terminada la semana
 
-- [ ] 21 piezas (7 carruseles, 14 historias), ~70 % valor / 30 % Kentra, al menos 1 mockup `app` por carrusel sobre Kentra y 3 historias con `app` a la semana.
+- [ ] 35 piezas (7 carruseles, 14 posts de una imagen, 14 historias), ~70 % valor / 30 % Kentra, al menos 1 mockup `app` por carrusel sobre Kentra y 3 historias con `app` a la semana.
 - [ ] Ninguna palabra prohibida; ninguna cifra o función fuera de `producto.md`.
 - [ ] Todas las imágenes revisadas a ojo; ningún DESBORDE.
 - [ ] `calendario.json` válido, fechas futuras, rutas de imagen existentes, captions con hashtags.

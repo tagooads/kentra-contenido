@@ -1,0 +1,29 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Sin complicarte",
+ "titulo": "No necesitas saber de finanzas",
+ "items": [
+  {
+   "texto": "Ni fórmulas",
+   "tipo": "x"
+  },
+  {
+   "texto": "Ni cursos",
+   "tipo": "x"
+  },
+  {
+   "texto": "Ni un asesor",
+   "tipo": "x"
+  },
+  {
+   "texto": "Solo registrar lo que entra y lo que sale"
+  }
+ ],
+ "cierre": "Kentra hace el resto.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

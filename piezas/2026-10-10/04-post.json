@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "¿Lo llevas en la cabeza o en una libreta?",
+ "sub": "Diagnóstico gratis: 5 preguntas, 2 minutos, resultado al instante.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

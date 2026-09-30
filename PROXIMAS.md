@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 35 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
 
 
 ## Miércoles 30/9
@@ -21,6 +21,22 @@ Si no quieres hacer la cuenta a mano, Kentra la hace sola. 👉 [link de la bio 
 
 </details>
 
+**18:00 — Post** · ganancia-real · `2026-09-30-05-post`
+
+<img src="piezas/2026-09-30/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El saldo del banco te da tranquilidad… hasta que llegan las cuentas por pagar.
+
+Tu ganancia real es lo que entró menos lo que ya debes, no lo que ves en la app del banco. Antes de gastar, resta lo que todavía no has pagado.
+
+Kentra te muestra ese número sin hacer cuentas. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · educacion · `2026-09-30-03-historia`
 
 <img src="piezas/2026-09-30/03-historia.jpg" width="160">
@@ -31,6 +47,22 @@ Si no quieres hacer la cuenta a mano, Kentra la hace sola. 👉 [link de la bio 
 **08:00 — Historia** · funcionalidades · `2026-10-01-01-historia`
 
 <img src="piezas/2026-10-01/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-10-01-04-post`
+
+<img src="piezas/2026-10-01/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Tres números. Nada más.
+
+Lo que entró, lo que salió y lo que te quedó. Si los sabes cada mes, sabes si tu negocio va bien o solo está ocupado.
+
+En Kentra los ves en una sola pantalla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-01-02-carrusel`
 
@@ -50,6 +82,22 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 </details>
 
+**18:00 — Post** · funcionalidades · `2026-10-01-05-post`
+
+<img src="piezas/2026-10-01/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Menos tiempo cuadrando, más tiempo vendiendo.
+
+Registras un ingreso o un gasto en segundos, desde el celular o el computador, y Kentra los organiza por categoría, te avisa cuando algo se pasa y te arma los comprobantes con tu logo.
+
+¿Qué parte de tus cuentas te quita más tiempo? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · funcionalidades · `2026-10-01-03-historia`
 
 <img src="piezas/2026-10-01/03-historia.jpg" width="160">
@@ -60,6 +108,22 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 **08:00 — Historia** · kentra-vs-excel · `2026-10-02-01-historia`
 
 <img src="piezas/2026-10-02/01-historia.jpg" width="160">
+
+**10:00 — Post** · kentra-vs-excel · `2026-10-02-04-post`
+
+<img src="piezas/2026-10-02/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Excel sirve… hasta que tienes que acordarte de las fórmulas, buscar la hoja correcta y cuadrar todo a fin de mes.
+
+Cerrar el mes no debería tomarte una tarde entera. Con Kentra ves cuánto ganaste en minutos, sin plantillas.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-02-02-carrusel`
 
@@ -77,6 +141,22 @@ Kentra te ayuda a corregirlos sin hojas de cálculo. 👉 [link de la bio en Ins
 
 </details>
 
+**18:00 — Post** · educacion · `2026-10-02-05-post`
+
+<img src="piezas/2026-10-02/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El error más común del dueño de negocio: pagar lo personal con la plata del negocio.
+
+Asígnate un sueldo fijo, cóbratelo cada mes y todo lo demás déjalo en el negocio. Así sabes de verdad si el negocio gana o si solo te estás pagando a ti.
+
+Guárdalo para tu próximo cierre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · educacion · `2026-10-02-03-historia`
 
 <img src="piezas/2026-10-02/03-historia.jpg" width="160">
@@ -87,6 +167,22 @@ Kentra te ayuda a corregirlos sin hojas de cálculo. 👉 [link de la bio en Ins
 **08:00 — Historia** · objeciones · `2026-10-03-01-historia`
 
 <img src="piezas/2026-10-03/01-historia.jpg" width="160">
+
+**10:00 — Post** · objeciones · `2026-10-03-04-post`
+
+<img src="piezas/2026-10-03/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+«Mi negocio es muy pequeño para eso.»
+
+Si vendes cada mes y pagas cosas cada mes, tu negocio ya tiene números que merecen verse. Justo los negocios pequeños son los que menos margen tienen para equivocarse.
+
+Haz el diagnóstico en kentra.pro/quiz: 5 preguntas, 2 minutos. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-03-02-carrusel`
 
@@ -104,6 +200,22 @@ Kentra te muestra cuando un costo sube para que ajustes a tiempo. 👉 [link de 
 
 </details>
 
+**18:00 — Post** · objeciones · `2026-10-03-05-post`
+
+<img src="piezas/2026-10-03/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+No necesitas saber de finanzas para saber si tu negocio gana.
+
+Necesitas anotar lo que entra, lo que sale y mirar un número al final del mes. Nada de términos raros ni fórmulas.
+
+Kentra lo hace simple desde el primer día. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · objeciones · `2026-10-03-03-historia`
 
 <img src="piezas/2026-10-03/03-historia.jpg" width="160">
@@ -114,6 +226,22 @@ Kentra te muestra cuando un costo sube para que ajustes a tiempo. 👉 [link de 
 **08:00 — Historia** · verticales · `2026-10-04-01-historia`
 
 <img src="piezas/2026-10-04/01-historia.jpg" width="160">
+
+**10:00 — Post** · verticales · `2026-10-04-04-post`
+
+<img src="piezas/2026-10-04/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Un restaurante vendió $9.200.000 y solo le quedaron $1.100.000.
+
+¿Qué pasó? Los insumos subieron un poco cada semana y nadie lo notó a tiempo. Cuando los gastos suben de a poquito, el margen se va sin avisar.
+
+Revisa tus gastos por categoría cada semana. Kentra te avisa cuando una se pasa. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-04-02-carrusel`
 
@@ -131,6 +259,24 @@ Kentra te muestra cuánto te quedó cada mes para repartirlo con cabeza. 👉 [l
 
 </details>
 
+**18:00 — Post** · educacion · `2026-10-04-05-post`
+
+<img src="piezas/2026-10-04/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+3 números que todo dueño de negocio debería saber cada mes:
+
+1. Cuánto entró de verdad (cobrado, no facturado)
+2. Cuánto salió, por categoría
+3. Cuánto te quedó
+
+Si no los tienes claros, empieza este mes. Guárdalo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · educacion · `2026-10-04-03-historia`
 
 <img src="piezas/2026-10-04/03-historia.jpg" width="160">
@@ -141,6 +287,22 @@ Kentra te muestra cuánto te quedó cada mes para repartirlo con cabeza. 👉 [l
 **08:00 — Historia** · ganancia-real · `2026-10-05-01-historia`
 
 <img src="piezas/2026-10-05/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-10-05-04-post`
+
+<img src="piezas/2026-10-05/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Vender más no siempre es ganar más.
+
+Si para vender más gastaste más en insumos, domicilios o publicidad, puede que te haya quedado lo mismo… o menos. Mide la ganancia, no solo las ventas.
+
+Diagnóstico en kentra.pro/quiz: 2 minutos, resultado al instante. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-10-05-02-carrusel`
 
@@ -158,6 +320,22 @@ Kentra te muestra lo que tienes, lo que debes y lo que te quedó. 👉 [link de 
 
 </details>
 
+**18:00 — Post** · objeciones · `2026-10-05-05-post`
+
+<img src="piezas/2026-10-05/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+«No tengo tiempo para las cuentas.»
+
+Registrar un movimiento toma menos que responder un WhatsApp. Diez minutos a la semana y a fin de mes sabes exactamente cuánto ganaste.
+
+El tiempo que no le dedicas a tus números se paga caro después. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · objeciones · `2026-10-05-03-historia`
 
 <img src="piezas/2026-10-05/03-historia.jpg" width="160">
@@ -168,6 +346,22 @@ Kentra te muestra lo que tienes, lo que debes y lo que te quedó. 👉 [link de 
 **08:00 — Historia** · funcionalidades · `2026-10-06-01-historia`
 
 <img src="piezas/2026-10-06/01-historia.jpg" width="160">
+
+**10:00 — Post** · funcionalidades · `2026-10-06-04-post`
+
+<img src="piezas/2026-10-06/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Digitar facturas a mano es el trabajo más aburrido del negocio.
+
+En Kentra (plan Pro) le subes la factura y se registra sola, con su categoría. Tú solo revisas y guardas.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-10-06-02-carrusel`
 
@@ -185,6 +379,24 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 </details>
 
+**18:00 — Post** · educacion · `2026-10-06-05-post`
+
+<img src="piezas/2026-10-06/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Antes de subir precios, revisa esto:
+
+• Cuánto te cuesta de verdad producir o prestar el servicio
+• Qué gastos fijos tienes que cubrir cada mes
+• Cuánto quieres que te quede por venta
+
+Subir precios sin números es adivinar. Guárdalo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · educacion · `2026-10-06-03-historia`
 
 <img src="piezas/2026-10-06/03-historia.jpg" width="160">
@@ -195,6 +407,22 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 **08:00 — Historia** · kentra-vs-excel · `2026-10-07-01-historia`
 
 <img src="piezas/2026-10-07/01-historia.jpg" width="160">
+
+**10:00 — Post** · kentra-vs-excel · `2026-10-07-04-post`
+
+<img src="piezas/2026-10-07/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Cuántas horas al mes pasas cuadrando Excel?
+
+Ese tiempo también es un gasto, solo que nadie lo anota. Si son 5 horas al mes, son 60 horas al año que podrías usar para vender.
+
+Con Kentra el cierre de mes toma minutos. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-07-02-carrusel`
 
@@ -212,6 +440,22 @@ En Kentra marcas una cuenta como cobrada y queda registrada sola. 👉 [link de 
 
 </details>
 
+**18:00 — Post** · funcionalidades · `2026-10-07-05-post`
+
+<img src="piezas/2026-10-07/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Los gastos no se disparan de un día para otro: suben de a poco y nadie los vigila.
+
+Ponle un presupuesto a cada categoría y Kentra te avisa cuando te estés pasando, antes de que sea tarde.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · funcionalidades · `2026-10-07-03-historia`
 
 <img src="piezas/2026-10-07/03-historia.jpg" width="160">
@@ -222,6 +466,22 @@ En Kentra marcas una cuenta como cobrada y queda registrada sola. 👉 [link de 
 **08:00 — Historia** · educacion · `2026-10-08-01-historia`
 
 <img src="piezas/2026-10-08/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-10-08-04-post`
+
+<img src="piezas/2026-10-08/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+4 señales de que ganas menos de lo que crees. La primera: el saldo del banco sube… pero las deudas también.
+
+Hoy a las 12 publicamos las 4 en un carrusel. Activa las notificaciones para no perdértelo.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-08-02-carrusel`
 
@@ -241,6 +501,22 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 </details>
 
+**18:00 — Post** · verticales · `2026-10-08-05-post`
+
+<img src="piezas/2026-10-08/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Agenda llena, clientes felices… y aun así no sobra.
+
+Pasa mucho en salones y servicios: los insumos, el arriendo y las comisiones se comen lo que entra. Mira cuánto te queda por servicio, no solo cuántos haces.
+
+Kentra te lo muestra por categoría. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · verticales · `2026-10-08-03-historia`
 
 <img src="piezas/2026-10-08/03-historia.jpg" width="160">
@@ -251,6 +527,22 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 **08:00 — Historia** · precio-valor · `2026-10-09-01-historia`
 
 <img src="piezas/2026-10-09/01-historia.jpg" width="160">
+
+**10:00 — Post** · precio · `2026-10-09-04-post`
+
+<img src="piezas/2026-10-09/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Sin permanencia. Cancela cuando quieras.
+
+Kentra cuesta desde $15/mes, con acceso inmediato después del pago. Si no te sirve, lo cancelas desde tu cuenta en dos clics.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-09-02-carrusel`
 
@@ -268,6 +560,22 @@ Kentra te avisa cuando una categoría se pasa. 👉 [link de la bio en Instagram
 
 </details>
 
+**18:00 — Post** · funcionalidades · `2026-10-09-05-post`
+
+<img src="piezas/2026-10-09/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Cobra con un comprobante que se vea profesional.
+
+En Kentra generas el comprobante en PDF con tu logo, lo envías y cuando te pagan lo marcas como cobrado: se registra solo en tus movimientos.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · funcionalidades · `2026-10-09-03-historia`
 
 <img src="piezas/2026-10-09/03-historia.jpg" width="160">
@@ -278,6 +586,22 @@ Kentra te avisa cuando una categoría se pasa. 👉 [link de la bio en Instagram
 **08:00 — Historia** · ganancia-real · `2026-10-10-01-historia`
 
 <img src="piezas/2026-10-10/01-historia.jpg" width="160">
+
+**10:00 — Post** · objeciones · `2026-10-10-04-post`
+
+<img src="piezas/2026-10-10/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Llevas las cuentas en la cabeza o en una libreta?
+
+Funciona… hasta que se te olvida un gasto o no sabes cuánto te deben. Haz el diagnóstico en kentra.pro/quiz: 5 preguntas, 2 minutos, resultado al instante.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-10-02-carrusel`
 
@@ -295,6 +619,24 @@ En Kentra el cierre se hace en 3 minutos porque ya está todo registrado. 👉 [
 
 </details>
 
+**18:00 — Post** · educacion · `2026-10-10-05-post`
+
+<img src="piezas/2026-10-10/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Antes de cada gasto, pregúntate:
+
+1. ¿Me ayuda a vender más o a trabajar mejor?
+2. ¿Lo tengo presupuestado este mes?
+3. ¿Puedo esperar una semana?
+
+Tres preguntas que cuidan tu margen. Guárdalo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **19:00 — Historia** · educacion · `2026-10-10-03-historia`
 
 <img src="piezas/2026-10-10/03-historia.jpg" width="160">
@@ -305,6 +647,22 @@ En Kentra el cierre se hace en 3 minutos porque ya está todo registrado. 👉 [
 **08:00 — Historia** · verticales · `2026-10-11-01-historia`
 
 <img src="piezas/2026-10-11/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-10-11-04-post`
+
+<img src="piezas/2026-10-11/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Cuánto de lo que cobras es realmente tuyo?
+
+De cada venta salen insumos, arriendo, servicios, comisiones e impuestos. Lo que queda es tuyo; lo demás solo pasa por tu cuenta.
+
+Kentra te muestra ese número cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-10-11-02-carrusel`
 
@@ -319,6 +677,22 @@ En este carrusel: cómo calcular un sueldo sostenible con tu ganancia promedio d
 KentraI te hace la cuenta con tus propios números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #SueldoEmprendedor #Pymes
+
+</details>
+
+**18:00 — Post** · precio · `2026-10-11-05-post`
+
+<img src="piezas/2026-10-11/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Y si no es para ti?
+
+Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas tranquilo y decides con tus propios números.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
 
 </details>
 

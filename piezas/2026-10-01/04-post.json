@@ -1,0 +1,31 @@
+{
+ "layout": "ui",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Así se ve en Kentra",
+ "titulo": "Lo que entró. Lo que salió. Lo que te quedó.",
+ "app": {
+  "negocio": "Café La Esquina",
+  "mes": "Septiembre",
+  "ingresos": "$8.400.000",
+  "gastos": "$6.950.000",
+  "ganancia": "$1.450.000",
+  "barras": [
+   55,
+   70,
+   40,
+   85,
+   65,
+   95,
+   80
+  ],
+  "rojo": [
+   2
+  ]
+ },
+ "cierre": "En una pantalla. Sin fórmulas.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

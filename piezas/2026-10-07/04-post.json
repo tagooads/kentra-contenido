@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "¿Cuántas horas al mes pasas cuadrando Excel?",
+ "sub": "Ese tiempo también es un gasto. Y nadie lo registra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

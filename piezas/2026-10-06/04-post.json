@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "¿Sigues digitando cada factura?",
+ "sub": "Súbela y Kentra la registra sola. Plan Pro.",
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

@@ -1,621 +1,966 @@
 {
-  "zona_horaria": "America/Bogota",
-  "piezas": [
-    {
-      "id": "2026-09-30-01-historia",
-      "fecha": "2026-09-30T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-09-30/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "media_id": "18104897410981471",
-      "publicado_ig": true,
-      "fb_post_id": "936622579102975",
-      "publicado_fb": true,
-      "publicado": true,
-      "publicado_en": "2026-09-30T13:22:26.490Z"
-    },
-    {
-      "id": "2026-09-30-02-carrusel",
-      "fecha": "2026-09-30T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-09-30/02-carrusel-1.jpg",
-        "piezas/2026-09-30/02-carrusel-2.jpg",
-        "piezas/2026-09-30/02-carrusel-3.jpg",
-        "piezas/2026-09-30/02-carrusel-4.jpg",
-        "piezas/2026-09-30/02-carrusel-5.jpg",
-        "piezas/2026-09-30/02-carrusel-6.jpg"
-      ],
-      "caption": "La mayoría sabe cuánto vendió. Muy pocos saben cuánto les quedó.\n\nEn este carrusel: los 3 pasos para calcular tu ganancia real, con el ejemplo de una cafetería que vendió $8.400.000 y le quedaron $1.450.000 (17 % de margen). Guárdalo para tu próximo cierre de mes.\n\nSi no quieres hacer la cuenta a mano, Kentra la hace sola. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #GananciaReal",
-      "pilar": "ganancia-real",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-09-30-03-historia",
-      "fecha": "2026-09-30T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-09-30/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-01-01-historia",
-      "fecha": "2026-10-01T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-01/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "ui",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-01-02-carrusel",
-      "fecha": "2026-10-01T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-01/02-carrusel-1.jpg",
-        "piezas/2026-10-01/02-carrusel-2.jpg",
-        "piezas/2026-10-01/02-carrusel-3.jpg",
-        "piezas/2026-10-01/02-carrusel-4.jpg",
-        "piezas/2026-10-01/02-carrusel-5.jpg",
-        "piezas/2026-10-01/02-carrusel-6.jpg"
-      ],
-      "caption": "4 gastos que se comen tu ganancia sin que lo notes 👀\n\nNo son los grandes. Son los que nadie registra: la comisión de la pasarela, el domicilio que \"absorbes\", la cuota de la tarjeta y el sueldo que no te pagas.\n\nDesliza y revisa cuántos te están pasando a ti.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ControlDeGastos",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-01-03-historia",
-      "fecha": "2026-10-01T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-01/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "lista",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-02-01-historia",
-      "fecha": "2026-10-02T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-02/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "kentra-vs-excel",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-02-02-carrusel",
-      "fecha": "2026-10-02T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-02/02-carrusel-1.jpg",
-        "piezas/2026-10-02/02-carrusel-2.jpg",
-        "piezas/2026-10-02/02-carrusel-3.jpg",
-        "piezas/2026-10-02/02-carrusel-4.jpg",
-        "piezas/2026-10-02/02-carrusel-5.jpg",
-        "piezas/2026-10-02/02-carrusel-6.jpg",
-        "piezas/2026-10-02/02-carrusel-7.jpg"
-      ],
-      "caption": "5 errores de dinero muy comunes en negocios pequeños (y cómo corregir cada uno).\n\nDesde mezclar tu plata con la del negocio hasta no tener colchón para un mes flojo. Desliza, revisa cuántos te pasan y guárdalo.\n\nKentra te ayuda a corregirlos sin hojas de cálculo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-02-03-historia",
-      "fecha": "2026-10-02T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-02/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "tip",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-03-01-historia",
-      "fecha": "2026-10-03T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-03/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-03-02-carrusel",
-      "fecha": "2026-10-03T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-03/02-carrusel-1.jpg",
-        "piezas/2026-10-03/02-carrusel-2.jpg",
-        "piezas/2026-10-03/02-carrusel-3.jpg",
-        "piezas/2026-10-03/02-carrusel-4.jpg",
-        "piezas/2026-10-03/02-carrusel-5.jpg",
-        "piezas/2026-10-03/02-carrusel-6.jpg",
-        "piezas/2026-10-03/02-carrusel-7.jpg"
-      ],
-      "caption": "¿Tu precio cubre todo lo que cuesta producir, o solo los ingredientes?\n\nEn este carrusel: el método en 4 pasos para ponerle precio a lo que vendes, con el ejemplo de una torta. Costo directo $27.500 + fijos $15.000 + ganancia = precio mínimo de $55.250. Guárdalo y haz la cuenta con tu producto.\n\nKentra te muestra cuando un costo sube para que ajustes a tiempo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Emprendimiento",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-03-03-historia",
-      "fecha": "2026-10-03T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-03/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "lista",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-04-01-historia",
-      "fecha": "2026-10-04T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-04/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "verticales",
-      "layout": "ui",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-04-02-carrusel",
-      "fecha": "2026-10-04T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-04/02-carrusel-1.jpg",
-        "piezas/2026-10-04/02-carrusel-2.jpg",
-        "piezas/2026-10-04/02-carrusel-3.jpg",
-        "piezas/2026-10-04/02-carrusel-4.jpg",
-        "piezas/2026-10-04/02-carrusel-5.jpg",
-        "piezas/2026-10-04/02-carrusel-6.jpg",
-        "piezas/2026-10-04/02-carrusel-7.jpg"
-      ],
-      "caption": "Si toda la plata del negocio está en un solo lugar, se va en todo y en nada.\n\nEn este carrusel: los 4 bolsillos para ordenar el dinero de tu negocio (operación, impuestos, tu sueldo y reserva) y en qué orden llenarlos.\n\nKentra te muestra cuánto te quedó cada mes para repartirlo con cabeza. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #OrdenFinanciero #Pymes",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-04-03-historia",
-      "fecha": "2026-10-04T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-04/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "tip",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-05-01-historia",
-      "fecha": "2026-10-05T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-05/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-05-02-carrusel",
-      "fecha": "2026-10-05T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-05/02-carrusel-1.jpg",
-        "piezas/2026-10-05/02-carrusel-2.jpg",
-        "piezas/2026-10-05/02-carrusel-3.jpg",
-        "piezas/2026-10-05/02-carrusel-4.jpg",
-        "piezas/2026-10-05/02-carrusel-5.jpg",
-        "piezas/2026-10-05/02-carrusel-6.jpg"
-      ],
-      "caption": "Ver $3.200.000 en el banco se siente bien. Hasta que restas lo que ya debes.\n\nEn este carrusel: la diferencia entre flujo de caja y ganancia, con un ejemplo donde el saldo parece bueno pero el mes cierra en −$180.000.\n\nKentra te muestra lo que tienes, lo que debes y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #FlujoDeCaja #Pymes",
-      "pilar": "ganancia-real",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-05-03-historia",
-      "fecha": "2026-10-05T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-05/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "lista",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-06-01-historia",
-      "fecha": "2026-10-06T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-06/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-06-02-carrusel",
-      "fecha": "2026-10-06T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-06/02-carrusel-1.jpg",
-        "piezas/2026-10-06/02-carrusel-2.jpg",
-        "piezas/2026-10-06/02-carrusel-3.jpg",
-        "piezas/2026-10-06/02-carrusel-4.jpg",
-        "piezas/2026-10-06/02-carrusel-5.jpg",
-        "piezas/2026-10-06/02-carrusel-6.jpg",
-        "piezas/2026-10-06/02-carrusel-7.jpg"
-      ],
-      "caption": "¿Cómo se ve Kentra por dentro? Así.\n\n1. Tu mes completo en una pantalla. 2. Subes el extracto y los movimientos se registran solos (plan Pro). 3. Comprobantes PDF con tu logo. 4. Alertas antes de que algo venza. 5. KentrAI responde con tus propios números.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Productividad",
-      "pilar": "funcionalidades",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-06-03-historia",
-      "fecha": "2026-10-06T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-06/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "tip",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-07-01-historia",
-      "fecha": "2026-10-07T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-07/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "kentra-vs-excel",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-07-02-carrusel",
-      "fecha": "2026-10-07T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-07/02-carrusel-1.jpg",
-        "piezas/2026-10-07/02-carrusel-2.jpg",
-        "piezas/2026-10-07/02-carrusel-3.jpg",
-        "piezas/2026-10-07/02-carrusel-4.jpg",
-        "piezas/2026-10-07/02-carrusel-5.jpg",
-        "piezas/2026-10-07/02-carrusel-6.jpg",
-        "piezas/2026-10-07/02-carrusel-7.jpg"
-      ],
-      "caption": "El dinero que te deben no te sirve hasta que llega.\n\nEn este carrusel: 4 hábitos simples para cobrar a tiempo. Fecha de pago clara, comprobante profesional, recordatorio un día antes y registro de quién te debe.\n\nEn Kentra marcas una cuenta como cobrada y queda registrada sola. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Cobranza #Emprendedores",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-07-03-historia",
-      "fecha": "2026-10-07T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-07/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-08-01-historia",
-      "fecha": "2026-10-08T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-08/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-08-02-carrusel",
-      "fecha": "2026-10-08T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-08/02-carrusel-1.jpg",
-        "piezas/2026-10-08/02-carrusel-2.jpg",
-        "piezas/2026-10-08/02-carrusel-3.jpg",
-        "piezas/2026-10-08/02-carrusel-4.jpg",
-        "piezas/2026-10-08/02-carrusel-5.jpg",
-        "piezas/2026-10-08/02-carrusel-6.jpg"
-      ],
-      "caption": "4 señales de que tu negocio gana menos de lo que crees 👀\n\nNinguna aparece en las ventas. Todas aparecen en la ganancia: el saldo que sube junto con las deudas, la venta de hoy que paga la compra de ayer, el costo por venta que nadie suma y el sueldo que te pagas «con lo que sobra».\n\nDesliza y cuenta cuántas te pasan.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-08-03-historia",
-      "fecha": "2026-10-08T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-08/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "verticales",
-      "layout": "ui",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-09-01-historia",
-      "fecha": "2026-10-09T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-09/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio-valor",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-09-02-carrusel",
-      "fecha": "2026-10-09T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-09/02-carrusel-1.jpg",
-        "piezas/2026-10-09/02-carrusel-2.jpg",
-        "piezas/2026-10-09/02-carrusel-3.jpg",
-        "piezas/2026-10-09/02-carrusel-4.jpg",
-        "piezas/2026-10-09/02-carrusel-5.jpg",
-        "piezas/2026-10-09/02-carrusel-6.jpg",
-        "piezas/2026-10-09/02-carrusel-7.jpg",
-        "piezas/2026-10-09/02-carrusel-8.jpg",
-        "piezas/2026-10-09/02-carrusel-9.jpg"
-      ],
-      "caption": "No son los gastos grandes los que se comen la ganancia. Son los pequeños que nadie anota.\n\nEn este carrusel: 6 gastos hormiga del negocio, desde comisiones de pago hasta las compras en efectivo sin recibo. Solo las comisiones de $6.000.000 en ventas ya son $180.000 al mes.\n\nKentra te avisa cuando una categoría se pasa. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #GastosHormiga #Pymes",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-09-03-historia",
-      "fecha": "2026-10-09T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-09/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "lista",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-10-01-historia",
-      "fecha": "2026-10-10T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-10/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-10-02-carrusel",
-      "fecha": "2026-10-10T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-10/02-carrusel-1.jpg",
-        "piezas/2026-10-10/02-carrusel-2.jpg",
-        "piezas/2026-10-10/02-carrusel-3.jpg",
-        "piezas/2026-10-10/02-carrusel-4.jpg",
-        "piezas/2026-10-10/02-carrusel-5.jpg",
-        "piezas/2026-10-10/02-carrusel-6.jpg",
-        "piezas/2026-10-10/02-carrusel-7.jpg",
-        "piezas/2026-10-10/02-carrusel-8.jpg"
-      ],
-      "caption": "Guarda este checklist para el cierre de mes.\n\n5 pasos en 15 minutos: registrar lo que falte, revisar lo que te deben, revisar lo que debes, mirar tus 3 números y comparar con el mes anterior.\n\nEn Kentra el cierre se hace en 3 minutos porque ya está todo registrado. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #Pymes",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-10-03-historia",
-      "fecha": "2026-10-10T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-10/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "tip",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-11-01-historia",
-      "fecha": "2026-10-11T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-11/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "verticales",
-      "layout": "ui",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-11-02-carrusel",
-      "fecha": "2026-10-11T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-10-11/02-carrusel-1.jpg",
-        "piezas/2026-10-11/02-carrusel-2.jpg",
-        "piezas/2026-10-11/02-carrusel-3.jpg",
-        "piezas/2026-10-11/02-carrusel-4.jpg",
-        "piezas/2026-10-11/02-carrusel-5.jpg",
-        "piezas/2026-10-11/02-carrusel-6.jpg"
-      ],
-      "caption": "Pagarte muy poco te quema. Pagarte demasiado ahoga al negocio.\n\nEn este carrusel: cómo calcular un sueldo sostenible con tu ganancia promedio de los últimos 3 meses y una reserva del 30 %. En el ejemplo: $1.400.000 de promedio → $980.000 de sueldo.\n\nKentraI te hace la cuenta con tus propios números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SueldoEmprendedor #Pymes",
-      "pilar": "ganancia-real",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    },
-    {
-      "id": "2026-10-11-03-historia",
-      "fecha": "2026-10-11T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-11/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ]
-    }
-  ]
+ "zona_horaria": "America/Bogota",
+ "piezas": [
+  {
+   "id": "2026-09-30-01-historia",
+   "fecha": "2026-09-30T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-09-30/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "ganancia-real",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ],
+   "media_id": "18104897410981471",
+   "publicado_ig": true,
+   "fb_post_id": "936622579102975",
+   "publicado_fb": true,
+   "publicado": true,
+   "publicado_en": "2026-09-30T13:22:26.490Z"
+  },
+  {
+   "id": "2026-09-30-02-carrusel",
+   "fecha": "2026-09-30T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-09-30/02-carrusel-1.jpg",
+    "piezas/2026-09-30/02-carrusel-2.jpg",
+    "piezas/2026-09-30/02-carrusel-3.jpg",
+    "piezas/2026-09-30/02-carrusel-4.jpg",
+    "piezas/2026-09-30/02-carrusel-5.jpg",
+    "piezas/2026-09-30/02-carrusel-6.jpg"
+   ],
+   "caption": "La mayoría sabe cuánto vendió. Muy pocos saben cuánto les quedó.\n\nEn este carrusel: los 3 pasos para calcular tu ganancia real, con el ejemplo de una cafetería que vendió $8.400.000 y le quedaron $1.450.000 (17 % de margen). Guárdalo para tu próximo cierre de mes.\n\nSi no quieres hacer la cuenta a mano, Kentra la hace sola. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #GananciaReal",
+   "pilar": "ganancia-real",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-09-30-05-post",
+   "fecha": "2026-09-30T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-09-30/05-post.jpg"
+   ],
+   "caption": "El saldo del banco te da tranquilidad… hasta que llegan las cuentas por pagar.\n\nTu ganancia real es lo que entró menos lo que ya debes, no lo que ves en la app del banco. Antes de gastar, resta lo que todavía no has pagado.\n\nKentra te muestra ese número sin hacer cuentas. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-09-30-03-historia",
+   "fecha": "2026-09-30T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-09-30/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-01-01-historia",
+   "fecha": "2026-10-01T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-01/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "funcionalidades",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-01-04-post",
+   "fecha": "2026-10-01T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-01/04-post.jpg"
+   ],
+   "caption": "Tres números. Nada más.\n\nLo que entró, lo que salió y lo que te quedó. Si los sabes cada mes, sabes si tu negocio va bien o solo está ocupado.\n\nEn Kentra los ves en una sola pantalla. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-01-02-carrusel",
+   "fecha": "2026-10-01T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-01/02-carrusel-1.jpg",
+    "piezas/2026-10-01/02-carrusel-2.jpg",
+    "piezas/2026-10-01/02-carrusel-3.jpg",
+    "piezas/2026-10-01/02-carrusel-4.jpg",
+    "piezas/2026-10-01/02-carrusel-5.jpg",
+    "piezas/2026-10-01/02-carrusel-6.jpg"
+   ],
+   "caption": "4 gastos que se comen tu ganancia sin que lo notes 👀\n\nNo son los grandes. Son los que nadie registra: la comisión de la pasarela, el domicilio que \"absorbes\", la cuota de la tarjeta y el sueldo que no te pagas.\n\nDesliza y revisa cuántos te están pasando a ti.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ControlDeGastos",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-01-05-post",
+   "fecha": "2026-10-01T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-01/05-post.jpg"
+   ],
+   "caption": "Menos tiempo cuadrando, más tiempo vendiendo.\n\nRegistras un ingreso o un gasto en segundos, desde el celular o el computador, y Kentra los organiza por categoría, te avisa cuando algo se pasa y te arma los comprobantes con tu logo.\n\n¿Qué parte de tus cuentas te quita más tiempo? {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "funcionalidades",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-01-03-historia",
+   "fecha": "2026-10-01T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-01/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "funcionalidades",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-02-01-historia",
+   "fecha": "2026-10-02T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-02/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "kentra-vs-excel",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-02-04-post",
+   "fecha": "2026-10-02T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-02/04-post.jpg"
+   ],
+   "caption": "Excel sirve… hasta que tienes que acordarte de las fórmulas, buscar la hoja correcta y cuadrar todo a fin de mes.\n\nCerrar el mes no debería tomarte una tarde entera. Con Kentra ves cuánto ganaste en minutos, sin plantillas.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "kentra-vs-excel",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-02-02-carrusel",
+   "fecha": "2026-10-02T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-02/02-carrusel-1.jpg",
+    "piezas/2026-10-02/02-carrusel-2.jpg",
+    "piezas/2026-10-02/02-carrusel-3.jpg",
+    "piezas/2026-10-02/02-carrusel-4.jpg",
+    "piezas/2026-10-02/02-carrusel-5.jpg",
+    "piezas/2026-10-02/02-carrusel-6.jpg",
+    "piezas/2026-10-02/02-carrusel-7.jpg"
+   ],
+   "caption": "5 errores de dinero muy comunes en negocios pequeños (y cómo corregir cada uno).\n\nDesde mezclar tu plata con la del negocio hasta no tener colchón para un mes flojo. Desliza, revisa cuántos te pasan y guárdalo.\n\nKentra te ayuda a corregirlos sin hojas de cálculo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-02-05-post",
+   "fecha": "2026-10-02T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-02/05-post.jpg"
+   ],
+   "caption": "El error más común del dueño de negocio: pagar lo personal con la plata del negocio.\n\nAsígnate un sueldo fijo, cóbratelo cada mes y todo lo demás déjalo en el negocio. Así sabes de verdad si el negocio gana o si solo te estás pagando a ti.\n\nGuárdalo para tu próximo cierre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-02-03-historia",
+   "fecha": "2026-10-02T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-02/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-03-01-historia",
+   "fecha": "2026-10-03T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-03/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "objeciones",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-03-04-post",
+   "fecha": "2026-10-03T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-03/04-post.jpg"
+   ],
+   "caption": "«Mi negocio es muy pequeño para eso.»\n\nSi vendes cada mes y pagas cosas cada mes, tu negocio ya tiene números que merecen verse. Justo los negocios pequeños son los que menos margen tienen para equivocarse.\n\nHaz el diagnóstico en kentra.pro/quiz: 5 preguntas, 2 minutos. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "objeciones",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-03-02-carrusel",
+   "fecha": "2026-10-03T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-03/02-carrusel-1.jpg",
+    "piezas/2026-10-03/02-carrusel-2.jpg",
+    "piezas/2026-10-03/02-carrusel-3.jpg",
+    "piezas/2026-10-03/02-carrusel-4.jpg",
+    "piezas/2026-10-03/02-carrusel-5.jpg",
+    "piezas/2026-10-03/02-carrusel-6.jpg",
+    "piezas/2026-10-03/02-carrusel-7.jpg"
+   ],
+   "caption": "¿Tu precio cubre todo lo que cuesta producir, o solo los ingredientes?\n\nEn este carrusel: el método en 4 pasos para ponerle precio a lo que vendes, con el ejemplo de una torta. Costo directo $27.500 + fijos $15.000 + ganancia = precio mínimo de $55.250. Guárdalo y haz la cuenta con tu producto.\n\nKentra te muestra cuando un costo sube para que ajustes a tiempo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Emprendimiento",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-03-05-post",
+   "fecha": "2026-10-03T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-03/05-post.jpg"
+   ],
+   "caption": "No necesitas saber de finanzas para saber si tu negocio gana.\n\nNecesitas anotar lo que entra, lo que sale y mirar un número al final del mes. Nada de términos raros ni fórmulas.\n\nKentra lo hace simple desde el primer día. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "objeciones",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-03-03-historia",
+   "fecha": "2026-10-03T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-03/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "objeciones",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-04-01-historia",
+   "fecha": "2026-10-04T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-04/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "verticales",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-04-04-post",
+   "fecha": "2026-10-04T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-04/04-post.jpg"
+   ],
+   "caption": "Un restaurante vendió $9.200.000 y solo le quedaron $1.100.000.\n\n¿Qué pasó? Los insumos subieron un poco cada semana y nadie lo notó a tiempo. Cuando los gastos suben de a poquito, el margen se va sin avisar.\n\nRevisa tus gastos por categoría cada semana. Kentra te avisa cuando una se pasa. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "verticales",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-04-02-carrusel",
+   "fecha": "2026-10-04T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-04/02-carrusel-1.jpg",
+    "piezas/2026-10-04/02-carrusel-2.jpg",
+    "piezas/2026-10-04/02-carrusel-3.jpg",
+    "piezas/2026-10-04/02-carrusel-4.jpg",
+    "piezas/2026-10-04/02-carrusel-5.jpg",
+    "piezas/2026-10-04/02-carrusel-6.jpg",
+    "piezas/2026-10-04/02-carrusel-7.jpg"
+   ],
+   "caption": "Si toda la plata del negocio está en un solo lugar, se va en todo y en nada.\n\nEn este carrusel: los 4 bolsillos para ordenar el dinero de tu negocio (operación, impuestos, tu sueldo y reserva) y en qué orden llenarlos.\n\nKentra te muestra cuánto te quedó cada mes para repartirlo con cabeza. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #OrdenFinanciero #Pymes",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-04-05-post",
+   "fecha": "2026-10-04T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-04/05-post.jpg"
+   ],
+   "caption": "3 números que todo dueño de negocio debería saber cada mes:\n\n1. Cuánto entró de verdad (cobrado, no facturado)\n2. Cuánto salió, por categoría\n3. Cuánto te quedó\n\nSi no los tienes claros, empieza este mes. Guárdalo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-04-03-historia",
+   "fecha": "2026-10-04T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-04/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-05-01-historia",
+   "fecha": "2026-10-05T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-05/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "ganancia-real",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-05-04-post",
+   "fecha": "2026-10-05T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-05/04-post.jpg"
+   ],
+   "caption": "Vender más no siempre es ganar más.\n\nSi para vender más gastaste más en insumos, domicilios o publicidad, puede que te haya quedado lo mismo… o menos. Mide la ganancia, no solo las ventas.\n\nDiagnóstico en kentra.pro/quiz: 2 minutos, resultado al instante. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-05-02-carrusel",
+   "fecha": "2026-10-05T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-05/02-carrusel-1.jpg",
+    "piezas/2026-10-05/02-carrusel-2.jpg",
+    "piezas/2026-10-05/02-carrusel-3.jpg",
+    "piezas/2026-10-05/02-carrusel-4.jpg",
+    "piezas/2026-10-05/02-carrusel-5.jpg",
+    "piezas/2026-10-05/02-carrusel-6.jpg"
+   ],
+   "caption": "Ver $3.200.000 en el banco se siente bien. Hasta que restas lo que ya debes.\n\nEn este carrusel: la diferencia entre flujo de caja y ganancia, con un ejemplo donde el saldo parece bueno pero el mes cierra en −$180.000.\n\nKentra te muestra lo que tienes, lo que debes y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #FlujoDeCaja #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-05-05-post",
+   "fecha": "2026-10-05T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-05/05-post.jpg"
+   ],
+   "caption": "«No tengo tiempo para las cuentas.»\n\nRegistrar un movimiento toma menos que responder un WhatsApp. Diez minutos a la semana y a fin de mes sabes exactamente cuánto ganaste.\n\nEl tiempo que no le dedicas a tus números se paga caro después. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "objeciones",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-05-03-historia",
+   "fecha": "2026-10-05T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-05/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "objeciones",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-06-01-historia",
+   "fecha": "2026-10-06T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-06/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "funcionalidades",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-06-04-post",
+   "fecha": "2026-10-06T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-06/04-post.jpg"
+   ],
+   "caption": "Digitar facturas a mano es el trabajo más aburrido del negocio.\n\nEn Kentra (plan Pro) le subes la factura y se registra sola, con su categoría. Tú solo revisas y guardas.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "funcionalidades",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-06-02-carrusel",
+   "fecha": "2026-10-06T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-06/02-carrusel-1.jpg",
+    "piezas/2026-10-06/02-carrusel-2.jpg",
+    "piezas/2026-10-06/02-carrusel-3.jpg",
+    "piezas/2026-10-06/02-carrusel-4.jpg",
+    "piezas/2026-10-06/02-carrusel-5.jpg",
+    "piezas/2026-10-06/02-carrusel-6.jpg",
+    "piezas/2026-10-06/02-carrusel-7.jpg"
+   ],
+   "caption": "¿Cómo se ve Kentra por dentro? Así.\n\n1. Tu mes completo en una pantalla. 2. Subes el extracto y los movimientos se registran solos (plan Pro). 3. Comprobantes PDF con tu logo. 4. Alertas antes de que algo venza. 5. KentrAI responde con tus propios números.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Productividad",
+   "pilar": "funcionalidades",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-06-05-post",
+   "fecha": "2026-10-06T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-06/05-post.jpg"
+   ],
+   "caption": "Antes de subir precios, revisa esto:\n\n• Cuánto te cuesta de verdad producir o prestar el servicio\n• Qué gastos fijos tienes que cubrir cada mes\n• Cuánto quieres que te quede por venta\n\nSubir precios sin números es adivinar. Guárdalo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-06-03-historia",
+   "fecha": "2026-10-06T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-06/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-07-01-historia",
+   "fecha": "2026-10-07T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-07/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "kentra-vs-excel",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-07-04-post",
+   "fecha": "2026-10-07T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-07/04-post.jpg"
+   ],
+   "caption": "¿Cuántas horas al mes pasas cuadrando Excel?\n\nEse tiempo también es un gasto, solo que nadie lo anota. Si son 5 horas al mes, son 60 horas al año que podrías usar para vender.\n\nCon Kentra el cierre de mes toma minutos. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "kentra-vs-excel",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-07-02-carrusel",
+   "fecha": "2026-10-07T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-07/02-carrusel-1.jpg",
+    "piezas/2026-10-07/02-carrusel-2.jpg",
+    "piezas/2026-10-07/02-carrusel-3.jpg",
+    "piezas/2026-10-07/02-carrusel-4.jpg",
+    "piezas/2026-10-07/02-carrusel-5.jpg",
+    "piezas/2026-10-07/02-carrusel-6.jpg",
+    "piezas/2026-10-07/02-carrusel-7.jpg"
+   ],
+   "caption": "El dinero que te deben no te sirve hasta que llega.\n\nEn este carrusel: 4 hábitos simples para cobrar a tiempo. Fecha de pago clara, comprobante profesional, recordatorio un día antes y registro de quién te debe.\n\nEn Kentra marcas una cuenta como cobrada y queda registrada sola. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Cobranza #Emprendedores",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-07-05-post",
+   "fecha": "2026-10-07T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-07/05-post.jpg"
+   ],
+   "caption": "Los gastos no se disparan de un día para otro: suben de a poco y nadie los vigila.\n\nPonle un presupuesto a cada categoría y Kentra te avisa cuando te estés pasando, antes de que sea tarde.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "funcionalidades",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-07-03-historia",
+   "fecha": "2026-10-07T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-07/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "funcionalidades",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-08-01-historia",
+   "fecha": "2026-10-08T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-08/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-08-04-post",
+   "fecha": "2026-10-08T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-08/04-post.jpg"
+   ],
+   "caption": "4 señales de que ganas menos de lo que crees. La primera: el saldo del banco sube… pero las deudas también.\n\nHoy a las 12 publicamos las 4 en un carrusel. Activa las notificaciones para no perdértelo.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-08-02-carrusel",
+   "fecha": "2026-10-08T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-08/02-carrusel-1.jpg",
+    "piezas/2026-10-08/02-carrusel-2.jpg",
+    "piezas/2026-10-08/02-carrusel-3.jpg",
+    "piezas/2026-10-08/02-carrusel-4.jpg",
+    "piezas/2026-10-08/02-carrusel-5.jpg",
+    "piezas/2026-10-08/02-carrusel-6.jpg"
+   ],
+   "caption": "4 señales de que tu negocio gana menos de lo que crees 👀\n\nNinguna aparece en las ventas. Todas aparecen en la ganancia: el saldo que sube junto con las deudas, la venta de hoy que paga la compra de ayer, el costo por venta que nadie suma y el sueldo que te pagas «con lo que sobra».\n\nDesliza y cuenta cuántas te pasan.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-08-05-post",
+   "fecha": "2026-10-08T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-08/05-post.jpg"
+   ],
+   "caption": "Agenda llena, clientes felices… y aun así no sobra.\n\nPasa mucho en salones y servicios: los insumos, el arriendo y las comisiones se comen lo que entra. Mira cuánto te queda por servicio, no solo cuántos haces.\n\nKentra te lo muestra por categoría. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "verticales",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-08-03-historia",
+   "fecha": "2026-10-08T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-08/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "verticales",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-09-01-historia",
+   "fecha": "2026-10-09T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-09/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "precio-valor",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-09-04-post",
+   "fecha": "2026-10-09T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-09/04-post.jpg"
+   ],
+   "caption": "Sin permanencia. Cancela cuando quieras.\n\nKentra cuesta desde $15/mes, con acceso inmediato después del pago. Si no te sirve, lo cancelas desde tu cuenta en dos clics.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "precio",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-09-02-carrusel",
+   "fecha": "2026-10-09T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-09/02-carrusel-1.jpg",
+    "piezas/2026-10-09/02-carrusel-2.jpg",
+    "piezas/2026-10-09/02-carrusel-3.jpg",
+    "piezas/2026-10-09/02-carrusel-4.jpg",
+    "piezas/2026-10-09/02-carrusel-5.jpg",
+    "piezas/2026-10-09/02-carrusel-6.jpg",
+    "piezas/2026-10-09/02-carrusel-7.jpg",
+    "piezas/2026-10-09/02-carrusel-8.jpg",
+    "piezas/2026-10-09/02-carrusel-9.jpg"
+   ],
+   "caption": "No son los gastos grandes los que se comen la ganancia. Son los pequeños que nadie anota.\n\nEn este carrusel: 6 gastos hormiga del negocio, desde comisiones de pago hasta las compras en efectivo sin recibo. Solo las comisiones de $6.000.000 en ventas ya son $180.000 al mes.\n\nKentra te avisa cuando una categoría se pasa. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #GastosHormiga #Pymes",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-09-05-post",
+   "fecha": "2026-10-09T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-09/05-post.jpg"
+   ],
+   "caption": "Cobra con un comprobante que se vea profesional.\n\nEn Kentra generas el comprobante en PDF con tu logo, lo envías y cuando te pagan lo marcas como cobrado: se registra solo en tus movimientos.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "funcionalidades",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-09-03-historia",
+   "fecha": "2026-10-09T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-09/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "funcionalidades",
+   "layout": "lista",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-10-01-historia",
+   "fecha": "2026-10-10T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-10/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "ganancia-real",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-10-04-post",
+   "fecha": "2026-10-10T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-10/04-post.jpg"
+   ],
+   "caption": "¿Llevas las cuentas en la cabeza o en una libreta?\n\nFunciona… hasta que se te olvida un gasto o no sabes cuánto te deben. Haz el diagnóstico en kentra.pro/quiz: 5 preguntas, 2 minutos, resultado al instante.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "objeciones",
+   "layout": "pregunta",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-10-02-carrusel",
+   "fecha": "2026-10-10T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-10/02-carrusel-1.jpg",
+    "piezas/2026-10-10/02-carrusel-2.jpg",
+    "piezas/2026-10-10/02-carrusel-3.jpg",
+    "piezas/2026-10-10/02-carrusel-4.jpg",
+    "piezas/2026-10-10/02-carrusel-5.jpg",
+    "piezas/2026-10-10/02-carrusel-6.jpg",
+    "piezas/2026-10-10/02-carrusel-7.jpg",
+    "piezas/2026-10-10/02-carrusel-8.jpg"
+   ],
+   "caption": "Guarda este checklist para el cierre de mes.\n\n5 pasos en 15 minutos: registrar lo que falte, revisar lo que te deben, revisar lo que debes, mirar tus 3 números y comparar con el mes anterior.\n\nEn Kentra el cierre se hace en 3 minutos porque ya está todo registrado. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #Pymes",
+   "pilar": "educacion",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-10-05-post",
+   "fecha": "2026-10-10T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-10/05-post.jpg"
+   ],
+   "caption": "Antes de cada gasto, pregúntate:\n\n1. ¿Me ayuda a vender más o a trabajar mejor?\n2. ¿Lo tengo presupuestado este mes?\n3. ¿Puedo esperar una semana?\n\nTres preguntas que cuidan tu margen. Guárdalo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-10-03-historia",
+   "fecha": "2026-10-10T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-10/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "tip",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-11-01-historia",
+   "fecha": "2026-10-11T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-11/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "verticales",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-11-04-post",
+   "fecha": "2026-10-11T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-11/04-post.jpg"
+   ],
+   "caption": "¿Cuánto de lo que cobras es realmente tuyo?\n\nDe cada venta salen insumos, arriendo, servicios, comisiones e impuestos. Lo que queda es tuyo; lo demás solo pasa por tu cuenta.\n\nKentra te muestra ese número cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "ui",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-11-02-carrusel",
+   "fecha": "2026-10-11T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-11/02-carrusel-1.jpg",
+    "piezas/2026-10-11/02-carrusel-2.jpg",
+    "piezas/2026-10-11/02-carrusel-3.jpg",
+    "piezas/2026-10-11/02-carrusel-4.jpg",
+    "piezas/2026-10-11/02-carrusel-5.jpg",
+    "piezas/2026-10-11/02-carrusel-6.jpg"
+   ],
+   "caption": "Pagarte muy poco te quema. Pagarte demasiado ahoga al negocio.\n\nEn este carrusel: cómo calcular un sueldo sostenible con tu ganancia promedio de los últimos 3 meses y una reserva del 30 %. En el ejemplo: $1.400.000 de promedio → $980.000 de sueldo.\n\nKentraI te hace la cuenta con tus propios números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SueldoEmprendedor #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-11-05-post",
+   "fecha": "2026-10-11T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-11/05-post.jpg"
+   ],
+   "caption": "¿Y si no es para ti?\n\nKentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas tranquilo y decides con tus propios números.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+   "pilar": "precio",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  },
+  {
+   "id": "2026-10-11-03-historia",
+   "fecha": "2026-10-11T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-11/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "objeciones",
+   "layout": "cita",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ]
+  }
+ ]
 }
