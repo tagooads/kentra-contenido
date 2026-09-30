@@ -17,15 +17,20 @@
       ]
     },
     {
-      "id": "2026-09-30-02-post",
+      "id": "2026-09-30-02-carrusel",
       "fecha": "2026-09-30T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-09-30/02-post.jpg"
+        "piezas/2026-09-30/02-carrusel-1.jpg",
+        "piezas/2026-09-30/02-carrusel-2.jpg",
+        "piezas/2026-09-30/02-carrusel-3.jpg",
+        "piezas/2026-09-30/02-carrusel-4.jpg",
+        "piezas/2026-09-30/02-carrusel-5.jpg",
+        "piezas/2026-09-30/02-carrusel-6.jpg"
       ],
-      "caption": "Facturaste $12.500.000. ¿Y cuánto te quedó?\n\nEntre proveedores, arriendo, nómina y comisiones se fueron $10.660.000. Te quedaron $1.840.000: ese es el número que importa, y casi nadie lo tiene claro a mitad de mes.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó, en una sola pantalla y sin Excel.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "La mayoría sabe cuánto vendió. Muy pocos saben cuánto les quedó.\n\nEn este carrusel: los 3 pasos para calcular tu ganancia real, con el ejemplo de una cafetería que vendió $8.400.000 y le quedaron $1.450.000 (17 % de margen). Guárdalo para tu próximo cierre de mes.\n\nSi no quieres hacer la cuenta a mano, Kentra la hace sola. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #GananciaReal",
       "pilar": "ganancia-real",
-      "layout": "dato",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -112,15 +117,21 @@
       ]
     },
     {
-      "id": "2026-10-02-02-post",
+      "id": "2026-10-02-02-carrusel",
       "fecha": "2026-10-02T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-02/02-post.jpg"
+        "piezas/2026-10-02/02-carrusel-1.jpg",
+        "piezas/2026-10-02/02-carrusel-2.jpg",
+        "piezas/2026-10-02/02-carrusel-3.jpg",
+        "piezas/2026-10-02/02-carrusel-4.jpg",
+        "piezas/2026-10-02/02-carrusel-5.jpg",
+        "piezas/2026-10-02/02-carrusel-6.jpg",
+        "piezas/2026-10-02/02-carrusel-7.jpg"
       ],
-      "caption": "Excel no está mal. El problema es que depende de que tú lo mantengas al día.\n\nCon Kentra registras cada movimiento en segundos, desde el celular, y el reporte del mes se arma solo: qué entró, qué salió y qué te quedó.\n\nMenos horas cuadrando celdas, más claridad para decidir.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes",
-      "pilar": "kentra-vs-excel",
-      "layout": "versus",
+      "caption": "5 errores de dinero muy comunes en negocios pequeños (y cómo corregir cada uno).\n\nDesde mezclar tu plata con la del negocio hasta no tener colchón para un mes flojo. Desliza, revisa cuántos te pasan y guárdalo.\n\nKentra te ayuda a corregirlos sin hojas de cálculo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -157,15 +168,21 @@
       ]
     },
     {
-      "id": "2026-10-03-02-post",
+      "id": "2026-10-03-02-carrusel",
       "fecha": "2026-10-03T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-03/02-post.jpg"
+        "piezas/2026-10-03/02-carrusel-1.jpg",
+        "piezas/2026-10-03/02-carrusel-2.jpg",
+        "piezas/2026-10-03/02-carrusel-3.jpg",
+        "piezas/2026-10-03/02-carrusel-4.jpg",
+        "piezas/2026-10-03/02-carrusel-5.jpg",
+        "piezas/2026-10-03/02-carrusel-6.jpg",
+        "piezas/2026-10-03/02-carrusel-7.jpg"
       ],
-      "caption": "$15 al mes. Menos que un domicilio a la semana.\n\nCon eso tienes tu dashboard, ingresos y gastos por categoría, comprobantes PDF con tu logo, alertas de deudas y KentrAI ilimitado.\n\nAcceso inmediato, sin permanencia y cancelas cuando quieras desde tu cuenta.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "precio-valor",
-      "layout": "precio",
+      "caption": "¿Tu precio cubre todo lo que cuesta producir, o solo los ingredientes?\n\nEn este carrusel: el método en 4 pasos para ponerle precio a lo que vendes, con el ejemplo de una torta. Costo directo $27.500 + fijos $15.000 + ganancia = precio mínimo de $55.250. Guárdalo y haz la cuenta con tu producto.\n\nKentra te muestra cuando un costo sube para que ajustes a tiempo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Emprendimiento",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -202,15 +219,21 @@
       ]
     },
     {
-      "id": "2026-10-04-02-post",
+      "id": "2026-10-04-02-carrusel",
       "fecha": "2026-10-04T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-04/02-post.jpg"
+        "piezas/2026-10-04/02-carrusel-1.jpg",
+        "piezas/2026-10-04/02-carrusel-2.jpg",
+        "piezas/2026-10-04/02-carrusel-3.jpg",
+        "piezas/2026-10-04/02-carrusel-4.jpg",
+        "piezas/2026-10-04/02-carrusel-5.jpg",
+        "piezas/2026-10-04/02-carrusel-6.jpg",
+        "piezas/2026-10-04/02-carrusel-7.jpg"
       ],
-      "caption": "Vender mucho y no saber cuánto te queda es la forma más común de trabajar a ciegas.\n\nKentra pone tu ganancia real en una sola pantalla: lo que entró, lo que salió y lo que te quedó este mes. Sin fórmulas, sin Excel, desde el celular.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Freelancer",
-      "pilar": "ganancia-real",
-      "layout": "mascota",
+      "caption": "Si toda la plata del negocio está en un solo lugar, se va en todo y en nada.\n\nEn este carrusel: los 4 bolsillos para ordenar el dinero de tu negocio (operación, impuestos, tu sueldo y reserva) y en qué orden llenarlos.\n\nKentra te muestra cuánto te quedó cada mes para repartirlo con cabeza. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #OrdenFinanciero #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -247,15 +270,20 @@
       ]
     },
     {
-      "id": "2026-10-05-02-post",
+      "id": "2026-10-05-02-carrusel",
       "fecha": "2026-10-05T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-05/02-post.jpg"
+        "piezas/2026-10-05/02-carrusel-1.jpg",
+        "piezas/2026-10-05/02-carrusel-2.jpg",
+        "piezas/2026-10-05/02-carrusel-3.jpg",
+        "piezas/2026-10-05/02-carrusel-4.jpg",
+        "piezas/2026-10-05/02-carrusel-5.jpg",
+        "piezas/2026-10-05/02-carrusel-6.jpg"
       ],
-      "caption": "Vender más no siempre es ganar más.\n\nUna tienda online que factura $6.800.000 y gasta $5.950.000 entre mercancía, envíos, pauta y comisiones se queda con $850.000. Si las ventas suben pero los gastos suben igual, el número final no se mueve.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó, sin Excel.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
+      "caption": "Ver $3.200.000 en el banco se siente bien. Hasta que restas lo que ya debes.\n\nEn este carrusel: la diferencia entre flujo de caja y ganancia, con un ejemplo donde el saldo parece bueno pero el mes cierra en −$180.000.\n\nKentra te muestra lo que tienes, lo que debes y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #FlujoDeCaja #Pymes",
       "pilar": "ganancia-real",
-      "layout": "dato",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -292,15 +320,21 @@
       ]
     },
     {
-      "id": "2026-10-06-02-post",
+      "id": "2026-10-06-02-carrusel",
       "fecha": "2026-10-06T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-06/02-post.jpg"
+        "piezas/2026-10-06/02-carrusel-1.jpg",
+        "piezas/2026-10-06/02-carrusel-2.jpg",
+        "piezas/2026-10-06/02-carrusel-3.jpg",
+        "piezas/2026-10-06/02-carrusel-4.jpg",
+        "piezas/2026-10-06/02-carrusel-5.jpg",
+        "piezas/2026-10-06/02-carrusel-6.jpg",
+        "piezas/2026-10-06/02-carrusel-7.jpg"
       ],
-      "caption": "Digitar facturas una por una es trabajo que ya no tienes que hacer.\n\nEn el plan Pro subes la factura o el extracto del banco y Kentra registra los movimientos solos, cada uno en su categoría según las reglas que definas. Menos digitación, más claridad sobre lo que realmente gastas.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "¿Cómo se ve Kentra por dentro? Así.\n\n1. Tu mes completo en una pantalla. 2. Subes el extracto y los movimientos se registran solos (plan Pro). 3. Comprobantes PDF con tu logo. 4. Alertas antes de que algo venza. 5. KentrAI responde con tus propios números.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Productividad",
       "pilar": "funcionalidades",
-      "layout": "lista",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -337,15 +371,21 @@
       ]
     },
     {
-      "id": "2026-10-07-02-post",
+      "id": "2026-10-07-02-carrusel",
       "fecha": "2026-10-07T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-07/02-post.jpg"
+        "piezas/2026-10-07/02-carrusel-1.jpg",
+        "piezas/2026-10-07/02-carrusel-2.jpg",
+        "piezas/2026-10-07/02-carrusel-3.jpg",
+        "piezas/2026-10-07/02-carrusel-4.jpg",
+        "piezas/2026-10-07/02-carrusel-5.jpg",
+        "piezas/2026-10-07/02-carrusel-6.jpg",
+        "piezas/2026-10-07/02-carrusel-7.jpg"
       ],
-      "caption": "Excel calcula lo que le pides. Kentra te avisa lo que no viste.\n\nUna fórmula rota, una celda que nadie actualizó, un gasto que se disparó sin que te dieras cuenta: eso no aparece en la hoja hasta que ya es tarde.\n\nCon Kentra registras desde el celular, los cálculos son automáticos y te llega una alerta cuando una categoría se pasa.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes",
-      "pilar": "kentra-vs-excel",
-      "layout": "versus",
+      "caption": "El dinero que te deben no te sirve hasta que llega.\n\nEn este carrusel: 4 hábitos simples para cobrar a tiempo. Fecha de pago clara, comprobante profesional, recordatorio un día antes y registro de quién te debe.\n\nEn Kentra marcas una cuenta como cobrada y queda registrada sola. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Cobranza #Emprendedores",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -432,15 +472,23 @@
       ]
     },
     {
-      "id": "2026-10-09-02-post",
+      "id": "2026-10-09-02-carrusel",
       "fecha": "2026-10-09T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-09/02-post.jpg"
+        "piezas/2026-10-09/02-carrusel-1.jpg",
+        "piezas/2026-10-09/02-carrusel-2.jpg",
+        "piezas/2026-10-09/02-carrusel-3.jpg",
+        "piezas/2026-10-09/02-carrusel-4.jpg",
+        "piezas/2026-10-09/02-carrusel-5.jpg",
+        "piezas/2026-10-09/02-carrusel-6.jpg",
+        "piezas/2026-10-09/02-carrusel-7.jpg",
+        "piezas/2026-10-09/02-carrusel-8.jpg",
+        "piezas/2026-10-09/02-carrusel-9.jpg"
       ],
-      "caption": "$20 al mes: el plan que más eligen quienes ya usan Kentra.\n\nTodo lo del plan Básico (dashboard, ingresos y gastos por categoría, comprobantes PDF con tu logo, KentrAI ilimitado) más importación de extractos y facturas con IA, reglas de categorización automática, créditos y cuotas, inventario y hasta 2 negocios con 1 usuario extra.\n\nAcceso inmediato, sin permanencia. Y si prefieres empezar más ligero, el Básico está desde $15/mes.\n\n{CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "precio-valor",
-      "layout": "precio",
+      "caption": "No son los gastos grandes los que se comen la ganancia. Son los pequeños que nadie anota.\n\nEn este carrusel: 6 gastos hormiga del negocio, desde comisiones de pago hasta las compras en efectivo sin recibo. Solo las comisiones de $6.000.000 en ventas ya son $180.000 al mes.\n\nKentra te avisa cuando una categoría se pasa. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #GastosHormiga #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -477,15 +525,22 @@
       ]
     },
     {
-      "id": "2026-10-10-02-post",
+      "id": "2026-10-10-02-carrusel",
       "fecha": "2026-10-10T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-10/02-post.jpg"
+        "piezas/2026-10-10/02-carrusel-1.jpg",
+        "piezas/2026-10-10/02-carrusel-2.jpg",
+        "piezas/2026-10-10/02-carrusel-3.jpg",
+        "piezas/2026-10-10/02-carrusel-4.jpg",
+        "piezas/2026-10-10/02-carrusel-5.jpg",
+        "piezas/2026-10-10/02-carrusel-6.jpg",
+        "piezas/2026-10-10/02-carrusel-7.jpg",
+        "piezas/2026-10-10/02-carrusel-8.jpg"
       ],
-      "caption": "«Yo lo llevo todo en la cabeza.» Hasta que alguien pregunta cuánto te quedó el mes pasado.\n\nLa memoria es buena para vender, no para sumar 200 movimientos al mes. Kentra los guarda por ti, los ordena por categoría y te dice cuánto te quedó, sin que tengas que recordar nada.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
-      "pilar": "objeciones",
-      "layout": "mascota",
+      "caption": "Guarda este checklist para el cierre de mes.\n\n5 pasos en 15 minutos: registrar lo que falte, revisar lo que te deben, revisar lo que debes, mirar tus 3 números y comparar con el mes anterior.\n\nEn Kentra el cierre se hace en 3 minutos porque ya está todo registrado. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
@@ -522,15 +577,20 @@
       ]
     },
     {
-      "id": "2026-10-11-02-post",
+      "id": "2026-10-11-02-carrusel",
       "fecha": "2026-10-11T12:00:00-05:00",
-      "tipo": "post",
+      "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-10-11/02-post.jpg"
+        "piezas/2026-10-11/02-carrusel-1.jpg",
+        "piezas/2026-10-11/02-carrusel-2.jpg",
+        "piezas/2026-10-11/02-carrusel-3.jpg",
+        "piezas/2026-10-11/02-carrusel-4.jpg",
+        "piezas/2026-10-11/02-carrusel-5.jpg",
+        "piezas/2026-10-11/02-carrusel-6.jpg"
       ],
-      "caption": "Vender es la mitad del mes. La otra mitad es saber cuánto te quedó.\n\nMuchos negocios cierran el mes con la sensación de que fue bueno, sin un número que lo confirme. Kentra te lo da: lo que entró, lo que salió y lo que te quedó, en una sola pantalla.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "Pagarte muy poco te quema. Pagarte demasiado ahoga al negocio.\n\nEn este carrusel: cómo calcular un sueldo sostenible con tu ganancia promedio de los últimos 3 meses y una reserva del 30 %. En el ejemplo: $1.400.000 de promedio → $980.000 de sueldo.\n\nKentraI te hace la cuenta con tus propios números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SueldoEmprendedor #Pymes",
       "pilar": "ganancia-real",
-      "layout": "cita",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"

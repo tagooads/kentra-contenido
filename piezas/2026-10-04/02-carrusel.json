@@ -1,0 +1,66 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verde",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Orden con tu dinero",
+   "titulo": "Divide la plata de tu negocio en 4 bolsillos",
+   "sub": "Una forma simple de que no se te vaya en todo y nada.",
+   "visual": "mascota"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Operación",
+   "texto": "Lo que necesita el negocio para funcionar el próximo mes: insumos, arriendo, nómina.",
+   "cierre": "Es lo primero que separas."
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Impuestos",
+   "texto": "Lo que tendrás que pagar después. Si no lo apartas, te toma por sorpresa.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Tu sueldo",
+   "texto": "Un monto fijo para ti. Así sabes si el negocio de verdad te sostiene.",
+   "tema": "navy"
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Reserva",
+   "texto": "Un colchón para meses flojos, arreglos o una oportunidad.",
+   "cierre": "Empieza con poco, pero cada mes."
+  },
+  {
+   "layout": "valor",
+   "num": "✓",
+   "titulo": "¿Cuánto a cada bolsillo?",
+   "texto": "Depende de tu negocio. La regla: primero operación e impuestos, después tu sueldo, y lo que sobre a la reserva.",
+   "tema": "navy"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Kentra te dice cuánto sobra",
+   "items": [
+    "Ganancia real del mes",
+    "Gastos por categoría",
+    "Cuánto puedes gastar en cada una"
+   ],
+   "tema": "navy",
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

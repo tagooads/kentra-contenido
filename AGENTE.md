@@ -33,11 +33,11 @@ Rota los pilares: nunca dos posts seguidos del mismo pilar; un gancho no se repi
 | Hora (Bogotá) | Pieza | Formato | Destino |
 |---|---|---|---|
 | 08:00 | Historia 1 — gancho o dato (a menudo la versión historia del post del día) | historia 1080×1920 | Instagram + Facebook |
-| 12:00 | Post del día — **carrusel 3 veces por semana (martes, jueves y sábado)**, post de una imagen los otros días | post 1080×1350 | Instagram + Facebook |
+| 12:00 | **Carrusel del día, todos los días** (ver §9) | post 1080×1350 | Instagram + Facebook |
 | 19:00 | Historia 2 — tip, pregunta u objeción con CTA | historia 1080×1920 | Instagram + Facebook |
 
-- Las historias no llevan caption: el CTA va dentro de la imagen como botón (`cta` con `boton:true`) y dice `kentra.pro` o `kentra.pro/quiz`. Toda historia lleva CTA. El render lo cambia solo por la ruta corta con UTM de historias (`kentra.pro/h`, `kentra.pro/q`) cuando `config.json` tiene `rutas_cortas_activas: true`. La API de Instagram no permite stickers de enlace en historias, por eso el link va escrito en la imagen.
-- Un post lleva caption (ver §5). Un carrusel: 4 a 6 slides, portada con gancho, cierre con CTA.
+- Las historias no llevan caption: el CTA va dentro de la imagen como botón (`cta` con `boton:true`) y dice `kentra.pro` o `kentra.pro/quiz`. Toda historia lleva CTA. **Nunca escribas rutas cortas (`/h`, `/q`) ni parámetros en las imágenes**: se ven mal. La API de Instagram no permite stickers de enlace en historias, por eso el link va escrito en la imagen como `kentra.pro` o `kentra.pro/quiz` (`config.json` → `rutas_cortas_activas: false`, no lo cambies).
+- Un carrusel lleva caption (ver §5): 6 a 9 slides, portada con gancho, cierre con CTA.
 - Temas de fondo: `navy` ~50 %, `verde` ~25 %, `claro`/`blanco` ~25 %. Mascota en no más de la mitad de las piezas para que no canse; el personaje Excel solo en `versus`.
 
 ## 4. Diseñar una pieza (JSON → render)
@@ -60,6 +60,9 @@ Layouts disponibles (ver `plantillas/ejemplos/*.json`; copia el más parecido y 
 | `precio` | Un plan con precio grande | `titulo`, `plan`, `precio`, `periodo`, `nota`, `items?`, `mascota?` |
 | `ui` | Pantalla de la app con ingresos/gastos/ganancia | `titulo`, `sub`, `app{negocio,mes,ingresos,gastos,ganancia,etiqueta,barras[7],rojo[]}`, `cierre` |
 | `cita` | Frase fuerte con barra de color | `titulo`, `sub`, `mascota?` |
+| `portada` | Portada de carrusel: titular enorme + visual + píldora "Desliza →" | `kicker`, `titulo`, `sub`, `visual: app\|excel\|mascota\|mascota-telefono`, `pantalla` (si visual=app) |
+| `valor` | Slide de valor numerada con ejemplo en cifras | `num`, `titulo`, `texto`, `ejemplo{titulo?, filas[[label, valor, color?]]}`, `bullets?`, `cierre?` |
+| `app` | **Mockup de la herramienta**: celular con una pantalla de Kentra (datos demo) + globo verde | `kicker`, `titulo`, `sub?`, `pantalla: dashboard\|categorias\|comprobante\|alertas\|kentrai\|importar\|negocios`, `app{}` (datos demo), `nota` |
 | `carrusel` | Varias slides; cada una usa uno de los layouts anteriores | `slides[{layout,...}]` |
 
 Campos comunes: `formato` (post | historia), `tema` (navy | verde | claro | blanco), `kicker` (etiqueta corta arriba), `cta` (`{"texto":"kentra.pro","boton":false}` o botón verde `boton:true`), `mascota` (`app` = con teléfono mostrando la app, `telefono` = con celular, `none`), `mascotaPos` (CSS opcional para moverla), `tam` (`grande` | `media` para el título). Dentro de los textos: `**negrita**` y `__verde__`.
@@ -92,10 +95,10 @@ Estructura: **gancho** (1 línea que complementa lo que se ve en la imagen, no l
 
 ```json
 {
-  "id": "2026-10-06-02-post",
+  "id": "2026-10-06-02-carrusel",
   "fecha": "2026-10-06T12:00:00-05:00",
   "tipo": "post | carrusel | historia",
-  "imagenes": ["piezas/2026-10-06/02-post.jpg"],
+  "imagenes": ["piezas/2026-10-06/02-carrusel-1.jpg", "..."],
   "caption": "Texto del post (vacío en historias)",
   "pilar": "ganancia-real",
   "layout": "dato",
@@ -107,7 +110,7 @@ El workflow `Publicar en Instagram y Facebook` corre cada hora (minuto 7): publi
 
 ## 8. Lista de control antes de dar por terminada la semana
 
-- [ ] 21 piezas (7 posts, 14 historias), un carrusel, mezcla de pilares respetada.
+- [ ] 21 piezas (7 carruseles, 14 historias), ~70 % valor / 30 % Kentra, al menos 1 mockup `app` por carrusel sobre Kentra y 3 historias con `app` a la semana.
 - [ ] Ninguna palabra prohibida; ninguna cifra o función fuera de `producto.md`.
 - [ ] Todas las imágenes revisadas a ojo; ningún DESBORDE.
 - [ ] `calendario.json` válido, fechas futuras, rutas de imagen existentes, captions con hashtags.
@@ -116,6 +119,9 @@ El workflow `Publicar en Instagram y Facebook` corre cada hora (minuto 7): publi
 
 ## 9. Carruseles
 
-- **3 carruseles por semana** (martes, jueves y sábado a las 12:00). Son el formato que más se guarda y comparte. Estructura: portada con gancho (`mascota` o `pregunta`) → 3–5 slides de contenido (`cita`, `dato`, `lista`, `ui`) → cierre con CTA (`lista` o `precio`). 4 a 7 slides en total. Temas: "X errores / señales / gastos", paso a paso de una función, antes y después, comparación de planes.
-- Layout `captura` (pantallazo real de la app dentro de un celular): solo con archivos de `marca/capturas/`, que deben venir de una **cuenta demo con datos inventados**. Nunca uses capturas con nombres o cifras de negocios reales. Si la carpeta no existe, usa `ui`.
+- **1 carrusel todos los días a las 12:00.** Es el formato que más se guarda y comparte.
+- **Valor primero (~70 / 30):** el carrusel enseña algo útil de finanzas del negocio aunque la persona nunca use Kentra (tips, errores, cómo calcular, hábitos de cobro, precios, sueldo, gastos hormiga, cierre de mes). Kentra aparece solo al final como la forma fácil de hacerlo. ~2 de cada 7 pueden ser 100 % Kentra (tour de funciones, comparación de planes).
+- Estructura: `portada` (gancho + visual) → 4–7 slides de contenido (`valor` con ejemplos en cifras reales y coherentes, `cita`, `dato`) → 1 slide `app` "Así lo ves en Kentra" con la pantalla que corresponde al tema → cierre `mascota` (con `mascota: "app"`, `tam: "media"`, 3 `items` y botón `kentra.pro`). 6 a 9 slides en total.
+- **Usa mockups de la herramienta** (`app`, o `portada` con `visual: "app"`), no solo la mascota. Solo datos demo inventados (Café La Esquina, Tienda Nube Verde, Estudio Luna…). Nunca capturas ni cifras de negocios reales.
+- Temas probados: "X errores / señales / gastos", paso a paso con ejemplo, flujo vs ganancia, cómo poner precio, bolsillos, cierre de mes, sueldo del dueño, hábitos de cobro.
 - Al terminar la semana ejecuta `node scripts/proximas.mjs` para actualizar `PROXIMAS.md`.

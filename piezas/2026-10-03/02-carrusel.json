@@ -1,0 +1,120 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Precios",
+   "titulo": "Cómo ponerle precio a lo que vendes sin perder dinero",
+   "sub": "El método en 4 pasos, con un ejemplo real.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Calcula el costo directo",
+   "texto": "Lo que se va en cada unidad.",
+   "ejemplo": {
+    "titulo": "Ejemplo: 1 torta",
+    "filas": [
+     [
+      "Ingredientes",
+      "$18.000"
+     ],
+     [
+      "Caja y cinta",
+      "$3.500"
+     ],
+     [
+      "Domicilio",
+      "$6.000"
+     ],
+     [
+      "**Costo directo**",
+      "$27.500",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Reparte los gastos fijos",
+   "texto": "Arriendo, servicios e internet, divididos entre lo que vendes al mes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Gastos fijos al mes",
+      "$1.200.000"
+     ],
+     [
+      "Tortas al mes",
+      "80"
+     ],
+     [
+      "**Fijo por torta**",
+      "$15.000",
+      "rojo"
+     ]
+    ]
+   },
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Suma tu ganancia",
+   "texto": "Decide cuánto quieres ganar por unidad. Aquí, 30 % sobre el costo total.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Costo total",
+      "$42.500"
+     ],
+     [
+      "Ganancia (30 %)",
+      "$12.750"
+     ],
+     [
+      "**Precio mínimo**",
+      "$55.250",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Revísalo cada mes",
+   "texto": "Si un insumo sube, tu precio viejo ya no te deja lo mismo.",
+   "cierre": "Un precio de hace 6 meses puede estar costándote dinero.",
+   "tema": "verde"
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Mira qué gasto se disparó",
+   "pantalla": "categorias",
+   "nota": "Te avisa cuando una categoría se pasa del presupuesto"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Precios con números reales",
+   "items": [
+    "Costos por categoría",
+    "Alertas cuando algo sube",
+    "Ganancia real de cada mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

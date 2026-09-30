@@ -8,6 +8,7 @@ import { readFile, readdir, stat, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import os from "node:os";
+import { pantalla } from "./app-mockups.mjs";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { createRequire } from "node:module";
 
@@ -239,6 +240,58 @@ L.captura = (p, t, hist) => `
   ${p.nota ? `<div style="align-self:flex-end;margin-top:-150px;position:relative;max-width:420px;background:#47C08B;color:#0F1E38;font-weight:800;font-size:${hist ? 38 : 34}px;line-height:1.2;padding:24px 30px;border-radius:28px;box-shadow:0 20px 40px rgba(0,0,0,.3)">${rich(p.nota)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
 
+// ---------- celular con pantalla de Kentra (mockup de la herramienta, datos demo) ----------
+function telefono(p, ancho) {
+  const escala = (ancho - 28) / 390;
+  return `<div style="width:${ancho}px;border-radius:${Math.round(ancho * 0.12)}px;background:#0B1220;padding:14px;box-shadow:0 40px 90px rgba(0,0,0,.35)">
+    <div style="width:${ancho - 28}px;height:${Math.round((ancho - 28) * 2.05)}px;border-radius:${Math.round(ancho * 0.095)}px;overflow:hidden;background:#F5F7FA;position:relative">
+      <div style="position:absolute;top:0;left:0;transform-origin:0 0;transform:scale(${escala})">${pantalla(p.pantalla, p.app || {})}</div>
+    </div></div>`;
+}
+
+L.app = (p, t, hist) => `
+  ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
+  <h1 class="${p.tam || "media"}">${rich(p.titulo)}</h1>
+  ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
+  <div style="flex:1;min-height:0;position:relative;overflow:hidden;margin:0 -76px;-webkit-mask:linear-gradient(#000 80%,transparent);mask:linear-gradient(#000 80%,transparent)">
+    <div style="position:absolute;left:${p.nota ? "38%" : "50%"};top:8px;transform:translateX(-50%)">${telefono(p, hist ? 640 : 520)}</div>
+    ${p.nota ? `<div style="position:absolute;right:76px;top:${hist ? 260 : 170}px;width:${hist ? 360 : 330}px;background:#47C08B;color:#0F1E38;font-weight:800;font-size:${hist ? 38 : 34}px;line-height:1.2;padding:26px 30px;border-radius:30px;box-shadow:0 20px 40px rgba(0,0,0,.3)">${rich(p.nota)}</div>` : ""}
+  </div>
+  ${pieFooter(t, p.cta, hist)}`;
+
+// ---------- slide de valor (tip numerado con ejemplo) ----------
+L.valor = (p, t, hist) => `
+  <div style="flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center;gap:34px">
+  <div style="display:flex;align-items:center;gap:22px">
+    ${p.num ? `<div style="flex:none;width:96px;height:96px;border-radius:28px;background:${p.tema === "verde" ? "#1E2D4F" : t.acc};color:${p.tema === "verde" ? "#fff" : (p.tema === "claro" || p.tema === "blanco" ? "#fff" : "#0F1E38")};display:flex;align-items:center;justify-content:center;font-weight:800;font-size:52px">${esc(p.num)}</div>` : ""}
+    ${p.kicker ? `<div class="kicker" style="margin:0">${esc(p.kicker)}</div>` : ""}
+  </div>
+  <h1 class="${p.tam || "media"}">${rich(p.titulo)}</h1>
+  ${p.texto ? `<div class="sub" style="color:inherit;opacity:.88">${rich(p.texto)}</div>` : ""}
+  ${p.ejemplo ? `<div class="caja" style="display:flex;flex-direction:column;gap:16px;margin-top:6px">
+      ${p.ejemplo.titulo ? `<div style="font-weight:800;font-size:28px;letter-spacing:.1em;text-transform:uppercase;color:${t.acc}">${esc(p.ejemplo.titulo)}</div>` : ""}
+      ${(p.ejemplo.filas || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-size:${hist ? 40 : 36}px"><span style="font-weight:600">${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#FF6B6B" : c === "verde" ? "#47C08B" : "inherit"}">${esc(v)}</b></div>`).join("")}
+    </div>` : ""}
+  ${p.bullets?.length ? `<div class="lista" style="margin-top:6px">${p.bullets.map((b) => `<div class="item"><span class="ic">✓</span><span>${rich(b)}</span></div>`).join("")}</div>` : ""}
+  ${p.cierre ? `<div class="sub" style="font-weight:800;color:inherit">${rich(p.cierre)}</div>` : ""}
+  </div>
+  ${pieFooter(t, p.cta, hist)}`;
+
+// ---------- portada de carrusel ----------
+L.portada = (p, t, hist) => {
+  const visual = p.visual || "none";
+  const conVisual = visual !== "none";
+  const img = visual === "excel" ? MARCA("excel.png") : visual === "mascota" ? MARCA("mascota-app.png") : visual === "mascota-telefono" ? MARCA("mascota-telefono.png") : null;
+  return `
+  ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
+  <h1 class="grande fit" style="max-width:${conVisual ? 600 : 930}px;max-height:${hist ? 560 : 560}px">${rich(p.titulo)}</h1>
+  ${p.sub ? `<div class="sub" style="max-width:${conVisual ? 540 : 860}px">${rich(p.sub)}</div>` : ""}
+  <div style="margin-top:8px"><span class="pill">Desliza →</span></div>
+  ${img ? `<img src="${img}" style="position:absolute;right:30px;bottom:${hist ? 420 : 170}px;height:${hist ? 760 : 640}px;${visual === "excel" ? "" : "filter:drop-shadow(0 30px 40px rgba(0,0,0,.28))"}">` : ""}
+  ${visual === "app" ? `<div style="position:absolute;right:-40px;top:${hist ? 820 : 470}px;transform:rotate(-6deg);height:${hist ? 700 : 690}px;overflow:hidden;-webkit-mask:linear-gradient(#000 75%,transparent);mask:linear-gradient(#000 75%,transparent)">${telefono(p, hist ? 520 : 420)}</div>` : ""}
+  ${pieFooter(t, p.cta, hist)}`;
+};
+
 L.cita = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <div style="flex:1;display:flex;flex-direction:column;justify-content:${hist && conMascota(p) ? "flex-start" : "center"};gap:34px">
@@ -347,7 +400,10 @@ async function main() {
     const slides = spec.layout === "carrusel" ? spec.slides : [spec];
     for (let i = 0; i < slides.length; i++) {
       const s = { ...spec, ...slides[i], layout: slides[i].layout || spec.slideLayout || "mascota" };
-      if (spec.layout === "carrusel") { delete s.slides; s.pagina = s.pagina ?? `${i + 1}/${slides.length}`; }
+      if (spec.layout === "carrusel") {
+        delete s.slides; s.pagina = s.pagina ?? `${i + 1}/${slides.length}`;
+        if (!slides[i].cta) s.cta = i < slides.length - 1 ? { texto: "Desliza →", boton: false } : (spec.cta || { texto: "kentra.pro", boton: true });
+      }
       const salida = spec.layout === "carrusel" ? f.replace(/\.json$/, `-${i + 1}.jpg`) : f.replace(/\.json$/, ".jpg");
       const r = await renderUno(page, s, formato, salida);
       const aviso = r.overflowY || r.fuera ? ` ⚠️ DESBORDE (contenido ${r.alto}px > caja ${r.caja}px, ${r.fuera} bloques fuera)` : "";

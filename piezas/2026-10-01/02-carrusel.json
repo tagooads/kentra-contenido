@@ -56,7 +56,7 @@
    }
   },
   {
-   "layout": "lista",
+   "layout": "mascota",
    "kicker": "Cierre",
    "titulo": "Kentra los ve por ti",
    "items": [
@@ -67,7 +67,9 @@
    "cta": {
     "texto": "Desde $15/mes",
     "boton": true
-   }
+   },
+   "mascota": "app",
+   "tam": "media"
   }
  ]
 }

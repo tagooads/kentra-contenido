@@ -1,0 +1,66 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Tour por Kentra",
+   "titulo": "5 cosas que haces en Kentra en 5 minutos",
+   "sub": "Mira la app por dentro.",
+   "visual": "app",
+   "pantalla": "dashboard"
+  },
+  {
+   "layout": "app",
+   "kicker": "Dashboard",
+   "titulo": "1. Ves tu mes completo",
+   "pantalla": "dashboard",
+   "nota": "Saldo neto, margen, ingresos y gastos"
+  },
+  {
+   "layout": "app",
+   "kicker": "Importación con IA · Pro",
+   "titulo": "2. Subes el extracto y se registra solo",
+   "pantalla": "importar",
+   "nota": "46 movimientos categorizados con IA"
+  },
+  {
+   "layout": "app",
+   "kicker": "Comprobantes",
+   "titulo": "3. Envías comprobantes con tu logo",
+   "pantalla": "comprobante",
+   "nota": "PDF listo para WhatsApp"
+  },
+  {
+   "layout": "app",
+   "kicker": "Alertas",
+   "titulo": "4. Te avisa antes de que algo venza",
+   "pantalla": "alertas",
+   "nota": "Deudas, cuotas y presupuestos"
+  },
+  {
+   "layout": "app",
+   "kicker": "KentrAI · ilimitado",
+   "titulo": "5. Le preguntas a KentrAI",
+   "pantalla": "kentrai",
+   "nota": "Respuestas con tus propios números"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Todo esto desde $15/mes",
+   "items": [
+    "Acceso inmediato",
+    "Sin permanencia",
+    "Celular y computador"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

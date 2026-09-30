@@ -1,0 +1,73 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cierre de mes",
+   "titulo": "Cierra tu mes en 15 minutos",
+   "sub": "El checklist para saber cómo te fue.",
+   "visual": "app",
+   "pantalla": "dashboard"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Registra lo que falte",
+   "texto": "Ventas y gastos de los últimos días. Hasta lo pequeño."
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Revisa lo que te deben",
+   "texto": "¿Quién no ha pagado? Anótalo con fecha.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Revisa lo que debes",
+   "texto": "Proveedores, cuotas y arriendo del próximo mes."
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Mira tus 3 números",
+   "texto": "Lo que entró, lo que salió y lo que te quedó.",
+   "tema": "verde"
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "titulo": "Compara con el mes anterior",
+   "texto": "¿Subió la ganancia o solo las ventas? ¿Qué gasto creció?"
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "En Kentra son 3 minutos",
+   "pantalla": "dashboard",
+   "nota": "Comparación con el mes anterior incluida",
+   "app": {
+    "vsMes": "12 % vs. mes anterior"
+   }
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Tu cierre de mes, sin Excel",
+   "items": [
+    "Todo registrado en un lugar",
+    "Deudas y cobros a la vista",
+    "Ganancia y comparación automáticas"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

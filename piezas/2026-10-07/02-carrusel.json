@@ -1,0 +1,63 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cobranza",
+   "titulo": "4 hábitos para que te paguen a tiempo",
+   "sub": "Menos fiado, menos “te pago la otra semana”.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Fecha de pago desde el día uno",
+   "texto": "Acuerda el día exacto antes de entregar, no después."
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Comprobante de todo",
+   "texto": "Un comprobante claro, con tu logo, hace que el cobro se vea profesional y se pague antes.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Recuerda un día antes",
+   "texto": "Un mensaje amable antes del vencimiento evita la mitad de los retrasos."
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Registra quién te debe",
+   "texto": "Si no está anotado, se olvida. Y lo que se olvida no se cobra.",
+   "tema": "verde"
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Comprobante listo en segundos",
+   "pantalla": "comprobante",
+   "nota": "Con tu logo, en PDF o por WhatsApp"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Kentra lleva tus cobros",
+   "items": [
+    "Cuentas por cobrar con fecha",
+    "Comprobantes PDF con tu logo",
+    "Se registra solo al marcar como cobrado"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

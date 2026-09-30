@@ -1,0 +1,67 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Errores de dinero",
+   "titulo": "5 errores de dinero que frenan a los negocios pequeños",
+   "sub": "¿Cuántos estás cometiendo?",
+   "visual": "excel"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Mezclar tu plata con la del negocio",
+   "texto": "Si todo sale de la misma cuenta, nunca sabrás si el negocio da o no da.",
+   "cierre": "Solución: una cuenta solo para el negocio."
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "No pagarte un sueldo",
+   "texto": "Si tu trabajo no cuesta, tu ganancia está inflada y te engañas.",
+   "cierre": "Solución: un sueldo fijo, aunque sea pequeño.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Anotar solo los gastos grandes",
+   "texto": "Los pequeños (domicilios, comisiones, papelería) suman más de lo que crees.",
+   "cierre": "Solución: registra todo, hasta lo de $5.000."
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Confundir ventas con ganancia",
+   "texto": "Vender más con gastos que crecen igual no te deja más.",
+   "cierre": "Solución: mira el margen, no solo las ventas.",
+   "tema": "verde"
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "titulo": "No tener colchón",
+   "texto": "Un mes flojo sin reserva se vuelve una deuda.",
+   "cierre": "Solución: aparta un % fijo de cada venta."
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Kentra te ayuda con los 5",
+   "items": [
+    "Negocio separado de lo personal",
+    "Cada gasto en su categoría",
+    "Ganancia y margen del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

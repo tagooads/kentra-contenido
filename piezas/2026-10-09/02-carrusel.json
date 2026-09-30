@@ -1,0 +1,89 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Gastos hormiga",
+   "titulo": "6 gastos hormiga que se comen tu negocio",
+   "sub": "Pequeños, repetidos y casi nunca anotados.",
+   "visual": "excel"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Comisiones de pago",
+   "texto": "Pasarelas, datáfono, transferencias. Un 3 % de cada venta suma rápido.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas del mes",
+      "$6.000.000"
+     ],
+     [
+      "**Comisión 3 %**",
+      "$180.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Domicilios que absorbes",
+   "texto": "Lo que pagas para cerrar la venta y no le cobras al cliente.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Suscripciones olvidadas",
+   "texto": "Apps y servicios que ya no usas pero se siguen cobrando."
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Mermas y desperdicio",
+   "texto": "Producto que se daña, se vence o se regala.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "titulo": "Intereses y cuotas",
+   "texto": "La cuota de la tarjeta se paga sola, por eso nadie la cuenta."
+  },
+  {
+   "layout": "valor",
+   "num": "6",
+   "titulo": "Pequeñas compras en efectivo",
+   "texto": "Papelería, bolsas, un café para el cliente. Sin recibo, no existen.",
+   "tema": "verde"
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Mira a dónde se va cada peso",
+   "pantalla": "categorias",
+   "nota": "Domicilios: 28 % sobre el presupuesto"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Kentra los encuentra por ti",
+   "items": [
+    "Cada gasto en su categoría",
+    "Alerta cuando una se pasa",
+    "Ganancia real del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

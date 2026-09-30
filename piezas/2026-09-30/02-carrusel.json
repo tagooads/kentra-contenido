@@ -1,0 +1,121 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Finanzas de tu negocio",
+   "titulo": "¿Cuánto te quedó de verdad este mes?",
+   "sub": "Calcula tu ganancia real en 3 pasos.",
+   "visual": "app",
+   "pantalla": "dashboard"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Suma lo que realmente entró",
+   "texto": "Solo lo cobrado. Lo que te deben todavía no es tuyo.",
+   "ejemplo": {
+    "titulo": "Ejemplo: una cafetería",
+    "filas": [
+     [
+      "Ventas cobradas",
+      "$8.400.000"
+     ],
+     [
+      "Fiado sin pagar",
+      "$600.000"
+     ],
+     [
+      "**Lo que entró**",
+      "$8.400.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Resta todo lo que salió",
+   "texto": "También lo pequeño: domicilios, comisiones, la cuota de la tarjeta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Insumos",
+      "$2.900.000"
+     ],
+     [
+      "Arriendo",
+      "$1.800.000"
+     ],
+     [
+      "Nómina",
+      "$1.500.000"
+     ],
+     [
+      "Otros gastos",
+      "$750.000"
+     ],
+     [
+      "**Lo que salió**",
+      "$6.950.000",
+      "rojo"
+     ]
+    ]
+   },
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "La diferencia es tu ganancia",
+   "texto": "$8.400.000 − $6.950.000. Esa cifra, no el saldo del banco, es lo que puedes reinvertir o pagarte.",
+   "ejemplo": {
+    "filas": [
+     [
+      "**Te quedó**",
+      "$1.450.000",
+      "verde"
+     ],
+     [
+      "Margen",
+      "17 %"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Kentra hace esta cuenta sola",
+   "pantalla": "dashboard",
+   "nota": "Ganancia y margen del mes, sin fórmulas",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Septiembre",
+    "ganancia": "$1.450.000",
+    "margen": "17 % de margen",
+    "ingresos": "$8.400.000",
+    "gastos": "$6.950.000"
+   }
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Tu ganancia real, siempre a la vista",
+   "items": [
+    "Registras lo que entra y lo que sale",
+    "Kentra calcula ganancia y margen",
+    "Desde el celular, en minutos"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

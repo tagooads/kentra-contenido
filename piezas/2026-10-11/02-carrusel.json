@@ -1,0 +1,94 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Tu sueldo",
+   "titulo": "¿Cuánto sueldo te puedes pagar sin ahogar tu negocio?",
+   "sub": "Un cálculo simple con tus números.",
+   "visual": "mascota"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Parte de tu ganancia promedio",
+   "texto": "No de tu mejor mes. Usa el promedio de los últimos 3.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Julio",
+      "$1.200.000"
+     ],
+     [
+      "Agosto",
+      "$1.600.000"
+     ],
+     [
+      "Septiembre",
+      "$1.400.000"
+     ],
+     [
+      "**Promedio**",
+      "$1.400.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Deja una parte en el negocio",
+   "texto": "Para reserva e imprevistos. Por ejemplo, 30 %.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ganancia promedio",
+      "$1.400.000"
+     ],
+     [
+      "Reserva 30 %",
+      "$420.000"
+     ],
+     [
+      "**Tu sueldo**",
+      "$980.000",
+      "verde"
+     ]
+    ]
+   },
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Págatelo el mismo día cada mes",
+   "texto": "Un sueldo fijo te obliga a que el negocio lo sostenga, y te muestra si lo hace."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Pregúntale a KentrAI",
+   "pantalla": "kentrai",
+   "nota": "Te responde con tus propios números"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Decide con números, no con intuición",
+   "items": [
+    "Ganancia promedio de tus meses",
+    "KentrAI responde tus dudas",
+    "Todo desde el celular"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

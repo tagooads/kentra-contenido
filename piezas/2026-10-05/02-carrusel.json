@@ -1,0 +1,87 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Flujo vs ganancia",
+   "titulo": "Tienes plata en el banco… ¿y aun así pierdes?",
+   "sub": "La diferencia entre flujo de caja y ganancia.",
+   "visual": "app",
+   "pantalla": "alertas"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "El saldo no es tu ganancia",
+   "texto": "Es lo que entró menos lo que ya pagaste. Lo que todavía debes no aparece ahí.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Saldo en el banco",
+      "$3.200.000",
+      "verde"
+     ],
+     [
+      "Proveedor por pagar",
+      "$1.200.000"
+     ],
+     [
+      "Cuota de la tarjeta",
+      "$380.000"
+     ],
+     [
+      "Arriendo del mes",
+      "$1.800.000"
+     ],
+     [
+      "**Te queda de verdad**",
+      "−$180.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "El flujo engaña hacia los dos lados",
+   "texto": "Un mes con mucho saldo puede ser malo. Un mes con poco saldo puede ser bueno si te pagaron deudas.",
+   "tema": "claro"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Mira las dos cosas",
+   "texto": "Flujo: ¿me alcanza para pagar este mes? Ganancia: ¿el negocio deja plata?",
+   "bullets": [
+    "Flujo → para no quedarte sin caja",
+    "Ganancia → para saber si el negocio sirve"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Lo que debes, a la vista",
+   "pantalla": "alertas",
+   "nota": "Deudas y cuotas con alerta antes de que venzan"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Kentra separa flujo y ganancia",
+   "items": [
+    "Cuentas por pagar y por cobrar",
+    "Alertas antes de cada vencimiento",
+    "Ganancia real del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}
