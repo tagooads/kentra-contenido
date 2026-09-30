@@ -2,6 +2,9 @@ name: Verificar conexión con Instagram
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/verificar.yml", "scripts/verificar.mjs"]
 
 jobs:
   verificar:
