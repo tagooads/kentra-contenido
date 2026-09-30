@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Objeción",
+ "titulo": "«No tengo tiempo para las cuentas»",
+ "items": [
+  "Registrar un gasto toma segundos",
+  "Desde el celular, donde estés",
+  "El reporte del mes se arma solo",
+  "Sin fórmulas ni hojas de cálculo"
+ ],
+ "cierre": "El tiempo se va cuadrando Excel, no registrando.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

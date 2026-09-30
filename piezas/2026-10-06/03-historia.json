@@ -1,0 +1,17 @@
+{
+ "layout": "tip",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Tip",
+ "titulo": "Antes de subir precios, revisa esto",
+ "items": [
+  "Cuánto cuesta cada venta (envío y comisión)",
+  "Cuánto te queda por cada unidad vendida",
+  "Cuántas ventas cubren tus gastos fijos"
+ ],
+ "cierre": "Kentra te muestra cuánto te queda cada mes.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

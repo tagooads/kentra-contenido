@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Funcionalidades",
+ "titulo": "Cobras y envías el comprobante con tu logo",
+ "items": [
+  "Registras el ingreso en Kentra",
+  "Se genera el comprobante en PDF",
+  "Lo envías a tu cliente con tu logo",
+  "Y el movimiento ya quedó registrado"
+ ],
+ "cierre": "Se ve profesional. Y no se te olvida anotarlo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

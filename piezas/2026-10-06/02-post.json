@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Importación con IA · Plan Pro",
+ "titulo": "Sube la factura. Kentra hace el resto.",
+ "items": [
+  "Subes la foto o el PDF de la factura",
+  "Se registra sola como gasto",
+  "Cae en su categoría con tus reglas",
+  "Tu ganancia del mes se actualiza sola"
+ ],
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

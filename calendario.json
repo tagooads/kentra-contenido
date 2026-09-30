@@ -230,6 +230,326 @@
         "instagram",
         "facebook"
       ]
+    },
+    {
+      "id": "2026-10-05-01-historia",
+      "fecha": "2026-10-05T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-05/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-05-02-post",
+      "fecha": "2026-10-05T12:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-05/02-post.jpg"
+      ],
+      "caption": "Vender más no siempre es ganar más.\n\nUna tienda online que factura $6.800.000 y gasta $5.950.000 entre mercancía, envíos, pauta y comisiones se queda con $850.000. Si las ventas suben pero los gastos suben igual, el número final no se mueve.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó, sin Excel.\n\nEmpieza en kentra.pro · desde $15/mes\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-05-03-historia",
+      "fecha": "2026-10-05T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-05/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "lista",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-06-01-historia",
+      "fecha": "2026-10-06T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-06/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-06-02-post",
+      "fecha": "2026-10-06T12:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-06/02-post.jpg"
+      ],
+      "caption": "Digitar facturas una por una es trabajo que ya no tienes que hacer.\n\nEn el plan Pro subes la factura o el extracto del banco y Kentra registra los movimientos solos, cada uno en su categoría según las reglas que definas. Menos digitación, más claridad sobre lo que realmente gastas.\n\nPlan Pro en kentra.pro · $20/mes, sin permanencia\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "funcionalidades",
+      "layout": "lista",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-06-03-historia",
+      "fecha": "2026-10-06T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-06/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "tip",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-07-01-historia",
+      "fecha": "2026-10-07T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-07/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "kentra-vs-excel",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-07-02-post",
+      "fecha": "2026-10-07T12:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-07/02-post.jpg"
+      ],
+      "caption": "Excel calcula lo que le pides. Kentra te avisa lo que no viste.\n\nUna fórmula rota, una celda que nadie actualizó, un gasto que se disparó sin que te dieras cuenta: eso no aparece en la hoja hasta que ya es tarde.\n\nCon Kentra registras desde el celular, los cálculos son automáticos y te llega una alerta cuando una categoría se pasa.\n\nEmpieza en kentra.pro · desde $15/mes\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes",
+      "pilar": "kentra-vs-excel",
+      "layout": "versus",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-07-03-historia",
+      "fecha": "2026-10-07T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-07/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-08-01-historia",
+      "fecha": "2026-10-08T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-08/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-08-02-carrusel",
+      "fecha": "2026-10-08T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-08/02-carrusel-1.jpg",
+        "piezas/2026-10-08/02-carrusel-2.jpg",
+        "piezas/2026-10-08/02-carrusel-3.jpg",
+        "piezas/2026-10-08/02-carrusel-4.jpg",
+        "piezas/2026-10-08/02-carrusel-5.jpg",
+        "piezas/2026-10-08/02-carrusel-6.jpg"
+      ],
+      "caption": "4 señales de que tu negocio gana menos de lo que crees 👀\n\nNinguna aparece en las ventas. Todas aparecen en la ganancia: el saldo que sube junto con las deudas, la venta de hoy que paga la compra de ayer, el costo por venta que nadie suma y el sueldo que te pagas «con lo que sobra».\n\nDesliza y cuenta cuántas te pasan.\n\nKentra te muestra la ganancia real del mes sin fórmulas. Empieza en kentra.pro · desde $15/mes\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-08-03-historia",
+      "fecha": "2026-10-08T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-08/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "verticales",
+      "layout": "ui",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-09-01-historia",
+      "fecha": "2026-10-09T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-09/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-09-02-post",
+      "fecha": "2026-10-09T12:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-09/02-post.jpg"
+      ],
+      "caption": "$20 al mes: el plan que más eligen quienes ya usan Kentra.\n\nTodo lo del plan Básico (dashboard, ingresos y gastos por categoría, comprobantes PDF con tu logo, KentrAI ilimitado) más importación de extractos y facturas con IA, reglas de categorización automática, créditos y cuotas, inventario y hasta 2 negocios con 1 usuario extra.\n\nAcceso inmediato, sin permanencia. Y si prefieres empezar más ligero, el Básico está desde $15/mes.\n\nEmpieza en kentra.pro\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "precio-valor",
+      "layout": "precio",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-09-03-historia",
+      "fecha": "2026-10-09T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-09/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "lista",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-10-01-historia",
+      "fecha": "2026-10-10T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-10/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-10-02-post",
+      "fecha": "2026-10-10T12:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-10/02-post.jpg"
+      ],
+      "caption": "«Yo lo llevo todo en la cabeza.» Hasta que alguien pregunta cuánto te quedó en agosto.\n\nLa memoria es buena para vender, no para sumar 200 movimientos al mes. Kentra los guarda por ti, los ordena por categoría y te dice cuánto te quedó, sin que tengas que recordar nada.\n\nEmpieza en kentra.pro · desde $15/mes\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "pilar": "objeciones",
+      "layout": "mascota",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-10-03-historia",
+      "fecha": "2026-10-10T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-10/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "tip",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-11-01-historia",
+      "fecha": "2026-10-11T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-11/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "verticales",
+      "layout": "ui",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-11-02-post",
+      "fecha": "2026-10-11T12:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-11/02-post.jpg"
+      ],
+      "caption": "Vender es la mitad del mes. La otra mitad es saber cuánto te quedó.\n\nMuchos negocios cierran el mes con la sensación de que fue bueno, sin un número que lo confirme. Kentra te lo da: lo que entró, lo que salió y lo que te quedó, en una sola pantalla.\n\nEmpieza en kentra.pro · desde $15/mes\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-11-03-historia",
+      "fecha": "2026-10-11T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-11/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
     }
   ]
 }

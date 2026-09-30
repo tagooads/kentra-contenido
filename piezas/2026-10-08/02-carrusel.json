@@ -1,0 +1,73 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "mascota",
+   "kicker": "Desliza",
+   "titulo": "4 señales de que ganas menos de lo que crees",
+   "sub": "Ninguna aparece en tus ventas. Todas en tu ganancia.",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   },
+   "mascotaPos": "right:24px;bottom:190px;height:600px"
+  },
+  {
+   "layout": "cita",
+   "kicker": "1 de 4",
+   "titulo": "El saldo sube, pero las deudas también.",
+   "sub": "Lo que ves en el banco todavía no es tuyo si debes a proveedores o pagas cuotas.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "2 de 4",
+   "titulo": "Pagas al proveedor con la venta de hoy.",
+   "sub": "Si la venta de hoy paga la compra de ayer, no estás ganando: estás alcanzando.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "3 de 4",
+   "titulo": "No sabes cuánto te costó cada venta.",
+   "sub": "Insumos, envío, comisión y tu tiempo. Si no lo sumas, el precio está adivinado.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "4 de 4",
+   "titulo": "Te pagas «lo que sobra» al final del mes.",
+   "sub": "Un dueño sin sueldo fijo no sabe si el negocio se sostiene solo.",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+   }
+  },
+  {
+   "layout": "lista",
+   "kicker": "Cierre",
+   "titulo": "Kentra te lo muestra sin fórmulas",
+   "items": [
+    "Ganancia real del mes en una pantalla",
+    "Deudas y cuotas con alerta",
+    "Ingresos y gastos por categoría"
+   ],
+   "cta": {
+    "texto": "Desde $15/mes",
+    "boton": true
+   }
+  }
+ ]
+}

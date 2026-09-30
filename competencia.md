@@ -19,9 +19,11 @@ Actualizado: 2026-09-29. El agente actualiza este archivo cuando descubre un com
 | Chipax.com | 108260338031222 | CL | Finanzas pyme | "La rentabilidad de tu empresa en 1 clic", "Tu empresa ordenada sin errores", "Todo claro, todo conciliado" |
 | Dinero Con Foco | 1134927189714463 | BR (habla español) | Plantilla de Excel | "Controla las finanzas de tu negocio en un solo Excel" — el sustituto directo |
 | María Saavedra - Análisis de Datos | 578068058733008 | CL | Consultora / plantillas | "Vender no siempre significa ganar", contenido por vertical (peluquería) |
-| Tu negocio depende de vos | 1370535406136690 | AR | Educación finanzas negocio | "Tu negocio necesita más que ventas" |
+| Tu negocio depende de vos | 1370535406136690 | AR | Educación finanzas negocio | "Tu negocio necesita más que ventas", "Tu negocio puede darte más libertad" |
+| Bind México (Bind ERP) | 390125361088582 | MX | ERP pyme (inventario, ventas, cobranza) | "Vender más no es ganar más", "Mira más allá de lo facturado", "Consulta quién te debe y desde cuándo", "Deja de capturar todo dos veces" |
+| Naimi Núñez | 105388641285294 | USD (LatAm) | Coach de finanzas para negocio | "Por qué facturas bien y no te queda nada" — mismo territorio de ganancia real, desde la formación |
 
-Pendientes de ubicar page_id: Treinta, Contabilium, Bind ERP, Nubox, Quipu (España), Holded (España). Buscar por nombre en la Biblioteca y agregar aquí.
+Pendientes de ubicar page_id: Treinta (búsqueda por nombre no arroja anuncios activos al 2026-09-30), Contabilium, Nubox, Quipu (España), Holded (España). Buscar por nombre en la Biblioteca y agregar aquí.
 
 ## Lo que hace la competencia y cómo responde Kentra
 
@@ -38,3 +40,4 @@ Pendientes de ubicar page_id: Treinta, Contabilium, Bind ERP, Nubox, Quipu (Espa
 ## Registro de hallazgos
 
 - **2026-09-29** — Primera lectura. Alegra tiene ~185 anuncios activos en CO, casi todos "Pruébalo gratis"; Kame ~170 con ángulos de costos y control; Chipax ~10 con "rentabilidad en 1 clic". Nadie usa un personaje de marca ni humor visual: ahí hay espacio.
+- **2026-09-30** — Bind México (MX) entra al radar: "Vender más no es ganar más" y "Mira más allá de lo facturado" son el mismo pilar de ganancia real de Kentra, pero vendido como ERP con implementación. Siigo y Alegra siguen volcados a contadores (eventos, prompts, NIIF). María Saavedra suma "Tu Excel puede trabajar por ti": el Excel como aliado, no como enemigo; Kentra mantiene el duelo. El gancho "facturas bien y no te queda nada" ya lo usa un coach (Naimi Núñez): el territorio se llena, hay que ganarlo con la cifra lado a lado y la mascota, no solo con la frase.

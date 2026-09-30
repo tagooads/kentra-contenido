@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "El mes termina cuando sabes cuánto te quedó.",
+ "sub": "Cierra cada mes con tres números claros: entró, salió, quedó.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

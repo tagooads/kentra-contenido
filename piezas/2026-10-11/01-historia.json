@@ -1,0 +1,31 @@
+{
+ "layout": "ui",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Freelancers",
+ "titulo": "¿Cuánto de lo que cobras es tuyo?",
+ "app": {
+  "negocio": "Estudio Pixel",
+  "mes": "Septiembre",
+  "ingresos": "$4.200.000",
+  "gastos": "$1.650.000",
+  "ganancia": "$2.550.000",
+  "barras": [
+   40,
+   55,
+   50,
+   70,
+   60,
+   80,
+   75
+  ],
+  "rojo": [
+   2
+  ]
+ },
+ "cierre": "Software, impuestos y equipo también salen de tu tarifa. Kentra te lo separa.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

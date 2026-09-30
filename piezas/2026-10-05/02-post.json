@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Ganancia real",
+ "titulo": "Vendiste más. ¿Ganaste más?",
+ "filas": [
+  {
+   "label": "Facturaste",
+   "valor": "$6.800.000",
+   "color": "gris"
+  },
+  {
+   "label": "Gastos",
+   "valor": "− $5.950.000",
+   "color": "rojo",
+   "nota": "mercancía · envíos · pauta · comisiones"
+  },
+  {
+   "label": "Te quedó",
+   "valor": "$850.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "Vender el doble no sirve si los gastos crecen igual. Kentra te muestra el número que importa.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

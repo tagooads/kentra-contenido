@@ -1,0 +1,17 @@
+{
+ "layout": "tip",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Tip",
+ "titulo": "3 preguntas antes de cada gasto",
+ "items": [
+  "¿Lo necesito este mes o puede esperar?",
+  "¿Sale de la ganancia o de la venta de hoy?",
+  "¿Dónde lo registro para no olvidarlo?"
+ ],
+ "cierre": "La tercera la responde Kentra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

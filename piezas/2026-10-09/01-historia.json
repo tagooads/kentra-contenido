@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "historia",
+ "tema": "blanco",
+ "titulo": "Sin permanencia.",
+ "sub": "Cancela cuando quieras. Desde $15/mes, con acceso inmediato.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}
