@@ -1,27 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 53 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 52 piezas agendadas.
 
 
 ## Jueves 1/10
-
-**12:00 — Carrusel** · educacion · `2026-10-01-02-carrusel`
-
-<img src="piezas/2026-10-01/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-01/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-01/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-01/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-01/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-01/02-carrusel-6.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-4 gastos que se comen tu ganancia sin que lo notes 👀
-
-No son los grandes. Son los que nadie registra: la comisión de la pasarela, el domicilio que "absorbes", la cuota de la tarjeta y el sueldo que no te pagas.
-
-Desliza y revisa cuántos te están pasando a ti.
-
-Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ControlDeGastos
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-01-05-post`
 
@@ -644,9 +626,9 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- jueves 1/10 · 12:00 · Carrusel `2026-10-01-02-carrusel` · IG ✓ · FB ✓
 - jueves 1/10 · 10:00 · Post `2026-10-01-04-post` · IG ✓ · FB ✓
 - jueves 1/10 · 08:00 · Historia `2026-10-01-01-historia` · IG ✓ · FB ✓
 - miércoles 30/9 · 19:00 · Historia `2026-09-30-03-historia` · IG ✓ · FB ✓
 - miércoles 30/9 · 18:00 · Post `2026-09-30-05-post` · IG ✓ · FB ✓
 - miércoles 30/9 · 12:00 · Carrusel `2026-09-30-02-carrusel` · IG ✓ · FB ✓
-- miércoles 30/9 · 08:00 · Historia `2026-09-30-01-historia` · IG ✓ · FB ✓
