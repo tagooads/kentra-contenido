@@ -1,0 +1,10 @@
+{
+ "layout": "app",
+ "formato": "cuadrado",
+ "tema": "navy",
+ "cta": {"texto": "kentra.pro", "boton": false},
+ "kicker": "Tu primera semana",
+ "titulo": "Empieza con un paso de 3 minutos",
+ "pantalla": "dashboard",
+ "nota": "Al final de la semana verás cuánto te quedó"
+}

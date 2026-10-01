@@ -1,0 +1,10 @@
+{
+ "layout": "app",
+ "formato": "cuadrado",
+ "tema": "navy",
+ "cta": {"texto": "kentra.pro", "boton": false},
+ "kicker": "Tu primera semana",
+ "titulo": "Carga tus movimientos de una vez",
+ "pantalla": "importar",
+ "nota": "Tus números completos en minutos"
+}
