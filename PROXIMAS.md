@@ -1,13 +1,13 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 50 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 49 piezas agendadas.
+
+## ⚠️ Con error
+
+- **viernes 2/10 · 08:00** Historia `2026-10-02-01-historia`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 
 
 ## Viernes 2/10
-
-**08:00 — Historia** · kentra-vs-excel · `2026-10-02-01-historia`
-
-<img src="piezas/2026-10-02/01-historia.jpg" width="160">
 
 **10:00 — Post** · kentra-vs-excel · `2026-10-02-04-post`
 
