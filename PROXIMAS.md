@@ -1,31 +1,16 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 47 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 46 piezas agendadas.
 
 ## ⚠️ Con error
 
 - **viernes 2/10 · 08:00** Historia `2026-10-02-01-historia`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 - **viernes 2/10 · 10:00** Post `2026-10-02-04-post`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 - **viernes 2/10 · 12:00** Carrusel `2026-10-02-02-carrusel`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
+- **viernes 2/10 · 18:00** Post `2026-10-02-05-post`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 
 
 ## Viernes 2/10
-
-**18:00 — Post** · educacion · `2026-10-02-05-post`
-
-<img src="piezas/2026-10-02/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El error más común del dueño de negocio: pagar lo personal con la plata del negocio.
-
-Asígnate un sueldo fijo, cóbratelo cada mes y todo lo demás déjalo en el negocio. Así sabes de verdad si el negocio gana o si solo te estás pagando a ti.
-
-Guárdalo para tu próximo cierre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-10-02-03-historia`
 

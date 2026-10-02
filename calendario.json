@@ -268,7 +268,8 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "error": "IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked."
     },
     {
       "id": "2026-10-02-03-historia",
