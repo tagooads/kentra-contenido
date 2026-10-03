@@ -6,7 +6,7 @@ Se actualiza sola cada hora. Hora de Bogotá. 45 piezas agendadas.
 
 - **viernes 2/10 · 08:00** Historia `2026-10-02-01-historia`: Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.
 - **viernes 2/10 · 10:00** Post `2026-10-02-04-post`: Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.
-- **viernes 2/10 · 12:00** Carrusel `2026-10-02-02-carrusel`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
+- **viernes 2/10 · 12:00** Carrusel `2026-10-02-02-carrusel`: Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.
 - **viernes 2/10 · 18:00** Post `2026-10-02-05-post`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 - **viernes 2/10 · 19:00** Historia `2026-10-02-03-historia`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 
