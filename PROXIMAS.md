@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 44 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 43 piezas agendadas.
 
 
 ## Sábado 3/10
-
-**16:00 — Post** · educacion · `2026-10-02-05-post`
-
-<img src="piezas/2026-10-02/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El error más común del dueño de negocio: pagar lo personal con la plata del negocio.
-
-Asígnate un sueldo fijo, cóbratelo cada mes y todo lo demás déjalo en el negocio. Así sabes de verdad si el negocio gana o si solo te estás pagando a ti.
-
-Guárdalo para tu próximo cierre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **18:00 — Post** · objeciones · `2026-10-03-05-post`
 
@@ -528,9 +512,9 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- sábado 3/10 · 16:00 · Post `2026-10-02-05-post` · IG ✓ · FB ✓
 - sábado 3/10 · 14:00 · Carrusel `2026-10-02-02-carrusel` · IG ✓ · FB ✓
 - sábado 3/10 · 12:00 · Carrusel `2026-10-03-02-carrusel` · IG ✓ · FB ✓
 - sábado 3/10 · 11:00 · Post `2026-10-02-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 10:00 · Post `2026-10-03-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 08:00 · Historia `2026-10-03-01-historia` · IG ✓ · FB ✓
-- sábado 3/10 · 06:30 · Historia `2026-10-02-01-historia` · IG ✓ · FB ✓
