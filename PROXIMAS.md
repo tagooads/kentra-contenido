@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 46 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 45 piezas agendadas.
 
 ## ⚠️ Con error
 
@@ -8,13 +8,7 @@ Se actualiza sola cada hora. Hora de Bogotá. 46 piezas agendadas.
 - **viernes 2/10 · 10:00** Post `2026-10-02-04-post`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 - **viernes 2/10 · 12:00** Carrusel `2026-10-02-02-carrusel`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 - **viernes 2/10 · 18:00** Post `2026-10-02-05-post`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
-
-
-## Viernes 2/10
-
-**19:00 — Historia** · educacion · `2026-10-02-03-historia`
-
-<img src="piezas/2026-10-02/03-historia.jpg" width="160">
+- **viernes 2/10 · 19:00** Historia `2026-10-02-03-historia`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
 
 
 ## Sábado 3/10
