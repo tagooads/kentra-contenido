@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 45 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 44 piezas agendadas.
 
 
 ## Sábado 3/10
-
-**14:00 — Carrusel** · educacion · `2026-10-02-02-carrusel`
-
-<img src="piezas/2026-10-02/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-5 errores de dinero muy comunes en negocios pequeños (y cómo corregir cada uno).
-
-Desde mezclar tu plata con la del negocio hasta no tener colchón para un mes flojo. Desliza, revisa cuántos te pasan y guárdalo.
-
-Kentra te ayuda a corregirlos sin hojas de cálculo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **16:00 — Post** · educacion · `2026-10-02-05-post`
 
@@ -544,9 +528,9 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- sábado 3/10 · 14:00 · Carrusel `2026-10-02-02-carrusel` · IG ✓ · FB ✓
 - sábado 3/10 · 12:00 · Carrusel `2026-10-03-02-carrusel` · IG ✓ · FB ✓
 - sábado 3/10 · 11:00 · Post `2026-10-02-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 10:00 · Post `2026-10-03-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 08:00 · Historia `2026-10-03-01-historia` · IG ✓ · FB ✓
 - sábado 3/10 · 06:30 · Historia `2026-10-02-01-historia` · IG ✓ · FB ✓
-- jueves 1/10 · 19:00 · Historia `2026-10-01-03-historia` · IG ✓ · FB ✓
