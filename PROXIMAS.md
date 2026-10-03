@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 46 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 45 piezas agendadas.
 
 
 ## Sábado 3/10
-
-**12:00 — Carrusel** · educacion · `2026-10-03-02-carrusel`
-
-<img src="piezas/2026-10-03/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Tu precio cubre todo lo que cuesta producir, o solo los ingredientes?
-
-En este carrusel: el método en 4 pasos para ponerle precio a lo que vendes, con el ejemplo de una torta. Costo directo $27.500 + fijos $15.000 + ganancia = precio mínimo de $55.250. Guárdalo y haz la cuenta con tu producto.
-
-Kentra te muestra cuando un costo sube para que ajustes a tiempo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Emprendimiento
-
-</details>
 
 **14:00 — Carrusel** · educacion · `2026-10-02-02-carrusel`
 
@@ -560,9 +544,9 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- sábado 3/10 · 12:00 · Carrusel `2026-10-03-02-carrusel` · IG ✓ · FB ✓
 - sábado 3/10 · 11:00 · Post `2026-10-02-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 10:00 · Post `2026-10-03-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 08:00 · Historia `2026-10-03-01-historia` · IG ✓ · FB ✓
 - sábado 3/10 · 06:30 · Historia `2026-10-02-01-historia` · IG ✓ · FB ✓
 - jueves 1/10 · 19:00 · Historia `2026-10-01-03-historia` · IG ✓ · FB ✓
-- jueves 1/10 · 18:00 · Post `2026-10-01-05-post` · IG ✓ · FB ✓
