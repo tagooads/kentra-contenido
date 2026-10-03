@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 47 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 46 piezas agendadas.
 
 
 ## Sábado 3/10
-
-**11:00 — Post** · kentra-vs-excel · `2026-10-02-04-post`
-
-<img src="piezas/2026-10-02/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Excel sirve… hasta que tienes que acordarte de las fórmulas, buscar la hoja correcta y cuadrar todo a fin de mes.
-
-Cerrar el mes no debería tomarte una tarde entera. Con Kentra ves cuánto ganaste en minutos, sin plantillas.
-
-👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-03-02-carrusel`
 
@@ -576,9 +560,9 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- sábado 3/10 · 11:00 · Post `2026-10-02-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 10:00 · Post `2026-10-03-04-post` · IG ✓ · FB ✓
 - sábado 3/10 · 08:00 · Historia `2026-10-03-01-historia` · IG ✓ · FB ✓
 - sábado 3/10 · 06:30 · Historia `2026-10-02-01-historia` · IG ✓ · FB ✓
 - jueves 1/10 · 19:00 · Historia `2026-10-01-03-historia` · IG ✓ · FB ✓
 - jueves 1/10 · 18:00 · Post `2026-10-01-05-post` · IG ✓ · FB ✓
-- jueves 1/10 · 12:00 · Carrusel `2026-10-01-02-carrusel` · IG ✓ · FB ✓
