@@ -215,7 +215,8 @@
         "instagram",
         "facebook"
       ],
-      "error": "IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked."
+      "error": "Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.",
+      "intentos": 3
     },
     {
       "id": "2026-10-02-04-post",
@@ -231,7 +232,8 @@
         "instagram",
         "facebook"
       ],
-      "error": "IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked."
+      "error": "Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.",
+      "intentos": 3
     },
     {
       "id": "2026-10-02-02-carrusel",
