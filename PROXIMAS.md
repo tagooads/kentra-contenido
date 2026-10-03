@@ -1,14 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 45 piezas agendadas.
-
-## ⚠️ Con error
-
-- **viernes 2/10 · 08:00** Historia `2026-10-02-01-historia`: Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.
-- **viernes 2/10 · 10:00** Post `2026-10-02-04-post`: Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.
-- **viernes 2/10 · 12:00** Carrusel `2026-10-02-02-carrusel`: Se pasó la hora de publicación (más de 12 h de atraso); no se publicó.
-- **viernes 2/10 · 18:00** Post `2026-10-02-05-post`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
-- **viernes 2/10 · 19:00** Historia `2026-10-02-03-historia`: IG: 17841480064403784/media: API access blocked. | FB: 956335110897891: API access blocked.
+Se actualiza sola cada hora. Hora de Bogotá. 49 piezas agendadas.
 
 
 ## Sábado 3/10
@@ -33,6 +25,22 @@ Haz el diagnóstico en kentra.pro/quiz: 5 preguntas, 2 minutos. 👉 [link de la
 
 </details>
 
+**11:00 — Post** · kentra-vs-excel · `2026-10-02-04-post`
+
+<img src="piezas/2026-10-02/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Excel sirve… hasta que tienes que acordarte de las fórmulas, buscar la hoja correcta y cuadrar todo a fin de mes.
+
+Cerrar el mes no debería tomarte una tarde entera. Con Kentra ves cuánto ganaste en minutos, sin plantillas.
+
+👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
 **12:00 — Carrusel** · educacion · `2026-10-03-02-carrusel`
 
 <img src="piezas/2026-10-03/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-03/02-carrusel-7.jpg" width="220">
@@ -46,6 +54,38 @@ En este carrusel: el método en 4 pasos para ponerle precio a lo que vendes, con
 Kentra te muestra cuando un costo sube para que ajustes a tiempo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Precios #Emprendimiento
+
+</details>
+
+**14:00 — Carrusel** · educacion · `2026-10-02-02-carrusel`
+
+<img src="piezas/2026-10-02/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-02/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+5 errores de dinero muy comunes en negocios pequeños (y cómo corregir cada uno).
+
+Desde mezclar tu plata con la del negocio hasta no tener colchón para un mes flojo. Desliza, revisa cuántos te pasan y guárdalo.
+
+Kentra te ayuda a corregirlos sin hojas de cálculo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
+
+</details>
+
+**16:00 — Post** · educacion · `2026-10-02-05-post`
+
+<img src="piezas/2026-10-02/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El error más común del dueño de negocio: pagar lo personal con la plata del negocio.
+
+Asígnate un sueldo fijo, cóbratelo cada mes y todo lo demás déjalo en el negocio. Así sabes de verdad si el negocio gana o si solo te estás pagando a ti.
+
+Guárdalo para tu próximo cierre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
 
 </details>
 
@@ -68,6 +108,10 @@ Kentra lo hace simple desde el primer día. 👉 [link de la bio en Instagram / 
 **19:00 — Historia** · objeciones · `2026-10-03-03-historia`
 
 <img src="piezas/2026-10-03/03-historia.jpg" width="160">
+
+**21:00 — Historia** · educacion · `2026-10-02-03-historia`
+
+<img src="piezas/2026-10-02/03-historia.jpg" width="160">
 
 
 ## Domingo 4/10
@@ -552,9 +596,9 @@ Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas
 
 ## Últimas publicadas
 
+- sábado 3/10 · 06:30 · Historia `2026-10-02-01-historia` · IG ✓ · FB ✓
 - jueves 1/10 · 19:00 · Historia `2026-10-01-03-historia` · IG ✓ · FB ✓
 - jueves 1/10 · 18:00 · Post `2026-10-01-05-post` · IG ✓ · FB ✓
 - jueves 1/10 · 12:00 · Carrusel `2026-10-01-02-carrusel` · IG ✓ · FB ✓
 - jueves 1/10 · 10:00 · Post `2026-10-01-04-post` · IG ✓ · FB ✓
 - jueves 1/10 · 08:00 · Historia `2026-10-01-01-historia` · IG ✓ · FB ✓
-- miércoles 30/9 · 19:00 · Historia `2026-09-30-03-historia` · IG ✓ · FB ✓
