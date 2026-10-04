@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
 
 
 ## Domingo 4/10
-
-**12:00 — Carrusel** · educacion · `2026-10-04-02-carrusel`
-
-<img src="piezas/2026-10-04/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-04/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-04/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-04/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-04/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-04/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-04/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si toda la plata del negocio está en un solo lugar, se va en todo y en nada.
-
-En este carrusel: los 4 bolsillos para ordenar el dinero de tu negocio (operación, impuestos, tu sueldo y reserva) y en qué orden llenarlos.
-
-Kentra te muestra cuánto te quedó cada mes para repartirlo con cabeza. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #OrdenFinanciero #Pymes
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-04-05-post`
 
@@ -881,9 +865,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- domingo 4/10 · 12:00 · Carrusel `2026-10-04-02-carrusel` · IG ✓ · FB ✓
 - domingo 4/10 · 10:00 · Post `2026-10-04-04-post` · IG ✓ · FB ✓
 - domingo 4/10 · 08:00 · Historia `2026-10-04-01-historia` · IG ✓ · FB ✓
 - sábado 3/10 · 21:00 · Historia `2026-10-02-03-historia` · IG ✓ · FB ✓
 - sábado 3/10 · 19:00 · Historia `2026-10-03-03-historia` · IG ✓ · FB ✓
 - sábado 3/10 · 18:00 · Post `2026-10-03-05-post` · IG ✓ · FB ✓
-- sábado 3/10 · 16:00 · Post `2026-10-02-05-post` · IG ✓ · FB ✓
