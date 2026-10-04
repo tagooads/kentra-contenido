@@ -1,0 +1,18 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Planes Pro y Business",
+ "titulo": "Sube el extracto del banco y se organiza solo",
+ "pantalla": "importar",
+ "app": {
+  "negocio": "Café La Esquina",
+  "archivo": "extracto-septiembre.csv",
+  "detectados": "46 movimientos detectados"
+ },
+ "nota": "Cada movimiento en su categoría",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

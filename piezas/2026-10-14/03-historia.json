@@ -1,0 +1,21 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Sin fórmulas",
+ "titulo": "Tu ganancia, sin una sola fórmula",
+ "pantalla": "dashboard",
+ "app": {
+  "negocio": "Café La Esquina",
+  "mes": "Septiembre",
+  "ingresos": "$8.400.000",
+  "gastos": "$6.950.000",
+  "ganancia": "$1.450.000",
+  "margen": "17,3 % de margen"
+ },
+ "nota": "Se calcula sola con lo que registras",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

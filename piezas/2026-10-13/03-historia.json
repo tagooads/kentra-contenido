@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "kicker": "Tienda de barrio",
+ "titulo": "Lo fiado no es venta hasta que te pagan",
+ "filas": [
+  {
+   "label": "Vendiste",
+   "valor": "$7.400.000",
+   "color": "gris"
+  },
+  {
+   "label": "Fiado",
+   "valor": "− $1.150.000",
+   "color": "rojo",
+   "nota": "sin cobrar · 14 clientes · algunos desde agosto"
+  },
+  {
+   "label": "Cobraste",
+   "valor": "$6.250.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "formato": "historia",
+ "tema": "navy",
+ "cierre": "Kentra te recuerda cobrar cada deuda.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

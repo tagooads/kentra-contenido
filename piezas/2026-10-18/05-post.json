@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "blanco",
+ "titulo": "¿Cuántas versiones de «cuentas_final» tienes?",
+ "sub": "Si es más de una, ya sabes por qué el mes nunca cuadra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

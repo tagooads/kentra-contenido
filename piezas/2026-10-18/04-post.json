@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "Al cerrar el mes, ¿qué miras primero?",
+ "sub": "1 = las ventas. 2 = la ganancia. Respóndenos en los comentarios.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Planes",
+   "titulo": "¿Qué plan de Kentra es para ti?",
+   "sub": "Los 3 planes, explicados en un minuto.",
+   "visual": "app",
+   "pantalla": "negocios"
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "kicker": "Plan Básico · $15/mes",
+   "titulo": "Para un negocio que quiere ver sus números",
+   "bullets": [
+    "Ingresos, gastos y ganancia real",
+    "Comprobantes PDF y recordatorios",
+    "KentrAI ilimitado"
+   ]
+  },
+  {
+   "layout": "valor",
+   "kicker": "Plan Pro · $20/mes",
+   "titulo": "Hasta 2 negocios y 1 usuario extra",
+   "texto": "El más elegido. Todo lo del Básico, más:",
+   "bullets": [
+    "Importación con IA de extractos y facturas",
+    "Inventario",
+    "Créditos y cuotas"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "Plan Business · $30/mes",
+   "titulo": "Para varios negocios con equipo",
+   "texto": "Todo lo del Pro, más:",
+   "bullets": [
+    "Negocios ilimitados, cada uno con su moneda",
+    "Más usuarios para tu equipo, con roles"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "kicker": "Pago anual",
+   "titulo": "45 % de descuento si pagas el año",
+   "texto": "Aplica a los tres planes: Básico, Pro y Business."
+  },
+  {
+   "layout": "valor",
+   "kicker": "En todos los planes",
+   "titulo": "Acceso inmediato y cancelas cuando quieras",
+   "texto": "Pagas con tarjeta, entras de una vez y lo cancelas desde tu cuenta."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Varios negocios en una sola cuenta",
+   "pantalla": "negocios",
+   "nota": "Cada uno con su moneda (Pro y Business)"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Elige tu plan y empieza hoy",
+   "items": [
+    "Desde $15/mes",
+    "Acceso inmediato",
+    "Cancelas cuando quieras"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

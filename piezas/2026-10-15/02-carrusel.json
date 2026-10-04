@@ -1,0 +1,182 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Colchón",
+   "titulo": "¿Cuántos meses aguantaría tu negocio sin vender?",
+   "sub": "Cómo armar un colchón paso a paso, aunque empieces con poco.",
+   "visual": "app",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Salón Lila",
+    "mes": "Septiembre",
+    "categorias": [
+     [
+      "Nómina",
+      "$1.600.000",
+      100
+     ],
+     [
+      "Arriendo",
+      "$1.500.000",
+      100
+     ],
+     [
+      "Servicios",
+      "$280.000",
+      93
+     ],
+     [
+      "Cuotas",
+      "$220.000",
+      100
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Suma tus gastos fijos de un mes",
+   "texto": "Arriendo, nómina, servicios, cuotas: lo que pagas aunque no vendas.",
+   "ejemplo": {
+    "titulo": "Ejemplo: salón de belleza",
+    "filas": [
+     [
+      "Arriendo",
+      "$1.500.000"
+     ],
+     [
+      "Nómina",
+      "$1.600.000"
+     ],
+     [
+      "Servicios y cuotas",
+      "$500.000"
+     ],
+     [
+      "**Total al mes**",
+      "$3.600.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Multiplícalo por 3",
+   "texto": "Tres meses de gastos fijos es una buena meta para un negocio pequeño.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Fijos al mes",
+      "$3.600.000"
+     ],
+     [
+      "Meses",
+      "× 3"
+     ],
+     [
+      "**Meta del colchón**",
+      "$10.800.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Aparta un porcentaje de cada venta cobrada",
+   "texto": "Poco y constante le gana a mucho y de vez en cuando.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas cobradas al mes",
+      "$9.000.000"
+     ],
+     [
+      "Apartas 10 %",
+      "$900.000"
+     ],
+     [
+      "**1 mes de fijos cubierto en**",
+      "4 meses",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Guárdalo donde no lo veas",
+   "texto": "En una cuenta aparte, no en la caja del día. Lo que está a mano se gasta."
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "tema": "verde",
+   "titulo": "Úsalo solo para emergencias",
+   "bullets": [
+    "Sí: un mes flojo o un equipo dañado",
+    "No: un antojo o una compra que puede esperar",
+    "Si lo usas, vuelve a llenarlo primero"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Tus gastos fijos, sumados solos",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Salón Lila",
+    "mes": "Septiembre",
+    "categorias": [
+     [
+      "Nómina",
+      "$1.600.000",
+      100
+     ],
+     [
+      "Arriendo",
+      "$1.500.000",
+      100
+     ],
+     [
+      "Servicios",
+      "$280.000",
+      93
+     ],
+     [
+      "Cuotas",
+      "$220.000",
+      100
+     ]
+    ]
+   },
+   "nota": "Fijos del mes: $3.600.000"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Un colchón empieza por tus números",
+   "items": [
+    "Gastos por categoría",
+    "Recordatorios de pagos fijos",
+    "Ganancia real de cada mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

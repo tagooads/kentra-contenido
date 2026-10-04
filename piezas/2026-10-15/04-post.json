@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "Si hoy cerraras el mes, ¿sabrías cuánto ganaste?",
+ "sub": "Sin abrir Excel ni sacar la calculadora. Responde sí o no en los comentarios.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

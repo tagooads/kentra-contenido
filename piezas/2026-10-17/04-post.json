@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "Sin saber cuánto ganaste, todo gasto es una apuesta.",
+ "sub": "Tu ganancia del mes pasado es lo que te dice cuánto puedes gastar este mes.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

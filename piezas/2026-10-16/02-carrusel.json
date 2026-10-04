@@ -1,0 +1,196 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Tu mes en 4 semanas",
+   "titulo": "¿Te va a alcanzar para pagar todo este mes?",
+   "sub": "Mira tu mes por semanas y adelántate.",
+   "visual": "app",
+   "pantalla": "alertas",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "alertas": [
+     [
+      "rojo",
+      "Pago a proveedor vence el lunes",
+      "Distribuidora Andina · $1.700.000"
+     ],
+     [
+      "amarillo",
+      "Arriendo del local",
+      "Vence el 1 · $1.400.000"
+     ],
+     [
+      "verde",
+      "Te pagó Laura Gómez",
+      "$450.000 · registrado solo"
+     ],
+     [
+      "amarillo",
+      "Cuota 2 de 6 de la tarjeta",
+      "Vence el 20 · $380.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Anota lo que vas a cobrar cada semana",
+   "texto": "Solo lo seguro: ventas de contado y pagos con fecha. Lo «prometido» no cuenta.",
+   "ejemplo": {
+    "titulo": "Tienda Nube Verde · entra",
+    "filas": [
+     [
+      "Semana 1",
+      "$2.400.000"
+     ],
+     [
+      "Semana 2",
+      "$2.200.000"
+     ],
+     [
+      "Semana 3",
+      "$2.600.000"
+     ],
+     [
+      "Semana 4",
+      "$2.300.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Anota lo que tienes que pagar y cuándo",
+   "texto": "Arriendo, proveedores, nómina y cuotas, cada uno con su fecha.",
+   "ejemplo": {
+    "titulo": "Sale",
+    "filas": [
+     [
+      "Semana 1 (arriendo + proveedor)",
+      "$3.100.000"
+     ],
+     [
+      "Semana 2",
+      "$900.000"
+     ],
+     [
+      "Semana 3 (nómina)",
+      "$2.200.000"
+     ],
+     [
+      "Semana 4 (proveedor)",
+      "$2.500.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Resta semana por semana",
+   "texto": "Aunque el mes cierre en positivo, una semana puede quedar en rojo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Semana 1",
+      "− $700.000",
+      "rojo"
+     ],
+     [
+      "Semana 2",
+      "+ $1.300.000",
+      "verde"
+     ],
+     [
+      "Semana 3",
+      "+ $400.000",
+      "verde"
+     ],
+     [
+      "Semana 4",
+      "− $200.000",
+      "rojo"
+     ],
+     [
+      "**Mes completo**",
+      "+ $800.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Mueve fechas antes de que duela",
+   "bullets": [
+    "Pide al proveedor pagarle en la semana 2",
+    "Cobra antes a quien te debe",
+    "Compras grandes, mejor en la semana 2"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "La clave",
+   "titulo": "Ganar en el mes no es tener dinero cada semana",
+   "texto": "Por eso hay negocios que ganan y aun así un lunes no les alcanza para pagar."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada pago con su fecha y su alerta",
+   "pantalla": "alertas",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "alertas": [
+     [
+      "rojo",
+      "Pago a proveedor vence el lunes",
+      "Distribuidora Andina · $1.700.000"
+     ],
+     [
+      "amarillo",
+      "Arriendo del local",
+      "Vence el 1 · $1.400.000"
+     ],
+     [
+      "verde",
+      "Te pagó Laura Gómez",
+      "$450.000 · registrado solo"
+     ],
+     [
+      "amarillo",
+      "Cuota 2 de 6 de la tarjeta",
+      "Vence el 20 · $380.000"
+     ]
+    ]
+   },
+   "nota": "Recordatorios con alertas en todos los planes"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Adelántate en vez de apagar incendios",
+   "items": [
+    "Recordatorios con fecha límite",
+    "Alertas de deudas y cuotas",
+    "Lo que entra y sale, al día"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

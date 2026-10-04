@@ -1,0 +1,201 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "KentrAI",
+   "titulo": "5 preguntas que le puedes hacer a tu negocio",
+   "sub": "Y que KentrAI responde con tus propios números.",
+   "visual": "app",
+   "pantalla": "kentrai",
+   "app": {
+    "chat": [
+     [
+      "yo",
+      "¿En qué gasté más este mes?"
+     ],
+     [
+      "ia",
+      "En **insumos**: $2.900.000, el 42 % de tus gastos. Subieron 12 % frente a agosto."
+     ],
+     [
+      "yo",
+      "¿Cuánto puedo reinvertir?"
+     ],
+     [
+      "ia",
+      "Te quedaron **$1.450.000**. Si guardas un colchón del 30 %, puedes reinvertir **$1.015.000**."
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "«¿En qué gasté más este mes?»",
+   "texto": "Para saber por dónde empezar a recortar.",
+   "ejemplo": {
+    "titulo": "Respuesta de ejemplo",
+    "filas": [
+     [
+      "Insumos",
+      "$2.900.000 (42 %)",
+      "rojo"
+     ],
+     [
+      "Arriendo",
+      "$1.800.000"
+     ],
+     [
+      "Nómina",
+      "$1.500.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "«¿Gané más que el mes pasado?»",
+   "texto": "Para ver la tendencia, no solo la foto de hoy.",
+   "ejemplo": {
+    "titulo": "Respuesta de ejemplo",
+    "filas": [
+     [
+      "Agosto",
+      "$1.290.000"
+     ],
+     [
+      "Septiembre",
+      "$1.450.000"
+     ],
+     [
+      "**Diferencia**",
+      "+ $160.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "«¿Cuánto puedo reinvertir?»",
+   "texto": "Para crecer sin quedarte sin colchón.",
+   "ejemplo": {
+    "titulo": "Respuesta de ejemplo",
+    "filas": [
+     [
+      "Te quedó",
+      "$1.450.000"
+     ],
+     [
+      "Colchón 30 %",
+      "− $435.000",
+      "rojo"
+     ],
+     [
+      "**Puedes reinvertir**",
+      "$1.015.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "«¿Qué pagos vencen esta semana?»",
+   "texto": "Para que ningún recargo te tome por sorpresa.",
+   "ejemplo": {
+    "titulo": "Respuesta de ejemplo",
+    "filas": [
+     [
+      "Proveedor (jueves)",
+      "$1.200.000"
+     ],
+     [
+      "Cuota tarjeta (viernes)",
+      "$380.000"
+     ],
+     [
+      "**Total**",
+      "$1.580.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "titulo": "«¿Qué gasto subió más?»",
+   "texto": "Los aumentos pequeños son los que nadie ve hasta que es tarde.",
+   "ejemplo": {
+    "titulo": "Frente a agosto",
+    "filas": [
+     [
+      "Insumos",
+      "+ 12 %",
+      "rojo"
+     ],
+     [
+      "Domicilios",
+      "+ 8 %",
+      "rojo"
+     ],
+     [
+      "Servicios",
+      "+ 3 %"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Le escribes como a una persona",
+   "pantalla": "kentrai",
+   "app": {
+    "chat": [
+     [
+      "yo",
+      "¿En qué gasté más este mes?"
+     ],
+     [
+      "ia",
+      "En **insumos**: $2.900.000, el 42 % de tus gastos. Subieron 12 % frente a agosto."
+     ],
+     [
+      "yo",
+      "¿Cuánto puedo reinvertir?"
+     ],
+     [
+      "ia",
+      "Te quedaron **$1.450.000**. Si guardas un colchón del 30 %, puedes reinvertir **$1.015.000**."
+     ]
+    ]
+   },
+   "nota": "KentrAI es ilimitado en todos los planes"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Pregúntale a tu negocio cómo va",
+   "items": [
+    "Responde con tus números",
+    "Ilimitado en todos los planes",
+    "Desde el celular o el computador"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

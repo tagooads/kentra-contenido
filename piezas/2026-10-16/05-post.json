@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Equipo",
+ "titulo": "Tu equipo registra. Tú ves los resultados.",
+ "items": [
+  "Colaborador: registra y sube facturas",
+  "Solo edita lo que él mismo registró",
+  "No ve Resultados ni Análisis",
+  "Administrador: todo menos suscripción y equipo"
+ ],
+ "cierre": "Usuarios extra desde el plan Pro.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

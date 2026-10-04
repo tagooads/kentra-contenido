@@ -1,0 +1,185 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Punto de equilibrio",
+   "titulo": "¿Cuánto tienes que vender para no perder?",
+   "sub": "Una cuenta de 3 pasos, con el ejemplo de una cafetería.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "ingresos": "$12.600.000",
+    "gastos": "$12.390.000",
+    "ganancia": "$210.000",
+    "margen": "1,7 % de margen",
+    "barras": [
+     55,
+     62,
+     48,
+     70,
+     66,
+     74,
+     80
+    ],
+    "rojo": [
+     2
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Suma tus gastos fijos",
+   "texto": "Los que pagas aunque ese mes no vendas nada.",
+   "ejemplo": {
+    "titulo": "Café La Esquina",
+    "filas": [
+     [
+      "Arriendo",
+      "$1.800.000"
+     ],
+     [
+      "Nómina",
+      "$1.900.000"
+     ],
+     [
+      "Servicios y otros",
+      "$500.000"
+     ],
+     [
+      "**Total fijos**",
+      "$4.200.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Calcula cuánto te deja cada venta",
+   "texto": "Precio menos lo que te cuesta. Ese porcentaje es tu margen.",
+   "ejemplo": {
+    "titulo": "Venta promedio",
+    "filas": [
+     [
+      "Precio",
+      "$10.000"
+     ],
+     [
+      "Insumos y empaque",
+      "− $6.500",
+      "rojo"
+     ],
+     [
+      "**Te deja**",
+      "$3.500 (35 %)",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Divide los fijos entre el margen",
+   "texto": "El resultado es lo mínimo que debes vender en el mes para no perder.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Gastos fijos",
+      "$4.200.000"
+     ],
+     [
+      "Margen",
+      "35 %"
+     ],
+     [
+      "**Ventas mínimas**",
+      "$12.000.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Llévalo a una meta diaria",
+   "texto": "Así sabes cada noche si vas bien o te estás quedando atrás.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas mínimas del mes",
+      "$12.000.000"
+     ],
+     [
+      "Días que abres",
+      "25"
+     ],
+     [
+      "**Meta diaria**",
+      "$480.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "Lo que sigue",
+   "titulo": "Lo que vendas por encima de esa cifra ya es ganancia",
+   "texto": "Si vendes $12.600.000, los $600.000 de más te dejan $210.000 (el 35 %)."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Ingresos y gastos del mes, al día",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "ingresos": "$12.600.000",
+    "gastos": "$12.390.000",
+    "ganancia": "$210.000",
+    "margen": "1,7 % de margen",
+    "barras": [
+     55,
+     62,
+     48,
+     70,
+     66,
+     74,
+     80
+    ],
+    "rojo": [
+     2
+    ]
+   },
+   "nota": "Ya pasaste tu punto de equilibrio"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Tus números del mes, siempre a mano",
+   "items": [
+    "Gastos fijos en su categoría",
+    "Ingresos y gastos al día",
+    "Ganancia real del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

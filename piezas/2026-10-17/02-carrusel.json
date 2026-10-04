@@ -1,0 +1,160 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Freelancers y creativos",
+   "titulo": "¿Cuánto vale de verdad tu hora de trabajo?",
+   "sub": "La cuenta que casi nadie hace antes de cotizar.",
+   "visual": "mascota"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Suma tu sueldo y tus gastos",
+   "texto": "Software, internet, equipo: también salen de lo que cobras.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Tu sueldo meta",
+      "$4.000.000"
+     ],
+     [
+      "Gastos del negocio",
+      "$600.000"
+     ],
+     [
+      "**A facturar al mes**",
+      "$4.600.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Cuenta solo las horas que cobras",
+   "texto": "Responder mensajes, cotizar y cobrar también es trabajo, pero nadie te lo paga.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Horas trabajadas al mes",
+      "160"
+     ],
+     [
+      "Horas que no cobras",
+      "− 60",
+      "rojo"
+     ],
+     [
+      "**Horas que cobras**",
+      "100",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Divide y tendrás tu tarifa mínima",
+   "texto": "Por debajo de esta cifra, trabajas a pérdida.",
+   "ejemplo": {
+    "filas": [
+     [
+      "A facturar",
+      "$4.600.000"
+     ],
+     [
+      "Horas que cobras",
+      "100"
+     ],
+     [
+      "**Tarifa mínima**",
+      "$46.000/hora",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Cuidado con las rondas de cambios",
+   "texto": "Un proyecto de 20 horas cotizado en $920.000, con 2 rondas extra de 3 horas:",
+   "ejemplo": {
+    "filas": [
+     [
+      "Horas reales",
+      "26"
+     ],
+     [
+      "Cobraste",
+      "$920.000"
+     ],
+     [
+      "**Tu hora quedó en**",
+      "$35.385",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "tema": "verde",
+   "titulo": "Pon límites en la cotización",
+   "bullets": [
+    "Incluye 2 rondas de cambios",
+    "Cobra aparte cada ronda extra",
+    "Pide un anticipo antes de empezar"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada cobro con su comprobante PDF",
+   "pantalla": "comprobante",
+   "app": {
+    "negocio": "Estudio Luna",
+    "numero": "0142",
+    "fecha": "16 oct 2026",
+    "cliente": "Marcela Ríos",
+    "items": [
+     [
+      "Diseño de logo",
+      "$920.000"
+     ],
+     [
+      "Ronda extra (3 h)",
+      "$138.000"
+     ]
+    ],
+    "total": "$1.058.000"
+   },
+   "nota": "Con tu logo, listo para enviar"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Cobra lo que vale tu trabajo",
+   "items": [
+    "Ingresos y gastos por categoría",
+    "Comprobantes PDF con tu logo",
+    "Lo que te queda cada mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "tema": "verde",
+ "kicker": "Tienda online",
+ "filas": [
+  {
+   "label": "Vendiste",
+   "valor": "$11.300.000",
+   "color": "gris"
+  },
+  {
+   "label": "Gastos",
+   "valor": "− $9.950.000",
+   "color": "rojo",
+   "nota": "mercancía · envíos · comisiones · publicidad"
+  },
+  {
+   "label": "Te quedó",
+   "valor": "$1.350.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "formato": "post",
+ "titulo": "Tu tienda vendió $11.300.000. ¿Cuánto le quedó?",
+ "cierre": "De cada $100 vendidos le quedaron $12. Kentra te lo muestra solo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

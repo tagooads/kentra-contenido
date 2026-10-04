@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "Una fórmula mal copiada y todo el mes queda mal.",
+ "sub": "En Excel el error se esconde. En Kentra los cálculos son automáticos.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

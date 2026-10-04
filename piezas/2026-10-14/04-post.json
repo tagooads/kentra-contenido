@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Objeciones",
+ "titulo": "«¿$15 al mes? No sé si vale la pena.»",
+ "sub": "Un recargo por pagar tarde o un cobro olvidado suelen costar más. Kentra te avisa de los dos.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

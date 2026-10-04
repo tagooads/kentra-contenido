@@ -1,0 +1,18 @@
+{
+ "layout": "tip",
+ "tema": "claro",
+ "kicker": "Tip",
+ "titulo": "Fijos o variables: ¿sabes cuáles son los tuyos?",
+ "items": [
+  "Fijos: los pagas aunque no vendas (arriendo)",
+  "Variables: crecen si vendes más (insumos)",
+  "Si suben los fijos, necesitas vender más",
+  "Si suben los variables, revisa tus precios"
+ ],
+ "formato": "post",
+ "cierre": "Sepáralos en categorías y mira cuál crece cada mes.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

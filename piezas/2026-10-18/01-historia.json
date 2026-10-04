@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "¿Qué miras primero: ventas o ganancia?",
+ "sub": "Diagnóstico gratis de tu negocio: 2 minutos.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

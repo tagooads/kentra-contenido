@@ -1,0 +1,176 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Margen por producto",
+   "titulo": "Tu producto más vendido puede ser el que menos te deja",
+   "sub": "Cómo saberlo en 4 pasos.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Saca el costo de cada producto",
+   "texto": "Todo lo que lleva: insumos, empaque y la comisión si cobras con tarjeta.",
+   "ejemplo": {
+    "titulo": "Costo por unidad",
+    "filas": [
+     [
+      "Sándwich",
+      "$9.800"
+     ],
+     [
+      "Capuchino",
+      "$3.150"
+     ],
+     [
+      "Porción de torta",
+      "$3.600"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Réstalo del precio",
+   "texto": "Eso es lo que te deja cada unidad que vendes.",
+   "ejemplo": {
+    "titulo": "Precio − costo",
+    "filas": [
+     [
+      "Sándwich ($14.000)",
+      "$4.200"
+     ],
+     [
+      "Capuchino ($9.000)",
+      "$5.850"
+     ],
+     [
+      "Torta ($8.000)",
+      "$4.400"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Multiplica por lo que vendiste",
+   "texto": "Ahí aparece quién sostiene de verdad tu negocio.",
+   "ejemplo": {
+    "titulo": "Septiembre",
+    "filas": [
+     [
+      "300 sándwiches × $4.200",
+      "$1.260.000"
+     ],
+     [
+      "250 capuchinos × $5.850",
+      "$1.462.500",
+      "verde"
+     ],
+     [
+      "180 tortas × $4.400",
+      "$792.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Mira el porcentaje, no solo la cifra",
+   "texto": "El sándwich es el que más se vende, pero solo te deja 30 % de lo que cobras.",
+   "ejemplo": {
+    "titulo": "Te deja de cada venta",
+    "filas": [
+     [
+      "Sándwich",
+      "30 %",
+      "rojo"
+     ],
+     [
+      "Torta",
+      "55 %"
+     ],
+     [
+      "Capuchino",
+      "65 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "tema": "verde",
+   "titulo": "Decide con ese dato",
+   "bullets": [
+    "Sube un poco el precio del que deja poco",
+    "Busca otro proveedor para ese insumo",
+    "Ofrece primero el que más te deja"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cuánto se va en insumos cada mes",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Septiembre",
+    "categorias": [
+     [
+      "Insumos",
+      "$3.100.000",
+      104
+     ],
+     [
+      "Nómina",
+      "$1.900.000",
+      95
+     ],
+     [
+      "Arriendo",
+      "$1.800.000",
+      100
+     ],
+     [
+      "Comisiones",
+      "$310.000",
+      88
+     ],
+     [
+      "Empaques",
+      "$260.000",
+      72
+     ]
+    ]
+   },
+   "nota": "Insumos: 4 % sobre el presupuesto"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Deja de adivinar qué te deja dinero",
+   "items": [
+    "Gastos por categoría",
+    "Alerta si una categoría se pasa",
+    "Ganancia real del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

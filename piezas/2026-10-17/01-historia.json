@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "Sin saber cuánto ganaste, todo gasto es una apuesta.",
+ "sub": "Haz el diagnóstico gratis de tu negocio en 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Plan Pro",
+ "titulo": "Tu extracto del banco, organizado",
+ "pantalla": "importar",
+ "app": {
+  "negocio": "Café La Esquina",
+  "archivo": "extracto-septiembre.csv",
+  "detectados": "46 movimientos detectados"
+ },
+ "nota": "Se registra solo, cada uno en su categoría",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "Lo que Excel no te avisa",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "No avisa si un gasto se dispara",
+   "No te recuerda pagos",
+   "No calcula solo tu ganancia"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "items": [
+   "Alerta si una categoría se pasa",
+   "Recordatorios con fecha",
+   "Ganancia real en una pantalla"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

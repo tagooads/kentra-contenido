@@ -21,6 +21,10 @@ Actualizado: 2026-09-29. El agente actualiza este archivo cuando descubre un com
 | María Saavedra - Análisis de Datos | 578068058733008 | CL | Consultora / plantillas | "Vender no siempre significa ganar", contenido por vertical (peluquería) |
 | Tu negocio depende de vos | 1370535406136690 | AR | Educación finanzas negocio | "Tu negocio necesita más que ventas", "Tu negocio puede darte más libertad" |
 | Bind México (Bind ERP) | 390125361088582 | MX | ERP pyme (inventario, ventas, cobranza) | "Vender más no es ganar más", "Mira más allá de lo facturado", "Consulta quién te debe y desde cuándo", "Deja de capturar todo dos veces" |
+| FARO solutions | 1107540432450119 | CO | Software de gestión pyme | "Excel ya no es suficiente", "Tu negocio no es tu billetera" |
+| Lic.GLH | 297432421117457 | MX | Asesoría / formación en números del negocio | "Aprende a conocer los números reales de tu negocio", "Calcula tu costo real" |
+| ¿Estoy cobrando bien? | 1388003951059174 | CL | Herramienta/formación de tarifas | "¿Estás cobrando bien por tu trabajo?" |
+| Monediez | 1901274466853919 | BR (habla español) | Finanzas casa + negocio por WhatsApp | "Las cuentas de tu casa y de tu negocio, por WhatsApp" |
 | Naimi Núñez | 105388641285294 | USD (LatAm) | Coach de finanzas para negocio | "Por qué facturas bien y no te queda nada" — mismo territorio de ganancia real, desde la formación |
 
 Pendientes de ubicar page_id: Treinta (búsqueda por nombre no arroja anuncios activos al 2026-09-30), Contabilium, Nubox, Quipu (España), Holded (España). Buscar por nombre en la Biblioteca y agregar aquí.
@@ -41,3 +45,4 @@ Pendientes de ubicar page_id: Treinta (búsqueda por nombre no arroja anuncios a
 
 - **2026-09-29** — Primera lectura. Alegra tiene ~185 anuncios activos en CO, casi todos "Pruébalo gratis"; Kame ~170 con ángulos de costos y control; Chipax ~10 con "rentabilidad en 1 clic". Nadie usa un personaje de marca ni humor visual: ahí hay espacio.
 - **2026-09-30** — Bind México (MX) entra al radar: "Vender más no es ganar más" y "Mira más allá de lo facturado" son el mismo pilar de ganancia real de Kentra, pero vendido como ERP con implementación. Siigo y Alegra siguen volcados a contadores (eventos, prompts, NIIF). María Saavedra suma "Tu Excel puede trabajar por ti": el Excel como aliado, no como enemigo; Kentra mantiene el duelo. El gancho "facturas bien y no te queda nada" ya lo usa un coach (Naimi Núñez): el territorio se llena, hay que ganarlo con la cifra lado a lado y la mascota, no solo con la frase.
+- **2026-10-04** — Kame suma "Evita fugas de dinero / 3 costos invisibles de tu negocio" y un plan "Kame FREE"; Alegra lanza campaña de recuperación ("Tu cuenta te espera") y "Decisiones basadas en datos reales"; Bind baja a verticales muy concretas (material de construcción: "Entregado… ¿cobrado?", "Surtir a ciegas te sale caro"); Naimi prueba "¿Cuánto te puede pagar tu negocio hoy?". Nuevos en el radar por búsqueda de términos: FARO solutions (CO), Lic.GLH (MX), ¿Estoy cobrando bien? (CL) y Monediez (WhatsApp). El ángulo "calcula tu costo / tu tarifa" crece: Kentra responde con carruseles de cálculo paso a paso.

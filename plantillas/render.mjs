@@ -103,7 +103,7 @@ function css(tema, formato) {
   .cita{font-weight:800;font-size:${hist ? 84 : 80}px;line-height:1.1;letter-spacing:-.02em}
   .cita{border-left:16px solid ${t.acc};padding-left:44px}
   .tag{align-self:flex-start;background:${t.acc};color:${tema === "verde" ? "#1E2D4F" : (tema === "navy" ? "#0F1E38" : "#fff")};font-weight:800;font-size:30px;padding:12px 24px;border-radius:14px;letter-spacing:.08em;text-transform:uppercase}
-  .fit{overflow:hidden}
+  .fit{overflow:hidden;padding-bottom:.14em}
   `;
 }
 

@@ -1,0 +1,33 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "KentrAI",
+ "titulo": "¿Cuánto puedo gastar este mes?",
+ "pantalla": "kentrai",
+ "app": {
+  "chat": [
+   [
+    "yo",
+    "¿Cuánto puedo invertir en publicidad este mes?"
+   ],
+   [
+    "ia",
+    "En septiembre te quedaron **$1.450.000**. Si guardas 30 % de colchón, tienes **$1.015.000** para reinvertir."
+   ],
+   [
+    "yo",
+    "¿Y cuánto gasté en publicidad en septiembre?"
+   ],
+   [
+    "ia",
+    "**$320.000**, el 5 % de tus gastos del mes."
+   ]
+  ]
+ },
+ "nota": "Pregúntale con tus palabras",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

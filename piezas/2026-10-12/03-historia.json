@@ -1,0 +1,38 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Recordatorios",
+ "titulo": "Pagar tarde también es un gasto",
+ "pantalla": "alertas",
+ "app": {
+  "negocio": "Tienda Nube Verde",
+  "alertas": [
+   [
+    "rojo",
+    "Pago a proveedor vence mañana",
+    "Distribuidora Andina · $1.200.000"
+   ],
+   [
+    "amarillo",
+    "Cuota 3 de 6 de la tarjeta",
+    "Vence el viernes · $380.000"
+   ],
+   [
+    "amarillo",
+    "Servicios del local",
+    "Vencen el 20 · $260.000"
+   ],
+   [
+    "verde",
+    "Te pagó Carolina Pérez",
+    "$750.000 · registrado solo"
+   ]
+  ]
+ },
+ "nota": "Kentra te avisa antes de que venza",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}
