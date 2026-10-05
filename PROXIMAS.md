@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
 
 
 ## Lunes 5/10
-
-**12:00 — Carrusel** · ganancia-real · `2026-10-05-02-carrusel`
-
-<img src="piezas/2026-10-05/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-05/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-05/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-05/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-05/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-05/02-carrusel-6.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Ver $3.200.000 en el banco se siente bien. Hasta que restas lo que ya debes.
-
-En este carrusel: la diferencia entre flujo de caja y ganancia, con un ejemplo donde el saldo parece bueno pero el mes cierra en −$180.000.
-
-Kentra te muestra lo que tienes, lo que debes y lo que te quedó. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #FlujoDeCaja #Pymes
-
-</details>
 
 **18:00 — Post** · objeciones · `2026-10-05-05-post`
 
@@ -820,9 +804,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- lunes 5/10 · 12:00 · Carrusel `2026-10-05-02-carrusel` · IG ✓ · FB ✓
 - lunes 5/10 · 10:00 · Post `2026-10-05-04-post` · IG ✓ · FB ✓
 - lunes 5/10 · 08:00 · Historia `2026-10-05-01-historia` · IG ✓ · FB ✓
 - domingo 4/10 · 19:00 · Historia `2026-10-04-03-historia` · IG ✓ · FB ✓
 - domingo 4/10 · 18:00 · Post `2026-10-04-05-post` · IG ✓ · FB ✓
 - domingo 4/10 · 12:00 · Carrusel `2026-10-04-02-carrusel` · IG ✓ · FB ✓
-- domingo 4/10 · 10:00 · Post `2026-10-04-04-post` · IG ✓ · FB ✓
