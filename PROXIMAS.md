@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 64 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
 
 
 ## Martes 6/10
-
-**10:00 — Post** · funcionalidades · `2026-10-06-04-post`
-
-<img src="piezas/2026-10-06/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Digitar facturas a mano es el trabajo más aburrido del negocio.
-
-En Kentra (plan Pro) le subes la factura y se registra sola, con su categoría. Tú solo revisas y guardas.
-
-👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-10-06-02-carrusel`
 
@@ -777,9 +761,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- martes 6/10 · 10:00 · Post `2026-10-06-04-post` · IG ✓ · FB ✓
 - martes 6/10 · 08:00 · Historia `2026-10-06-01-historia` · IG ✓ · FB ✓
 - lunes 5/10 · 19:00 · Historia `2026-10-05-03-historia` · IG ✓ · FB ✓
 - lunes 5/10 · 18:00 · Post `2026-10-05-05-post` · IG ✓ · FB ✓
 - lunes 5/10 · 12:00 · Carrusel `2026-10-05-02-carrusel` · IG ✓ · FB ✓
 - lunes 5/10 · 10:00 · Post `2026-10-05-04-post` · IG ✓ · FB ✓
-- lunes 5/10 · 08:00 · Historia `2026-10-05-01-historia` · IG ✓ · FB ✓
