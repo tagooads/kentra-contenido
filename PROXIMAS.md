@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
 
 
 ## Martes 6/10
-
-**12:00 — Carrusel** · funcionalidades · `2026-10-06-02-carrusel`
-
-<img src="piezas/2026-10-06/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-06/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-06/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-06/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-06/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-06/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-06/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Cómo se ve Kentra por dentro? Así.
-
-1. Tu mes completo en una pantalla. 2. Subes el extracto y los movimientos se registran solos (plan Pro). 3. Comprobantes PDF con tu logo. 4. Alertas antes de que algo venza. 5. KentrAI responde con tus propios números.
-
-Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Productividad
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-06-05-post`
 
@@ -761,9 +745,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- martes 6/10 · 12:00 · Carrusel `2026-10-06-02-carrusel` · IG ✓ · FB ✓
 - martes 6/10 · 10:00 · Post `2026-10-06-04-post` · IG ✓ · FB ✓
 - martes 6/10 · 08:00 · Historia `2026-10-06-01-historia` · IG ✓ · FB ✓
 - lunes 5/10 · 19:00 · Historia `2026-10-05-03-historia` · IG ✓ · FB ✓
 - lunes 5/10 · 18:00 · Post `2026-10-05-05-post` · IG ✓ · FB ✓
 - lunes 5/10 · 12:00 · Carrusel `2026-10-05-02-carrusel` · IG ✓ · FB ✓
-- lunes 5/10 · 10:00 · Post `2026-10-05-04-post` · IG ✓ · FB ✓
