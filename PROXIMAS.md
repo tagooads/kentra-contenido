@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
 
 
 ## Miércoles 7/10
-
-**12:00 — Carrusel** · educacion · `2026-10-07-02-carrusel`
-
-<img src="piezas/2026-10-07/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-07/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-07/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-07/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-07/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-07/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-07/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El dinero que te deben no te sirve hasta que llega.
-
-En este carrusel: 4 hábitos simples para cobrar a tiempo. Fecha de pago clara, comprobante profesional, recordatorio un día antes y registro de quién te debe.
-
-En Kentra marcas una cuenta como cobrada y queda registrada sola. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Cobranza #Emprendedores
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-07-05-post`
 
@@ -700,9 +684,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- miércoles 7/10 · 12:00 · Carrusel `2026-10-07-02-carrusel` · IG ✓ · FB ✓
 - miércoles 7/10 · 10:00 · Post `2026-10-07-04-post` · IG ✓ · FB ✓
 - miércoles 7/10 · 08:00 · Historia `2026-10-07-01-historia` · IG ✓ · FB ✓
 - martes 6/10 · 19:00 · Historia `2026-10-06-03-historia` · IG ✓ · FB ✓
 - martes 6/10 · 18:00 · Post `2026-10-06-05-post` · IG ✓ · FB ✓
 - martes 6/10 · 12:00 · Carrusel `2026-10-06-02-carrusel` · IG ✓ · FB ✓
-- martes 6/10 · 10:00 · Post `2026-10-06-04-post` · IG ✓ · FB ✓
