@@ -879,7 +879,13 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "media_id": "18080621615374950",
+      "publicado_ig": true,
+      "fb_post_id": "1074721185469232",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-10-08T13:07:38.083Z"
     },
     {
       "id": "2026-10-08-04-post",
