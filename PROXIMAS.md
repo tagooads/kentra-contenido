@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 54 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 53 piezas agendadas.
 
 
 ## Jueves 8/10
-
-**10:00 — Post** · ganancia-real · `2026-10-08-04-post`
-
-<img src="piezas/2026-10-08/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-4 señales de que ganas menos de lo que crees. La primera: el saldo del banco sube… pero las deudas también.
-
-Hoy a las 12 publicamos las 4 en un carrusel. Activa las notificaciones para no perdértelo.
-
-👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-08-02-carrusel`
 
@@ -657,9 +641,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- jueves 8/10 · 10:00 · Post `2026-10-08-04-post` · IG ✓ · FB ✓
 - jueves 8/10 · 08:00 · Historia `2026-10-08-01-historia` · IG ✓ · FB ✓
 - miércoles 7/10 · 19:00 · Historia `2026-10-07-03-historia` · IG ✓ · FB ✓
 - miércoles 7/10 · 18:00 · Post `2026-10-07-05-post` · IG ✓ · FB ✓
 - miércoles 7/10 · 12:00 · Carrusel `2026-10-07-02-carrusel` · IG ✓ · FB ✓
 - miércoles 7/10 · 10:00 · Post `2026-10-07-04-post` · IG ✓ · FB ✓
-- miércoles 7/10 · 08:00 · Historia `2026-10-07-01-historia` · IG ✓ · FB ✓
