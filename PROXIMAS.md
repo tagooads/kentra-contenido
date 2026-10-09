@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 48 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 47 piezas agendadas.
 
 
 ## Viernes 9/10
-
-**12:00 — Carrusel** · educacion · `2026-10-09-02-carrusel`
-
-<img src="piezas/2026-10-09/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-8.jpg" width="220"> <img src="piezas/2026-10-09/02-carrusel-9.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-No son los gastos grandes los que se comen la ganancia. Son los pequeños que nadie anota.
-
-En este carrusel: 6 gastos hormiga del negocio, desde comisiones de pago hasta las compras en efectivo sin recibo. Solo las comisiones de $6.000.000 en ventas ya son $180.000 al mes.
-
-Kentra te avisa cuando una categoría se pasa. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #GastosHormiga #Pymes
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-09-05-post`
 
@@ -580,9 +564,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- viernes 9/10 · 12:00 · Carrusel `2026-10-09-02-carrusel` · IG ✓ · FB ✓
 - viernes 9/10 · 10:00 · Post `2026-10-09-04-post` · IG ✓ · FB ✓
 - viernes 9/10 · 08:00 · Historia `2026-10-09-01-historia` · IG ✓ · FB ✓
 - jueves 8/10 · 19:00 · Historia `2026-10-08-03-historia` · IG ✓ · FB ✓
 - jueves 8/10 · 18:00 · Post `2026-10-08-05-post` · IG ✓ · FB ✓
 - jueves 8/10 · 12:00 · Carrusel `2026-10-08-02-carrusel` · IG ✓ · FB ✓
-- jueves 8/10 · 10:00 · Post `2026-10-08-04-post` · IG ✓ · FB ✓
