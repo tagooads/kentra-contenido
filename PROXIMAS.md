@@ -2,10 +2,6 @@
 
 Se actualiza sola cada hora. Hora de Bogotá. 50 piezas agendadas.
 
-## ⚠️ Con error
-
-- **jueves 8/10 · 19:00** Historia `2026-10-08-03-historia`: IG: 17841480064403784/media_publish: Media ID is not available
-
 
 ## Viernes 9/10
 
@@ -604,9 +600,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- jueves 8/10 · 19:00 · Historia `2026-10-08-03-historia` · IG ✓ · FB ✓
 - jueves 8/10 · 18:00 · Post `2026-10-08-05-post` · IG ✓ · FB ✓
 - jueves 8/10 · 12:00 · Carrusel `2026-10-08-02-carrusel` · IG ✓ · FB ✓
 - jueves 8/10 · 10:00 · Post `2026-10-08-04-post` · IG ✓ · FB ✓
 - jueves 8/10 · 08:00 · Historia `2026-10-08-01-historia` · IG ✓ · FB ✓
 - miércoles 7/10 · 19:00 · Historia `2026-10-07-03-historia` · IG ✓ · FB ✓
-- miércoles 7/10 · 18:00 · Post `2026-10-07-05-post` · IG ✓ · FB ✓

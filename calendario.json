@@ -972,7 +972,10 @@
       "fb_post_id": "1651775553227543",
       "publicado_fb": true,
       "intentos": 1,
-      "error": "IG: 17841480064403784/media_publish: Media ID is not available"
+      "media_id": "18075044528562367",
+      "publicado_ig": true,
+      "publicado": true,
+      "publicado_en": "2026-10-09T00:09:07.790Z"
     },
     {
       "id": "2026-10-09-01-historia",
