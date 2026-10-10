@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 43 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 42 piezas agendadas.
 
 
 ## Sábado 10/10
-
-**12:00 — Carrusel** · educacion · `2026-10-10-02-carrusel`
-
-<img src="piezas/2026-10-10/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-10/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Guarda este checklist para el cierre de mes.
-
-5 pasos en 15 minutos: registrar lo que falte, revisar lo que te deben, revisar lo que debes, mirar tus 3 números y comparar con el mes anterior.
-
-En Kentra el cierre se hace en 3 minutos porque ya está todo registrado. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #Pymes
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-10-05-post`
 
@@ -521,9 +505,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- sábado 10/10 · 12:00 · Carrusel `2026-10-10-02-carrusel` · IG ✓ · FB ✓
 - sábado 10/10 · 10:00 · Post `2026-10-10-04-post` · IG ✓ · FB ✓
 - sábado 10/10 · 08:00 · Historia `2026-10-10-01-historia` · IG ✓ · FB ✓
 - viernes 9/10 · 19:00 · Historia `2026-10-09-03-historia` · IG ✓ · FB ✓
 - viernes 9/10 · 18:00 · Post `2026-10-09-05-post` · IG ✓ · FB ✓
 - viernes 9/10 · 12:00 · Carrusel `2026-10-09-02-carrusel` · IG ✓ · FB ✓
-- viernes 9/10 · 10:00 · Post `2026-10-09-04-post` · IG ✓ · FB ✓
