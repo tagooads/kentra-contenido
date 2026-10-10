@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 44 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 43 piezas agendadas.
 
 
 ## Sábado 10/10
-
-**10:00 — Post** · objeciones · `2026-10-10-04-post`
-
-<img src="piezas/2026-10-10/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Llevas las cuentas en la cabeza o en una libreta?
-
-Funciona… hasta que se te olvida un gasto o no sabes cuánto te deben. Haz el diagnóstico en kentra.pro/quiz: 5 preguntas, 2 minutos, resultado al instante.
-
-👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-10-02-carrusel`
 
@@ -537,9 +521,9 @@ Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM
 
 ## Últimas publicadas
 
+- sábado 10/10 · 10:00 · Post `2026-10-10-04-post` · IG ✓ · FB ✓
 - sábado 10/10 · 08:00 · Historia `2026-10-10-01-historia` · IG ✓ · FB ✓
 - viernes 9/10 · 19:00 · Historia `2026-10-09-03-historia` · IG ✓ · FB ✓
 - viernes 9/10 · 18:00 · Post `2026-10-09-05-post` · IG ✓ · FB ✓
 - viernes 9/10 · 12:00 · Carrusel `2026-10-09-02-carrusel` · IG ✓ · FB ✓
 - viernes 9/10 · 10:00 · Post `2026-10-09-04-post` · IG ✓ · FB ✓
-- viernes 9/10 · 08:00 · Historia `2026-10-09-01-historia` · IG ✓ · FB ✓
