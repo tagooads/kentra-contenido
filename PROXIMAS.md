@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 71 piezas agendadas.
 
 
 ## Domingo 11/10
-
-**18:00 — Post** · precio · `2026-10-11-05-post`
-
-<img src="piezas/2026-10-11/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Y si no es para ti?
-
-Kentra tiene acceso inmediato, sin permanencia y garantía de 30 días. Empiezas tranquilo y decides con tus propios números.
-
-👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · objeciones · `2026-10-11-03-historia`
 
@@ -857,9 +841,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- domingo 11/10 · 18:00 · Post `2026-10-11-05-post` · IG ✓ · FB ✓
 - domingo 11/10 · 12:00 · Carrusel `2026-10-11-02-carrusel` · IG ✓ · FB ✓
 - domingo 11/10 · 10:00 · Post `2026-10-11-04-post` · IG ✓ · FB ✓
 - domingo 11/10 · 08:00 · Historia `2026-10-11-01-historia` · IG ✓ · FB ✓
 - sábado 10/10 · 19:00 · Historia `2026-10-10-03-historia` · IG ✓ · FB ✓
 - sábado 10/10 · 18:00 · Post `2026-10-10-05-post` · IG ✓ · FB ✓
-- sábado 10/10 · 12:00 · Carrusel `2026-10-10-02-carrusel` · IG ✓ · FB ✓
