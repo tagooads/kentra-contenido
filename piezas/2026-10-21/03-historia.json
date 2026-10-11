@@ -1,0 +1,33 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "KentrAI",
+ "titulo": "Pregunta y te responde con tus números",
+ "pantalla": "kentrai",
+ "app": {
+  "chat": [
+   [
+    "yo",
+    "¿Cuánto gasté en domicilios en agosto?"
+   ],
+   [
+    "ia",
+    "**$430.000**, el 6 % de tus gastos del mes. Subió 8 % frente a julio."
+   ],
+   [
+    "yo",
+    "¿Y en septiembre?"
+   ],
+   [
+    "ia",
+    "**$395.000**. Bajó 8 % frente a agosto."
+   ]
+  ]
+ },
+ "nota": "Ilimitado en todos los planes",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

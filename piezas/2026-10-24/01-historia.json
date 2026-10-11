@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "¿Cada cuánto miras tus números?",
+ "sub": "Si la respuesta es «cuando algo sale mal», haz el diagnóstico gratis.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

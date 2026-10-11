@@ -1,0 +1,204 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Gastos",
+   "titulo": "Hay que recortar gastos. ¿Por dónde empiezas?",
+   "sub": "3 grupos para recortar sin frenar tus ventas.",
+   "visual": "app",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Insumos",
+      "$2.900.000",
+      96
+     ],
+     [
+      "Arriendo",
+      "$1.800.000",
+      100
+     ],
+     [
+      "Nómina",
+      "$1.500.000",
+      88
+     ],
+     [
+      "Publicidad",
+      "$400.000",
+      100
+     ],
+     [
+      "Suscripciones",
+      "$120.000",
+      140
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Separa tus gastos en 3 grupos",
+   "texto": "Antes de recortar, mira qué hace cada gasto por ti.",
+   "bullets": [
+    "Los que mantienen el negocio abierto",
+    "Los que traen ventas",
+    "Los que podrías dejar mañana"
+   ]
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Grupo 1: no se quitan, se negocian",
+   "texto": "Arriendo, insumos, nómina. No los eliminas, pero puedes pedir mejor precio o plazo.",
+   "ejemplo": {
+    "titulo": "Ejemplo: una cafetería",
+    "filas": [
+     [
+      "Insumos del mes",
+      "$2.900.000"
+     ],
+     [
+      "**Negocias 5 % menos**",
+      "$145.000 de ahorro",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Grupo 2: mide antes de cortar",
+   "texto": "Publicidad o domicilios pueden dejarte más de lo que cuestan.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Publicidad del mes",
+      "− $400.000",
+      "rojo"
+     ],
+     [
+      "Ganancia de las ventas que trajo",
+      "$560.000"
+     ],
+     [
+      "**Te dejó de más**",
+      "$160.000",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "Si deja más de lo que cuesta, no es el primero en salir."
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Grupo 3: empieza por aquí",
+   "texto": "Suscripciones que no usas, compras repetidas, el «por si acaso».",
+   "ejemplo": {
+    "filas": [
+     [
+      "Apps y suscripciones sin uso",
+      "$120.000"
+     ],
+     [
+      "Compras sin planear",
+      "$280.000"
+     ],
+     [
+      "**Recorte inmediato**",
+      "$400.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "El resultado",
+   "titulo": "$545.000 más al mes, sin vender más",
+   "ejemplo": {
+    "filas": [
+     [
+      "Negociado en insumos",
+      "$145.000"
+     ],
+     [
+      "Recorte del grupo 3",
+      "$400.000"
+     ],
+     [
+      "**Te queda de más**",
+      "$545.000"
+     ]
+    ]
+   },
+   "cierre": "En un año: $6.540.000."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada gasto en su categoría, con su total",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Insumos",
+      "$2.900.000",
+      96
+     ],
+     [
+      "Arriendo",
+      "$1.800.000",
+      100
+     ],
+     [
+      "Nómina",
+      "$1.500.000",
+      88
+     ],
+     [
+      "Publicidad",
+      "$400.000",
+      100
+     ],
+     [
+      "Suscripciones",
+      "$120.000",
+      140
+     ]
+    ]
+   },
+   "nota": "Te avisa cuando una categoría se pasa"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Recorta con datos, no a ojo",
+   "items": [
+    "Gastos por categoría",
+    "Alertas cuando una se pasa",
+    "Ganancia real del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

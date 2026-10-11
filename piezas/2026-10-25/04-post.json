@@ -1,0 +1,33 @@
+{
+ "layout": "ui",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Domingo",
+ "titulo": "Un solo número para mirar este domingo",
+ "sub": "Lo que te quedó en el mes, hasta hoy.",
+ "app": {
+  "negocio": "Estudio Luna",
+  "mes": "Octubre",
+  "ingresos": "$6.200.000",
+  "gastos": "$4.480.000",
+  "ganancia": "$1.720.000",
+  "etiqueta": "Te quedó",
+  "barras": [
+   50,
+   62,
+   58,
+   70,
+   66,
+   78,
+   84
+  ],
+  "rojo": [
+   2
+  ]
+ },
+ "cierre": "Kentra lo calcula solo con lo que registras.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

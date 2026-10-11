@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "¿Qué gasto se te escapa más?",
+ "sub": "Descúbrelo con el diagnóstico gratis: 5 preguntas, 2 minutos.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

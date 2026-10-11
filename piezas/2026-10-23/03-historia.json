@@ -1,0 +1,28 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Plan Pro: hasta 2 negocios",
+ "titulo": "Dos negocios, cada uno con su moneda",
+ "pantalla": "negocios",
+ "app": {
+  "negocios": [
+   [
+    "Café La Esquina",
+    "COP",
+    "$1.450.000",
+    "+12 %"
+   ],
+   [
+    "Tienda online",
+    "USD",
+    "US$ 820",
+    "+4 %"
+   ]
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

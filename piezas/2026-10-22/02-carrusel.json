@@ -1,0 +1,180 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Deudas",
+   "titulo": "Varias deudas: ¿cuál va primero?",
+   "sub": "Un orden simple para salir de ellas sin ahogar el negocio.",
+   "visual": "app",
+   "pantalla": "alertas",
+   "app": {
+    "negocio": "Panadería Trigal",
+    "alertas": [
+     [
+      "rojo",
+      "Proveedor de harina vence el jueves",
+      "Molinos del Valle · $1.800.000"
+     ],
+     [
+      "amarillo",
+      "Pago a la tarjeta de crédito",
+      "Vence el 28 · $600.000"
+     ],
+     [
+      "amarillo",
+      "Servicios del local",
+      "Vencen el 30 · $260.000"
+     ],
+     [
+      "verde",
+      "Abonaste al préstamo familiar",
+      "$200.000 · registrado solo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Haz la lista completa",
+   "texto": "Todas: proveedores, tarjeta, préstamos y lo que le debes a un familiar.",
+   "ejemplo": {
+    "titulo": "Ejemplo: una panadería",
+    "filas": [
+     [
+      "Proveedor de harina",
+      "$1.800.000"
+     ],
+     [
+      "Tarjeta de crédito",
+      "$2.400.000"
+     ],
+     [
+      "Préstamo familiar",
+      "$1.000.000"
+     ],
+     [
+      "**Total**",
+      "$5.200.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Primero, lo que frena tu operación",
+   "texto": "Si el proveedor deja de venderte, dejas de vender tú. Ese pago va primero."
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Después, la deuda más cara",
+   "texto": "La que más intereses o recargos cobra crece más rápido. Ahí va cada peso extra.",
+   "ejemplo": {
+    "titulo": "Lo que cuesta esperar",
+    "filas": [
+     [
+      "Intereses de la tarjeta (2,5 %)",
+      "$60.000/mes",
+      "rojo"
+     ],
+     [
+      "En 6 meses",
+      "$360.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "En las demás, paga lo acordado",
+   "texto": "Al día en todas, pero el dinero extra va a una sola. Así la ves bajar de verdad."
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "tema": "verde",
+   "titulo": "Fija un monto al mes y no lo toques",
+   "texto": "Sale de lo que te quedó, no de lo que vendiste.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Te quedó en el mes",
+      "$1.500.000"
+     ],
+     [
+      "A la tarjeta (40 %)",
+      "$600.000"
+     ],
+     [
+      "**Tarjeta saldada en**",
+      "5 meses"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "6",
+   "tema": "claro",
+   "titulo": "No pagues una deuda con otra",
+   "texto": "Pedir prestado para tapar un hueco solo lo cambia de lugar, y casi siempre más caro."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada deuda con su fecha y su alerta",
+   "pantalla": "alertas",
+   "app": {
+    "negocio": "Panadería Trigal",
+    "alertas": [
+     [
+      "rojo",
+      "Proveedor de harina vence el jueves",
+      "Molinos del Valle · $1.800.000"
+     ],
+     [
+      "amarillo",
+      "Pago a la tarjeta de crédito",
+      "Vence el 28 · $600.000"
+     ],
+     [
+      "amarillo",
+      "Servicios del local",
+      "Vencen el 30 · $260.000"
+     ],
+     [
+      "verde",
+      "Abonaste al préstamo familiar",
+      "$200.000 · registrado solo"
+     ]
+    ]
+   },
+   "nota": "Gestión de deudas en todos los planes"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Sal de deudas con un plan",
+   "items": [
+    "Gestión de deudas",
+    "Alertas antes de cada vencimiento",
+    "Ganancia real de cada mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

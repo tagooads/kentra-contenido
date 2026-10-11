@@ -1,0 +1,26 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "¿Cuánto gastaste en domicilios en agosto?",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "Buscar el archivo correcto",
+   "Filtrar la hoja y sumar",
+   "Rezar por la fórmula"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "items": [
+   "Abres la categoría",
+   "El total ya está sumado",
+   "O le preguntas a KentrAI"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

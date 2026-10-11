@@ -1,0 +1,18 @@
+{
+ "layout": "tip",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Antes de decir sí",
+ "titulo": "Antes de aceptar un pedido grande, revisa esto",
+ "items": [
+  "¿Puedes pagar los insumos antes de cobrar?",
+  "¿Cuándo te pagan, con fecha exacta?",
+  "¿Cuánto te deja después de todo?",
+  "¿Qué dejas de atender por hacerlo?"
+ ],
+ "cierre": "Un pedido grande mal calculado puede dejarte sin caja.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

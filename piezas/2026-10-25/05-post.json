@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Mientras atiendes",
+ "titulo": "Lo que hace Kentra mientras tú trabajas",
+ "items": [
+  "Registra lo que marcas como cobrado",
+  "Te avisa antes de que algo venza",
+  "Suma tus gastos por categoría",
+  "Calcula tu ganancia real del mes"
+ ],
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

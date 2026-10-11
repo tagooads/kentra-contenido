@@ -1,0 +1,185 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Inventario",
+   "titulo": "Tu dinero también está en la bodega",
+   "sub": "Cómo encontrar la mercancía que no se vende y recuperar ese dinero.",
+   "visual": "app",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Mercancía",
+      "$3.200.000",
+      92
+     ],
+     [
+      "Arriendo",
+      "$1.400.000",
+      100
+     ],
+     [
+      "Publicidad",
+      "$450.000",
+      112
+     ],
+     [
+      "Envíos",
+      "$380.000",
+      76
+     ],
+     [
+      "Comisiones",
+      "$210.000",
+      70
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Calcula cuánto dinero tienes en mercancía",
+   "texto": "Unidades por lo que te costó cada una, no por el precio de venta.",
+   "ejemplo": {
+    "titulo": "Ejemplo: tienda de ropa",
+    "filas": [
+     [
+      "Prendas en bodega",
+      "240"
+     ],
+     [
+      "Costo promedio",
+      "$25.000"
+     ],
+     [
+      "**Dinero en mercancía**",
+      "$6.000.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Marca lo que lleva 90 días sin venderse",
+   "texto": "Eso es dinero quieto: ya lo pagaste y no ha vuelto.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Prendas sin venderse en 90 días",
+      "72"
+     ],
+     [
+      "**Dinero quieto**",
+      "$1.800.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Recupéralo, aunque ganes menos",
+   "texto": "Mejor venderlo con poco margen que tenerlo un año más en la bodega.",
+   "ejemplo": {
+    "filas": [
+     [
+      "72 prendas a $30.000",
+      "$2.160.000"
+     ],
+     [
+      "Lo que te costaron",
+      "− $1.800.000",
+      "rojo"
+     ],
+     [
+      "**Recuperas y aún ganas**",
+      "$360.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Compra según lo que sí rota",
+   "texto": "Repite lo que se vende rápido. Lo que tardó 90 días, pídelo en menor cantidad o no lo pidas."
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "Hábito",
+   "titulo": "Revísalo una vez al mes",
+   "bullets": [
+    "Qué se vendió más rápido",
+    "Qué lleva más de 90 días",
+    "Cuánto dinero tienes en bodega"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Tu gasto en mercancía, siempre a la vista",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Mercancía",
+      "$3.200.000",
+      92
+     ],
+     [
+      "Arriendo",
+      "$1.400.000",
+      100
+     ],
+     [
+      "Publicidad",
+      "$450.000",
+      112
+     ],
+     [
+      "Envíos",
+      "$380.000",
+      76
+     ],
+     [
+      "Comisiones",
+      "$210.000",
+      70
+     ]
+    ]
+   },
+   "nota": "Inventario en planes Pro y Business"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Que tu dinero no se quede en la bodega",
+   "items": [
+    "Gastos por categoría",
+    "Módulo de inventario (Pro)",
+    "Ganancia real del mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

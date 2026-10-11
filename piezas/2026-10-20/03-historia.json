@@ -1,0 +1,30 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Comprobantes",
+ "titulo": "Tu comprobante con tu logo, en PDF",
+ "pantalla": "comprobante",
+ "app": {
+  "negocio": "Estudio Luna",
+  "numero": "0131",
+  "fecha": "20 oct 2026",
+  "cliente": "Panadería Trigal",
+  "items": [
+   [
+    "Fotos de producto (20)",
+    "$600.000"
+   ],
+   [
+    "Edición y retoque",
+    "$250.000"
+   ]
+  ],
+  "total": "$850.000"
+ },
+ "nota": "Cuando te pagan, se registra solo",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

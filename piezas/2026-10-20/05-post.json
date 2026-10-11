@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Restaurantes",
+ "titulo": "Lo que de verdad te deja vender por app",
+ "filas": [
+  {
+   "label": "Ventas por app",
+   "valor": "$4.000.000",
+   "color": "gris"
+  },
+  {
+   "label": "Gastos",
+   "valor": "− $2.840.000",
+   "color": "rojo",
+   "nota": "comisión $1.000.000 · empaques $240.000 · insumos $1.600.000"
+  },
+  {
+   "label": "Te quedó",
+   "valor": "$1.160.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "El 29 % de lo vendido, y aún faltan arriendo y nómina.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

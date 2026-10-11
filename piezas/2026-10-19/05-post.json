@@ -1,0 +1,38 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Planes Pro y Business",
+ "titulo": "¿Compraste a cuotas? Que ninguna te sorprenda",
+ "pantalla": "alertas",
+ "app": {
+  "negocio": "Café La Esquina",
+  "alertas": [
+   [
+    "rojo",
+    "Cuota 7 de 12 · tarjeta",
+    "Vence mañana · $280.000"
+   ],
+   [
+    "amarillo",
+    "Cuota 4 de 12 · máquina de café",
+    "Vence el viernes · $420.000"
+   ],
+   [
+    "amarillo",
+    "Cuota 2 de 6 · nevera",
+    "Vence el 28 · $310.000"
+   ],
+   [
+    "verde",
+    "Pagaste la cuota del horno",
+    "$350.000 · registrado solo"
+   ]
+  ]
+ },
+ "nota": "Cada cuota con su alerta",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Varios negocios",
+   "titulo": "¿Tienes dos negocios? No los mezcles",
+   "sub": "Por qué separarlos y cómo hacerlo sin duplicar trabajo.",
+   "visual": "app",
+   "pantalla": "negocios",
+   "app": {
+    "negocios": [
+     [
+      "Café La Esquina",
+      "COP",
+      "$1.450.000",
+      "+12 %"
+     ],
+     [
+      "Tienda de accesorios",
+      "COP",
+      "−$300.000",
+      "−8 %"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Juntos, uno puede esconder al otro",
+   "texto": "Si uno gana y el otro pierde, la suma se ve bien y no te enteras.",
+   "ejemplo": {
+    "titulo": "Octubre",
+    "filas": [
+     [
+      "Café",
+      "+ $1.450.000",
+      "verde"
+     ],
+     [
+      "Tienda de accesorios",
+      "− $300.000",
+      "rojo"
+     ],
+     [
+      "**Juntos parece**",
+      "+ $1.150.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Reparte los gastos compartidos",
+   "texto": "Si comparten local, internet o una persona, asigna una parte a cada uno.",
+   "ejemplo": {
+    "titulo": "Arriendo de $2.000.000",
+    "filas": [
+     [
+      "Café (60 %)",
+      "$1.200.000"
+     ],
+     [
+      "Tienda (40 %)",
+      "$800.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Cada venta, en su negocio",
+   "texto": "Si la tienda vende algo en el café, anótalo en la tienda. Si no, el café parece ganar más de lo que gana."
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Decide con los números de cada uno",
+   "texto": "¿Cuál merece más tiempo o más inversión? Solo lo sabes si los ves por separado.",
+   "ejemplo": {
+    "titulo": "Frente al mes pasado",
+    "filas": [
+     [
+      "Café",
+      "+12 %",
+      "verde"
+     ],
+     [
+      "Tienda de accesorios",
+      "−8 %",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada negocio con sus propios números",
+   "pantalla": "negocios",
+   "app": {
+    "negocios": [
+     [
+      "Café La Esquina",
+      "COP",
+      "$1.450.000",
+      "+12 %"
+     ],
+     [
+      "Tienda de accesorios",
+      "COP",
+      "−$300.000",
+      "−8 %"
+     ]
+    ]
+   },
+   "nota": "Pro: hasta 2 negocios. Business: ilimitados."
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Dos negocios, una sola cuenta",
+   "items": [
+    "Cada negocio con su moneda",
+    "Ganancia real de cada uno",
+    "Plan Pro: $20/mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

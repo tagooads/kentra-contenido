@@ -1,0 +1,45 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Planes Pro y Business",
+ "titulo": "Le enseñas una vez y cada movimiento va a su lugar",
+ "pantalla": "importar",
+ "app": {
+  "negocio": "Tienda Nube Verde",
+  "archivo": "extracto-octubre.csv",
+  "detectados": "52 movimientos detectados",
+  "movimientos": [
+   [
+    "Pago pasarela",
+    "Ventas",
+    "+$1.240.000"
+   ],
+   [
+    "Transportadora Rápida",
+    "Envíos",
+    "−$186.000"
+   ],
+   [
+    "Arriendo bodega",
+    "Arriendo",
+    "−$1.400.000"
+   ],
+   [
+    "Comisión pasarela",
+    "Comisiones",
+    "−$37.200"
+   ],
+   [
+    "Proveedor Textil Sur",
+    "Mercancía",
+    "−$920.000"
+   ]
+  ]
+ },
+ "nota": "Reglas de categorización automática",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

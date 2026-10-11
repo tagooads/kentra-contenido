@@ -1,0 +1,21 @@
+{
+ "layout": "precio",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Planes",
+ "titulo": "Tus números claros desde $15 al mes",
+ "plan": "Plan Básico",
+ "precio": "$15",
+ "periodo": "/mes",
+ "nota": "Acceso inmediato. Pagando el año ahorras 45 %.",
+ "items": [
+  "Ganancia real del mes",
+  "Comprobantes PDF con tu logo",
+  "KentrAI ilimitado"
+ ],
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

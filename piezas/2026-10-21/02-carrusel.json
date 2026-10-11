@@ -1,0 +1,207 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Salones de belleza",
+   "titulo": "¿Cuánto debería costar tu servicio?",
+   "sub": "El precio de un manicure semipermanente, paso a paso y con números.",
+   "visual": "app",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Salón Coral",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Arriendo",
+      "$2.000.000",
+      100
+     ],
+     [
+      "Recepción",
+      "$1.100.000",
+      100
+     ],
+     [
+      "Servicios",
+      "$500.000",
+      92
+     ],
+     [
+      "Insumos",
+      "$2.100.000",
+      96
+     ],
+     [
+      "Pago manicuristas",
+      "$3.600.000",
+      100
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Suma los insumos de un servicio",
+   "texto": "Todo lo que se gasta en cada clienta, hasta el algodón.",
+   "ejemplo": {
+    "titulo": "Manicure semipermanente",
+    "filas": [
+     [
+      "Esmaltes, base y brillo",
+      "$4.500"
+     ],
+     [
+      "Limas, algodón y otros",
+      "$2.500"
+     ],
+     [
+      "**Insumos**",
+      "$7.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Suma el pago de quien lo hace",
+   "texto": "Si lo haces tú, también cuenta: tu tiempo tiene un valor.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pago por servicio",
+      "$12.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Reparte tus gastos fijos",
+   "texto": "Arriendo, recepción y servicios divididos entre los servicios del mes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Fijos del mes",
+      "$3.600.000"
+     ],
+     [
+      "Servicios al mes",
+      "300"
+     ],
+     [
+      "**Fijos por servicio**",
+      "$12.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Ese es tu costo real",
+   "texto": "Por debajo de esta cifra, cada servicio te hace perder.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Insumos",
+      "$7.000"
+     ],
+     [
+      "Pago por servicio",
+      "$12.000"
+     ],
+     [
+      "Fijos",
+      "$12.000"
+     ],
+     [
+      "**Costo real**",
+      "$31.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "tema": "verde",
+   "titulo": "Ahora suma tu ganancia",
+   "texto": "Compara cuánto te queda con cada precio.",
+   "ejemplo": {
+    "filas": [
+     [
+      "A $35.000 te quedan",
+      "$4.000"
+     ],
+     [
+      "**A $45.000 te quedan**",
+      "$14.000 (31 %)"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Tus gastos del mes, por categoría",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Salón Coral",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Arriendo",
+      "$2.000.000",
+      100
+     ],
+     [
+      "Recepción",
+      "$1.100.000",
+      100
+     ],
+     [
+      "Servicios",
+      "$500.000",
+      92
+     ],
+     [
+      "Insumos",
+      "$2.100.000",
+      96
+     ],
+     [
+      "Pago manicuristas",
+      "$3.600.000",
+      100
+     ]
+    ]
+   },
+   "nota": "Arriendo, recepción y servicios: $3.600.000"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Cobra lo que vale tu servicio",
+   "items": [
+    "Gastos fijos por categoría",
+    "Ganancia real del mes",
+    "Reportes listos en segundos"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

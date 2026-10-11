@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "¿Cuánto gastaste en domicilios en agosto?",
+ "sub": "Si para saberlo tienes que abrir Excel, hay una forma más rápida.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

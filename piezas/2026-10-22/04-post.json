@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Objeciones",
+ "titulo": "«No facturo, así que no llevo cuentas.»",
+ "sub": "Facturar es un trámite. Saber cuánto ganas es otra cosa, y lo necesitas igual.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

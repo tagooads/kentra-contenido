@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Tu turno",
+ "titulo": "¿Cada cuánto miras los números de tu negocio?",
+ "sub": "1) Cada semana · 2) Cada mes · 3) Cuando algo sale mal. Responde con un número.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

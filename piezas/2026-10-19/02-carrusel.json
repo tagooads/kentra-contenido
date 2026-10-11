@@ -1,0 +1,189 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Descuentos",
+   "titulo": "¿Un 10 % de descuento? Haz esta cuenta antes",
+   "sub": "Cuánto más tienes que vender para ganar lo mismo, con un ejemplo en cifras.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Octubre",
+    "ingresos": "$6.030.000",
+    "gastos": "$4.020.000",
+    "ganancia": "$2.010.000",
+    "margen": "33,3 % de margen",
+    "barras": [
+     58,
+     64,
+     52,
+     70,
+     61,
+     75,
+     82
+    ],
+    "rojo": [
+     2
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Mira cuánto te deja hoy cada venta",
+   "texto": "Precio menos lo que te cuesta el producto.",
+   "ejemplo": {
+    "titulo": "Ejemplo: una blusa",
+    "filas": [
+     [
+      "Precio",
+      "$50.000"
+     ],
+     [
+      "Costo y empaque",
+      "− $30.000",
+      "rojo"
+     ],
+     [
+      "**Te deja**",
+      "$20.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "El descuento sale completo de tu ganancia",
+   "texto": "El costo no baja. Lo que baja es lo que te queda.",
+   "ejemplo": {
+    "titulo": "Con 10 % de descuento",
+    "filas": [
+     [
+      "Precio",
+      "$45.000"
+     ],
+     [
+      "Costo y empaque",
+      "− $30.000",
+      "rojo"
+     ],
+     [
+      "**Ahora te deja**",
+      "$15.000",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "Precio: −10 %. Ganancia por venta: −25 %."
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Calcula cuántas ventas necesitas para ganar lo mismo",
+   "texto": "Divide lo que ganabas entre lo que te deja ahora cada venta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ganabas con 100 ventas",
+      "$2.000.000"
+     ],
+     [
+      "Ahora te deja cada venta",
+      "$15.000"
+     ],
+     [
+      "**Ventas necesarias**",
+      "134 (+34 %)",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "¿De verdad vas a vender 34 % más?",
+   "texto": "Si el descuento no trae clientes nuevos, solo regalaste ganancia.",
+   "bullets": [
+    "Sí: liquidar mercancía quieta",
+    "Sí: atraer clientes que vuelven",
+    "No: «porque todos lo hacen»"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "Otra opción",
+   "titulo": "Antes de bajar el precio, prueba sumar algo",
+   "texto": "Un detalle de regalo o el envío incluido suele costarte menos que el descuento.",
+   "ejemplo": {
+    "titulo": "Por venta",
+    "filas": [
+     [
+      "Descuento del 10 %",
+      "$5.000"
+     ],
+     [
+      "Envío o detalle de regalo",
+      "$3.000"
+     ],
+     [
+      "**Te ahorras**",
+      "$2.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Tu ganancia del mes, con o sin descuentos",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Octubre",
+    "ingresos": "$6.030.000",
+    "gastos": "$4.020.000",
+    "ganancia": "$2.010.000",
+    "margen": "33,3 % de margen",
+    "barras": [
+     58,
+     64,
+     52,
+     70,
+     61,
+     75,
+     82
+    ],
+    "rojo": [
+     2
+    ]
+   },
+   "nota": "Compara si la promo te dejó más o menos"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Decide tus descuentos con números",
+   "items": [
+    "Ganancia real de cada mes",
+    "Gastos por categoría",
+    "Compara un mes con otro"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "¿Arrancas la semana sabiendo cuánto llevas?",
+ "sub": "Haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

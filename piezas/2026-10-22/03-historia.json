@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "¿Sabes cuánto te deben hoy?",
+ "sub": "Si dudaste, haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

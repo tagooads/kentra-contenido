@@ -1,0 +1,13 @@
+{
+ "layout": "mascota",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Sin Excel",
+ "titulo": "Tu Excel se queda en casa. Kentra va contigo.",
+ "sub": "Registras desde el celular y ves lo mismo en el computador. Acceso seguro.",
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

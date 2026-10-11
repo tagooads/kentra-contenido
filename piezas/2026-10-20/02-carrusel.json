@@ -1,0 +1,148 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cobros",
+   "titulo": "Lo que todo comprobante de pago debe llevar",
+   "sub": "4 datos que te ayudan a cobrar más rápido, y cómo se ve en Kentra.",
+   "visual": "app",
+   "pantalla": "comprobante",
+   "app": {
+    "negocio": "Estudio Luna",
+    "numero": "0131",
+    "fecha": "20 oct 2026",
+    "cliente": "Panadería Trigal",
+    "items": [
+     [
+      "Fotos de producto (20)",
+      "$600.000"
+     ],
+     [
+      "Edición y retoque",
+      "$250.000"
+     ]
+    ],
+    "total": "$850.000"
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Número y fecha",
+   "texto": "Así tú y tu cliente saben de qué cobro hablan, sin confusiones.",
+   "ejemplo": {
+    "titulo": "Ejemplo",
+    "filas": [
+     [
+      "Comprobante",
+      "N.º 0131"
+     ],
+     [
+      "Fecha",
+      "20 oct 2026"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Qué vendiste, con su valor",
+   "texto": "El detalle evita el «¿y esto por qué?» cuando llega el cobro.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Fotos de producto (20)",
+      "$600.000"
+     ],
+     [
+      "Edición y retoque",
+      "$250.000"
+     ],
+     [
+      "**Total**",
+      "$850.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "La fecha límite de pago",
+   "texto": "Sin fecha, «después te pago» puede ser cualquier día.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Entregado",
+      "20 oct"
+     ],
+     [
+      "**Paga a más tardar**",
+      "30 oct",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Cómo te pueden pagar",
+   "texto": "Cuenta, transferencia o el medio que uses. Menos preguntas, pago más rápido."
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "El paso que casi nadie hace",
+   "titulo": "Registra el cobro cuando llegue",
+   "texto": "Si no lo anotas, a fin de mes no sabes quién te pagó y quién te debe."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Comprobante PDF con tu logo",
+   "pantalla": "comprobante",
+   "app": {
+    "negocio": "Estudio Luna",
+    "numero": "0131",
+    "fecha": "20 oct 2026",
+    "cliente": "Panadería Trigal",
+    "items": [
+     [
+      "Fotos de producto (20)",
+      "$600.000"
+     ],
+     [
+      "Edición y retoque",
+      "$250.000"
+     ]
+    ],
+    "total": "$850.000"
+   },
+   "nota": "Lo marcas como cobrado y se registra solo"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Cobra con orden y sin olvidos",
+   "items": [
+    "Comprobantes PDF con tu logo",
+    "Recordatorios con fecha límite",
+    "Cobros registrados solos"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

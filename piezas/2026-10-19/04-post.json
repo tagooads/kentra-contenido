@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "Tu turno",
+ "titulo": "¿Cuál es el gasto que más se te escapa?",
+ "sub": "A) Insumos · B) Domicilios · C) Lo personal. Responde con una letra en los comentarios.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "layout": "tip",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Lunes",
+ "titulo": "Tu revisión de los lunes: 10 minutos",
+ "items": [
+  "Cuánto vendiste y cobraste la semana pasada",
+  "Cuánto gastaste y en qué",
+  "Quién te debe y desde cuándo",
+  "Qué pagos vencen esta semana"
+ ],
+ "cierre": "Kentra te lo deja listo para revisar.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

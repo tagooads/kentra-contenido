@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Ganancia real",
+ "titulo": "Tu ganancia no está en la caja. Está en la resta.",
+ "sub": "Lo que entró menos todo lo que salió, incluido tu sueldo. Ese es el número que importa.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}
