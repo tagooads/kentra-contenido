@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
 
 
 ## Lunes 12/10
-
-**12:00 — Carrusel** · educacion · `2026-10-12-02-carrusel`
-
-<img src="piezas/2026-10-12/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-12/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vender mucho no sirve si no sabes cuánto es suficiente.
-
-En este carrusel: cómo calcular tu punto de equilibrio en 3 pasos, con el ejemplo de una cafetería. $4.200.000 de gastos fijos ÷ 35 % de margen = $12.000.000 en ventas al mes, o $480.000 al día si abres 25 días. Guárdalo y haz la cuenta con tus números.
-
-Kentra te muestra ingresos y gastos del mes sin hojas de cálculo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-12-05-post`
 
@@ -814,9 +798,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- lunes 12/10 · 12:00 · Carrusel `2026-10-12-02-carrusel` · IG ✓ · FB ✓
 - lunes 12/10 · 10:00 · Post `2026-10-12-04-post` · IG ✓ · FB ✓
 - lunes 12/10 · 08:00 · Historia `2026-10-12-01-historia` · IG ✓ · FB ✓
 - domingo 11/10 · 19:00 · Historia `2026-10-11-03-historia` · IG ✓ · FB ✓
 - domingo 11/10 · 18:00 · Post `2026-10-11-05-post` · IG ✓ · FB ✓
 - domingo 11/10 · 12:00 · Carrusel `2026-10-11-02-carrusel` · IG ✓ · FB ✓
-- domingo 11/10 · 10:00 · Post `2026-10-11-04-post` · IG ✓ · FB ✓
