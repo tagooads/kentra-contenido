@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 64 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
 
 
 ## Martes 13/10
-
-**10:00 — Post** · kentra-vs-excel · `2026-10-13-04-post`
-
-<img src="piezas/2026-10-13/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Excel guarda lo que le escribes. Pero no te avisa nada.
-
-En la imagen: a la izquierda, lo que una hoja de cálculo no hace por ti (avisarte si un gasto se dispara, recordarte un pago, calcular tu ganancia sola). A la derecha, lo que hace Kentra: alertas por categoría, recordatorios con fecha límite y tu ganancia real en una pantalla.
-
-¿Te ha pasado? Cuéntanos en los comentarios. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Excel
-
-</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-10-13-02-carrusel`
 
@@ -771,9 +755,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- martes 13/10 · 10:00 · Post `2026-10-13-04-post` · IG ✓ · FB ✓
 - martes 13/10 · 08:00 · Historia `2026-10-13-01-historia` · IG ✓ · FB ✓
 - lunes 12/10 · 19:00 · Historia `2026-10-12-03-historia` · IG ✓ · FB ✓
 - lunes 12/10 · 18:00 · Post `2026-10-12-05-post` · IG ✓ · FB ✓
 - lunes 12/10 · 12:00 · Carrusel `2026-10-12-02-carrusel` · IG ✓ · FB ✓
 - lunes 12/10 · 10:00 · Post `2026-10-12-04-post` · IG ✓ · FB ✓
-- lunes 12/10 · 08:00 · Historia `2026-10-12-01-historia` · IG ✓ · FB ✓
