@@ -1,0 +1,44 @@
+name: Vigilante de publicación
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */2 * * *"
+permissions:
+  actions: write
+  contents: read
+concurrency:
+  group: vigilante-publicacion
+  cancel-in-progress: false
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vigilar y disparar publicaciones
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          fin=$(( $(date +%s) + 340*60 ))
+          while [ "$(date +%s)" -lt "$fin" ]; do
+            git fetch -q origin main && git checkout -q origin/main -- calendario.json || true
+            pend=$(node -e '
+              const c = JSON.parse(require("fs").readFileSync("calendario.json","utf8"));
+              const items = Array.isArray(c) ? c : (c.piezas || c.items || c.calendario || []);
+              const now = Date.now();
+              const p = items.filter(it => {
+                const t = Date.parse(it.fecha || "");
+                return t && t <= now && now - t <= 12*3600e3 && it.publicado !== true && !it.error;
+              });
+              console.log(p.map(it => it.fecha + " " + it.tipo).join(" | "));
+            ')
+            if [ -n "$pend" ]; then
+              echo "pendientes: $pend -> disparo publicar.yml"
+              gh workflow run publicar.yml --repo "$REPO" --ref main || echo "fallo el disparo"
+              sleep 600
+            else
+              sleep 300
+            fi
+          done
+          gh workflow run vigilante.yml --repo "$REPO" --ref main
