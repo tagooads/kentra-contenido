@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
 
 
 ## Martes 13/10
-
-**12:00 — Carrusel** · ganancia-real · `2026-10-13-02-carrusel`
-
-<img src="piezas/2026-10-13/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-13/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vender mucho de algo no significa ganar mucho con eso.
-
-En este carrusel: cómo calcular cuánto te deja cada producto, con el ejemplo de una cafetería. El sándwich es el que más se vende, pero solo deja 30 % de su precio; el capuchino deja 65 %. Desliza, haz la cuenta con tus 3 productos principales y guárdalo.
-
-Kentra te muestra cuánto se va en cada categoría de gasto. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Precios
-
-</details>
 
 **18:00 — Post** · verticales · `2026-10-13-05-post`
 
@@ -755,9 +739,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- martes 13/10 · 12:00 · Carrusel `2026-10-13-02-carrusel` · IG ✓ · FB ✓
 - martes 13/10 · 10:00 · Post `2026-10-13-04-post` · IG ✓ · FB ✓
 - martes 13/10 · 08:00 · Historia `2026-10-13-01-historia` · IG ✓ · FB ✓
 - lunes 12/10 · 19:00 · Historia `2026-10-12-03-historia` · IG ✓ · FB ✓
 - lunes 12/10 · 18:00 · Post `2026-10-12-05-post` · IG ✓ · FB ✓
 - lunes 12/10 · 12:00 · Carrusel `2026-10-12-02-carrusel` · IG ✓ · FB ✓
-- lunes 12/10 · 10:00 · Post `2026-10-12-04-post` · IG ✓ · FB ✓
