@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 61 piezas agendadas.
 
 
 ## Martes 13/10
-
-**18:00 — Post** · verticales · `2026-10-13-05-post`
-
-<img src="piezas/2026-10-13/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-En la tienda de barrio, el fiado es parte del negocio. El problema es cuando nadie lo anota.
-
-En la imagen: una tienda vendió $7.400.000 en el mes, pero $1.150.000 siguen fiados entre 14 clientes. Lo que de verdad entró fueron $6.250.000.
-
-Con Kentra registras cada deuda con su fecha y te llega el recordatorio para cobrarla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #TiendaDeBarrio
-
-</details>
 
 **19:00 — Historia** · verticales · `2026-10-13-03-historia`
 
@@ -739,9 +723,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- martes 13/10 · 18:00 · Post `2026-10-13-05-post` · IG ✓ · FB ✓
 - martes 13/10 · 12:00 · Carrusel `2026-10-13-02-carrusel` · IG ✓ · FB ✓
 - martes 13/10 · 10:00 · Post `2026-10-13-04-post` · IG ✓ · FB ✓
 - martes 13/10 · 08:00 · Historia `2026-10-13-01-historia` · IG ✓ · FB ✓
 - lunes 12/10 · 19:00 · Historia `2026-10-12-03-historia` · IG ✓ · FB ✓
 - lunes 12/10 · 18:00 · Post `2026-10-12-05-post` · IG ✓ · FB ✓
-- lunes 12/10 · 12:00 · Carrusel `2026-10-12-02-carrusel` · IG ✓ · FB ✓
