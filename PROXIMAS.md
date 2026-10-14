@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
 
 
 ## Miércoles 14/10
-
-**12:00 — Carrusel** · funcionalidades · `2026-10-14-02-carrusel`
-
-<img src="piezas/2026-10-14/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-14/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Y si pudieras preguntarle a tu negocio cómo va?
-
-En este carrusel: 5 preguntas que le puedes hacer a KentrAI, el asistente de IA dentro de Kentra, con respuestas de ejemplo de una cafetería: en qué gastaste más, si ganaste más que el mes pasado, cuánto puedes reinvertir, qué pagos vencen y qué gasto subió.
-
-KentrAI es ilimitado en todos los planes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **18:00 — Post** · kentra-vs-excel · `2026-10-14-05-post`
 
@@ -696,9 +680,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- miércoles 14/10 · 12:00 · Carrusel `2026-10-14-02-carrusel` · IG ✓ · FB ✓
 - miércoles 14/10 · 10:00 · Post `2026-10-14-04-post` · IG ✓ · FB ✓
 - miércoles 14/10 · 08:00 · Historia `2026-10-14-01-historia` · IG ✓ · FB ✓
 - martes 13/10 · 19:00 · Historia `2026-10-13-03-historia` · IG ✓ · FB ✓
 - martes 13/10 · 18:00 · Post `2026-10-13-05-post` · IG ✓ · FB ✓
 - martes 13/10 · 12:00 · Carrusel `2026-10-13-02-carrusel` · IG ✓ · FB ✓
-- martes 13/10 · 10:00 · Post `2026-10-13-04-post` · IG ✓ · FB ✓
