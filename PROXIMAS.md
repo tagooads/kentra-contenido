@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 59 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
 
 
 ## Miércoles 14/10
-
-**10:00 — Post** · objeciones · `2026-10-14-04-post`
-
-<img src="piezas/2026-10-14/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Es la pregunta más sensata antes de pagar cualquier herramienta.
-
-La respuesta está en tus números: un recargo por pagar tarde, un gasto que creció sin que lo vieras o un cliente al que olvidaste cobrar suelen costar más de $15. Kentra te avisa de los tres.
-
-Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-10-14-02-carrusel`
 
@@ -712,9 +696,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- miércoles 14/10 · 10:00 · Post `2026-10-14-04-post` · IG ✓ · FB ✓
 - miércoles 14/10 · 08:00 · Historia `2026-10-14-01-historia` · IG ✓ · FB ✓
 - martes 13/10 · 19:00 · Historia `2026-10-13-03-historia` · IG ✓ · FB ✓
 - martes 13/10 · 18:00 · Post `2026-10-13-05-post` · IG ✓ · FB ✓
 - martes 13/10 · 12:00 · Carrusel `2026-10-13-02-carrusel` · IG ✓ · FB ✓
 - martes 13/10 · 10:00 · Post `2026-10-13-04-post` · IG ✓ · FB ✓
-- martes 13/10 · 08:00 · Historia `2026-10-13-01-historia` · IG ✓ · FB ✓
