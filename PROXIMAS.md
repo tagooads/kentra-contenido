@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 56 piezas agendadas.
 
 
 ## Miércoles 14/10
-
-**18:00 — Post** · kentra-vs-excel · `2026-10-14-05-post`
-
-<img src="piezas/2026-10-14/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Alguna vez arrastraste una fórmula y descubriste el error semanas después?
-
-En una hoja de cálculo, una celda mal copiada cambia el total y nadie lo nota. En Kentra registras ingresos y gastos y los cálculos se hacen solos: lo que entró, lo que salió y lo que te quedó.
-
-Deja las fórmulas en el pasado. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Excel
-
-</details>
 
 **19:00 — Historia** · kentra-vs-excel · `2026-10-14-03-historia`
 
@@ -680,9 +664,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- miércoles 14/10 · 18:00 · Post `2026-10-14-05-post` · IG ✓ · FB ✓
 - miércoles 14/10 · 12:00 · Carrusel `2026-10-14-02-carrusel` · IG ✓ · FB ✓
 - miércoles 14/10 · 10:00 · Post `2026-10-14-04-post` · IG ✓ · FB ✓
 - miércoles 14/10 · 08:00 · Historia `2026-10-14-01-historia` · IG ✓ · FB ✓
 - martes 13/10 · 19:00 · Historia `2026-10-13-03-historia` · IG ✓ · FB ✓
 - martes 13/10 · 18:00 · Post `2026-10-13-05-post` · IG ✓ · FB ✓
-- martes 13/10 · 12:00 · Carrusel `2026-10-13-02-carrusel` · IG ✓ · FB ✓
