@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 52 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 51 piezas agendadas.
 
 
 ## Jueves 15/10
-
-**18:00 — Post** · funcionalidades · `2026-10-15-05-post`
-
-<img src="piezas/2026-10-15/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Copiar movimiento por movimiento del banco a una hoja es tiempo que no vuelve.
-
-En la imagen: un extracto en CSV subido a Kentra, con 46 movimientos detectados y cada uno en su categoría (insumos, ventas, arriendo, comisiones). Funciona con extractos en CSV o Excel y con facturas. Datos de ejemplo.
-
-Importación con IA en los planes Pro y Business. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-10-15-03-historia`
 
@@ -621,9 +605,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- jueves 15/10 · 18:00 · Post `2026-10-15-05-post` · IG ✓ · FB ✓
 - jueves 15/10 · 12:00 · Carrusel `2026-10-15-02-carrusel` · IG ✓ · FB ✓
 - jueves 15/10 · 10:00 · Post `2026-10-15-04-post` · IG ✓ · FB ✓
 - jueves 15/10 · 08:00 · Historia `2026-10-15-01-historia` · IG ✓ · FB ✓
 - miércoles 14/10 · 19:00 · Historia `2026-10-14-03-historia` · IG ✓ · FB ✓
 - miércoles 14/10 · 18:00 · Post `2026-10-14-05-post` · IG ✓ · FB ✓
-- miércoles 14/10 · 12:00 · Carrusel `2026-10-14-02-carrusel` · IG ✓ · FB ✓
