@@ -1,25 +1,13 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 53 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 52 piezas agendadas.
+
+## ⚠️ Con error
+
+- **jueves 15/10 · 12:00** Carrusel `2026-10-15-02-carrusel`: IG: 17841480064403784/media_publish: Media ID is not available
 
 
 ## Jueves 15/10
-
-**12:00 — Carrusel** · educacion · `2026-10-15-02-carrusel`
-
-<img src="piezas/2026-10-15/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-15/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un mes flojo no debería poner en riesgo tu negocio.
-
-En este carrusel: cómo armar un colchón en 5 pasos, con el ejemplo de un salón de belleza: $3.600.000 de gastos fijos al mes × 3 = meta de $10.800.000. Apartando 10 % de cada venta cobrada, el primer mes queda cubierto en 4 meses. Guárdalo.
-
-Kentra suma tus gastos por categoría sin hojas de cálculo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-15-05-post`
 

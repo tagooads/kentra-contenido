@@ -1710,7 +1710,11 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "fb_post_id": "956335110897891_122143834977213382",
+      "publicado_fb": true,
+      "intentos": 1,
+      "error": "IG: 17841480064403784/media_publish: Media ID is not available"
     },
     {
       "id": "2026-10-15-05-post",
