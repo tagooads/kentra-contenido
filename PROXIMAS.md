@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 54 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 53 piezas agendadas.
 
 
 ## Jueves 15/10
-
-**10:00 — Post** · ganancia-real · `2026-10-15-04-post`
-
-<img src="piezas/2026-10-15/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Pregunta rápida, respuesta honesta.
-
-Si la respuesta es no, no eres el único: es muy común saber cuánto se vendió y no cuánto quedó. Y ese es el número que te dice si puedes reinvertir, subir tu sueldo o si toca ajustar.
-
-Cuéntanos: ¿sí o no? Con Kentra lo sabes cualquier día del mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-15-02-carrusel`
 
@@ -653,9 +637,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- jueves 15/10 · 10:00 · Post `2026-10-15-04-post` · IG ✓ · FB ✓
 - jueves 15/10 · 08:00 · Historia `2026-10-15-01-historia` · IG ✓ · FB ✓
 - miércoles 14/10 · 19:00 · Historia `2026-10-14-03-historia` · IG ✓ · FB ✓
 - miércoles 14/10 · 18:00 · Post `2026-10-14-05-post` · IG ✓ · FB ✓
 - miércoles 14/10 · 12:00 · Carrusel `2026-10-14-02-carrusel` · IG ✓ · FB ✓
 - miércoles 14/10 · 10:00 · Post `2026-10-14-04-post` · IG ✓ · FB ✓
-- miércoles 14/10 · 08:00 · Historia `2026-10-14-01-historia` · IG ✓ · FB ✓
