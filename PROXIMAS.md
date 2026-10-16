@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 47 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 46 piezas agendadas.
 
 
 ## Viernes 16/10
-
-**18:00 — Post** · funcionalidades · `2026-10-16-05-post`
-
-<img src="piezas/2026-10-16/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Delegar el registro no significa mostrar todos tus números.
-
-En la imagen: los dos roles de equipo en Kentra. El colaborador registra movimientos y sube facturas, edita solo lo suyo y no ve Resultados ni Análisis. El administrador puede hacer todo, menos manejar la suscripción y el equipo.
-
-Usuarios extra desde el plan Pro. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-10-16-03-historia`
 
@@ -562,9 +546,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- viernes 16/10 · 18:00 · Post `2026-10-16-05-post` · IG ✓ · FB ✓
 - viernes 16/10 · 12:00 · Carrusel `2026-10-16-02-carrusel` · IG ✓ · FB ✓
 - viernes 16/10 · 10:00 · Post `2026-10-16-04-post` · IG ✓ · FB ✓
 - viernes 16/10 · 08:00 · Historia `2026-10-16-01-historia` · IG ✓ · FB ✓
 - jueves 15/10 · 19:00 · Historia `2026-10-15-03-historia` · IG ✓ · FB ✓
 - jueves 15/10 · 18:00 · Post `2026-10-15-05-post` · IG ✓ · FB ✓
-- jueves 15/10 · 12:00 · Carrusel `2026-10-15-02-carrusel` · IG ✓ · FB ✓
