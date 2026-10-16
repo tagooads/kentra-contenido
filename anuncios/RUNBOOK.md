@@ -1,0 +1,40 @@
+# Runbook — Optimización diaria de anuncios Kentra (automática)
+
+Autorizado por Gato el 15 oct 2026: "La idea es automatizar este proceso 100% por ti... ya sabes cómo se optimiza... apagar anuncios en su segundo día... cuáles apagar en su tercer día". La tarea nocturna ejecuta esto sin pedir permiso. Solo se escribe a Gato con un resumen corto de lo que cambió, o si algo falló.
+
+## IDs
+- Cuenta Meta: 830092816592067 (Tagoo Pixel 07 - Kentra). Campaña de testeo: 120251726969320503 (ABO, OUTCOME_SALES).
+- Página: 956335110897891. Pixel: 635873862937918 (PURCHASE). Exclusión: 120240951678410503 (Kentra | COMPRADORES | 180D).
+- Stripe: acct_1Picvw2KqEXSHrvy (solo lectura). Hora Colombia = UTC-5.
+
+## Cómo contar ventas
+- La fuente de verdad es Stripe: checkout sessions completas del día (solo `subscription_create`, no renovaciones); en la metadata, `meta_source_url` trae `utm_content` = id del anuncio y `utm_term` = id del conjunto. Compara con las compras que Meta le atribuye a cada anuncio.
+- ROAS del ciclo = ingreso de la primera factura de las ventas del anuncio / gasto del ciclo.
+
+## Reglas (playbook de Gato)
+1. Todo anuncio nuevo arranca a $10/día, a las 00:00 COT del día siguiente (o cuando termine el ciclo de testeo en curso). Un anuncio por conjunto. Nombre: `AS NNN | AD NNN IMAGEN|VIDEO | $10`.
+2. **Día 2 al final (testeo, nunca subido):** si no hubo venta, ni pago iniciado, y el CTR es < ~1% o tuvo ≤ 3 clics en el enlace → apagar el conjunto.
+3. **Día 3 / ~$30 gastados:** sin venta → apagar. Con venta y ROAS ≤ 1,10 → sigue otro ciclo de $30 con el mismo presupuesto. Con venta y ROAS > 1,10 → +20%.
+4. **+20% de presupuesto** solo si se cumplen las tres: mínimo 3–4 días desde el último cambio, CPA real ≤ ~$30 en esa ventana (verificado en Stripe) y no está en evaluación especial. Excepción: si vendió los dos últimos días seguidos después del último aumento, se puede subir de nuevo (como el AS 96 el 15 oct).
+5. Un conjunto al que ya se le subió presupuesto **no se apaga** por un ciclo sin ventas: se baja al presupuesto anterior. Se apaga solo cuando ya se le bajó 3 veces y sigue sin vender.
+6. Nunca bajar el presupuesto total para "salvar el mes". Los tests no pasan del 25% del gasto total.
+7. Después de cada cambio de presupuesto: Meta deja el conjunto en PAUSED → reactivar con `ads_activate_entity` y verificar ACTIVE con `ads_get_ad_entities`.
+
+## Mantener el testeo lleno
+- Debe haber 3 anuncios en testeo (activos o programados). Si después del corte quedan menos, crear los que falten para mañana 00:00 COT.
+- Tanda de 3: 2 modelando lo que ya vende (hoy: AD 96, "¿Cuánto tienes realmente disponible?", y AD 99) y 1 con un ángulo totalmente distinto. 70% imágenes, 30% videos.
+- Imágenes en Canva con `generate-image` usando SIEMPRE como referencia la imagen del AD 96 (media MAHYFbNaTYE), para que salgan la pantalla real de la app y el logo real de Kentra. Nunca prompts sin referencia (inventan pantallas y logos falsos). Patrón ganador: captura real de la app + precio visible en botón verde #06C444 + sin cara como protagonista. Revisa la imagen antes de usarla: el logo y la pantalla deben ser los de Kentra.
+- Marco para exportar: copiar el diseño DAHX_QeY9VM (1136x1408), `update_fill` en el locator `PBWgSFqXG8600Jnn-LBnJDghFPZgJXrbM`, commit, `export-design` png width 1080, y subir la URL a Meta con `ads_creative_upload_media` (URL).
+- Copy: el texto y el título del AD 96 (creativo 1122622233609398). CTA: WATCH_MORE ("Ver más"), nunca SEE_MORE. Link: https://kentra.pro con url_tags `utm_medium=paid&utm_source={{site_source_name}}&utm_id={{campaign.id}}&utm_content={{ad.id}}&utm_term={{adset.id}}&utm_campaign={{campaign.id}}`. Multianunciante: OPT_OUT. Advantage+ creative: apagado.
+- Conjunto: igual al AS 103 (MX, CL, CO, GT, PY; 18–65; home + recent; exclusión 180D; Advantage+ audiencia; OFFSITE_CONVERSIONS / PURCHASE; IMPRESSIONS; WEBSITE; costo más bajo; `contextual_bundling_spec` OPT_OUT).
+- **Desde el 15 oct, Meta exige anunciante verificado** para crear conjuntos ("Advertiser is missing", subcódigo 3858634). Hasta que Gato complete la verificación en Ads Manager → Configuración de publicidad → Verificaciones y transparencia, no se pueden crear conjuntos nuevos. Cuando esté verificado, crear con Windsor `create_adset` (cuenta 830092816592067) pasando `regional_regulation_identities` {"universal_beneficiary": "<id>", "universal_payer": "<id>"} con los ids de identidad verificada (anotarlos aquí cuando existan).
+- **Mientras tanto (aprobado por Gato el 15 oct): reciclar conjuntos viejos apagados** de la campaña 120251726969320503, SIEMPRE los más viejos primero (para no cruzar datos recientes), nunca "AS ANDROMEDA | GANADORES" ni conjuntos que vendieron bien. Pasos: pausar el anuncio viejo de adentro (ads_update_entity {"status":"PAUSED"}); renombrar el conjunto `AS NNN | AD NNN IMAGEN | $10` y poner daily_budget 1000 (ads_update_entity, lo deja PAUSED); crear el anuncio nuevo con ads_create_ad (creative inline: object_story_spec con page_id 956335110897891, instagram_user_id 17841480064403784, link_data con link, image_hash, message, name y call_to_action WATCH_MORE; url_tags; contextual_multi_ads OPT_OUT) y activarlo con ads_activate_entity (el anuncio, no el conjunto). Como la fecha de inicio del conjunto ya pasó, no se puede programar: crea una tarea programada de una sola vez (create_trigger con run_once_at a las 00:00 COT = 05:00Z) que active los conjuntos y verifique. Anota aquí qué conjunto se recicló.
+- Conjuntos viejos apagados que quedan para reciclar (del más viejo al más nuevo): "AD 81–86" 120251875839660503 (tiene varios anuncios: pausarlos todos), AS 92 120252034104780503, AS 93 120252036934770503, AS 94 120252036935230503, AS 95 120252083837740503, AS 97 120252083840940503. Usados: AD 89 → AS 104, AS 90 → AS 105, AS 91 → AS 106.
+
+## Estado (actualizar cada noche)
+- 15 oct: AS 96 a $14,40 desde el 15 oct 00:00 (vendió 12, 13 y 14 oct). AS 98, 99, 100, 101: primer ciclo desde el 13 oct; AS 99 lleva 2–3 ventas. AS 102 (video vertical) y AS 103 (ferretero) arrancan el 16 oct 00:00. AS 88 y AS 95 apagados por Gato el 14 oct.
+- 15 oct: creados en conjuntos reciclados, arrancan sáb 17 oct 00:00 (los prende la tarea trig_01Nm5LrXbXK3un1U7AN1fKPi): AS 104 Salón (conjunto 120251932708000503, anuncio 120252171633510503), AS 105 Gana o pierde (120252034102660503 / 120252171635130503), AS 106 Comida rápida (120252034103940503 / 120252171637770503). Primer ciclo de $30: 17–19 oct.
+- 15 oct noche (corte día 3): AS 100 y AS 101 apagados (sin venta). AS 98 apagado 23:25 (≈$35, 0 ventas, 0 pagos iniciados). AS 99 sigue otro ciclo de $30 a $10 (2 compras en Meta / 1 confirmada en Stripe, ROAS ≤ 1,10). AS 96 sigue a $14,40 (subido el 15; revisar +20% desde el 18 oct).
+- 16 oct 05:25: subí AS 99 a $12 (pedido de Gato). Meta lo dejó PAUSED y NO deja reactivarlo (ni Meta MCP, ni Windsor, ni Ads Manager: "Advertiser is missing" / "Draft can't be published"). Quedó apagado con $12 y un borrador sin publicar.
+- 16 oct 06:16: Gato verificó el negocio. AS 99 reactivado a $12 con ads_activate_entity (ACTIVE, en aprendizaje). Ya se pueden cambiar presupuestos y prender conjuntos otra vez. Si vuelve a salir "Advertiser is missing" (3858634), no tocar más presupuestos y avisar a Gato.
+- Verificación de anunciante: HECHA (16 oct).
