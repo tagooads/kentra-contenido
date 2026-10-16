@@ -1,13 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 51 piezas agendadas.
-
-
-## Jueves 15/10
-
-**19:00 — Historia** · funcionalidades · `2026-10-15-03-historia`
-
-<img src="piezas/2026-10-15/03-historia.jpg" width="160">
+Se actualiza sola cada hora. Hora de Bogotá. 50 piezas agendadas.
 
 
 ## Viernes 16/10
@@ -605,9 +598,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- jueves 15/10 · 19:00 · Historia `2026-10-15-03-historia` · IG ✓ · FB ✓
 - jueves 15/10 · 18:00 · Post `2026-10-15-05-post` · IG ✓ · FB ✓
 - jueves 15/10 · 12:00 · Carrusel `2026-10-15-02-carrusel` · IG ✓ · FB ✓
 - jueves 15/10 · 10:00 · Post `2026-10-15-04-post` · IG ✓ · FB ✓
 - jueves 15/10 · 08:00 · Historia `2026-10-15-01-historia` · IG ✓ · FB ✓
 - miércoles 14/10 · 19:00 · Historia `2026-10-14-03-historia` · IG ✓ · FB ✓
-- miércoles 14/10 · 18:00 · Post `2026-10-14-05-post` · IG ✓ · FB ✓
