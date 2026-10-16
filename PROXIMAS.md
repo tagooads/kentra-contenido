@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 48 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 47 piezas agendadas.
 
 
 ## Viernes 16/10
-
-**12:00 — Carrusel** · educacion · `2026-10-16-02-carrusel`
-
-<img src="piezas/2026-10-16/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-16/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El mes puede cerrar en positivo y aun así quedarte sin dinero un lunes.
-
-En este carrusel: cómo mirar tu mes por semanas, con el ejemplo de una tienda online que gana $800.000 en el mes pero tiene la semana 1 en −$700.000. Desliza para ver cómo mover fechas a tiempo y guárdalo.
-
-Kentra te avisa de pagos, deudas y cuotas antes de que venzan. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-16-05-post`
 
@@ -578,9 +562,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- viernes 16/10 · 12:00 · Carrusel `2026-10-16-02-carrusel` · IG ✓ · FB ✓
 - viernes 16/10 · 10:00 · Post `2026-10-16-04-post` · IG ✓ · FB ✓
 - viernes 16/10 · 08:00 · Historia `2026-10-16-01-historia` · IG ✓ · FB ✓
 - jueves 15/10 · 19:00 · Historia `2026-10-15-03-historia` · IG ✓ · FB ✓
 - jueves 15/10 · 18:00 · Post `2026-10-15-05-post` · IG ✓ · FB ✓
 - jueves 15/10 · 12:00 · Carrusel `2026-10-15-02-carrusel` · IG ✓ · FB ✓
-- jueves 15/10 · 10:00 · Post `2026-10-15-04-post` · IG ✓ · FB ✓
