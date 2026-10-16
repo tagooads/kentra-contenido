@@ -37,4 +37,5 @@ Autorizado por Gato el 15 oct 2026: "La idea es automatizar este proceso 100% po
 - 15 oct noche (corte día 3): AS 100 y AS 101 apagados (sin venta). AS 98 apagado 23:25 (≈$35, 0 ventas, 0 pagos iniciados). AS 99 sigue otro ciclo de $30 a $10 (2 compras en Meta / 1 confirmada en Stripe, ROAS ≤ 1,10). AS 96 sigue a $14,40 (subido el 15; revisar +20% desde el 18 oct).
 - 16 oct 05:25: subí AS 99 a $12 (pedido de Gato). Meta lo dejó PAUSED y NO deja reactivarlo (ni Meta MCP, ni Windsor, ni Ads Manager: "Advertiser is missing" / "Draft can't be published"). Quedó apagado con $12 y un borrador sin publicar.
 - 16 oct 06:16: Gato verificó el negocio. AS 99 reactivado a $12 con ads_activate_entity (ACTIVE, en aprendizaje). Ya se pueden cambiar presupuestos y prender conjuntos otra vez. Si vuelve a salir "Advertiser is missing" (3858634), no tocar más presupuestos y avisar a Gato.
-- Verificación de anunciante: HECHA (16 oct).
+- Verificación de anunciante: HECHA (16 oct). Anunciante y pagador predeterminados: TAGOO ADS LLC. Si al crear un conjunto por API Meta pide identidades, recicla un conjunto viejo (activar sí funciona).
+- Tarea diaria automática: trig_011PwCKUr3ANBViW3z1bKJcV, todos los días 23:12 Bogotá (creada el 16 oct a pedido de Gato).
