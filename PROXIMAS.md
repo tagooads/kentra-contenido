@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 42 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 41 piezas agendadas.
 
 
 ## Sábado 17/10
-
-**18:00 — Post** · educacion · `2026-10-17-05-post`
-
-<img src="piezas/2026-10-17/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-No todos los gastos se controlan igual.
-
-En la imagen: la diferencia entre gastos fijos (los que pagas aunque no vendas, como el arriendo) y variables (los que crecen cuando vendes más, como los insumos). Si suben los fijos, necesitas vender más para cubrirlos; si suben los variables, toca revisar precios. Guárdalo.
-
-En Kentra cada gasto va a su categoría y ves cuál crece. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-10-17-03-historia`
 
@@ -503,9 +487,9 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 
 ## Últimas publicadas
 
+- sábado 17/10 · 18:00 · Post `2026-10-17-05-post` · IG ✓ · FB ✓
 - sábado 17/10 · 12:00 · Carrusel `2026-10-17-02-carrusel` · IG ✓ · FB ✓
 - sábado 17/10 · 10:00 · Post `2026-10-17-04-post` · IG ✓ · FB ✓
 - sábado 17/10 · 08:00 · Historia `2026-10-17-01-historia` · IG ✓ · FB ✓
 - viernes 16/10 · 19:00 · Historia `2026-10-16-03-historia` · IG ✓ · FB ✓
 - viernes 16/10 · 18:00 · Post `2026-10-16-05-post` · IG ✓ · FB ✓
-- viernes 16/10 · 12:00 · Carrusel `2026-10-16-02-carrusel` · IG ✓ · FB ✓
