@@ -1935,7 +1935,11 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "fb_post_id": "956335110897891_122144077491213382",
+      "publicado_fb": true,
+      "intentos": 1,
+      "error": "IG: 17841480064403784/media: Only photo or video can be accepted as media type."
     },
     {
       "id": "2026-10-17-05-post",

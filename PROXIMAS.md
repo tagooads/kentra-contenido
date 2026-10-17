@@ -1,25 +1,13 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 43 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 42 piezas agendadas.
+
+## ⚠️ Con error
+
+- **sábado 17/10 · 12:00** Carrusel `2026-10-17-02-carrusel`: IG: 17841480064403784/media: Only photo or video can be accepted as media type.
 
 
 ## Sábado 17/10
-
-**12:00 — Carrusel** · verticales · `2026-10-17-02-carrusel`
-
-<img src="piezas/2026-10-17/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-17/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si no sabes cuánto vale tu hora, es muy fácil cobrar de menos.
-
-En este carrusel: cómo calcular tu tarifa mínima por hora. Ejemplo: $4.000.000 de sueldo + $600.000 de gastos ÷ 100 horas que de verdad cobras = $46.000 la hora. Y cómo 2 rondas extra de cambios la bajan a $35.385. Guárdalo antes de tu próxima cotización.
-
-Kentra te muestra lo que te queda de verdad cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Creativos
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-17-05-post`
 
