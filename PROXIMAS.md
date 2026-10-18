@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
 
 
 ## Domingo 18/10
-
-**12:00 — Carrusel** · precio · `2026-10-18-02-carrusel`
-
-<img src="piezas/2026-10-18/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-18/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Básico, Pro o Business? Depende de cuántos negocios tienes y de si trabajas con equipo.
-
-En este carrusel: qué incluye cada plan. Básico, $15/mes, para 1 negocio. Pro, $20/mes (el más elegido): hasta 2 negocios, 1 usuario extra e importación con IA. Business, $30/mes: negocios ilimitados y equipo. El pago anual tiene 45 % de descuento.
-
-Acceso inmediato y cancelas cuando quieras. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **18:00 — Post** · kentra-vs-excel · `2026-10-18-05-post`
 
@@ -870,9 +854,9 @@ En Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde 
 
 ## Últimas publicadas
 
+- domingo 18/10 · 12:00 · Carrusel `2026-10-18-02-carrusel` · IG ✓ · FB ✓
 - domingo 18/10 · 10:00 · Post `2026-10-18-04-post` · IG ✓ · FB ✓
 - domingo 18/10 · 08:00 · Historia `2026-10-18-01-historia` · IG ✓ · FB ✓
 - sábado 17/10 · 19:00 · Historia `2026-10-17-03-historia` · IG ✓ · FB ✓
 - sábado 17/10 · 18:00 · Post `2026-10-17-05-post` · IG ✓ · FB ✓
 - sábado 17/10 · 12:00 · Carrusel `2026-10-17-02-carrusel` · IG ✓ · FB ✓
-- sábado 17/10 · 10:00 · Post `2026-10-17-04-post` · IG ✓ · FB ✓
