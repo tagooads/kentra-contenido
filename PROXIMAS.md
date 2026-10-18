@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 71 piezas agendadas.
 
 
 ## Domingo 18/10
-
-**18:00 — Post** · kentra-vs-excel · `2026-10-18-05-post`
-
-<img src="piezas/2026-10-18/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-cuentas_final.xlsx, cuentas_final_v2.xlsx, cuentas_final_ESTA_SI.xlsx… ¿te suena?
-
-Cuando hay varias versiones del mismo archivo, nadie sabe cuál es la buena y el mes nunca cuadra. En Kentra hay una sola versión de tus números, se actualiza sola y la ves desde el celular o el computador.
-
-Cuéntanos cuántas tienes 👀 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Excel
-
-</details>
 
 **19:00 — Historia** · precio · `2026-10-18-03-historia`
 
@@ -854,9 +838,9 @@ En Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde 
 
 ## Últimas publicadas
 
+- domingo 18/10 · 18:00 · Post `2026-10-18-05-post` · IG ✓ · FB ✓
 - domingo 18/10 · 12:00 · Carrusel `2026-10-18-02-carrusel` · IG ✓ · FB ✓
 - domingo 18/10 · 10:00 · Post `2026-10-18-04-post` · IG ✓ · FB ✓
 - domingo 18/10 · 08:00 · Historia `2026-10-18-01-historia` · IG ✓ · FB ✓
 - sábado 17/10 · 19:00 · Historia `2026-10-17-03-historia` · IG ✓ · FB ✓
 - sábado 17/10 · 18:00 · Post `2026-10-17-05-post` · IG ✓ · FB ✓
-- sábado 17/10 · 12:00 · Carrusel `2026-10-17-02-carrusel` · IG ✓ · FB ✓
