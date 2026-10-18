@@ -1,0 +1,172 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Alertas",
+   "titulo": "Kentra te avisa antes de que te cueste dinero",
+   "sub": "5 avisos que llegan solos a tu celular.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Un pago a proveedor vence mañana",
+   "texto": "Registras la deuda con su fecha y Kentra te la recuerda antes, no después.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Distribuidora Andina",
+      "$1.200.000"
+     ],
+     [
+      "Vence",
+      "28 de octubre"
+     ],
+     [
+      "**Aviso**",
+      "un día antes",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Una categoría se pasó del presupuesto",
+   "texto": "Fijas cuánto puedes gastar en cada categoría. Si te pasas, lo ves en rojo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Presupuesto de domicilios",
+      "$300.000"
+     ],
+     [
+      "Gastado este mes",
+      "$384.000",
+      "rojo"
+     ],
+     [
+      "**Aviso**",
+      "28 % por encima",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Una cuota de la tarjeta está por vencer",
+   "texto": "Las compras a cuotas quedan con su calendario (planes Pro y Business).",
+   "ejemplo": {
+    "filas": [
+     [
+      "Cuota 3 de 6",
+      "$380.000"
+     ],
+     [
+      "Vence",
+      "5 de noviembre"
+     ],
+     [
+      "**Aviso**",
+      "antes de la fecha",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Una nota con fecha límite",
+   "texto": "Cualquier pendiente con fecha: renovar un permiso, pagar un impuesto, llamar al proveedor.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Renovar registro del local",
+      "5 de noviembre"
+     ],
+     [
+      "**Aviso**",
+      "con anticipación",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "titulo": "Te pagaron: queda registrado solo",
+   "texto": "Marcas la cuenta como cobrada y el ingreso entra a tus movimientos sin digitar nada.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pedido 0127",
+      "$750.000"
+     ],
+     [
+      "**Estado**",
+      "cobrado y registrado",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Todos los avisos en una sola lista",
+   "pantalla": "alertas",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "alertas": [
+     [
+      "rojo",
+      "Pago a proveedor vence mañana",
+      "Distribuidora Andina · $1.200.000"
+     ],
+     [
+      "amarillo",
+      "Cuota 3 de 6 de la tarjeta",
+      "Vence el 5 nov · $380.000"
+     ],
+     [
+      "rojo",
+      "Domicilios superó el presupuesto",
+      "28 % por encima este mes"
+     ],
+     [
+      "verde",
+      "Cobro registrado: pedido 0127",
+      "$750.000 · se registró solo"
+     ]
+    ]
+   },
+   "nota": "Deudas, cuotas y notas por vencer"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Que el aviso llegue antes que el problema",
+   "items": [
+    "Recordatorios con alertas",
+    "Control por categorías",
+    "Cuentas automatizadas"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

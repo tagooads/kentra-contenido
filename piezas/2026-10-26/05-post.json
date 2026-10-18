@@ -1,0 +1,26 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "Un lunes en Excel vs un lunes en Kentra",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "Buscar el archivo del mes",
+   "Pasar las ventas a mano",
+   "Una fórmula que se rompió"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "items": [
+   "Abres y ves octubre",
+   "El fin de semana ya está",
+   "La ganancia, calculada"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

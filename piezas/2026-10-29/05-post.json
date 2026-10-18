@@ -1,0 +1,21 @@
+{
+ "layout": "precio",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Planes",
+ "titulo": "El plan más elegido",
+ "plan": "Plan Pro",
+ "precio": "$20",
+ "periodo": "/mes",
+ "nota": "Acceso inmediato. Cancela cuando quieras.",
+ "items": [
+  "Importación bancaria con IA",
+  "Créditos y cuotas",
+  "Hasta 2 negocios y 1 usuario extra"
+ ],
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

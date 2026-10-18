@@ -1,0 +1,32 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Pastelerías",
+ "titulo": "Pedidos de Halloween: ¿cuánto te quedó?",
+ "tam": "media",
+ "filas": [
+  {
+   "label": "Pedidos",
+   "valor": "$3.200.000",
+   "color": "gris"
+  },
+  {
+   "label": "Costos",
+   "valor": "− $2.270.000",
+   "color": "rojo",
+   "nota": "insumos, empaques y entregas"
+  },
+  {
+   "label": "Te quedó",
+   "valor": "$930.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "El 29 % de lo vendido. Y diciembre viene más grande.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

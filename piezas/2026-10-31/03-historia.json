@@ -1,0 +1,16 @@
+{
+ "layout": "tip",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Hoy, 31",
+ "titulo": "Antes de que empiece noviembre",
+ "items": [
+  "Registra lo que vendiste hoy",
+  "Anota lo que te deben de octubre",
+  "Mira cuánto te quedó en el mes"
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

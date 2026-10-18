@@ -1,0 +1,35 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Cierre de octubre",
+ "titulo": "Faltan 2 días y el café ya sabe cómo va",
+ "pantalla": "dashboard",
+ "app": {
+  "negocio": "Café La Esquina",
+  "mes": "Octubre",
+  "ingresos": "$9.800.000",
+  "gastos": "$7.900.000",
+  "ganancia": "$1.900.000",
+  "margen": "19,4 % de margen",
+  "barras": [
+   55,
+   70,
+   40,
+   85,
+   65,
+   80,
+   95
+  ],
+  "rojo": [
+   2
+  ],
+  "vencidas": "Por cobrar vencido",
+  "vencidasValor": "$640.000"
+ },
+ "nota": "Lo que falta por cobrar, arriba de todo",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

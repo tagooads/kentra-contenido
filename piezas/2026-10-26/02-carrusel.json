@@ -1,0 +1,211 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Restaurantes",
+   "titulo": "Subieron los insumos. ¿Subes el precio o aguantas?",
+   "sub": "La cuenta para decidirlo, con un plato de ejemplo.",
+   "visual": "app",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Sazón de Casa",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Insumos",
+      "$3.810.000",
+      112
+     ],
+     [
+      "Nómina",
+      "$2.200.000",
+      100
+     ],
+     [
+      "Arriendo",
+      "$1.600.000",
+      100
+     ],
+     [
+      "Servicios",
+      "$420.000",
+      105
+     ],
+     [
+      "Domicilios",
+      "$380.000",
+      95
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Mira cuánto te dejaba el plato antes",
+   "texto": "Precio menos insumos, menos la parte de nómina, arriendo y servicios que le toca.",
+   "ejemplo": {
+    "titulo": "Ejemplo: un plato del día",
+    "filas": [
+     [
+      "Precio",
+      "$28.000"
+     ],
+     [
+      "Insumos",
+      "− $11.200",
+      "rojo"
+     ],
+     [
+      "Otros costos del plato",
+      "− $12.000",
+      "rojo"
+     ],
+     [
+      "**Te dejaba**",
+      "$4.800",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Suma el aumento solo a los insumos",
+   "texto": "El precio sigue igual, pero cada plato te deja menos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Insumos (+12 %)",
+      "− $12.550",
+      "rojo"
+     ],
+     [
+      "Otros costos del plato",
+      "− $12.000",
+      "rojo"
+     ],
+     [
+      "**Te deja ahora**",
+      "$3.450"
+     ]
+    ]
+   },
+   "cierre": "Cada plato te deja $1.350 menos."
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Multiplica por lo que vendes al mes",
+   "texto": "Un número pequeño por plato se vuelve grande en 30 días.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Platos vendidos al mes",
+      "1.200"
+     ],
+     [
+      "Menos por plato",
+      "$1.350"
+     ],
+     [
+      "**Aguantar te cuesta**",
+      "$1.620.000 al mes",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Calcula el precio que recupera tu ganancia",
+   "texto": "Insumos nuevos + otros costos + lo que quieres que te deje.",
+   "ejemplo": {
+    "filas": [
+     [
+      "$12.550 + $12.000 + $4.800",
+      "$29.350"
+     ],
+     [
+      "**Nuevo precio**",
+      "$29.500 (+5 %)",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "Un 5 % en el precio compensa un 12 % en insumos."
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "La decisión",
+   "titulo": "Sube un poco y a tiempo",
+   "bullets": [
+    "Solo los platos que usan ese insumo",
+    "Un ajuste pequeño hoy evita uno grande después",
+    "Repite la cuenta cada vez que un proveedor suba"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Te avisa cuando los insumos se pasan",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Sazón de Casa",
+    "mes": "Octubre",
+    "categorias": [
+     [
+      "Insumos",
+      "$3.810.000",
+      112
+     ],
+     [
+      "Nómina",
+      "$2.200.000",
+      100
+     ],
+     [
+      "Arriendo",
+      "$1.600.000",
+      100
+     ],
+     [
+      "Servicios",
+      "$420.000",
+      105
+     ],
+     [
+      "Domicilios",
+      "$380.000",
+      95
+     ]
+    ]
+   },
+   "nota": "12 % sobre el presupuesto"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Mira el costo antes de tocar el precio",
+   "items": [
+    "Gastos por categoría con alerta",
+    "Ganancia real del mes",
+    "Desde $15/mes"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

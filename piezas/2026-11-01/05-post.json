@@ -1,0 +1,12 @@
+{
+ "layout": "mascota",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "Págate primero. Después, el resto.",
+ "sub": "Fija tu sueldo como gasto del mes y mira qué queda de verdad.",
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

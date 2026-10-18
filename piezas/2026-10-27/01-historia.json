@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "«Mis cuentas viven en WhatsApp.»",
+ "sub": "Cada venta en un lugar distinto es una venta que se te pierde.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

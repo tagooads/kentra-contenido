@@ -1,0 +1,44 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Cierre de octubre",
+ "titulo": "Octubre vs septiembre: tres gastos que cambiaron",
+ "pantalla": "categorias",
+ "app": {
+  "negocio": "Café La Esquina",
+  "mes": "Octubre",
+  "categorias": [
+   [
+    "Insumos",
+    "$3.350.000",
+    112
+   ],
+   [
+    "Arriendo",
+    "$1.800.000",
+    100
+   ],
+   [
+    "Nómina",
+    "$1.650.000",
+    110
+   ],
+   [
+    "Domicilios",
+    "$395.000",
+    92
+   ],
+   [
+    "Comisiones",
+    "$365.000",
+    104
+   ]
+  ]
+ },
+ "nota": "Insumos +16 %, nómina +10 %, domicilios −8 %",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

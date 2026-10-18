@@ -1,0 +1,44 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Restaurantes",
+ "titulo": "Tus insumos subieron 12 % y no lo viste",
+ "pantalla": "categorias",
+ "app": {
+  "negocio": "Sazón de Casa",
+  "mes": "Octubre",
+  "categorias": [
+   [
+    "Insumos",
+    "$3.810.000",
+    112
+   ],
+   [
+    "Nómina",
+    "$2.200.000",
+    100
+   ],
+   [
+    "Arriendo",
+    "$1.600.000",
+    100
+   ],
+   [
+    "Servicios",
+    "$420.000",
+    105
+   ],
+   [
+    "Domicilios",
+    "$380.000",
+    95
+   ]
+  ]
+ },
+ "nota": "12 % sobre el presupuesto",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

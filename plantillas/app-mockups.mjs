@@ -19,7 +19,7 @@ const PANTALLAS = {
   dashboard: (a) => `
     ${cabecera(a.negocio || "Café La Esquina")}
     <div style="padding:14px 16px;display:flex;flex-direction:column;gap:12px">
-      <div style="display:flex;gap:8px"><span style="border:1px solid ${C.borde};border-radius:999px;padding:7px 14px;font-size:13px;background:#fff">${esc(a.mes || "Septiembre")} ⌄</span><span style="border:1px solid ${C.borde};border-radius:999px;padding:7px 14px;font-size:13px;background:#fff">2026 ⌄</span></div>
+      <div style="display:flex;gap:8px"><span style="border:1px solid ${C.borde};border-radius:999px;padding:7px 14px;font-size:13px;background:#fff;color:#1E2D4F">${esc(a.mes || "Septiembre")} ⌄</span><span style="border:1px solid ${C.borde};border-radius:999px;padding:7px 14px;font-size:13px;background:#fff;color:#1E2D4F">2026 ⌄</span></div>
       ${a.vencidas ? tarjeta(`<div style="display:flex;gap:12px;align-items:center"><div style="width:38px;height:38px;border-radius:12px;background:#FAD4D6;display:flex;align-items:center;justify-content:center;color:${C.rojo};font-weight:800">!</div><div><div style="font-size:11px;font-weight:800;color:${C.rojo};letter-spacing:.08em">${esc(a.vencidas)}</div><div style="font-size:22px;font-weight:800;color:${C.rojo}">${esc(a.vencidasValor || "")}</div></div></div>`, `background:${C.rojoClaro};border:1px solid #F7C5C8`) : ""}
       ${tarjeta(`${etiqueta("Saldo neto")}<div style="font-size:38px;font-weight:800;color:${C.navy};letter-spacing:-.02em;margin:4px 0 8px">${esc(a.ganancia || "$1.450.000")}</div>
         <span style="display:inline-block;border:1px solid #BFE7D3;background:${C.verdeClaro};color:${C.verde};font-weight:700;font-size:12px;border-radius:999px;padding:4px 10px">${esc(a.margen || "17,3 % de margen")}</span>

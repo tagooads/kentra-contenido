@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "navy",
+ "titulo": "«Ya sé que gano poco. ¿Para qué verlo?»",
+ "sub": "Verlo es lo que te dice dónde está el poco: en un gasto, en un precio o en un cliente que no paga.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

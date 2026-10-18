@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "En Excel, cerrar el mes es un fin de semana. En Kentra, un vistazo.",
+ "sub": "Lo que registraste durante el mes ya está sumado, restado y comparado.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

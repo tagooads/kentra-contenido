@@ -1,0 +1,45 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Importación con IA",
+ "titulo": "47 movimientos. Cero digitados.",
+ "pantalla": "importar",
+ "app": {
+  "negocio": "Café La Esquina",
+  "archivo": "extracto-octubre.csv",
+  "detectados": "47 movimientos detectados",
+  "movimientos": [
+   [
+    "Distribuidora Andina",
+    "Insumos",
+    "−$620.000"
+   ],
+   [
+    "Pago Rappi",
+    "Ventas",
+    "+$1.240.000"
+   ],
+   [
+    "Arriendo local",
+    "Arriendo",
+    "−$1.800.000"
+   ],
+   [
+    "Comisión pasarela",
+    "Comisiones",
+    "−$38.400"
+   ],
+   [
+    "Transferencia cliente",
+    "Ventas",
+    "+$450.000"
+   ]
+  ]
+ },
+ "nota": "Sube el extracto y se organiza solo",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

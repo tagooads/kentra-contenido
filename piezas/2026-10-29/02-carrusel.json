@@ -1,0 +1,157 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Creativos y freelancers",
+   "titulo": "¿Tu cliente te paga o tú le prestas?",
+   "sub": "Cómo cobrar un proyecto sin financiarlo tú.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Mira cuánto pones tú antes de cobrar",
+   "texto": "Si cobras al final y «a 30 días», trabajas y gastas con tu dinero.",
+   "ejemplo": {
+    "titulo": "Ejemplo: un estudio de diseño",
+    "filas": [
+     [
+      "Proyecto de marca",
+      "$3.000.000 · 6 semanas"
+     ],
+     [
+      "Gastos durante el proyecto",
+      "$1.800.000"
+     ],
+     [
+      "Cobras (a 30 días)",
+      "semana 10"
+     ],
+     [
+      "**Financias**",
+      "$1.800.000 por 10 semanas",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Pide un anticipo del 50 % al firmar",
+   "texto": "El anticipo cubre casi todo lo que vas a gastar en el proyecto.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Anticipo",
+      "$1.500.000",
+      "verde"
+     ],
+     [
+      "Gastos del proyecto",
+      "− $1.800.000",
+      "rojo"
+     ],
+     [
+      "**Pones de tu bolsillo**",
+      "$300.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Divide el resto en hitos",
+   "texto": "Cada entrega importante tiene su cobro. Nadie espera al final.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Propuesta (semana 3)",
+      "30 % · $900.000"
+     ],
+     [
+      "Entrega (semana 6)",
+      "20 % · $600.000"
+     ],
+     [
+      "**Lo máximo que pones tú**",
+      "$300.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Cada hito con comprobante y fecha límite",
+   "texto": "Así el cliente sabe qué paga, cuánto y hasta cuándo.",
+   "bullets": [
+    "Fecha límite en cada comprobante",
+    "Qué incluye ese pago",
+    "Un recordatorio antes de que venza"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "Lo que cambia",
+   "titulo": "Mismo proyecto, tu dinero trabaja menos",
+   "ejemplo": {
+    "filas": [
+     [
+      "Sin anticipo",
+      "$1.800.000 por 10 semanas"
+     ],
+     [
+      "Con anticipo e hitos",
+      "$300.000 por 3 semanas"
+     ]
+    ]
+   },
+   "cierre": "El cliente paga el proyecto. No tú."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "El comprobante del anticipo, con tu logo",
+   "pantalla": "comprobante",
+   "app": {
+    "negocio": "Estudio Luna",
+    "numero": "0131",
+    "fecha": "29 oct 2026",
+    "cliente": "Agencia Norte",
+    "items": [
+     [
+      "Anticipo 50 % · identidad de marca",
+      "$1.500.000"
+     ]
+    ],
+    "total": "$1.500.000"
+   },
+   "nota": "Lo marcas como cobrado y queda registrado"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Cobra por hitos, no al final",
+   "items": [
+    "Comprobantes PDF con tu logo",
+    "Recordatorios con fecha límite",
+    "Lo cobrado se registra solo"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

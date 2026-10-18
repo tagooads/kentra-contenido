@@ -1,0 +1,188 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cierre de octubre",
+   "titulo": "¿Qué cambió de septiembre a octubre?",
+   "sub": "Comparar el mes dice más que mirarlo solo.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "ingresos": "$9.800.000",
+    "gastos": "$7.900.000",
+    "ganancia": "$1.900.000",
+    "margen": "19,4 % de margen",
+    "barras": [
+     55,
+     70,
+     40,
+     85,
+     65,
+     80,
+     95
+    ],
+    "rojo": [
+     2
+    ],
+    "vsMes": "+31 % vs sept."
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Compara ventas con ventas",
+   "texto": "El mismo número, en los dos meses.",
+   "ejemplo": {
+    "titulo": "Café La Esquina",
+    "filas": [
+     [
+      "Septiembre",
+      "$8.400.000"
+     ],
+     [
+      "Octubre",
+      "$9.800.000"
+     ],
+     [
+      "**Vendió**",
+      "+17 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Compara cada gasto con el suyo",
+   "texto": "No el total: categoría por categoría.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Insumos",
+      "$2.900.000 → $3.350.000 (+16 %)",
+      "rojo"
+     ],
+     [
+      "Nómina",
+      "$1.500.000 → $1.650.000 (+10 %)"
+     ],
+     [
+      "Domicilios",
+      "$430.000 → $395.000 (−8 %)",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "Los insumos subieron casi igual que las ventas: ahí no ganaste."
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Compara la ganancia, no el movimiento",
+   "texto": "Vender más solo sirve si queda más.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Septiembre",
+      "$1.450.000"
+     ],
+     [
+      "Octubre",
+      "$1.900.000"
+     ],
+     [
+      "**Te quedó**",
+      "+31 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Mira el margen",
+   "texto": "Cuánto queda de cada $100 vendidos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Septiembre",
+      "17,3 %"
+     ],
+     [
+      "Octubre",
+      "19,4 %"
+     ],
+     [
+      "**De cada $100**",
+      "$19 en vez de $17",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "Para noviembre",
+   "titulo": "Decide una sola cosa",
+   "bullets": [
+    "Negociar insumos: es el gasto que más creció",
+    "Mantener el turno extra: dejó más de lo que costó",
+    "Revisar domicilios: ¿bajó el gasto o bajaron los pedidos?"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Octubre al lado de septiembre",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "ingresos": "$9.800.000",
+    "gastos": "$7.900.000",
+    "ganancia": "$1.900.000",
+    "margen": "19,4 % de margen",
+    "barras": [
+     55,
+     70,
+     40,
+     85,
+     65,
+     80,
+     95
+    ],
+    "rojo": [
+     2
+    ],
+    "vsMes": "+31 % vs sept."
+   },
+   "nota": "La comparación con el mes anterior, lista"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Compara meses sin armar tablas",
+   "items": [
+    "Ganancia real de cada mes",
+    "Gastos por categoría",
+    "Tendencia de los últimos meses"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

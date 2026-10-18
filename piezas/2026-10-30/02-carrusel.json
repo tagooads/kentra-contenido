@@ -1,0 +1,191 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cierre de octubre",
+   "titulo": "Octubre se acaba. Ciérralo en 5 pasos",
+   "sub": "Con el ejemplo de una cafetería.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "ingresos": "$9.800.000",
+    "gastos": "$7.900.000",
+    "ganancia": "$1.900.000",
+    "margen": "19,4 % de margen",
+    "barras": [
+     55,
+     70,
+     40,
+     85,
+     65,
+     80,
+     95
+    ],
+    "rojo": [
+     2
+    ],
+    "vencidas": "Por cobrar vencido",
+    "vencidasValor": "$640.000"
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Registra lo que falta antes del 31",
+   "texto": "Lo que no está anotado no existe para el cierre.",
+   "bullets": [
+    "Las ventas del fin de semana",
+    "Los gastos de la última semana",
+    "Las compras pequeñas en efectivo"
+   ]
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Cobra lo que te deben de octubre",
+   "texto": "Lo pendiente no es ganancia hasta que entra. Llama antes del 31.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pedidos de eventos por cobrar",
+      "$640.000",
+      "rojo"
+     ],
+     [
+      "Vencieron el",
+      "24 de octubre"
+     ],
+     [
+      "**Si entra antes del 31**",
+      "cuenta en octubre",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Aparta lo que ya debes pagar en noviembre",
+   "texto": "Esa parte del saldo no es tuya todavía.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Arriendo (5 nov)",
+      "$1.800.000"
+     ],
+     [
+      "Proveedor (2 nov)",
+      "$1.200.000"
+     ],
+     [
+      "**Comprometido**",
+      "$3.000.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Mira los tres números",
+   "texto": "Lo que entró, lo que salió y lo que te quedó. Ese es el cierre.",
+   "ejemplo": {
+    "titulo": "Octubre · Café La Esquina",
+    "filas": [
+     [
+      "Entró",
+      "$9.800.000"
+     ],
+     [
+      "Salió",
+      "− $7.900.000",
+      "rojo"
+     ],
+     [
+      "**Te quedó**",
+      "$1.900.000",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "19,4 % de margen."
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "titulo": "Compara con septiembre y decide una sola cosa",
+   "texto": "Un número mejor no basta: hay que saber de dónde salió.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Septiembre",
+      "$1.450.000"
+     ],
+     [
+      "Octubre",
+      "$1.900.000"
+     ],
+     [
+      "**Diferencia**",
+      "+31 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Los tres números y lo que falta por cobrar",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Octubre",
+    "ingresos": "$9.800.000",
+    "gastos": "$7.900.000",
+    "ganancia": "$1.900.000",
+    "margen": "19,4 % de margen",
+    "barras": [
+     55,
+     70,
+     40,
+     85,
+     65,
+     80,
+     95
+    ],
+    "rojo": [
+     2
+    ],
+    "vencidas": "Por cobrar vencido",
+    "vencidasValor": "$640.000"
+   },
+   "nota": "Por cobrar vencido: $640.000"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Cierra octubre en minutos, no en un domingo",
+   "items": [
+    "Ganancia real del mes",
+    "Alertas de lo que falta por cobrar",
+    "Comparación con el mes anterior"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}

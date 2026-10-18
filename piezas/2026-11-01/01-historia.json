@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "¿Cuánto te pagaste en octubre?",
+ "sub": "Si la respuesta es «lo que sobró», esto es para ti.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

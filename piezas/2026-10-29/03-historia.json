@@ -1,0 +1,11 @@
+{
+ "layout": "cita",
+ "formato": "historia",
+ "tema": "claro",
+ "titulo": "«Mis clientes me pagan cuando pueden.»",
+ "sub": "Un comprobante con fecha límite y un recordatorio cambian eso.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

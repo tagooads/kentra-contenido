@@ -1,0 +1,29 @@
+{
+ "layout": "dato",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Cierre de octubre",
+ "titulo": "A 2 días del cierre, el café ya sabe cómo va",
+ "filas": [
+  {
+   "label": "Entró",
+   "valor": "$9.800.000",
+   "color": "gris"
+  },
+  {
+   "label": "Salió",
+   "valor": "− $7.900.000",
+   "color": "rojo"
+  },
+  {
+   "label": "Te quedó",
+   "valor": "$1.900.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

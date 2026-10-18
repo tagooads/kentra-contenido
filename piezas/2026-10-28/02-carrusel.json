@@ -1,0 +1,164 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Temporada alta",
+   "titulo": "¿Cuánta mercancía comprar para diciembre?",
+   "sub": "4 cuentas antes de pagarle al proveedor.",
+   "visual": "mascota"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Empieza por lo que vendiste el diciembre pasado",
+   "texto": "No por lo que crees que vas a vender. Por lo que pasó.",
+   "ejemplo": {
+    "titulo": "Ejemplo: una tienda online",
+    "filas": [
+     [
+      "Un mes normal",
+      "180 unidades"
+     ],
+     [
+      "Diciembre 2025",
+      "310 unidades"
+     ],
+     [
+      "**Diciembre vende**",
+      "1,7 veces más",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Ajusta con lo que creciste este año",
+   "texto": "Compara el mismo mes de los dos años y aplica ese porcentaje.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Octubre 2025",
+      "150 unidades"
+     ],
+     [
+      "Octubre 2026",
+      "180 unidades (+20 %)"
+     ],
+     [
+      "**Estimado diciembre**",
+      "310 × 1,2 = 372",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Calcula cuánto dinero se va a la bodega",
+   "texto": "Resta lo que ya tienes y multiplica por el costo, no por el precio de venta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Necesitas",
+      "370 unidades"
+     ],
+     [
+      "Ya tienes",
+      "60 unidades"
+     ],
+     [
+      "**Por comprar: 310 × $38.000**",
+      "$11.780.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "tema": "claro",
+   "titulo": "Mira si puedes pagarla sin ahogar noviembre",
+   "texto": "Lo que tienes disponible menos los gastos fijos del mes: ese es tu tope.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Dinero disponible hoy",
+      "$9.000.000"
+     ],
+     [
+      "Gastos fijos de noviembre",
+      "− $4.200.000",
+      "rojo"
+     ],
+     [
+      "**Tope para comprar hoy**",
+      "$4.800.000",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "El resto, en una segunda tanda o a 30 días con el proveedor."
+  },
+  {
+   "layout": "valor",
+   "tema": "verde",
+   "kicker": "La regla",
+   "titulo": "Base, ajuste y tope",
+   "bullets": [
+    "Base: lo que vendiste el año pasado",
+    "Ajuste: lo que creciste este año",
+    "Tope: lo que puedes pagar sin tocar los fijos"
+   ]
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Sabes cuánto comprar porque sabes cuánto te queda",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Octubre",
+    "ingresos": "$7.400.000",
+    "gastos": "$5.620.000",
+    "ganancia": "$1.780.000",
+    "margen": "24 % de margen",
+    "vsMes": "+18 % vs sept.",
+    "barras": [
+     48,
+     55,
+     52,
+     60,
+     58,
+     66,
+     76
+    ],
+    "rojo": []
+   },
+   "nota": "Saldo neto al día, sin fórmulas"
+  },
+  {
+   "layout": "mascota",
+   "kicker": "Kentra",
+   "titulo": "Compra con números, no con nervios",
+   "items": [
+    "Ganancia real del mes",
+    "Gastos por categoría",
+    "Inventario en Pro y Business"
+   ],
+   "mascota": "app",
+   "tam": "media"
+  }
+ ]
+}
