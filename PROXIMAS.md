@@ -1,28 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 74 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
 
 
 ## Domingo 18/10
-
-**10:00 — Post** · ganancia-real · `2026-10-18-04-post`
-
-<img src="piezas/2026-10-18/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Pregunta de domingo para dueños de negocio.
-
-1 = lo primero que miro son las ventas.
-2 = lo primero que miro es lo que me quedó.
-
-Las ventas dicen cuánto se movió el negocio; la ganancia dice cuánto es tuyo. Responde con 1 o 2 en los comentarios.
-
-Kentra te muestra los dos números lado a lado. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · precio · `2026-10-18-02-carrusel`
 
@@ -889,9 +870,9 @@ En Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde 
 
 ## Últimas publicadas
 
+- domingo 18/10 · 10:00 · Post `2026-10-18-04-post` · IG ✓ · FB ✓
 - domingo 18/10 · 08:00 · Historia `2026-10-18-01-historia` · IG ✓ · FB ✓
 - sábado 17/10 · 19:00 · Historia `2026-10-17-03-historia` · IG ✓ · FB ✓
 - sábado 17/10 · 18:00 · Post `2026-10-17-05-post` · IG ✓ · FB ✓
 - sábado 17/10 · 12:00 · Carrusel `2026-10-17-02-carrusel` · IG ✓ · FB ✓
 - sábado 17/10 · 10:00 · Post `2026-10-17-04-post` · IG ✓ · FB ✓
-- sábado 17/10 · 08:00 · Historia `2026-10-17-01-historia` · IG ✓ · FB ✓
