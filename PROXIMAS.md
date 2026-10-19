@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
 
 
 ## Lunes 19/10
-
-**12:00 — Carrusel** · ganancia-real · `2026-10-19-02-carrusel`
-
-<img src="piezas/2026-10-19/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-19/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un 10 % de descuento parece poco. Para tu ganancia no lo es.
-
-En este carrusel: la cuenta completa con una blusa de $50.000 que cuesta $30.000. Con 10 % menos, cada venta te deja $15.000 en vez de $20.000 y necesitas 134 ventas, no 100, para ganar lo mismo. Guárdalo antes de tu próxima promoción.
-
-Kentra te muestra si el descuento te dejó más o menos. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Precios #TiendaOnline
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-19-05-post`
 
@@ -811,9 +795,9 @@ En Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde 
 
 ## Últimas publicadas
 
+- lunes 19/10 · 12:00 · Carrusel `2026-10-19-02-carrusel` · IG ✓ · FB ✓
 - lunes 19/10 · 10:00 · Post `2026-10-19-04-post` · IG ✓ · FB ✓
 - lunes 19/10 · 08:00 · Historia `2026-10-19-01-historia` · IG ✓ · FB ✓
 - domingo 18/10 · 19:00 · Historia `2026-10-18-03-historia` · IG ✓ · FB ✓
 - domingo 18/10 · 18:00 · Post `2026-10-18-05-post` · IG ✓ · FB ✓
 - domingo 18/10 · 12:00 · Carrusel `2026-10-18-02-carrusel` · IG ✓ · FB ✓
-- domingo 18/10 · 10:00 · Post `2026-10-18-04-post` · IG ✓ · FB ✓
