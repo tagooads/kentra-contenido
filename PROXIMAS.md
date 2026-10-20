@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
 
 
 ## Martes 20/10
-
-**12:00 — Carrusel** · funcionalidades · `2026-10-20-02-carrusel`
-
-<img src="piezas/2026-10-20/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-20/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un comprobante claro se cobra más rápido.
-
-En este carrusel: los 4 datos que debe llevar todo comprobante de pago (número y fecha, detalle con valores, fecha límite y cómo pagarte) y el paso que casi nadie hace: registrar el cobro cuando llega. Al final, cómo se ve un comprobante de $850.000 en Kentra.
-
-Comprobantes PDF con tu logo en todos los planes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes
-
-</details>
 
 **18:00 — Post** · verticales · `2026-10-20-05-post`
 
@@ -752,9 +736,9 @@ En Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde 
 
 ## Últimas publicadas
 
+- martes 20/10 · 12:00 · Carrusel `2026-10-20-02-carrusel` · IG ✓ · FB ✓
 - martes 20/10 · 10:00 · Post `2026-10-20-04-post` · IG ✓ · FB ✓
 - martes 20/10 · 08:00 · Historia `2026-10-20-01-historia` · IG ✓ · FB ✓
 - lunes 19/10 · 19:00 · Historia `2026-10-19-03-historia` · IG ✓ · FB ✓
 - lunes 19/10 · 18:00 · Post `2026-10-19-05-post` · IG ✓ · FB ✓
 - lunes 19/10 · 12:00 · Carrusel `2026-10-19-02-carrusel` · IG ✓ · FB ✓
-- lunes 19/10 · 10:00 · Post `2026-10-19-04-post` · IG ✓ · FB ✓
