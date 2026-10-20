@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 61 piezas agendadas.
 
 
 ## Martes 20/10
-
-**18:00 — Post** · verticales · `2026-10-20-05-post`
-
-<img src="piezas/2026-10-20/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Las apps de domicilio traen pedidos. La pregunta es cuánto te dejan.
-
-En el ejemplo, un restaurante vende $4.000.000 por app en el mes. Comisión ($1.000.000), empaques ($240.000) e insumos ($1.600.000) se llevan $2.840.000: le quedan $1.160.000, el 29 %, y todavía faltan arriendo y nómina.
-
-Separa tus ventas por canal y mira cuál te deja más. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-10-20-03-historia`
 
@@ -736,9 +720,9 @@ En Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde 
 
 ## Últimas publicadas
 
+- martes 20/10 · 18:00 · Post `2026-10-20-05-post` · IG ✓ · FB ✓
 - martes 20/10 · 12:00 · Carrusel `2026-10-20-02-carrusel` · IG ✓ · FB ✓
 - martes 20/10 · 10:00 · Post `2026-10-20-04-post` · IG ✓ · FB ✓
 - martes 20/10 · 08:00 · Historia `2026-10-20-01-historia` · IG ✓ · FB ✓
 - lunes 19/10 · 19:00 · Historia `2026-10-19-03-historia` · IG ✓ · FB ✓
 - lunes 19/10 · 18:00 · Post `2026-10-19-05-post` · IG ✓ · FB ✓
-- lunes 19/10 · 12:00 · Carrusel `2026-10-19-02-carrusel` · IG ✓ · FB ✓
