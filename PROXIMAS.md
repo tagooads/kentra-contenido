@@ -1,13 +1,10 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 61 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 60 piezas agendadas.
 
+## ⚠️ Con error
 
-## Martes 20/10
-
-**19:00 — Historia** · funcionalidades · `2026-10-20-03-historia`
-
-<img src="piezas/2026-10-20/03-historia.jpg" width="160">
+- **martes 20/10 · 19:00** Historia `2026-10-20-03-historia`: IG: 17841480064403784/media_publish: The requested resource does not exist
 
 
 ## Miércoles 21/10
