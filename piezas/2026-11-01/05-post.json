@@ -1,10 +1,11 @@
 {
- "layout": "mascota",
+ "layout": "meme",
  "formato": "post",
- "tema": "verde",
- "titulo": "Págate primero. Después, el resto.",
- "sub": "Fija tu sueldo como gasto del mes y mira qué queda de verdad.",
- "mascota": "app",
+ "tema": "menta",
+ "arriba": "«$250.000 por un logo es carísimo.»",
+ "abajo": "La misma persona, el mismo sábado:",
+ "figura": "app",
+ "globo": "$95.000 en una salida de 3 horas. El logo le dura 10 años: $2.000 al mes.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

@@ -1,14 +1,11 @@
 {
- "layout": "tip",
+ "layout": "frase",
  "formato": "historia",
- "tema": "navy",
- "kicker": "Hoy, 31",
- "titulo": "Antes de que empiece noviembre",
- "items": [
-  "Registra lo que vendiste hoy",
-  "Anota lo que te deben de octubre",
-  "Mira cuánto te quedó en el mes"
- ],
+ "tema": "claro",
+ "kicker": "Cuando piden un precio «más o menos»",
+ "etiqueta": "Copia esto",
+ "frase": "«Te paso el precio exacto en una hora. Un “más o menos” nos sale caro a los dos.»",
+ "porque": "Un número a ojo se vuelve el precio final. Y el que pierde eres tú.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

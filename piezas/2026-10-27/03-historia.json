@@ -1,36 +1,11 @@
 {
- "layout": "app",
+ "layout": "frase",
  "formato": "historia",
- "tema": "claro",
- "kicker": "Alertas",
- "titulo": "Te avisa antes de que algo venza",
- "pantalla": "alertas",
- "app": {
-  "negocio": "Tienda Nube Verde",
-  "alertas": [
-   [
-    "rojo",
-    "Pago a proveedor vence mañana",
-    "Distribuidora Andina · $1.200.000"
-   ],
-   [
-    "amarillo",
-    "Cuota 3 de 6 de la tarjeta",
-    "Vence el 5 nov · $380.000"
-   ],
-   [
-    "rojo",
-    "Domicilios superó el presupuesto",
-    "28 % por encima este mes"
-   ],
-   [
-    "verde",
-    "Cobro registrado: pedido 0127",
-    "$750.000 · se registró solo"
-   ]
-  ]
- },
- "nota": "Deudas, cuotas y notas por vencer",
+ "tema": "verdeoscuro",
+ "kicker": "Cuando te piden fiado",
+ "etiqueta": "Copia esto",
+ "frase": "«Te lo aparto hoy y te lo entrego cuando lo pagues. Así no me atraso ni te atraso.»",
+ "porque": "Fiar es prestar sin interés y sin fecha. Si ya fiaste, anótalo con fecha y cóbralo.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

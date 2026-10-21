@@ -1,9 +1,25 @@
 {
- "layout": "pregunta",
+ "layout": "pizarra",
  "formato": "historia",
  "tema": "verde",
- "titulo": "¿Noviembre arranca con plan o con esperanza?",
- "sub": "Haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
+ "kicker": "Reto de domingo",
+ "titulo": "Meta de noviembre: $1.000.000 de ganancia. ¿Cuánto hay que vender?",
+ "lineas": [
+  [
+   "Ganancia que quieres",
+   "$1.000.000"
+  ],
+  [
+   "Tu margen neto",
+   "20 %"
+  ],
+  [
+   "Ventas necesarias",
+   "?",
+   "res"
+  ]
+ ],
+ "nota": "Respuesta: $1.000.000 ÷ 0,20 = $5.000.000. ¿Sabes tu margen? Sin él, la meta es un deseo.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

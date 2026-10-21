@@ -1,7 +1,7 @@
 {
  "layout": "carrusel",
  "formato": "post",
- "tema": "navy",
+ "tema": "noche",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
@@ -9,161 +9,139 @@
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Alertas",
-   "titulo": "Kentra te avisa antes de que te cueste dinero",
-   "sub": "5 avisos que llegan solos a tu celular.",
-   "visual": "mascota-telefono"
+   "kicker": "Reto",
+   "titulo": "¿A cuánto lo vendes? 5 precios que la gente pone a ojo",
+   "sub": "Responde antes de deslizar. La cuenta real va en cada slide.",
+   "visual": "none"
   },
   {
-   "layout": "valor",
-   "num": "1",
-   "titulo": "Un pago a proveedor vence mañana",
-   "texto": "Registras la deuda con su fecha y Kentra te la recuerda antes, no después.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Distribuidora Andina",
-      "$1.200.000"
-     ],
-     [
-      "Vence",
-      "28 de octubre"
-     ],
-     [
-      "**Aviso**",
-      "un día antes",
-      "verde"
-     ]
-    ]
-   }
+   "layout": "reto",
+   "kicker": "Reto 1 de 5",
+   "titulo": "Te cuesta $8.000 y quieres ganar el 25 %. ¿A cuánto lo vendes?",
+   "opciones": [
+    {
+     "texto": "$10.000"
+    },
+    {
+     "texto": "$10.700",
+     "ok": true
+    },
+    {
+     "texto": "$12.000"
+    }
+   ],
+   "nota": "Costo + 25 % da 20 % de margen. Para ganar 25 %: $8.000 ÷ 0,75 = $10.700."
   },
   {
-   "layout": "valor",
-   "num": "2",
-   "tema": "claro",
-   "titulo": "Una categoría se pasó del presupuesto",
-   "texto": "Fijas cuánto puedes gastar en cada categoría. Si te pasas, lo ves en rojo.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Presupuesto de domicilios",
-      "$300.000"
-     ],
-     [
-      "Gastado este mes",
-      "$384.000",
-      "rojo"
-     ],
-     [
-      "**Aviso**",
-      "28 % por encima",
-      "rojo"
-     ]
-    ]
-   }
+   "layout": "reto",
+   "tema": "menta",
+   "kicker": "Reto 2 de 5",
+   "titulo": "Lo vendes a $30.000 con 20 % de margen y das 15 % de descuento. ¿Cuánto ganas?",
+   "opciones": [
+    {
+     "texto": "$4.500"
+    },
+    {
+     "texto": "$1.500",
+     "ok": true
+    },
+    {
+     "texto": "$3.000"
+    }
+   ],
+   "nota": "Ganabas $6.000. El descuento de $4.500 se llevó el 75 % de tu ganancia."
   },
   {
-   "layout": "valor",
-   "num": "3",
-   "titulo": "Una cuota de la tarjeta está por vencer",
-   "texto": "Las compras a cuotas quedan con su calendario (planes Pro y Business).",
-   "ejemplo": {
-    "filas": [
-     [
-      "Cuota 3 de 6",
-      "$380.000"
-     ],
-     [
-      "Vence",
-      "5 de noviembre"
-     ],
-     [
-      "**Aviso**",
-      "antes de la fecha",
-      "verde"
-     ]
-    ]
-   }
+   "layout": "reto",
+   "kicker": "Reto 3 de 5",
+   "titulo": "Te cuesta $24.000 y lo vendes a $40.000 por una app que cobra 25 %. ¿Qué te queda?",
+   "opciones": [
+    {
+     "texto": "$16.000"
+    },
+    {
+     "texto": "$6.000",
+     "ok": true
+    },
+    {
+     "texto": "$10.000"
+    }
+   ],
+   "nota": "La app cobra $10.000 antes que tú. Si el precio no la incluye, sale de tu ganancia."
   },
   {
-   "layout": "valor",
-   "num": "4",
-   "tema": "claro",
-   "titulo": "Una nota con fecha límite",
-   "texto": "Cualquier pendiente con fecha: renovar un permiso, pagar un impuesto, llamar al proveedor.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Renovar registro del local",
-      "5 de noviembre"
-     ],
-     [
-      "**Aviso**",
-      "con anticipación",
-      "verde"
-     ]
-    ]
-   }
+   "layout": "reto",
+   "tema": "menta",
+   "kicker": "Reto 4 de 5",
+   "titulo": "Al detal va a $20.000 (te cuesta $12.000). Piden 50 con 30 % de descuento. ¿Ganas?",
+   "opciones": [
+    {
+     "texto": "Sí: $100.000",
+     "ok": true
+    },
+    {
+     "texto": "Sí: $400.000"
+    },
+    {
+     "texto": "No, pierdes"
+    }
+   ],
+   "nota": "A $14.000 ganas $2.000 por unidad: $100.000. Lo mismo que 13 ventas al detal."
   },
   {
-   "layout": "valor",
-   "num": "5",
-   "titulo": "Te pagaron: queda registrado solo",
-   "texto": "Marcas la cuenta como cobrada y el ingreso entra a tus movimientos sin digitar nada.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Pedido 0127",
-      "$750.000"
-     ],
-     [
-      "**Estado**",
-      "cobrado y registrado",
-      "verde"
-     ]
-    ]
-   }
+   "layout": "reto",
+   "kicker": "Reto 5 de 5",
+   "titulo": "Subes de $20.000 a $22.000 (costo $14.000) y vendes 10 % menos. ¿Ganas más o menos?",
+   "opciones": [
+    {
+     "texto": "Menos"
+    },
+    {
+     "texto": "Igual"
+    },
+    {
+     "texto": "Más: +$120.000",
+     "ok": true
+    }
+   ],
+   "nota": "Antes: 100 × $6.000 = $600.000. Después: 90 × $8.000 = $720.000."
   },
   {
    "layout": "app",
+   "tema": "claro",
    "kicker": "Así lo ves en Kentra",
-   "titulo": "Todos los avisos en una sola lista",
-   "pantalla": "alertas",
+   "titulo": "Pregúntale el margen y te responde con tus cifras",
+   "pantalla": "kentrai",
    "app": {
-    "negocio": "Tienda Nube Verde",
-    "alertas": [
+    "chat": [
      [
-      "rojo",
-      "Pago a proveedor vence mañana",
-      "Distribuidora Andina · $1.200.000"
+      "yo",
+      "Si vendo a $10.700 lo que me cuesta $8.000, ¿qué margen tengo?"
      ],
      [
-      "amarillo",
-      "Cuota 3 de 6 de la tarjeta",
-      "Vence el 5 nov · $380.000"
+      "ia",
+      "**25 %**: te quedan **$2.700** por unidad."
      ],
      [
-      "rojo",
-      "Domicilios superó el presupuesto",
-      "28 % por encima este mes"
+      "yo",
+      "¿Y si lo vendo por la app que cobra 25 %?"
      ],
      [
-      "verde",
-      "Cobro registrado: pedido 0127",
-      "$750.000 · se registró solo"
+      "ia",
+      "La comisión son $2.675: te quedarían **$25**. Para ese canal el precio debería ser **$14.300**."
      ]
     ]
    },
-   "nota": "Deudas, cuotas y notas por vencer"
+   "nota": "KentrAI, ilimitado en todos los planes"
   },
   {
    "layout": "mascota",
    "kicker": "Kentra",
-   "titulo": "Que el aviso llegue antes que el problema",
+   "titulo": "El precio se calcula, no se adivina",
    "items": [
-    "Recordatorios con alertas",
-    "Control por categorías",
-    "Cuentas automatizadas"
+    "KentrAI responde con tus cifras",
+    "Ganancia real de cada mes",
+    "Desde $15/mes, sin permanencia"
    ],
    "mascota": "app",
    "tam": "media"

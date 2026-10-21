@@ -1,11 +1,24 @@
 {
- "layout": "pregunta",
+ "layout": "reto",
  "formato": "historia",
- "tema": "verde",
- "titulo": "¿Octubre te dejó ganancia o solo movimiento?",
- "sub": "Haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
+ "tema": "marfil",
+ "kicker": "Reto de viernes",
+ "titulo": "Compraste $3.000.000 en mercancía y vendiste la mitad en $2.400.000. ¿Ganaste o perdiste?",
+ "opciones": [
+  {
+   "texto": "Gané $900.000"
+  },
+  {
+   "texto": "Perdí $600.000"
+  },
+  {
+   "texto": "Las dos cosas",
+   "ok": true
+  }
+ ],
+ "nota": "Ganancia: $900.000. Caja: −$600.000. Ganar y tener dinero no es lo mismo.",
  "cta": {
-  "texto": "kentra.pro/quiz",
+  "texto": "kentra.pro",
   "boton": true
  }
 }

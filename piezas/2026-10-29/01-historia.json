@@ -1,43 +1,43 @@
 {
- "layout": "app",
+ "layout": "recibo",
  "formato": "historia",
- "tema": "navy",
- "kicker": "Importación con IA",
- "titulo": "47 movimientos. Cero digitados.",
- "pantalla": "importar",
- "app": {
-  "negocio": "Café La Esquina",
-  "archivo": "extracto-octubre.csv",
-  "detectados": "47 movimientos detectados",
-  "movimientos": [
-   [
-    "Distribuidora Andina",
-    "Insumos",
-    "−$620.000"
-   ],
-   [
-    "Pago Rappi",
-    "Ventas",
-    "+$1.240.000"
-   ],
-   [
-    "Arriendo local",
-    "Arriendo",
-    "−$1.800.000"
-   ],
-   [
-    "Comisión pasarela",
-    "Comisiones",
-    "−$38.400"
-   ],
-   [
-    "Transferencia cliente",
-    "Ventas",
-    "+$450.000"
-   ]
+ "tema": "menta",
+ "kicker": "Restaurantes",
+ "titulo": "Hamburguesa de $18.000: ¿cuánto queda?",
+ "negocio": "Burger del Barrio",
+ "detalle": "Combo clásico por domicilio · datos demo",
+ "items": [
+  [
+   "Precio de venta",
+   "$18.000",
+   "verde"
+  ],
+  [
+   "Carne, pan y vegetales",
+   "−$5.600",
+   "rojo"
+  ],
+  [
+   "Papas, gaseosa y empaque",
+   "−$3.300",
+   "rojo"
+  ],
+  [
+   "Comisión de la app (25 %)",
+   "−$4.500",
+   "rojo"
+  ],
+  [
+   "Gas, luz y nómina por combo",
+   "−$2.600",
+   "rojo"
   ]
- },
- "nota": "Sube el extracto y se organiza solo",
+ ],
+ "total": [
+  "Te queda",
+  "$2.000"
+ ],
+ "pie": "11 % de margen. En el local, sin la comisión, quedan $6.500 (36 %).",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

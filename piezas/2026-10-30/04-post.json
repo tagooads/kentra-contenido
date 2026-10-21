@@ -1,33 +1,48 @@
 {
- "layout": "app",
+ "layout": "recibo",
  "formato": "post",
- "tema": "navy",
- "kicker": "Cierre de octubre",
- "titulo": "Faltan 2 días y el café ya sabe cómo va",
- "pantalla": "dashboard",
- "app": {
-  "negocio": "Café La Esquina",
-  "mes": "Octubre",
-  "ingresos": "$9.800.000",
-  "gastos": "$7.900.000",
-  "ganancia": "$1.900.000",
-  "margen": "19,4 % de margen",
-  "barras": [
-   55,
-   70,
-   40,
-   85,
-   65,
-   80,
-   95
+ "tema": "verdeoscuro",
+ "kicker": "Tiendas online",
+ "titulo": "Una camiseta de $45.000 vendida por internet",
+ "negocio": "Tienda Nube Verde",
+ "detalle": "Camiseta estampada · pedido 0412 · datos demo",
+ "items": [
+  [
+   "Precio de venta",
+   "$45.000",
+   "verde"
   ],
-  "rojo": [
-   2
+  [
+   "Camiseta en blanco",
+   "−$12.000",
+   "rojo"
   ],
-  "vencidas": "Por cobrar vencido",
-  "vencidasValor": "$640.000"
- },
- "nota": "Lo que falta por cobrar, arriba de todo",
+  [
+   "Estampado y etiqueta",
+   "−$7.800",
+   "rojo"
+  ],
+  [
+   "Envío «incluido»",
+   "−$9.000",
+   "rojo"
+  ],
+  [
+   "Comisión de la pasarela",
+   "−$1.600",
+   "rojo"
+  ],
+  [
+   "Publicidad por cada venta",
+   "−$5.000",
+   "rojo"
+  ]
+ ],
+ "total": [
+  "Te queda",
+  "$9.600"
+ ],
+ "nota": "21 % de margen. El envío «incluido» costó más que el estampado.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

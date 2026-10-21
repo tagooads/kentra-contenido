@@ -1,30 +1,40 @@
 {
- "layout": "app",
+ "layout": "split",
  "formato": "post",
- "tema": "claro",
- "kicker": "Tienda online",
- "titulo": "Octubre va 18 % mejor que septiembre. ¿Y el tuyo?",
- "pantalla": "dashboard",
- "app": {
-  "negocio": "Tienda Nube Verde",
-  "mes": "Octubre",
-  "ingresos": "$7.400.000",
-  "gastos": "$5.620.000",
-  "ganancia": "$1.780.000",
-  "margen": "24 % de margen",
-  "vsMes": "+18 % vs sept.",
-  "barras": [
-   48,
-   55,
-   52,
-   60,
-   58,
-   66,
-   76
-  ],
-  "rojo": []
+ "tema": "noche",
+ "kicker": "Pantalla dividida",
+ "arriba": {
+  "kicker": "Lo que se celebra",
+  "texto": "«Este mes vendimos el doble. Nos fue increíble.»"
  },
- "nota": "Comparado con septiembre, sin fórmulas",
+ "abajo": {
+  "kicker": "La cuenta",
+  "filas": [
+   [
+    "Ventas de septiembre",
+    "$6.000.000"
+   ],
+   [
+    "Ganancia de septiembre",
+    "$900.000 (15 %)"
+   ],
+   [
+    "Ventas de octubre",
+    "$12.000.000"
+   ],
+   [
+    "Gastos de octubre",
+    "−$11.100.000",
+    "rojo"
+   ],
+   [
+    "Ganancia de octubre",
+    "$900.000 (7,5 %)",
+    "res"
+   ]
+  ]
+ },
+ "nota": "Vender el doble con el mismo resultado no es crecer. Es trabajar el doble.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

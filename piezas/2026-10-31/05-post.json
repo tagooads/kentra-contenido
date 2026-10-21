@@ -1,9 +1,26 @@
 {
- "layout": "cita",
+ "layout": "pizarra",
  "formato": "post",
- "tema": "navy",
- "titulo": "«Ya sé que gano poco. ¿Para qué verlo?»",
- "sub": "Verlo es lo que te dice dónde está el poco: en un gasto, en un precio o en un cliente que no paga.",
+ "tema": "noche",
+ "kicker": "Impuestos",
+ "titulo": "Vendiste $10.000.000. ¿Cuánto es tuyo?",
+ "lineas": [
+  [
+   "Ventas del mes (con IVA)",
+   "$10.000.000"
+  ],
+  [
+   "IVA del 19 % que cobraste",
+   "−$1.597.000",
+   "rojo"
+  ],
+  [
+   "Tuyo, antes de gastos",
+   "$8.403.000",
+   "res"
+  ]
+ ],
+ "nota": "El IVA pasó por tu cuenta, pero es de la DIAN. Si lo gastas, se lo debes.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

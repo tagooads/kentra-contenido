@@ -10,25 +10,25 @@
    ],
    "caption": "",
    "pilar": "objeciones",
-   "layout": "cita",
+   "layout": "chat",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "cita",
-   "gancho": "«Mis cuentas viven en WhatsApp.»",
-   "primera_linea": "«Mis cuentas viven en WhatsApp.»",
-   "estilo": "cita, navy, con mascota telefono",
+   "version": 2,
+   "formato": "pantallazo de chat con cliente difícil",
+   "gancho": "«¿Me lo dejas en $80.000?»",
+   "primera_linea": "«¿Me lo dejas en $80.000?»",
+   "estilo": "chat, menta, tarjeta de chat con cabecera navy, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@omarrosmen, TikTok humor del cliente que debe (789K vistas)",
+    "url": "https://www.tiktok.com/@omarrosmen/video/7695931047900417332",
+    "que_tomo": "el pantallazo de chat con el cliente difícil y la respuesta con la cuenta hecha"
    },
    "carpeta": "2026-10-27",
    "archivo": "01-historia",
-   "qa_ticket": "8dbea681-c569-4406-96a8-912625dbb7a9"
+   "qa_ticket": "c39144f0-0ca8-4fb3-9a49-9bf0b278d8ba"
   },
   {
    "id": "2026-10-27-04-post",
@@ -37,27 +37,27 @@
    "imagenes": [
     "piezas/2026-10-27/04-post.jpg"
    ],
-   "caption": "Un pedido en el chat, un gasto en las notas, un pago en la foto del comprobante. Todo existe, pero nada suma.\n\nLo que se ve: la objeción que más escuchamos y lo que pasa con ella. Cuando cada venta vive en un lugar distinto, a fin de mes no hay forma de saber cuánto quedó.\n\nEn Kentra registras ingresos y gastos desde el celular y ves los tres números en una pantalla. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
-   "pilar": "objeciones",
-   "layout": "cita",
+   "caption": "Cobrar $3.600.000 no es ganar $3.600.000.\n\nEn la barra, cómo repartió el mes un diseñador independiente: 10 % en herramientas y software, 15 % apartado para impuestos, 15 % al colchón de los meses flojos, 10 % a las cuotas del computador y 50 % de sueldo: $1.800.000.\n\nCuando cada peso tiene nombre, el sueldo deja de ser «lo que sobra». Kentra te muestra ese reparto cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #NegocioPropio",
+   "pilar": "ganancia-real",
+   "layout": "reparto",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "cita",
-   "gancho": "«Mis cuentas están en WhatsApp y en notas del celular.»",
-   "primera_linea": "Un pedido en el chat, un gasto en las notas, un pago en la foto del comprobante. Todo existe, pero nada suma.",
-   "estilo": "cita, verde, sin mascota",
+   "version": 2,
+   "formato": "reparto de una cifra (barra apilada)",
+   "gancho": "Cobró $3.600.000 en octubre. ¿Cuánto fue su sueldo?",
+   "primera_linea": "Cobrar $3.600.000 no es ganar $3.600.000.",
+   "estilo": "reparto, marfil, barra apilada + leyenda, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@davisemprende, TikTok reparto de lo ganado en la semana (1,2M vistas)",
+    "url": "https://www.tiktok.com/@davisemprende/video/7689979728387738901",
+    "que_tomo": "el reparto real de lo que entró con una cifra concreta y el sueldo como una parte más"
    },
    "carpeta": "2026-10-27",
    "archivo": "04-post",
-   "qa_ticket": "626d9145-e005-414f-96f1-e75866edc459"
+   "qa_ticket": "459082d0-5c65-42b8-bb55-ac587ca826c2"
   },
   {
    "id": "2026-10-27-02-carrusel",
@@ -73,27 +73,27 @@
     "piezas/2026-10-27/02-carrusel-7.jpg",
     "piezas/2026-10-27/02-carrusel-8.jpg"
    ],
-   "caption": "Lo caro no es el gasto. Es enterarte tarde.\n\nEn este carrusel, 5 avisos que Kentra manda solos: un pago a proveedor que vence mañana, una categoría que se pasó del presupuesto, una cuota de la tarjeta por vencer, una nota con fecha límite y un cobro que se registra solo cuando lo marcas como cobrado.\n\nTodos los avisos en una lista, en todos los planes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-   "pilar": "funcionalidades",
+   "caption": "¿A cuánto lo vendes? Responde antes de deslizar.\n\n5 retos de precio con su cuenta: el costo + 25 % que no da 25 % de margen, el descuento del 15 % que se lleva el 75 % de la ganancia, la app que cobra antes que tú, el pedido grande con rebaja y la subida de precio que vende menos y gana más.\n\nAl final, cómo KentrAI hace estas cuentas con tus números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes",
+   "pilar": "educacion",
    "layout": "carrusel",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "carrusel (portada mascota-telefono + 8 slides)",
-   "gancho": "Kentra te avisa antes de que te cueste dinero",
-   "primera_linea": "Lo caro no es el gasto. Es enterarte tarde.",
-   "estilo": "carrusel/portada, navy, visual mascota-telefono",
+   "version": 2,
+   "formato": "carrusel reto «¿a cuánto lo vendes?» con respuesta por slide",
+   "gancho": "¿A cuánto lo vendes? 5 precios que la gente pone a ojo",
+   "primera_linea": "¿A cuánto lo vendes? Responde antes de deslizar.",
+   "estilo": "carrusel/portada sin visual, noche + slides reto alternando noche y menta, app KentrAI, cierre mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
+    "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
+    "que_tomo": "el reto numérico de precio (costo + margen) que hace comentar la respuesta, uno por slide con su solución"
    },
    "carpeta": "2026-10-27",
    "archivo": "02-carrusel",
-   "qa_ticket": "9ad93db9-3d70-461c-8e7b-d10c2ab24c96"
+   "qa_ticket": "e579d432-b123-4984-8385-677f82c7cbc7"
   },
   {
    "id": "2026-10-27-05-post",
@@ -132,26 +132,26 @@
     "piezas/2026-10-27/03-historia.jpg"
    ],
    "caption": "",
-   "pilar": "funcionalidades",
-   "layout": "app",
+   "pilar": "educacion",
+   "layout": "frase",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "mockup de función",
-   "gancho": "Te avisa antes de que algo venza",
-   "primera_linea": "Te avisa antes de que algo venza",
-   "estilo": "app, claro, sin mascota",
+   "version": 2,
+   "formato": "frase lista para copiar",
+   "gancho": "Cuando te piden fiado",
+   "primera_linea": "«Te lo aparto hoy y te lo entrego cuando lo pagues.»",
+   "estilo": "frase, verdeoscuro, tarjeta blanca con comilla verde, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@sebaslopezinnova, frase lista cuando piden descuento (1,3M plays)",
+    "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
+    "que_tomo": "la frase lista para copiar ante una situación incómoda (aquí: cuando piden fiado)"
    },
    "carpeta": "2026-10-27",
    "archivo": "03-historia",
-   "qa_ticket": "883d564f-324c-429a-b34a-9a998959363f"
+   "qa_ticket": "6acfe7d2-2685-41aa-af36-1001529b63a6"
   },
   {
    "id": "2026-10-28-01-historia",
@@ -189,27 +189,27 @@
    "imagenes": [
     "piezas/2026-10-28/04-post.jpg"
    ],
-   "caption": "Mejor que el mes pasado se siente. Saberlo con un número es otra cosa.\n\nEn la pantalla, una tienda online en octubre: entraron $7.400.000, salieron $5.620.000 y el saldo neto es $1.780.000, un 24 % de margen y un 18 % más que en septiembre. La etiqueta verde compara el mes con el anterior sin que armes nada.\n\nTu ganancia real del mes, en una pantalla. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #GananciaReal",
+   "caption": "Vendió el doble. Le quedó lo mismo.\n\nArriba, la frase que todos celebran. Abajo, la cuenta: septiembre vendió $6.000.000 y dejó $900.000; octubre vendió $12.000.000, gastó $11.100.000 y dejó… $900.000. El margen pasó de 15 % a 7,5 %.\n\nCrecer en ventas sin mirar el margen es trabajar el doble por lo mismo. Kentra te muestra las dos cifras juntas. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
    "pilar": "ganancia-real",
-   "layout": "app",
+   "layout": "split",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "mockup de función",
-   "gancho": "Octubre va 18 % mejor que septiembre. ¿Y el tuyo?",
-   "primera_linea": "Mejor que el mes pasado se siente. Saberlo con un número es otra cosa.",
-   "estilo": "app, claro, sin mascota",
+   "version": 2,
+   "formato": "pantalla dividida (clip + cuenta)",
+   "gancho": "«Este mes vendimos el doble.» Le quedó lo mismo.",
+   "primera_linea": "Vendió el doble. Le quedó lo mismo.",
+   "estilo": "split, noche, clip oscuro arriba + cuenta en papel abajo, sin mascota",
    "modela": {
-    "referencia": "Bind México, anuncio «Entregado… ¿cobrado?»",
-    "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-    "que_tomo": "caso aterrizado a una vertical (tienda online) con su cifra"
+    "referencia": "@raquintetips, reel pantalla dividida márgenes bruto/operativo/neto (1,9M plays)",
+    "url": "https://www.instagram.com/reel/Deh7xSdhmgF/",
+    "que_tomo": "la pantalla dividida: la frase que se celebra arriba y la cuenta real abajo"
    },
    "carpeta": "2026-10-28",
    "archivo": "04-post",
-   "qa_ticket": "99a81fa8-cbdd-4a04-b230-39c8fcb1e524"
+   "qa_ticket": "b1474da6-b626-4b82-8969-6138ef5b6cc5"
   },
   {
    "id": "2026-10-28-02-carrusel",
@@ -225,7 +225,7 @@
     "piezas/2026-10-28/02-carrusel-7.jpg",
     "piezas/2026-10-28/02-carrusel-8.jpg"
    ],
-   "caption": "Diciembre vende más. Pero la mercancía se paga en noviembre.\n\nEn este carrusel, 4 cuentas antes de hacer el pedido grande: cuánto vendiste el diciembre pasado, cuánto creciste este año, cuánto dinero se va a la bodega y cuánto puedes pagar sin dejar noviembre sin aire. En el ejemplo, una tienda necesita 370 unidades ($11.780.000) y hoy solo puede pagar $4.800.000: compra en dos tandas.\n\nKentra te muestra el saldo neto al día. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Inventario",
+   "caption": "Vendió $9.000.000. Ganó $295.000. Y los dos números son verdad.\n\nEn la pizarra, la cuenta de una tienda de ropa en octubre: margen bruto 40 % ($3.600.000 tras la mercancía), margen operativo 7 % ($630.000 tras arriendo, sueldo y servicios) y margen neto 3,3 % ($295.000 tras comisiones y la cuota del crédito). El problema no está en lo que vende: está en lo que le cuesta abrir la puerta.\n\nKentra te muestra los tres números cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
    "pilar": "educacion",
    "layout": "carrusel",
    "destinos": [
@@ -233,19 +233,19 @@
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "carrusel (portada mascota + 8 slides)",
-   "gancho": "¿Cuánta mercancía comprar para diciembre?",
-   "primera_linea": "Diciembre vende más. Pero la mercancía se paga en noviembre.",
-   "estilo": "carrusel/portada, navy, visual mascota",
+   "version": 2,
+   "formato": "carrusel pizarra de márgenes bruto/operativo/neto",
+   "gancho": "Vendió $9.000.000 en octubre. ¿Cuánto ganó de verdad?",
+   "primera_linea": "Vendió $9.000.000. Ganó $295.000. Y los dos números son verdad.",
+   "estilo": "carrusel/portada claro con visual app (dashboard), slides pizarra alternando claro y noche, app categorías, cita, cierre mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@raquintetips, reel pantalla dividida márgenes bruto/operativo/neto (1,9M plays)",
+    "url": "https://www.instagram.com/reel/Deh7xSdhmgF/",
+    "que_tomo": "la lección de los tres márgenes resuelta en una pizarra, paso a paso, con un negocio concreto"
    },
    "carpeta": "2026-10-28",
    "archivo": "02-carrusel",
-   "qa_ticket": "9c838a1f-1cf0-44da-a45c-b3fd3cbfcb62"
+   "qa_ticket": "6ce99750-a3cc-4c3d-b626-104e729819db"
   },
   {
    "id": "2026-10-28-05-post",
@@ -313,26 +313,26 @@
     "piezas/2026-10-29/01-historia.jpg"
    ],
    "caption": "",
-   "pilar": "funcionalidades",
-   "layout": "app",
+   "pilar": "verticales",
+   "layout": "recibo",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "mockup de función",
-   "gancho": "47 movimientos. Cero digitados.",
-   "primera_linea": "47 movimientos. Cero digitados.",
-   "estilo": "app, navy, sin mascota",
+   "version": 2,
+   "formato": "detrás de cámaras: desglose en tiquete",
+   "gancho": "Hamburguesa de $18.000: ¿cuánto queda?",
+   "primera_linea": "Hamburguesa de $18.000: ¿cuánto queda?",
+   "estilo": "recibo, menta, tiquete de papel centrado, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?» (2,1M vistas)",
+    "url": "https://www.tiktok.com/@rossybouchot/video/7694688337851878677",
+    "que_tomo": "la cuenta real de un producto del negocio línea por línea, como el detrás de cámaras de la pizza"
    },
    "carpeta": "2026-10-29",
    "archivo": "01-historia",
-   "qa_ticket": "01616bbd-bd7a-4517-aba1-5e568cd5ab60"
+   "qa_ticket": "c85eaeec-39fa-4f2c-812b-f67f7bf2d634"
   },
   {
    "id": "2026-10-29-04-post",
@@ -341,27 +341,27 @@
    "imagenes": [
     "piezas/2026-10-29/04-post.jpg"
    ],
-   "caption": "El extracto del banco ya tiene todos tus movimientos. Lo que falta es que alguien los organice.\n\nEn la pantalla: subes el archivo de octubre (CSV o Excel) y Kentra detecta 47 movimientos, los separa en ingresos y gastos y les pone categoría: insumos, ventas, arriendo, comisiones. Tú solo revisas.\n\nImportación con IA en los planes Pro y Business. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-   "pilar": "funcionalidades",
-   "layout": "app",
+   "caption": "«A $3.000 se venden solas.» Sí. Y dejan $400.\n\nDos voces, una galleta: la que pone precio redondo y la que suma harina, mantequilla, empaque, horno y la hora de trabajo ($2.600). A $3.000 quedan $400 por galleta; a $4.500 quedan $1.900.\n\nAntes de poner precio, mira cuánto te deja. Kentra te muestra el costo real y la ganancia de cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #NegocioPropio",
+   "pilar": "educacion",
+   "layout": "skit",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "mockup de función",
-   "gancho": "47 movimientos del banco. Ninguno digitado a mano.",
-   "primera_linea": "El extracto del banco ya tiene todos tus movimientos. Lo que falta es que alguien los organice.",
-   "estilo": "app, navy, sin mascota",
+   "version": 2,
+   "formato": "skit de dos voces",
+   "gancho": "«A $3.000 se venden solas»",
+   "primera_linea": "«A $3.000 se venden solas.» Sí. Y dejan $400.",
+   "estilo": "skit, blanco, burbujas de dos voces con iniciales ? y =, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@thevavig, skit de dos voces «voy a vender el llavero en 15 pesos» (6M plays)",
+    "url": "https://www.instagram.com/reel/Dea3rr3Ot9J/",
+    "que_tomo": "las dos voces: el que pone precio a ojo contra el que hace la cuenta, con el cálculo en pantalla"
    },
    "carpeta": "2026-10-29",
    "archivo": "04-post",
-   "qa_ticket": "7bb7a6bc-21eb-4121-92bd-ebe18e2eb783"
+   "qa_ticket": "922c3051-ce9f-4a46-b3de-5f4c7647c745"
   },
   {
    "id": "2026-10-29-02-carrusel",
@@ -406,27 +406,27 @@
    "imagenes": [
     "piezas/2026-10-29/05-post.jpg"
    ],
-   "caption": "Lo que viste esta semana (el extracto que se organiza solo, las cuotas con su calendario) vive en el plan Pro.\n\nEn la imagen: Plan Pro por $20 al mes, con importación bancaria y de facturas con IA, módulo de créditos y cuotas, inventario, reglas de categorización automática, hasta 2 negocios y 1 usuario extra. Es el plan que más eligen.\n\nAcceso inmediato y cancelas cuando quieras. Pagando el año ahorras 45 %. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-   "pilar": "precio",
-   "layout": "precio",
+   "caption": "Al que te debe no le da pena. ¿Por qué a ti sí?\n\nUna postura para pegar en la pared: cobrar lo que acordaron no es ser intenso, es terminar el trabajo. La incomodidad dura un mensaje; el dinero que no cobras dura todo el mes.\n\nEn Kentra cada cuenta por cobrar tiene fecha y alerta: cobras el día, sin pensarlo dos veces. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros",
+   "pilar": "educacion",
+   "layout": "tweet",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "precio de un plan",
-   "gancho": "El plan más elegido",
-   "primera_linea": "Lo que viste esta semana (el extracto que se organiza solo, las cuotas con su calendario) vive en el plan Pro.",
-   "estilo": "precio, claro, con mascota telefono",
+   "version": 2,
+   "formato": "postura con humor / tarjeta de texto",
+   "gancho": "Si te da pena cobrar: al que te debe no le da ninguna.",
+   "primera_linea": "Al que te debe no le da pena. ¿Por qué a ti sí?",
+   "estilo": "tweet, verde, tarjeta blanca tipo publicación centrada, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@labovedadelexito, reel «el que se ofende cuando le cobras» (874K vistas)",
+    "url": "https://www.instagram.com/reel/Decz2Vaj1GW/",
+    "que_tomo": "la postura con humor que le da la razón al que cobra y pone nombre a la incomodidad"
    },
    "carpeta": "2026-10-29",
    "archivo": "05-post",
-   "qa_ticket": "d970c630-6540-411e-aff0-f123853400e9"
+   "qa_ticket": "b493708e-76db-4c67-997d-aceb6a104e10"
   },
   {
    "id": "2026-10-29-03-historia",
@@ -493,27 +493,27 @@
    "imagenes": [
     "piezas/2026-10-30/04-post.jpg"
    ],
-   "caption": "El cierre no debería ser una sorpresa el día 31.\n\nEn la pantalla, una cafetería a 30 de octubre: saldo neto $1.900.000 (19,4 % de margen), ingresos $9.800.000, gastos $7.900.000 y, arriba de todo, una alerta: $640.000 por cobrar vencidos. Dos días para cobrarlos antes de cerrar el mes.\n\nKentra te muestra el mes y lo que falta, sin esperar al 31. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #Pymes",
-   "pilar": "funcionalidades",
-   "layout": "app",
+   "caption": "Vendida en $45.000. Ganancia: $9.600.\n\nEl tiquete de una camiseta estampada vendida por internet: camiseta en blanco $12.000, estampado y etiqueta $7.800, envío «incluido» $9.000, comisión de la pasarela $1.600 y $5.000 de publicidad por cada venta. Quedan $9.600: 21 %.\n\nEl precio que ve el cliente y lo que te queda son dos números distintos. Kentra te muestra el segundo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
+   "pilar": "verticales",
+   "layout": "recibo",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "mockup de función",
-   "gancho": "Faltan 2 días y el café ya sabe cómo va",
-   "primera_linea": "El cierre no debería ser una sorpresa el día 31.",
-   "estilo": "app, navy, sin mascota",
+   "version": 2,
+   "formato": "detrás de cámaras: desglose en tiquete",
+   "gancho": "Una camiseta de $45.000 vendida por internet",
+   "primera_linea": "Vendida en $45.000. Ganancia: $9.600.",
+   "estilo": "recibo, verdeoscuro, tiquete de papel centrado, sin mascota",
    "modela": {
-    "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?»",
+    "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?» (2,1M vistas)",
     "url": "https://www.tiktok.com/@rossybouchot/video/7694688337851878677",
-    "que_tomo": "la cuenta real del negocio mientras se trabaja (a 2 días del cierre)"
+    "que_tomo": "el desglose de costos de un producto concreto (camiseta por internet) con lo que queda al final"
    },
    "carpeta": "2026-10-30",
    "archivo": "04-post",
-   "qa_ticket": "268429a7-ac14-4399-9d0a-9866bcb4aded"
+   "qa_ticket": "98c3203e-b3e5-4b97-8d61-bc399f3abdc5"
   },
   {
    "id": "2026-10-30-02-carrusel",
@@ -589,25 +589,25 @@
    ],
    "caption": "",
    "pilar": "ganancia-real",
-   "layout": "pregunta",
+   "layout": "reto",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "pregunta",
-   "gancho": "¿Octubre te dejó ganancia o solo movimiento?",
-   "primera_linea": "¿Octubre te dejó ganancia o solo movimiento?",
-   "estilo": "pregunta, verde, sin mascota",
+   "version": 2,
+   "formato": "reto numérico (pregunta con opciones)",
+   "gancho": "Compraste $3.000.000 en mercancía y vendiste la mitad. ¿Ganaste o perdiste?",
+   "primera_linea": "Compraste $3.000.000 en mercancía y vendiste la mitad en $2.400.000.",
+   "estilo": "reto, marfil, opciones A/B/C en cajas con la correcta marcada, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
+    "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
+    "que_tomo": "el reto con número que la gente responde antes de ver la solución (ganancia vs caja)"
    },
    "carpeta": "2026-10-30",
    "archivo": "03-historia",
-   "qa_ticket": "1cc1e286-685a-4f5d-9fe1-e78a26c977bb"
+   "qa_ticket": "670dabaa-1ce3-4cda-9506-aeabd1cba1cb"
   },
   {
    "id": "2026-10-31-01-historia",
@@ -645,27 +645,27 @@
    "imagenes": [
     "piezas/2026-10-31/04-post.jpg"
    ],
-   "caption": "Vender más es fácil de ver. Dónde se fue lo que vendiste, no tanto.\n\nEn la pantalla, los gastos de octubre de una cafetería, categoría por categoría: insumos $3.350.000 (12 % sobre el presupuesto y 16 % más que en septiembre), nómina $1.650.000 (+10 % por un turno extra), domicilios $395.000 (−8 %). Las barras rojas señalan dónde mirar.\n\nGastos por categoría, con presupuesto y alerta. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #ControlDeGastos #Restaurantes",
-   "pilar": "educacion",
-   "layout": "app",
+   "caption": "El cliente lleva tres «mañana le pago». Hoy pidió el cuarto.\n\nEl chat de una tienda de barrio: $86.000 en el cuaderno, un abono de $20.000 y la memoria del cliente que siempre falla a su favor. La lista con fechas no es desconfianza: es la única forma de que el fiado no se vuelva regalo.\n\nEn Kentra cada deuda queda con fecha, monto y alerta. ¿Tú qué harías: le fías otra vez o cortas ahí? {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaDeBarrio #Pymes",
+   "pilar": "verticales",
+   "layout": "chat",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "mockup de función",
-   "gancho": "Octubre vs septiembre: tres gastos que cambiaron",
-   "primera_linea": "Vender más es fácil de ver. Dónde se fue lo que vendiste, no tanto.",
-   "estilo": "app, claro, sin mascota",
+   "version": 2,
+   "formato": "pantallazo de chat del cliente que debe + pregunta de debate",
+   "gancho": "Tres «mañana le pago» después",
+   "primera_linea": "El cliente lleva tres «mañana le pago». Hoy pidió el cuarto.",
+   "estilo": "chat, navy, tarjeta de chat con cabecera navy, sin mascota",
    "modela": {
-    "referencia": "Bind México, anuncio «Entregado… ¿cobrado?»",
-    "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-    "que_tomo": "caso aterrizado a una vertical (restaurante) con su cifra"
+    "referencia": "@omarrosmen, TikTok humor del cliente que debe (789K vistas)",
+    "url": "https://www.tiktok.com/@omarrosmen/video/7695931047900417332",
+    "que_tomo": "el fiado de la tienda de barrio contado como chat y la pregunta de debate al final"
    },
    "carpeta": "2026-10-31",
    "archivo": "04-post",
-   "qa_ticket": "686c21a7-2d9b-492a-8e16-3a7300baa050"
+   "qa_ticket": "3fd610e0-d065-4018-be26-629d991ec7e8"
   },
   {
    "id": "2026-10-31-02-carrusel",
@@ -710,27 +710,27 @@
    "imagenes": [
     "piezas/2026-10-31/05-post.jpg"
    ],
-   "caption": "Saber que ganas poco no es lo mismo que saber por qué.\n\nLo que dice la imagen: el número no está para asustarte, está para señalar. Un gasto que creció, un producto mal cotizado, un cliente que paga tarde. Cuando lo ves, hay algo concreto que cambiar; cuando no, solo queda trabajar más.\n\nKentra te muestra dónde está la diferencia. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
-   "pilar": "objeciones",
-   "layout": "cita",
+   "caption": "Vendiste $10.000.000. La DIAN ya tiene $1.597.000 apartados… en tu cuenta.\n\nLa cuenta en la pizarra: ventas con IVA $10.000.000; IVA del 19 % que cobraste por cuenta de la DIAN $1.597.000; lo que de verdad entró a tu negocio $8.403.000. Si ese IVA se mezcla con tu caja y lo gastas, en la fecha de pago aparece una deuda que no viste venir, con sanción e intereses.\n\nEn Kentra lo apartas en su categoría y lo ves separado desde el primer día. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Impuestos #Pymes",
+   "pilar": "ganancia-real",
+   "layout": "pizarra",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "cita",
-   "gancho": "«Ya sé que gano poco. ¿Para qué verlo?»",
-   "primera_linea": "Saber que ganas poco no es lo mismo que saber por qué.",
-   "estilo": "cita, navy, sin mascota",
+   "version": 2,
+   "formato": "pizarra con la cuenta (miedo regulatorio con cifra)",
+   "gancho": "Vendiste $10.000.000. ¿Cuánto es tuyo?",
+   "primera_linea": "Vendiste $10.000.000. La DIAN ya tiene $1.597.000 apartados… en tu cuenta.",
+   "estilo": "pizarra, noche, pizarra blanca con resultado en círculo, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@grattzcontadores, reel deuda con la DIAN: el IVA no es tu plata (917K vistas)",
+    "url": "https://www.instagram.com/reel/DeciGwPqPvT/",
+    "que_tomo": "el miedo regulatorio con cifra: el IVA que cobras no es tuyo, es de la DIAN"
    },
    "carpeta": "2026-10-31",
    "archivo": "05-post",
-   "qa_ticket": "0d3dbb0c-06e5-4324-92fb-253acdae5e1d"
+   "qa_ticket": "daaf5294-a961-4443-8057-660820a40ee0"
   },
   {
    "id": "2026-10-31-03-historia",
@@ -741,25 +741,25 @@
    ],
    "caption": "",
    "pilar": "educacion",
-   "layout": "tip",
+   "layout": "frase",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "lista / pasos",
-   "gancho": "Antes de que empiece noviembre",
-   "primera_linea": "Antes de que empiece noviembre",
-   "estilo": "tip, navy, sin mascota",
+   "version": 2,
+   "formato": "frase lista para copiar",
+   "gancho": "Cuando piden un precio «más o menos»",
+   "primera_linea": "«Te paso el precio exacto en una hora.»",
+   "estilo": "frase, claro, tarjeta blanca con comilla verde, sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@sebaslopezinnova, frase lista cuando piden descuento (1,3M plays)",
+    "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
+    "que_tomo": "la frase lista para copiar que protege el margen ante una pregunta incómoda (el precio a ojo)"
    },
    "carpeta": "2026-10-31",
    "archivo": "03-historia",
-   "qa_ticket": "235cda78-3677-4fa0-a624-740ae4f65d1b"
+   "qa_ticket": "6b413eed-464b-4f1a-9d8d-d9828c139b54"
   },
   {
    "id": "2026-11-01-01-historia",
@@ -862,27 +862,27 @@
    "imagenes": [
     "piezas/2026-11-01/05-post.jpg"
    ],
-   "caption": "Un negocio que no le paga a su dueño no está ganando. Está aguantando.\n\nLo que dice la imagen: tu sueldo va primero, registrado como un gasto fijo cada mes. Lo que quede después de pagarlo es la ganancia real del negocio, no antes.\n\nEn Kentra creas la categoría, la registras el día 1 y ves lo que queda. Desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SueldoDelDueño #NegocioPropio",
-   "pilar": "ganancia-real",
-   "layout": "mascota",
+   "caption": "«Carísimo» depende de con qué lo compares.\n\nUn logo de $250.000 que se usa 10 años cuesta $2.000 al mes. La salida del sábado costó $95.000 y duró 3 horas. Ninguna de las dos es cara: una es inversión y la otra es gasto, y las dos están bien si sabes cuál es cuál.\n\nPonle a tu trabajo el precio que vale, no el que no incomode. Kentra te muestra cuánto te deja de verdad cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Creativos",
+   "pilar": "objeciones",
+   "layout": "meme",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "titular con mascota",
-   "gancho": "Págate primero. Después, el resto.",
-   "primera_linea": "Un negocio que no le paga a su dueño no está ganando. Está aguantando.",
-   "estilo": "mascota, verde, con mascota app",
+   "version": 2,
+   "formato": "meme (texto arriba + mascota con globo)",
+   "gancho": "«$250.000 por un logo es carísimo.» La misma persona, el mismo sábado:",
+   "primera_linea": "«Carísimo» depende de con qué lo compares.",
+   "estilo": "meme, menta, tarjeta blanca arriba + mascota app con globo verde",
    "modela": {
-    "referencia": "@davisemprende, TikTok reparto de lo ganado en la semana",
-    "url": "https://www.tiktok.com/@davisemprende/video/7689979728387738901",
-    "que_tomo": "«me pagué»: el sueldo del dueño como parte del reparto"
+    "referencia": "@giselacoronaestudiocontable, skit «cuando me dicen que mis precios son caros» (1,3M vistas)",
+    "url": "https://www.instagram.com/reel/Dd1CxwZRG_n/",
+    "que_tomo": "la objeción «es caro» respondida con una comparación absurda, en tono de humor"
    },
    "carpeta": "2026-11-01",
    "archivo": "05-post",
-   "qa_ticket": "3bc38eb9-7ec4-4ae2-986e-9907caa345b6"
+   "qa_ticket": "b93aafe5-c769-4bf0-9616-2ec6bd2c0314"
   },
   {
    "id": "2026-11-01-03-historia",
@@ -892,26 +892,26 @@
     "piezas/2026-11-01/03-historia.jpg"
    ],
    "caption": "",
-   "pilar": "ganancia-real",
-   "layout": "pregunta",
+   "pilar": "educacion",
+   "layout": "pizarra",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "pregunta",
-   "gancho": "¿Noviembre arranca con plan o con esperanza?",
-   "primera_linea": "¿Noviembre arranca con plan o con esperanza?",
-   "estilo": "pregunta, verde, sin mascota",
+   "version": 2,
+   "formato": "reto numérico en pizarra (completa la cuenta)",
+   "gancho": "Meta de noviembre: $1.000.000 de ganancia. ¿Cuánto hay que vender?",
+   "primera_linea": "Meta de noviembre: $1.000.000 de ganancia.",
+   "estilo": "pizarra, verde, pizarra blanca con el resultado en blanco (?), sin mascota",
    "modela": {
-    "referencia": "Brief de Tury del 18 oct (sin referencia del mercado: pieza anterior a la regla de modelado)",
-    "url": "",
-    "que_tomo": ""
+    "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
+    "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
+    "que_tomo": "el reto numérico: una cuenta por completar (meta ÷ margen) con la respuesta abajo"
    },
    "carpeta": "2026-11-01",
    "archivo": "03-historia",
-   "qa_ticket": "069a1abf-a053-4664-aaa1-c3c4231b92d3"
+   "qa_ticket": "6462283d-b516-4aed-ac43-8bd8ec1d3af6"
   },
   {
    "id": "2026-11-02-01-historia",

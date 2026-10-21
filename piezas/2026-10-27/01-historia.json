@@ -1,10 +1,31 @@
 {
- "layout": "cita",
+ "layout": "chat",
  "formato": "historia",
- "tema": "navy",
- "titulo": "«Mis cuentas viven en WhatsApp.»",
- "sub": "Cada venta en un lugar distinto es una venta que se te pierde.",
- "mascota": "telefono",
+ "tema": "menta",
+ "kicker": "Chat (demo)",
+ "titulo": "«¿Me lo dejas en $80.000?»",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "¿Me lo dejas en $80.000? Vi uno parecido más económico.",
+   "9:02"
+  ],
+  [
+   "yo",
+   "Son $110.000, con entrega y ajustes.",
+   "9:05"
+  ],
+  [
+   "cliente",
+   "Pero llevamos años comprándote…",
+   "9:06"
+  ],
+  [
+   "yo",
+   "A $80.000 lo hago perdiendo. ¿Confirmo el jueves?"
+  ]
+ ],
  "cta": {
   "texto": "kentra.pro",
   "boton": true

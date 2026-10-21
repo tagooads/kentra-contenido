@@ -1,9 +1,38 @@
 {
- "layout": "cita",
+ "layout": "reparto",
  "formato": "post",
- "tema": "verde",
- "titulo": "«Mis cuentas están en WhatsApp y en notas del celular.»",
- "sub": "Cada venta en un lugar distinto es un número que no suma. En Kentra, todo en una pantalla.",
+ "tema": "marfil",
+ "kicker": "Freelancers (datos demo)",
+ "titulo": "Cobró $3.600.000 en octubre. ¿Cuánto fue su sueldo?",
+ "total": "$3.600.000",
+ "partes": [
+  [
+   "Herramientas y software",
+   "$360.000",
+   10
+  ],
+  [
+   "Impuestos (apartados)",
+   "$540.000",
+   15
+  ],
+  [
+   "Colchón para meses flojos",
+   "$540.000",
+   15
+  ],
+  [
+   "Cuotas del computador",
+   "$360.000",
+   10
+  ],
+  [
+   "Su sueldo",
+   "$1.800.000",
+   50
+  ]
+ ],
+ "cierre": "Facturó $3.600.000. Su sueldo fue la mitad. El resto ya tenía nombre.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false
