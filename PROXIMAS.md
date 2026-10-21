@@ -4,7 +4,7 @@ Se actualiza sola cada hora. Hora de Bogotá. 60 piezas agendadas.
 
 ## ⚠️ Con error
 
-- **martes 20/10 · 19:00** Historia `2026-10-20-03-historia`: IG: 17841480064403784/media_publish: The requested resource does not exist
+- **martes 20/10 · 19:00** Historia `2026-10-20-03-historia`: IG: 17841480064403784/media_publish: Media ID is not available
 
 
 ## Miércoles 21/10

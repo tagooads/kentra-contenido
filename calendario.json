@@ -2317,8 +2317,8 @@
       ],
       "fb_post_id": "1118703453978039",
       "publicado_fb": true,
-      "intentos": 1,
-      "error": "IG: 17841480064403784/media_publish: The requested resource does not exist"
+      "intentos": 2,
+      "error": "IG: 17841480064403784/media_publish: Media ID is not available"
     },
     {
       "id": "2026-10-21-01-historia",
