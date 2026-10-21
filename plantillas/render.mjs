@@ -332,10 +332,10 @@ L.meme = (p, t, hist) => `
 // chat: pantallazo de una conversación (cliente / yo)
 L.chat = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
-  ${p.titulo ? `<h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 240}px">${rich(p.titulo)}</h1>` : ""}
-  <div style="border-radius:40px;overflow:hidden;background:#E9EEF3;color:#111;box-shadow:0 24px 60px rgba(0,0,0,.18);display:flex;flex-direction:column">
+  ${p.titulo ? `<h1 class="${p.tam || "media"} fit" style="flex:none;max-height:${hist ? 260 : 240}px">${rich(p.titulo)}</h1>` : ""}
+  <div style="flex:none;border-radius:40px;overflow:hidden;background:#E9EEF3;color:#111;box-shadow:0 24px 60px rgba(0,0,0,.18);display:flex;flex-direction:column">
     <div style="background:#1E2D4F;color:#fff;padding:22px 30px;display:flex;align-items:center;gap:18px"><div style="width:64px;height:64px;border-radius:50%;background:#47C08B;color:#0F1E38;font-weight:800;font-size:32px;display:flex;align-items:center;justify-content:center">${esc((p.nombre || "Cliente").slice(0, 1))}</div><div><div style="font-weight:800;font-size:32px">${esc(p.nombre || "Cliente")}</div><div style="font-size:22px;opacity:.7">en línea</div></div></div>
-    <div class="caja" style="padding:30px 28px;display:flex;flex-direction:column;gap:18px;background:none;border-radius:0">
+    <div class="caja" style="padding:22px 28px;display:flex;flex-direction:column;gap:14px;background:none;border-radius:0">
       ${(p.chat || []).map(([q, texto, hora]) => q === "yo"
         ? `<div class="burbuja" style="align-self:flex-end;background:#D8F3E6;border-bottom-right-radius:8px">${rich(texto)}${hora ? `<span class="hora">${esc(hora)} ✓✓</span>` : ""}</div>`
         : `<div class="burbuja" style="align-self:flex-start;background:#fff;border-bottom-left-radius:8px">${rich(texto)}${hora ? `<span class="hora">${esc(hora)}</span>` : ""}</div>`).join("")}
