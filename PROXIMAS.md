@@ -2,10 +2,6 @@
 
 Se actualiza sola cada hora. Hora de Bogotá. 26 piezas agendadas.
 
-## ⚠️ Con error
-
-- **miércoles 21/10 · 18:00** Post `2026-10-21-05-post`: FB: 956335110897891/photos: Please reduce the amount of data you're asking for, then retry your request
-
 
 ## Miércoles 21/10
 
@@ -311,9 +307,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- miércoles 21/10 · 18:00 · Post `2026-10-21-05-post` · IG ✓ · FB ✓
 - miércoles 21/10 · 12:00 · Carrusel `2026-10-21-02-carrusel` · IG ✓ · FB ✓
 - miércoles 21/10 · 10:00 · Post `2026-10-21-04-post` · IG ✓ · FB ✓
 - miércoles 21/10 · 08:00 · Historia `2026-10-21-01-historia` · IG ✓ · FB ✓
 - martes 20/10 · 19:00 · Historia `2026-10-20-03-historia` · IG ✓ · FB ✓
 - martes 20/10 · 18:00 · Post `2026-10-20-05-post` · IG ✓ · FB ✓
-- martes 20/10 · 12:00 · Carrusel `2026-10-20-02-carrusel` · IG ✓ · FB ✓

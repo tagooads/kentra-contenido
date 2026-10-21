@@ -2410,7 +2410,10 @@
       "media_id": "18012428108995773",
       "publicado_ig": true,
       "intentos": 1,
-      "error": "FB: 956335110897891/photos: Please reduce the amount of data you're asking for, then retry your request"
+      "fb_post_id": "956335110897891_122144528661213382",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-10-21T23:14:22.895Z"
     },
     {
       "id": "2026-10-21-03-historia",
