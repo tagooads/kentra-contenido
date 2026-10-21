@@ -1,0 +1,13 @@
+{
+ "layout": "mito",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Mito vs realidad",
+ "mito": "Si vendo más, gano más.",
+ "realidad": "Si el margen no cubre tus gastos, vendes más para perder más.",
+ "nota": "Primero el margen. Después el volumen.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

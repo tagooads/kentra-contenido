@@ -1,0 +1,133 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "menta",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Ganancia real",
+   "titulo": "De cada venta, una parte nunca fue tuya",
+   "sub": "Impuestos, comisiones y cuotas: sepáralos el mismo día.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "El impuesto que cobras no es ingreso",
+   "texto": "Lo cobras por el Estado y lo entregas después. Si lo gastas, lo debes.",
+   "ejemplo": {
+    "titulo": "Venta de $119.000 (IVA 19 %, Colombia)",
+    "filas": [
+     [
+      "Precio sin impuesto",
+      "$100.000"
+     ],
+     [
+      "IVA cobrado",
+      "$19.000",
+      "rojo"
+     ],
+     [
+      "Lo que realmente vendiste",
+      "$100.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Sepáralo el mismo día",
+   "texto": "Una categoría o bolsillo «Impuestos» al que mueves lo cobrado cada semana.",
+   "bullets": [
+    "Cada semana: suma el impuesto de lo vendido",
+    "Muévelo a una cuenta aparte",
+    "No cuenta para decidir gastos"
+   ]
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Lo mismo con comisiones y cuotas",
+   "texto": "Pasarela, tarjeta, cuota del crédito: ya están comprometidas.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas del mes",
+      "$8.000.000"
+     ],
+     [
+      "Impuestos apartados",
+      "−$1.280.000",
+      "rojo"
+     ],
+     [
+      "Comisiones y cuotas",
+      "−$520.000",
+      "rojo"
+     ],
+     [
+      "Disponible de verdad",
+      "$6.200.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "La regla",
+   "titulo": "El saldo incluye dinero que ya tiene dueño.",
+   "sub": "Antes de gastar, resta lo que no es tuyo."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Una categoría «Impuestos» y el saldo neto sin sorpresas",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Café La Esquina",
+    "mes": "Noviembre",
+    "categorias": [
+     [
+      "Impuestos (apartado)",
+      "$1.280.000",
+      100
+     ],
+     [
+      "Comisiones de pago",
+      "$320.000",
+      80
+     ],
+     [
+      "Cuota del crédito",
+      "$200.000",
+      100
+     ],
+     [
+      "Insumos",
+      "$2.900.000",
+      96
+     ]
+    ]
+   },
+   "nota": "Cada peso en su categoría"
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Separa primero. Gasta después.",
+   "tam": "media",
+   "mascota": "app",
+   "items": [
+    "Categorías personalizables",
+    "Alertas por categoría",
+    "Deudas y cuotas a la vista"
+   ],
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

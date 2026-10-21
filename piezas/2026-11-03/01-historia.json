@@ -1,0 +1,13 @@
+{
+ "layout": "frase",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Cuando piden descuento",
+ "etiqueta": "Copia esto",
+ "frase": "«Puedo ajustar el precio si ajustamos lo que incluye. ¿Qué prefieres quitar?»",
+ "porque": "Nunca digas sí o no de una. Así proteges tu margen sin perder la venta.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

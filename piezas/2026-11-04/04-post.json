@@ -1,0 +1,40 @@
+{
+ "layout": "reparto",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Una semana (datos demo)",
+ "titulo": "Entraron $2.400.000 esta semana. Así se repartieron:",
+ "total": "$2.400.000",
+ "partes": [
+  [
+   "Insumos y mercancía",
+   "$960.000",
+   40
+  ],
+  [
+   "Nómina",
+   "$600.000",
+   25
+  ],
+  [
+   "Arriendo y servicios",
+   "$360.000",
+   15
+  ],
+  [
+   "Impuestos (apartados)",
+   "$192.000",
+   8
+  ],
+  [
+   "Me pagué",
+   "$288.000",
+   12
+  ]
+ ],
+ "cierre": "Lo que «sobra» ya tiene dueño. Lo tuyo es el 12 %.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

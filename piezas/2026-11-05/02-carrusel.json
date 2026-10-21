@@ -1,0 +1,175 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "noche",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Buen Fin · 13 al 17 de noviembre",
+   "titulo": "4 cuentas antes de lanzar tu promo",
+   "sub": "Para que vender más no sea perder más.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Noviembre",
+    "ingresos": "$9.600.000",
+    "gastos": "$7.900.000",
+    "ganancia": "$1.700.000",
+    "margen": "17,7 % de margen",
+    "barras": [
+     45,
+     50,
+     48,
+     56,
+     60,
+     58,
+     78
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Tu precio piso",
+   "texto": "Costo del producto + gastos del mes ÷ unidades que vendes. Debajo de eso, pierdes.",
+   "ejemplo": {
+    "titulo": "Un producto",
+    "filas": [
+     [
+      "Costo del producto",
+      "$55.000"
+     ],
+     [
+      "Gastos del mes ÷ 120 unidades",
+      "$16.000"
+     ],
+     [
+      "Precio piso",
+      "$71.000",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "Un 20 % sobre $100.000 te deja en $80.000: todavía arriba."
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Tu caja durante la promo",
+   "texto": "Vendes el viernes, la pasarela te paga el martes y el proveedor cobra el lunes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Proveedor, lunes 16",
+      "−$3.000.000",
+      "rojo"
+     ],
+     [
+      "La pasarela te paga",
+      "martes 17"
+     ],
+     [
+      "Caja que necesitas antes",
+      "$3.000.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Tu tope de publicidad",
+   "texto": "Lo que puedes invertir por venta sin comerte la ganancia.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Te deja cada venta",
+      "$25.000"
+     ],
+     [
+      "Máximo por venta en anuncios",
+      "$8.000"
+     ],
+     [
+      "Con 200 ventas",
+      "$1.600.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Tu inventario real",
+   "texto": "Cuánto puedes entregar sin quedar mal ni sobrecomprar.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Unidades en bodega",
+      "140"
+     ],
+     [
+      "Ventas esperadas",
+      "200"
+     ],
+     [
+      "Compra necesaria",
+      "60 unidades",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "La promo con sus gastos, en su categoría",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Noviembre",
+    "categorias": [
+     [
+      "Publicidad Buen Fin",
+      "$1.600.000",
+      100
+     ],
+     [
+      "Mercancía",
+      "$3.300.000",
+      92
+     ],
+     [
+      "Envíos",
+      "$480.000",
+      110
+     ],
+     [
+      "Comisiones",
+      "$290.000",
+      70
+     ]
+    ]
+   },
+   "nota": "Sabes qué te dejó la promo"
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Promo con cuenta, no con esperanza",
+   "tam": "media",
+   "mascota": "app",
+   "items": [
+    "Gastos por categoría con alerta",
+    "Alertas de pagos por vencer",
+    "Ganancia real del mes"
+   ],
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

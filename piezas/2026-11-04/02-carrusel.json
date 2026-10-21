@@ -1,0 +1,96 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cobros",
+   "titulo": "5 frases para cobrar sin pelear (y sin perder al cliente)",
+   "sub": "Cópialas tal cual.",
+   "visual": "mascota"
+  },
+  {
+   "layout": "frase",
+   "kicker": "1 · Cuando se pasó la fecha",
+   "etiqueta": "Copia esto",
+   "frase": "«Te escribo por la factura del 20: vence hoy. ¿La programas para esta tarde?»",
+   "porque": "Fecha, monto y una acción concreta."
+  },
+  {
+   "layout": "frase",
+   "kicker": "2 · Cuando dicen «la próxima semana»",
+   "etiqueta": "Copia esto",
+   "frase": "«Perfecto. ¿Qué día? Lo anoto y te recuerdo ese día.»",
+   "porque": "Conviertes una promesa vaga en una fecha."
+  },
+  {
+   "layout": "frase",
+   "kicker": "3 · Cuando piden plazo",
+   "etiqueta": "Copia esto",
+   "frase": "«Te lo divido en dos: la mitad hoy y la otra el 15.»",
+   "porque": "Cobras algo ahora y fijas el resto."
+  },
+  {
+   "layout": "frase",
+   "kicker": "4 · Cuando se ofenden",
+   "etiqueta": "Copia esto",
+   "frase": "«Entiendo. Este es el valor que acordamos, y lo sostengo.»",
+   "porque": "Calma y firmeza. Sin justificarte."
+  },
+  {
+   "layout": "frase",
+   "kicker": "5 · Antes de entregar",
+   "etiqueta": "Copia esto",
+   "frase": "«Te lo entrego con el pago confirmado. ¿Te envío el comprobante?»",
+   "porque": "Cobrar antes de entregar es la frase que más dinero cuida."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Tus cuentas por cobrar con fecha y alerta",
+   "pantalla": "alertas",
+   "app": {
+    "negocio": "Estudio Luna",
+    "alertas": [
+     [
+      "rojo",
+      "Factura 0131 vence hoy",
+      "Diseño de catálogo · $900.000"
+     ],
+     [
+      "amarillo",
+      "Cobro acordado para el 15",
+      "Segunda mitad · $450.000"
+     ],
+     [
+      "verde",
+      "Te pagaron la factura 0128",
+      "$750.000 · registrado solo"
+     ],
+     [
+      "rojo",
+      "Arriendo del estudio vence mañana",
+      "$1.200.000"
+     ]
+    ]
+   },
+   "nota": "Te avisa antes de que venza"
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Cobra a tiempo. Es tu dinero.",
+   "tam": "media",
+   "mascota": "app",
+   "items": [
+    "Cuentas por cobrar con recordatorio",
+    "Comprobante de pago PDF con tu logo",
+    "Desde $15/mes"
+   ],
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

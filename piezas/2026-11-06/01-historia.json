@@ -1,0 +1,45 @@
+{
+ "layout": "recibo",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Cafeterías",
+ "titulo": "Un café de $6.000: a dónde va cada peso",
+ "negocio": "Café La Esquina",
+ "detalle": "Capuchino mediano · datos demo",
+ "items": [
+  [
+   "Precio",
+   "$6.000",
+   "verde"
+  ],
+  [
+   "Café, leche y vaso",
+   "−$1.900",
+   "rojo"
+  ],
+  [
+   "Barista (por taza)",
+   "−$1.100",
+   "rojo"
+  ],
+  [
+   "Arriendo y servicios (por taza)",
+   "−$1.400",
+   "rojo"
+  ],
+  [
+   "Comisión de pago",
+   "−$200",
+   "rojo"
+  ]
+ ],
+ "total": [
+  "Te queda",
+  "$1.400"
+ ],
+ "pie": "23 % de margen. Por eso importa el volumen.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

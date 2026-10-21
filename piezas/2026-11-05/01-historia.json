@@ -1,0 +1,35 @@
+{
+ "layout": "chat",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Cobros",
+ "titulo": "Entregado ✓✓. ¿Y cobrado?",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "¡Llegó el pedido! Quedó hermoso.",
+   "9:12"
+  ],
+  [
+   "yo",
+   "¡Qué bueno! Te paso el comprobante y el dato para el pago.",
+   "9:14"
+  ],
+  [
+   "cliente",
+   "Dale, el lunes te transfiero.",
+   "9:15"
+  ],
+  [
+   "yo",
+   "Perfecto, lo anoto para el lunes 9. Te recuerdo ese día.",
+   "9:16"
+  ]
+ ],
+ "cierre": "Fecha anotada. Alerta puesta. Dinero cobrado.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

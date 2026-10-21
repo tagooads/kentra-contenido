@@ -1,0 +1,17 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "marfil",
+ "kicker": "Encuesta",
+ "titulo": "¿Ya sabes cuánto te quedó de octubre?",
+ "opciones": [
+  "Sí, al peso",
+  "Más o menos",
+  "Ni idea"
+ ],
+ "nota": "Responde 1, 2 o 3. Si dudaste, el diagnóstico te lo dice.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

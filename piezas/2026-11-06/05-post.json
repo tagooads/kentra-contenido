@@ -1,0 +1,45 @@
+{
+ "layout": "app",
+ "formato": "post",
+ "tema": "noche",
+ "kicker": "Importación con IA",
+ "titulo": "Las ventas del Buen Fin entran solas desde el extracto",
+ "pantalla": "importar",
+ "app": {
+  "negocio": "Tienda Nube Verde",
+  "archivo": "extracto-buen-fin.csv",
+  "detectados": "63 movimientos detectados",
+  "movimientos": [
+   [
+    "Pasarela de pagos",
+    "Ventas",
+    "+$2.140.000"
+   ],
+   [
+    "Transportadora Rápida",
+    "Envíos",
+    "−$186.000"
+   ],
+   [
+    "Anuncios Buen Fin",
+    "Publicidad",
+    "−$420.000"
+   ],
+   [
+    "Proveedor Textil Sur",
+    "Mercancía",
+    "−$1.500.000"
+   ],
+   [
+    "Pago cliente",
+    "Ventas",
+    "+$380.000"
+   ]
+  ]
+ },
+ "nota": "En los planes Pro y Business",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

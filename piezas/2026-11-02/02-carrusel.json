@@ -1,0 +1,165 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Ganancia real",
+   "titulo": "Un negocio tiene tres márgenes. ¿Cuál miras tú?",
+   "sub": "Con una pizzería de ejemplo, en cifras.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Pizzería Don Nino",
+    "mes": "Octubre",
+    "ingresos": "$18.000.000",
+    "gastos": "$16.600.000",
+    "ganancia": "$1.400.000",
+    "margen": "7,8 % de margen",
+    "barras": [
+     52,
+     60,
+     55,
+     66,
+     62,
+     70,
+     74
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Margen bruto: lo que queda después de hacer el producto",
+   "texto": "Ventas menos el costo de lo que vendes: ingredientes, empaques, caja.",
+   "ejemplo": {
+    "titulo": "Pizzería, octubre",
+    "filas": [
+     [
+      "Ventas",
+      "$18.000.000"
+     ],
+     [
+      "Costo de lo vendido",
+      "−$6.300.000",
+      "rojo"
+     ],
+     [
+      "Margen bruto",
+      "$11.700.000 (65 %)",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Margen operativo: después de pagar el negocio",
+   "texto": "Resta arriendo, nómina, servicios, domicilios y publicidad.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Margen bruto",
+      "$11.700.000"
+     ],
+     [
+      "Gastos del negocio",
+      "−$9.900.000",
+      "rojo"
+     ],
+     [
+      "Margen operativo",
+      "$1.800.000 (10 %)",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Margen neto: lo que de verdad es tuyo",
+   "texto": "Resta impuestos, cuotas de crédito y comisiones de pago.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Margen operativo",
+      "$1.800.000"
+     ],
+     [
+      "Impuestos, cuotas y comisiones",
+      "−$400.000",
+      "rojo"
+     ],
+     [
+      "Margen neto",
+      "$1.400.000 (7,8 %)",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "kicker": "La respuesta del reto",
+   "titulo": "Te cuesta $10.000 y quieres ganar el 30 %",
+   "texto": "Si le sumas 30 % al costo, el margen sobre el precio es 23 %. Para que el 30 % sea margen, divides entre 0,7.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Costo + 30 %",
+      "$13.000 → margen 23 %",
+      "rojo"
+     ],
+     [
+      "Costo ÷ 0,7",
+      "$14.300 → margen 30 %",
+      "verde"
+     ]
+    ]
+   },
+   "cierre": "Respuesta: B."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Entró, salió, te quedó: el margen sin fórmulas",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Pizzería Don Nino",
+    "mes": "Octubre",
+    "ingresos": "$18.000.000",
+    "gastos": "$16.600.000",
+    "ganancia": "$1.400.000",
+    "margen": "7,8 % de margen",
+    "barras": [
+     52,
+     60,
+     55,
+     66,
+     62,
+     70,
+     74
+    ]
+   },
+   "nota": "Saldo neto y margen del mes, solos"
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Vender mucho no es ganar mucho",
+   "tam": "media",
+   "mascota": "app",
+   "items": [
+    "Ingresos y gastos por categoría",
+    "Ganancia real del mes en una pantalla",
+    "KentrAI responde con tus números"
+   ],
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

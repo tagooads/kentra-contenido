@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "noche",
+ "kicker": "Mientras tú atiendes",
+ "titulo": "Kentra hace esto solo",
+ "items": [
+  "Suma el día y el mes mientras registras",
+  "Pone cada gasto en su categoría",
+  "Te avisa antes de que algo venza",
+  "Al marcar cobrado, lo registra"
+ ],
+ "cierre": "Tú atiendes. Las cuentas se hacen solas.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

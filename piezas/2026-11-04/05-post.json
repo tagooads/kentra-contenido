@@ -1,0 +1,45 @@
+{
+ "layout": "skit",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Dos voces",
+ "titulo": "Precio a ojo vs precio con cuenta",
+ "a": {
+  "nombre": "El que pone precio a ojo",
+  "inicial": "$"
+ },
+ "b": {
+  "nombre": "El que hace la cuenta",
+  "inicial": "="
+ },
+ "lineas": [
+  [
+   "a",
+   "Ya decidí: vendo cada vela a $8.000."
+  ],
+  [
+   "b",
+   "¿Y cuánto te cuesta hacerla?"
+  ],
+  [
+   "a",
+   "Como $5.000… creo."
+  ],
+  [
+   "b",
+   "Cera, mecha, frasco, etiqueta y tu hora: $6.400. Te quedan $1.600."
+  ],
+  [
+   "a",
+   "…"
+  ],
+  [
+   "b",
+   "A $11.000 te quedan $4.600. Y se vende igual."
+  ]
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

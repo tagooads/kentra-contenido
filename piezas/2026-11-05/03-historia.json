@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verdeoscuro",
+ "titulo": "¿Tu negocio aguanta 7 días sin ventas?",
+ "sub": "Si no sabes la respuesta, empieza por el diagnóstico de 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

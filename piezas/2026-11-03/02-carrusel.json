@@ -1,0 +1,158 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verdeoscuro",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Buen Fin · 13 al 17 de noviembre",
+   "titulo": "¿20 % de descuento o envío incluido? Haz la cuenta antes",
+   "sub": "Tienda online, un producto de $100.000.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Primero: cuánto te deja hoy",
+   "ejemplo": {
+    "titulo": "Sin promo",
+    "filas": [
+     [
+      "Precio",
+      "$100.000"
+     ],
+     [
+      "Costo del producto",
+      "−$55.000",
+      "rojo"
+     ],
+     [
+      "Empaque y comisión de pago",
+      "−$7.000",
+      "rojo"
+     ],
+     [
+      "Te deja",
+      "$38.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Con 20 % de descuento",
+   "texto": "El descuento sale completo de tu ganancia, no del costo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Precio con descuento",
+      "$80.000"
+     ],
+     [
+      "Costos",
+      "−$62.000",
+      "rojo"
+     ],
+     [
+      "Te deja",
+      "$18.000 (−53 %)",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Con envío incluido",
+   "texto": "Un envío de $12.000 que pagas tú.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Precio",
+      "$100.000"
+     ],
+     [
+      "Costos + envío",
+      "−$74.000",
+      "rojo"
+     ],
+     [
+      "Te deja",
+      "$26.000 (−32 %)",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "¿Cuántas ventas más necesitas?",
+   "texto": "Para ganar lo mismo que sin promo:",
+   "ejemplo": {
+    "filas": [
+     [
+      "Con 20 % de descuento",
+      "2,1 ventas por cada 1"
+     ],
+     [
+      "Con envío incluido",
+      "1,5 ventas por cada 1"
+     ]
+    ]
+   },
+   "cierre": "El envío incluido suena menos y te cuesta menos."
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Una categoría para la promo y ves qué te dejó",
+   "pantalla": "categorias",
+   "app": {
+    "negocio": "Tienda Nube Verde",
+    "mes": "Noviembre",
+    "categorias": [
+     [
+      "Envíos Buen Fin",
+      "$360.000",
+      120
+     ],
+     [
+      "Comisiones de pago",
+      "$210.000",
+      84
+     ],
+     [
+      "Empaques",
+      "$95.000",
+      63
+     ],
+     [
+      "Publicidad",
+      "$300.000",
+      100
+     ]
+    ]
+   },
+   "nota": "Alerta cuando una categoría se pasa"
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Haz la promo con la cuenta hecha",
+   "tam": "media",
+   "mascota": "app",
+   "items": [
+    "Gastos por categoría con alerta",
+    "Ganancia real del mes",
+    "Desde $15/mes, sin permanencia"
+   ],
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

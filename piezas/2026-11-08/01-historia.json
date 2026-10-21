@@ -1,0 +1,17 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "menta",
+ "kicker": "Domingo",
+ "titulo": "¿Qué revisas los domingos?",
+ "opciones": [
+  "Nada, descanso",
+  "El saldo del banco",
+  "Entró, salió, quedó"
+ ],
+ "nota": "Responde 1, 2 o 3. Si es 1 o 2, el diagnóstico es para ti.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

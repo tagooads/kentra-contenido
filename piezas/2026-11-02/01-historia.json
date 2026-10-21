@@ -1,0 +1,17 @@
+{
+ "layout": "reto",
+ "formato": "historia",
+ "tema": "noche",
+ "kicker": "Reto de lunes",
+ "titulo": "Te cuesta $10.000 y quieres ganar el 30 %. ¿A cuánto lo vendes?",
+ "opciones": [
+  "$13.000",
+  "$14.300",
+  "$11.500"
+ ],
+ "nota": "Responde con la letra. La respuesta, hoy a las 12 en el feed.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "layout": "precio",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Plan Business",
+ "titulo": "Tu equipo registra. Tú decides.",
+ "plan": "Plan Business",
+ "precio": "$30",
+ "periodo": "/mes",
+ "nota": "Equipo con roles: el colaborador registra y sube facturas; tú ves resultados y análisis.",
+ "items": [
+  "Negocios ilimitados",
+  "Importación con IA y reglas automáticas",
+  "Inventario, créditos y cuotas",
+  "Sin permanencia, acceso inmediato"
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

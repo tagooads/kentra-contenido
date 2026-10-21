@@ -1,0 +1,25 @@
+{
+ "layout": "antes",
+ "formato": "post",
+ "tema": "noche",
+ "kicker": "Cobros",
+ "titulo": "«Me pagas el lunes» ya no se te pierde",
+ "antes": {
+  "items": [
+   "La cuenta por cobrar vive en un chat",
+   "Te acuerdas cuando ya pasó un mes",
+   "Cobras incómodo, sin fecha ni monto claro"
+  ]
+ },
+ "despues": {
+  "items": [
+   "Cuenta por cobrar con fecha límite",
+   "Alerta antes de que venza",
+   "Al marcarla cobrada, se registra sola"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

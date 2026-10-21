@@ -1,0 +1,38 @@
+{
+ "layout": "app",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Lunes sin sustos",
+ "titulo": "Lo que vence esta semana, desde el domingo",
+ "pantalla": "alertas",
+ "app": {
+  "negocio": "Café La Esquina",
+  "alertas": [
+   [
+    "rojo",
+    "Proveedor de café vence el martes",
+    "Tostadores del Valle · $980.000"
+   ],
+   [
+    "amarillo",
+    "Cuota 4 de 12 de la máquina",
+    "Vence el jueves · $420.000"
+   ],
+   [
+    "rojo",
+    "Te deben hace 45 días",
+    "Evento de empresa · $1.300.000"
+   ],
+   [
+    "verde",
+    "Arriendo pagado",
+    "$1.800.000 · registrado solo"
+   ]
+  ]
+ },
+ "nota": "Deudas, notas y cuotas, antes de que venzan",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

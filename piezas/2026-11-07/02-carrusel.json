@@ -1,0 +1,175 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Salones de belleza",
+   "titulo": "Un sábado en un salón: entró $1.200.000. ¿Y quedó?",
+   "sub": "La cuenta de un día completo, paso a paso.",
+   "visual": "app",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Salón Coral",
+    "mes": "7 nov",
+    "ingresos": "$1.200.000",
+    "gastos": "$815.000",
+    "ganancia": "$385.000",
+    "margen": "32 % de margen",
+    "barras": [
+     40,
+     44,
+     38,
+     52,
+     60,
+     70,
+     100
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Lo que entró",
+   "ejemplo": {
+    "titulo": "Sábado, 14 servicios",
+    "filas": [
+     [
+      "6 cortes y peinados",
+      "$420.000"
+     ],
+     [
+      "5 manicures y pedicures",
+      "$350.000"
+     ],
+     [
+      "3 tintes",
+      "$430.000"
+     ],
+     [
+      "Total",
+      "$1.200.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Lo que se fue en el día",
+   "ejemplo": {
+    "filas": [
+     [
+      "Productos usados",
+      "−$215.000",
+      "rojo"
+     ],
+     [
+      "Nómina del sábado (3 personas)",
+      "−$360.000",
+      "rojo"
+     ],
+     [
+      "Arriendo y servicios (por día)",
+      "−$210.000",
+      "rojo"
+     ],
+     [
+      "Comisiones de pago",
+      "−$30.000",
+      "rojo"
+     ]
+    ]
+   },
+   "cierre": "Salió: $815.000"
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Lo que quedó",
+   "texto": "Un buen sábado. Pero un martes flojo se come parte de esto.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Entró",
+      "$1.200.000"
+     ],
+     [
+      "Salió",
+      "−$815.000",
+      "rojo"
+     ],
+     [
+      "Quedó",
+      "$385.000 (32 %)",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "La cuenta que cambia el precio",
+   "texto": "Divide los gastos fijos del día entre los servicios:",
+   "ejemplo": {
+    "filas": [
+     [
+      "Nómina, arriendo y servicios del día",
+      "$570.000"
+     ],
+     [
+      "÷ 14 servicios",
+      "$40.700 por servicio"
+     ],
+     [
+      "Un corte de $70.000 deja",
+      "$29.300 menos producto",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "app",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada servicio registrado, el día cerrado solo",
+   "pantalla": "dashboard",
+   "app": {
+    "negocio": "Salón Coral",
+    "mes": "7 nov",
+    "ingresos": "$1.200.000",
+    "gastos": "$815.000",
+    "ganancia": "$385.000",
+    "margen": "32 % de margen",
+    "barras": [
+     40,
+     44,
+     38,
+     52,
+     60,
+     70,
+     100
+    ]
+   },
+   "nota": "Entró, salió, quedó: hoy"
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Cierra el día, no solo el mes",
+   "tam": "media",
+   "mascota": "app",
+   "items": [
+    "Registro en segundos desde el celular",
+    "Ganancia real del día y del mes",
+    "Desde $15/mes, sin permanencia"
+   ],
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

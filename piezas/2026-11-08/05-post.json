@@ -1,0 +1,26 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "noche",
+ "titulo": "¿Cuánto te deben hoy?",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "Abrir la hoja correcta",
+   "Preguntar quién ya pagó",
+   "Sumar a mano y rezar"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "items": [
+   "Por cobrar en una lista",
+   "Alerta cuando vence",
+   "Al cobrar se registra"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

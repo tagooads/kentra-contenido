@@ -1,0 +1,13 @@
+{
+ "layout": "meme",
+ "formato": "post",
+ "tema": "blanco",
+ "arriba": "El cliente cuando le cobras lo que acordaron:",
+ "abajo": "«¿Y por qué tan caro?»",
+ "figura": "app",
+ "globo": "Tranquilo. Ya hice la cuenta: me deja $36.000.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

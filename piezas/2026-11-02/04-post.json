@@ -1,0 +1,12 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "menta",
+ "kicker": "Precio",
+ "texto": "La peor estrategia de un negocio pequeño: ser el de precio más bajo.\n\nSiempre habrá alguien dispuesto a perder más dinero que tú.",
+ "pie": "Ponle precio a lo que te deja, no a lo que te quita clientes.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

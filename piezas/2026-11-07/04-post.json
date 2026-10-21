@@ -1,0 +1,35 @@
+{
+ "layout": "chat",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Chat (demo)",
+ "titulo": "¿Qué le responderías tú?",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "Hola, ¿me haces precio de amigo? Son 3 piezas.",
+   "11:02"
+  ],
+  [
+   "yo",
+   "Claro. El precio de amigo es el mismo, pero te explico qué incluye.",
+   "11:05"
+  ],
+  [
+   "cliente",
+   "Jajaja ok. ¿Y si pago de una?",
+   "11:06"
+  ],
+  [
+   "yo",
+   "Si pagas hoy, te lo entrego primero. El precio se queda.",
+   "11:07"
+  ]
+ ],
+ "cierre": "Comenta: ¿aceptas o negocias?",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

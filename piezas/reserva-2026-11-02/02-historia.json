@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "menta",
+ "titulo": "¿Sabes cuánto te quedó la semana pasada?",
+ "sub": "Si tienes que pensarlo, el diagnóstico de 2 minutos es para ti.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

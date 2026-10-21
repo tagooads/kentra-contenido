@@ -1,0 +1,35 @@
+{
+ "layout": "pizarra",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Precio",
+ "titulo": "Tu precio piso, en una línea",
+ "lineas": [
+  [
+   "Costo del producto",
+   "$55.000"
+  ],
+  [
+   "Gastos del mes",
+   "$1.920.000"
+  ],
+  [
+   "÷ unidades que vendes",
+   "120"
+  ],
+  [
+   "= gasto por unidad",
+   "$16.000"
+  ],
+  [
+   "Precio piso",
+   "$71.000",
+   "res"
+  ]
+ ],
+ "nota": "Debajo de eso, cada venta te cuesta dinero.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}
