@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 28 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 27 piezas agendadas.
 
 
 ## Miércoles 21/10
-
-**12:00 — Carrusel** · verticales · `2026-10-21-02-carrusel`
-
-<img src="piezas/2026-10-21/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-21/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si tu precio sale de mirar al salón de enfrente, puede que estés cobrando de menos.
-
-En este carrusel: cómo calcular el precio de un manicure semipermanente en 5 pasos. Insumos $7.000 + pago por servicio $12.000 + gastos fijos $12.000 = costo real $31.000. A $45.000 te quedan $14.000; a $35.000, solo $4.000. Haz la cuenta con tu servicio más pedido.
-
-Kentra suma tus gastos fijos por ti. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Precios
-
-</details>
 
 **18:00 — Post** · ganancia-real · `2026-10-21-05-post`
 
@@ -339,9 +323,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- miércoles 21/10 · 12:00 · Carrusel `2026-10-21-02-carrusel` · IG ✓ · FB ✓
 - miércoles 21/10 · 10:00 · Post `2026-10-21-04-post` · IG ✓ · FB ✓
 - miércoles 21/10 · 08:00 · Historia `2026-10-21-01-historia` · IG ✓ · FB ✓
 - martes 20/10 · 19:00 · Historia `2026-10-20-03-historia` · IG ✓ · FB ✓
 - martes 20/10 · 18:00 · Post `2026-10-20-05-post` · IG ✓ · FB ✓
 - martes 20/10 · 12:00 · Carrusel `2026-10-20-02-carrusel` · IG ✓ · FB ✓
-- martes 20/10 · 10:00 · Post `2026-10-20-04-post` · IG ✓ · FB ✓
