@@ -2406,7 +2406,11 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "media_id": "18012428108995773",
+      "publicado_ig": true,
+      "intentos": 1,
+      "error": "FB: 956335110897891/photos: Please reduce the amount of data you're asking for, then retry your request"
     },
     {
       "id": "2026-10-21-03-historia",

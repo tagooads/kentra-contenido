@@ -1,25 +1,13 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 27 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 26 piezas agendadas.
+
+## ⚠️ Con error
+
+- **miércoles 21/10 · 18:00** Post `2026-10-21-05-post`: FB: 956335110897891/photos: Please reduce the amount of data you're asking for, then retry your request
 
 
 ## Miércoles 21/10
-
-**18:00 — Post** · ganancia-real · `2026-10-21-05-post`
-
-<img src="piezas/2026-10-21/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Ver la caja llena un viernes no dice cuánto ganó el negocio.
-
-La cuenta es una resta: todo lo que entró en el mes menos todo lo que salió, incluidos los gastos pequeños y tu propio sueldo. Lo que queda, eso es ganancia.
-
-Kentra hace esa resta sola con lo que registras. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #GananciaReal #Pymes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-10-21-03-historia`
 
