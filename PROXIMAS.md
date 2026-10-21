@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 29 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 28 piezas agendadas.
 
 
 ## Miércoles 21/10
-
-**10:00 — Post** · kentra-vs-excel · `2026-10-21-04-post`
-
-<img src="piezas/2026-10-21/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Una pregunta sencilla. Dos formas muy distintas de responderla.
-
-A la izquierda, lo de siempre: buscar el archivo, filtrar y cruzar los dedos para que la fórmula esté bien. A la derecha, Kentra: cada gasto ya está en su categoría y el total sale solo. Y si prefieres, se lo preguntas a KentrAI.
-
-KentrAI es ilimitado en todos los planes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes
-
-</details>
 
 **12:00 — Carrusel** · verticales · `2026-10-21-02-carrusel`
 
@@ -355,9 +339,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- miércoles 21/10 · 10:00 · Post `2026-10-21-04-post` · IG ✓ · FB ✓
 - miércoles 21/10 · 08:00 · Historia `2026-10-21-01-historia` · IG ✓ · FB ✓
 - martes 20/10 · 19:00 · Historia `2026-10-20-03-historia` · IG ✓ · FB ✓
 - martes 20/10 · 18:00 · Post `2026-10-20-05-post` · IG ✓ · FB ✓
 - martes 20/10 · 12:00 · Carrusel `2026-10-20-02-carrusel` · IG ✓ · FB ✓
 - martes 20/10 · 10:00 · Post `2026-10-20-04-post` · IG ✓ · FB ✓
-- martes 20/10 · 08:00 · Historia `2026-10-20-01-historia` · IG ✓ · FB ✓
