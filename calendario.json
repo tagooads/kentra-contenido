@@ -2453,7 +2453,10 @@
       "fb_post_id": "1626090279195710",
       "publicado_fb": true,
       "intentos": 1,
-      "error": "IG: 17841480064403784/media_publish: Media ID is not available"
+      "media_id": "18141604717717408",
+      "publicado_ig": true,
+      "publicado": true,
+      "publicado_en": "2026-10-22T15:04:34.366Z"
     },
     {
       "id": "2026-10-22-04-post",
@@ -2468,7 +2471,13 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "media_id": "18106245662206893",
+      "publicado_ig": true,
+      "fb_post_id": "956335110897891_122144617293213382",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-10-22T15:04:47.907Z"
     },
     {
       "id": "2026-10-22-02-carrusel",

@@ -1,29 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 24 piezas agendadas.
-
-## ⚠️ Con error
-
-- **jueves 22/10 · 08:00** Historia `2026-10-22-01-historia`: IG: 17841480064403784/media_publish: Media ID is not available
+Se actualiza sola cada hora. Hora de Bogotá. 23 piezas agendadas.
 
 
 ## Jueves 22/10
-
-**10:00 — Post** · objeciones · `2026-10-22-04-post`
-
-<img src="piezas/2026-10-22/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Muchos negocios pequeños no emiten facturas. Igual compran, venden, pagan y cobran todos los días.
-
-Para saber si ganas no necesitas facturas: necesitas anotar lo que entra y lo que sale, cada cosa en su categoría. Con eso ya ves cuánto te quedó cada mes.
-
-En Kentra registras ingresos y gastos desde el celular. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-22-02-carrusel`
 
@@ -300,9 +280,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- jueves 22/10 · 10:00 · Post `2026-10-22-04-post` · IG ✓ · FB ✓
+- jueves 22/10 · 08:00 · Historia `2026-10-22-01-historia` · IG ✓ · FB ✓
 - miércoles 21/10 · 19:00 · Historia `2026-10-21-03-historia` · IG ✓ · FB ✓
 - miércoles 21/10 · 18:00 · Post `2026-10-21-05-post` · IG ✓ · FB ✓
 - miércoles 21/10 · 12:00 · Carrusel `2026-10-21-02-carrusel` · IG ✓ · FB ✓
 - miércoles 21/10 · 10:00 · Post `2026-10-21-04-post` · IG ✓ · FB ✓
-- miércoles 21/10 · 08:00 · Historia `2026-10-21-01-historia` · IG ✓ · FB ✓
-- martes 20/10 · 19:00 · Historia `2026-10-20-03-historia` · IG ✓ · FB ✓
