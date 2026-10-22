@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 23 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 22 piezas agendadas.
 
 
 ## Jueves 22/10
-
-**12:00 — Carrusel** · educacion · `2026-10-22-02-carrusel`
-
-<img src="piezas/2026-10-22/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-8.jpg" width="220"> <img src="piezas/2026-10-22/02-carrusel-9.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Con varias deudas, el error más común es pagar un poco de cada una sin plan.
-
-En este carrusel: un orden en 6 pasos con el ejemplo de una panadería que debe $5.200.000. Primero lo que frena la operación, después la deuda más cara (la tarjeta le cobra $60.000 al mes en intereses) y un monto fijo que sale de lo que te quedó, no de lo que vendiste.
-
-Kentra te avisa antes de cada vencimiento. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Deudas #Pymes
-
-</details>
 
 **18:00 — Post** · funcionalidades · `2026-10-22-05-post`
 
@@ -280,9 +264,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- jueves 22/10 · 12:00 · Carrusel `2026-10-22-02-carrusel` · IG ✓ · FB ✓
 - jueves 22/10 · 10:00 · Post `2026-10-22-04-post` · IG ✓ · FB ✓
 - jueves 22/10 · 08:00 · Historia `2026-10-22-01-historia` · IG ✓ · FB ✓
 - miércoles 21/10 · 19:00 · Historia `2026-10-21-03-historia` · IG ✓ · FB ✓
 - miércoles 21/10 · 18:00 · Post `2026-10-21-05-post` · IG ✓ · FB ✓
 - miércoles 21/10 · 12:00 · Carrusel `2026-10-21-02-carrusel` · IG ✓ · FB ✓
-- miércoles 21/10 · 10:00 · Post `2026-10-21-04-post` · IG ✓ · FB ✓
