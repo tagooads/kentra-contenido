@@ -2542,7 +2542,13 @@
       "destinos": [
         "instagram",
         "facebook"
-      ]
+      ],
+      "media_id": "18110804180628253",
+      "publicado_ig": true,
+      "fb_post_id": "2356887015074094",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-10-23T00:01:03.766Z"
     },
     {
       "id": "2026-10-23-01-historia",
