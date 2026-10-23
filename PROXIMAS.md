@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 17 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 16 piezas agendadas.
 
 
 ## Viernes 23/10
-
-**18:00 — Post** · educacion · `2026-10-23-05-post`
-
-<img src="piezas/2026-10-23/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un pedido grande emociona. También puede dejarte sin dinero para operar.
-
-Antes de aceptarlo, revisa cuatro cosas: si puedes pagar los insumos antes de cobrar, cuándo te pagan exactamente, cuánto te deja después de todos los gastos y qué dejas de atender mientras lo haces. Guárdalo para tu próximo pedido.
-
-Kentra te muestra cuánto te deja cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-10-23-03-historia`
 
@@ -205,9 +189,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- viernes 23/10 · 18:00 · Post `2026-10-23-05-post` · IG ✓ · FB ✓
 - viernes 23/10 · 12:00 · Carrusel `2026-10-23-02-carrusel` · IG ✓ · FB ✓
 - viernes 23/10 · 10:00 · Post `2026-10-23-04-post` · IG ✓ · FB ✓
 - viernes 23/10 · 08:00 · Historia `2026-10-23-01-historia` · IG ✓ · FB ✓
 - jueves 22/10 · 19:00 · Historia `2026-10-22-03-historia` · IG ✓ · FB ✓
 - jueves 22/10 · 18:00 · Post `2026-10-22-05-post` · IG ✓ · FB ✓
-- jueves 22/10 · 12:00 · Carrusel `2026-10-22-02-carrusel` · IG ✓ · FB ✓
