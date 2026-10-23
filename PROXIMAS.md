@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 18 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 17 piezas agendadas.
 
 
 ## Viernes 23/10
-
-**12:00 — Carrusel** · funcionalidades · `2026-10-23-02-carrusel`
-
-<img src="piezas/2026-10-23/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-23/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-23/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-23/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-23/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-23/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-23/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Llevar dos negocios en la misma libreta es la forma más rápida de no saber cuál gana.
-
-En este carrusel: por qué separarlos (un café que gana $1.450.000 puede esconder una tienda que pierde $300.000), cómo repartir los gastos compartidos y cómo se ve en Kentra, cada negocio con sus números y su moneda.
-
-Plan Pro: hasta 2 negocios por $20/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-23-05-post`
 
@@ -221,9 +205,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- viernes 23/10 · 12:00 · Carrusel `2026-10-23-02-carrusel` · IG ✓ · FB ✓
 - viernes 23/10 · 10:00 · Post `2026-10-23-04-post` · IG ✓ · FB ✓
 - viernes 23/10 · 08:00 · Historia `2026-10-23-01-historia` · IG ✓ · FB ✓
 - jueves 22/10 · 19:00 · Historia `2026-10-22-03-historia` · IG ✓ · FB ✓
 - jueves 22/10 · 18:00 · Post `2026-10-22-05-post` · IG ✓ · FB ✓
 - jueves 22/10 · 12:00 · Carrusel `2026-10-22-02-carrusel` · IG ✓ · FB ✓
-- jueves 22/10 · 10:00 · Post `2026-10-22-04-post` · IG ✓ · FB ✓
