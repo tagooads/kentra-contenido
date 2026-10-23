@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 19 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 18 piezas agendadas.
 
 
 ## Viernes 23/10
-
-**10:00 — Post** · precio · `2026-10-23-04-post`
-
-<img src="piezas/2026-10-23/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-$15 al mes para dejar de adivinar cuánto gana tu negocio.
-
-El plan Básico incluye ingresos y gastos por categoría, ganancia real del mes, comprobantes PDF con tu logo, alertas de pagos y KentrAI ilimitado. Acceso inmediato después del pago, y si pagas el año ahorras 45 %.
-
-Sin plantillas y sin fórmulas. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-10-23-02-carrusel`
 
@@ -237,9 +221,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- viernes 23/10 · 10:00 · Post `2026-10-23-04-post` · IG ✓ · FB ✓
 - viernes 23/10 · 08:00 · Historia `2026-10-23-01-historia` · IG ✓ · FB ✓
 - jueves 22/10 · 19:00 · Historia `2026-10-22-03-historia` · IG ✓ · FB ✓
 - jueves 22/10 · 18:00 · Post `2026-10-22-05-post` · IG ✓ · FB ✓
 - jueves 22/10 · 12:00 · Carrusel `2026-10-22-02-carrusel` · IG ✓ · FB ✓
 - jueves 22/10 · 10:00 · Post `2026-10-22-04-post` · IG ✓ · FB ✓
-- jueves 22/10 · 08:00 · Historia `2026-10-22-01-historia` · IG ✓ · FB ✓
