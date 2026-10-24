@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 13 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 12 piezas agendadas.
 
 
 ## Sábado 24/10
-
-**12:00 — Carrusel** · educacion · `2026-10-24-02-carrusel`
-
-<img src="piezas/2026-10-24/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-24/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-La mercancía que no se vende no es un adorno: es dinero que ya pagaste y no ha vuelto.
-
-En este carrusel: cómo calcular cuánto dinero tienes en bodega, encontrar lo que lleva 90 días sin venderse y recuperarlo. En el ejemplo, 72 prendas quietas son $1.800.000; vendidas a $30.000 recuperas ese dinero y aún ganas $360.000.
-
-Kentra tiene módulo de inventario en los planes Pro y Business. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Inventario
-
-</details>
 
 **18:00 — Post** · kentra-vs-excel · `2026-10-24-05-post`
 
@@ -162,9 +146,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- sábado 24/10 · 12:00 · Carrusel `2026-10-24-02-carrusel` · IG ✓ · FB ✓
 - sábado 24/10 · 10:00 · Post `2026-10-24-04-post` · IG ✓ · FB ✓
 - sábado 24/10 · 08:00 · Historia `2026-10-24-01-historia` · IG ✓ · FB ✓
 - viernes 23/10 · 19:00 · Historia `2026-10-23-03-historia` · IG ✓ · FB ✓
 - viernes 23/10 · 18:00 · Post `2026-10-23-05-post` · IG ✓ · FB ✓
 - viernes 23/10 · 12:00 · Carrusel `2026-10-23-02-carrusel` · IG ✓ · FB ✓
-- viernes 23/10 · 10:00 · Post `2026-10-23-04-post` · IG ✓ · FB ✓
