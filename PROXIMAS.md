@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 12 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 11 piezas agendadas.
 
 
 ## Sábado 24/10
-
-**18:00 — Post** · kentra-vs-excel · `2026-10-24-05-post`
-
-<img src="piezas/2026-10-24/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-La venta pasa en la calle; el archivo de Excel se queda en el computador de la casa.
-
-Con Kentra registras el gasto o el cobro en el momento, desde el celular, y lo ves igual en el computador. Un solo lugar, siempre al día y con acceso seguro en todos tus dispositivos.
-
-Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes
-
-</details>
 
 **19:00 — Historia** · objeciones · `2026-10-24-03-historia`
 
@@ -146,9 +130,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- sábado 24/10 · 18:00 · Post `2026-10-24-05-post` · IG ✓ · FB ✓
 - sábado 24/10 · 12:00 · Carrusel `2026-10-24-02-carrusel` · IG ✓ · FB ✓
 - sábado 24/10 · 10:00 · Post `2026-10-24-04-post` · IG ✓ · FB ✓
 - sábado 24/10 · 08:00 · Historia `2026-10-24-01-historia` · IG ✓ · FB ✓
 - viernes 23/10 · 19:00 · Historia `2026-10-23-03-historia` · IG ✓ · FB ✓
 - viernes 23/10 · 18:00 · Post `2026-10-23-05-post` · IG ✓ · FB ✓
-- viernes 23/10 · 12:00 · Carrusel `2026-10-23-02-carrusel` · IG ✓ · FB ✓
