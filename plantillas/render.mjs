@@ -502,6 +502,40 @@ L.split = (p, t, hist) => `
   ${p.nota ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.nota)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
 
+// fantasma: la mascota disfrazada de fantasma de sábana con carteles de hábitos a dejar
+// (tendencia Halloween "Things You Should Definitely Ghost", oct 2026). Campos: titulo, sub?, carteles[3] (textos), nota?
+L.fantasma = (p, t, hist) => {
+  const carteles = (p.carteles || []).slice(0, 3);
+  const onda = []; for (let x = 0; x <= 100; x += 1) onda.push(`${x}% ${(96.5 + 3.5 * Math.cos(x * Math.PI / 10)).toFixed(1)}%`);
+  const sabana = `clip-path:polygon(0 0,100% 0,${onda.reverse().join(",")},0 100%)`;
+  const W = hist ? 560 : 440, H = hist ? 720 : 560;
+  const pos = [
+    hist ? "left:-10px;top:0;transform:rotate(-7deg)" : "left:-10px;top:0;transform:rotate(-7deg)",
+    hist ? "right:-10px;top:400px;transform:rotate(5deg)" : "right:-10px;top:300px;transform:rotate(5deg)",
+    hist ? "left:0;top:620px;transform:rotate(-4deg)" : "left:0;top:470px;transform:rotate(-4deg)",
+  ];
+  const cartel = (txt, i) => `<div style="position:absolute;${pos[i]};width:${hist ? 440 : 380}px;z-index:2;background:#FBF4E4;color:#1E2D4F;border:6px solid #1E2D4F;border-radius:18px;padding:${hist ? "22px 26px" : "18px 22px"};box-shadow:0 18px 40px rgba(0,0,0,.35);display:flex;align-items:center;gap:16px">
+      <span style="flex:none;width:52px;height:52px;border-radius:50%;background:#FF6B6B;color:#fff;font-weight:800;font-size:30px;display:flex;align-items:center;justify-content:center">✕</span>
+      <span style="font-weight:800;font-size:${hist ? 38 : 34}px;line-height:1.15;min-width:0;overflow-wrap:anywhere;text-decoration:line-through;text-decoration-thickness:5px;text-decoration-color:#FF6B6B">${rich(txt)}</span>
+      <span style="position:absolute;left:50%;bottom:-${hist ? 60 : 50}px;width:16px;height:${hist ? 60 : 50}px;background:#8A6A3F;transform:translateX(-50%);z-index:-1"></span>
+    </div>`;
+  return `
+  ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
+  <h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 280 : 240}px">${rich(p.titulo)}</h1>
+  ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
+  <div style="flex:1;min-height:0;position:relative">
+    <div style="position:absolute;left:50%;bottom:0;transform:translateX(-50%);width:${W}px;height:${H}px;background:linear-gradient(180deg,#FFFFFF 0%,#EEF2F6 100%);border-radius:${W / 2}px ${W / 2}px 0 0;${sabana};filter:drop-shadow(0 30px 40px rgba(0,0,0,.35))">
+      <div style="position:absolute;left:${W * 0.3}px;top:${H * 0.3}px;width:${W * 0.11}px;height:${W * 0.16}px;border-radius:50%;background:#14213D;transform:rotate(-6deg)"></div>
+      <div style="position:absolute;left:${W * 0.58}px;top:${H * 0.3}px;width:${W * 0.11}px;height:${W * 0.16}px;border-radius:50%;background:#14213D;transform:rotate(6deg)"></div>
+      <div style="position:absolute;left:${W * 0.45}px;top:${H * 0.47}px;width:${W * 0.1}px;height:${W * 0.08}px;border-radius:50%;background:#14213D"></div>
+      <img src="${MARCA("isotipo.png")}" style="position:absolute;left:${W * 0.66}px;top:${H * 0.74}px;height:${W * 0.2}px">
+    </div>
+    ${carteles.map(cartel).join("")}
+  </div>
+  ${p.nota ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.nota)}</div>` : ""}
+  ${pieFooter(t, p.cta, hist)}`;
+};
+
 // portada / slide de carrusel: se manejan como layouts normales por slide
 
 // Historias: si kentra.pro ya tiene las rutas cortas (/h y /q redirigen con UTM de historias), el botón las usa.

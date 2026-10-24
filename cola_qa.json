@@ -436,26 +436,26 @@
     "piezas/2026-10-29/03-historia.jpg"
    ],
    "caption": "",
-   "pilar": "objeciones",
-   "layout": "cita",
+   "pilar": "kentra-vs-excel",
+   "layout": "fantasma",
    "destinos": [
     "instagram",
     "facebook"
    ],
    "qa": "pendiente",
-   "version": 1,
-   "formato": "cita",
-   "gancho": "«Mis clientes me pagan cuando pueden.»",
-   "primera_linea": "«Mis clientes me pagan cuando pueden.»",
-   "estilo": "cita, claro, sin mascota",
+   "version": 2,
+   "formato": "tendencia Halloween (fantasma con carteles de hábitos a dejar)",
+   "gancho": "Tres fantasmas de tus cuentas",
+   "primera_linea": "Cosas que deberías dejar ir",
+   "estilo": "fantasma (layout nuevo), noche, fantasma blanco centrado con 3 carteles tachados, sin mascota",
    "modela": {
-    "referencia": "Bind México, anuncio «Entregado… ¿cobrado?»",
-    "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-    "que_tomo": "el dolor de cobro en una frase"
+    "referencia": "Tendencia Halloween «Things You Should Definitely Ghost» (fantasma de sábana con carteles), ticket urgente de Sky 21 oct",
+    "url": "https://newengen.com/insights/instagram-trends/",
+    "que_tomo": "el fantasma con carteles de cosas que hay que dejar ir, aplicado a hábitos de cuentas: Excel final_v2, cobrar sin comprobante, precio a ojo"
    },
    "carpeta": "2026-10-29",
    "archivo": "03-historia",
-   "qa_ticket": "855a1b3f-1248-4545-b4ed-b34f327942eb"
+   "qa_ticket": "2fb4af2a-d14b-44f0-a10c-b02de0b9f0b8"
   },
   {
    "id": "2026-10-30-01-historia",

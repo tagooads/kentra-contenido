@@ -1,9 +1,15 @@
 {
- "layout": "cita",
+ "layout": "fantasma",
  "formato": "historia",
- "tema": "claro",
- "titulo": "«Mis clientes me pagan cuando pueden.»",
- "sub": "Un comprobante con fecha límite y un recordatorio cambian eso.",
+ "tema": "noche",
+ "kicker": "Cosas que deberías dejar ir",
+ "titulo": "Tres fantasmas de tus cuentas",
+ "carteles": [
+  "Excel_final_v2",
+  "Cobrar sin comprobante",
+  "Precio a ojo"
+ ],
+ "nota": "Lo que entra, lo que sale y lo que te queda, en un solo lugar.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
