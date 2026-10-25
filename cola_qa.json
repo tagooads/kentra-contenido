@@ -2,35 +2,6 @@
   "zona_horaria": "America/Bogota",
   "piezas": [
     {
-      "id": "2026-10-25-01-historia",
-      "fecha": "2026-10-25T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-25/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "reparto",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-10-25",
-      "archivo": "01-historia",
-      "version": 2,
-      "formato": "reparto de la plata de la semana (barra apilada)",
-      "gancho": "La semana cerró en $2.800.000: solo 27 de cada 100 pesos son tuyos",
-      "primera_linea": "La semana cerró en $2.800.000. ¿Cuánto es tuyo?",
-      "estilo": "reparto, menta, cifra grande + barra apilada de 5 partes y leyenda, sin mascota",
-      "modela": {
-        "referencia": "@davisemprende, TikTok «Administrando 28,500 pesos que gané esta semana» (1,2M vistas, 34x su mediana)",
-        "url": "https://www.tiktok.com/@davisemprende/video/7689979728387738901",
-        "que_tomo": "el reparto real de la plata de la semana con una cifra concreta, aterrizado a un salón"
-      },
-      "qa_ticket": "fef178d3-97a6-44ae-94be-e80fe73afabb"
-    },
-    {
       "id": "2026-10-25-04-post",
       "fecha": "2026-10-25T10:00:00-05:00",
       "tipo": "post",
@@ -94,64 +65,6 @@
         "que_tomo": "el gancho de inversión a resultado con cifras y el desglose de costos; Kentra añade los costos que el video no cuenta (empaque, comisión, tus horas)"
       },
       "qa_ticket": "454aee44-6430-41fa-9e99-bd3048d4b734"
-    },
-    {
-      "id": "2026-10-25-05-post",
-      "fecha": "2026-10-25T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-10-25/05-post.jpg"
-      ],
-      "caption": "Que te digan «está caro» no duele cuando sabes tu margen.\n\nEl precio no se defiende con nervios: se defiende con la cuenta hecha. Costo, tiempo, comisiones y lo que te tiene que quedar. Si el número ya está claro, la respuesta es tranquila.\n\n¿Conoces el margen de lo que vendes? Empieza por registrar cada gasto. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #NegocioPropio",
-      "pilar": "objeciones",
-      "layout": "meme",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-10-25",
-      "archivo": "05-post",
-      "version": 2,
-      "formato": "meme (texto arriba + mascota con globo)",
-      "gancho": "Cliente: «Uy, está caro». Yo, que ya hice la cuenta de ese precio",
-      "primera_linea": "Cliente: «Uy, está caro».",
-      "estilo": "meme, noche, tarjeta blanca arriba, mascota con celular a la izquierda y globo verde a la derecha",
-      "modela": {
-        "referencia": "@marilynmachiz, reel lip-sync «Trabajo en ventas, me dicen que NO todos los días y sigo facturando» (893K vistas, 283x su mediana)",
-        "url": "https://www.instagram.com/reel/DeqCI64tuZ8",
-        "que_tomo": "la identidad del vendedor en una línea ante el rechazo; aquí ante el «está caro» con el margen ya calculado (uso sugerido por Sky)"
-      },
-      "qa_ticket": "ce64d4ec-e2d9-4a8a-8a66-37a94aace5cc"
-    },
-    {
-      "id": "2026-10-25-03-historia",
-      "fecha": "2026-10-25T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-10-25/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "antes",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-10-25",
-      "archivo": "03-historia",
-      "version": 2,
-      "formato": "comparativa antes/después",
-      "gancho": "Tu domingo, antes y después de llevar las cuentas",
-      "primera_linea": "Tu domingo, antes y después de llevar las cuentas",
-      "estilo": "antes, verdeoscuro, dos bloques apilados (gris tachado / verde con checks) y botón kentra.pro/quiz, sin mascota",
-      "modela": {
-        "referencia": "@finanzas__3.0, reel «Esta chica compró una camioneta vacía» (867K vistas, 8,5x su mediana)",
-        "url": "https://www.instagram.com/reel/De0MIWeNJER",
-        "que_tomo": "la transformación antes/después de un negocio; aquí la del dueño el domingo en la noche, con CTA al diagnóstico"
-      },
-      "qa_ticket": "7ef1db34-09f8-47a5-929b-09194c53cb2b"
     },
     {
       "id": "2026-10-26-01-historia",

@@ -1,6 +1,33 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 1 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 4 piezas agendadas.
+
+
+## Domingo 25/10
+
+**08:00 — Historia** · ganancia-real · `2026-10-25-01-historia`
+
+<img src="piezas/2026-10-25/01-historia.jpg" width="160">
+
+**18:00 — Post** · objeciones · `2026-10-25-05-post`
+
+<img src="piezas/2026-10-25/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Que te digan «está caro» no duele cuando sabes tu margen.
+
+El precio no se defiende con nervios: se defiende con la cuenta hecha. Costo, tiempo, comisiones y lo que te tiene que quedar. Si el número ya está claro, la respuesta es tranquila.
+
+¿Conoces el margen de lo que vendes? Empieza por registrar cada gasto. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Precios #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · objeciones · `2026-10-25-03-historia`
+
+<img src="piezas/2026-10-25/03-historia.jpg" width="160">
 
 
 ## Lunes 26/10
