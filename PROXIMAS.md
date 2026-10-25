@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 3 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 2 piezas agendadas.
 
 
 ## Domingo 25/10
-
-**18:00 — Post** · objeciones · `2026-10-25-05-post`
-
-<img src="piezas/2026-10-25/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Que te digan «está caro» no duele cuando sabes tu margen.
-
-El precio no se defiende con nervios: se defiende con la cuenta hecha. Costo, tiempo, comisiones y lo que te tiene que quedar. Si el número ya está claro, la respuesta es tranquila.
-
-¿Conoces el margen de lo que vendes? Empieza por registrar cada gasto. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Precios #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · objeciones · `2026-10-25-03-historia`
 
@@ -47,9 +31,9 @@ Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link
 
 ## Últimas publicadas
 
+- domingo 25/10 · 18:00 · Post `2026-10-25-05-post` · IG ✓ · FB ✓
 - domingo 25/10 · 08:00 · Historia `2026-10-25-01-historia` · IG ✓ · FB ✓
 - sábado 24/10 · 19:00 · Historia `2026-10-24-03-historia` · IG ✓ · FB ✓
 - sábado 24/10 · 18:00 · Post `2026-10-24-05-post` · IG ✓ · FB ✓
 - sábado 24/10 · 12:00 · Carrusel `2026-10-24-02-carrusel` · IG ✓ · FB ✓
 - sábado 24/10 · 10:00 · Post `2026-10-24-04-post` · IG ✓ · FB ✓
-- sábado 24/10 · 08:00 · Historia `2026-10-24-01-historia` · IG ✓ · FB ✓
