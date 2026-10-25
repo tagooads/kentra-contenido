@@ -1,18 +1,11 @@
 {
- "layout": "lista",
+ "layout": "meme",
  "formato": "post",
- "tema": "claro",
- "kicker": "Mientras atiendes",
- "titulo": "Lo que hace Kentra mientras tú trabajas",
- "items": [
-  "Registra lo que marcas como cobrado",
-  "Te avisa antes de que algo venza",
-  "Suma tus gastos por categoría",
-  "Calcula tu ganancia real del mes"
- ],
- "mascota": "telefono",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": false
- }
+ "tema": "noche",
+ "kicker": "Precios",
+ "arriba": "Cliente: «Uy, está caro».",
+ "abajo": "Yo, que ya hice la cuenta de ese precio:",
+ "figura": "telefono",
+ "globo": "Tranqui. Ese precio ya tiene el margen hecho.",
+ "cta": { "texto": "kentra.pro", "boton": false }
 }

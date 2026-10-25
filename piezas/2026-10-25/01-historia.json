@@ -1,33 +1,17 @@
 {
- "layout": "app",
+ "layout": "reparto",
  "formato": "historia",
- "tema": "navy",
- "kicker": "Domingo",
- "titulo": "Un solo número para mirar hoy",
- "pantalla": "dashboard",
- "app": {
-  "negocio": "Estudio Luna",
-  "mes": "Octubre",
-  "ingresos": "$6.200.000",
-  "gastos": "$4.480.000",
-  "ganancia": "$1.720.000",
-  "margen": "27,7 % de margen",
-  "barras": [
-   50,
-   62,
-   58,
-   70,
-   66,
-   78,
-   84
-  ],
-  "rojo": [
-   2
-  ]
- },
- "nota": "Lo que te quedó en el mes, hasta hoy",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": true
- }
+ "tema": "menta",
+ "kicker": "Domingo · datos demo",
+ "titulo": "La semana cerró en $2.800.000. ¿Cuánto es tuyo?",
+ "total": "$2.800.000",
+ "partes": [
+  ["Productos e insumos", "$700.000", 25],
+  ["Arriendo de la semana", "$500.000", 18],
+  ["Ayudante", "$600.000", 21],
+  ["Impuestos apartados", "$250.000", 9],
+  ["Tuyo", "$750.000", 27]
+ ],
+ "cierre": "27 de cada 100 pesos. El resto ya tenía dueño antes de llegar a la caja.",
+ "cta": { "texto": "kentra.pro", "boton": true }
 }

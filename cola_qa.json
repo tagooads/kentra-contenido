@@ -9,8 +9,8 @@
         "piezas/2026-10-25/01-historia.jpg"
       ],
       "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "app",
+      "pilar": "ganancia-real",
+      "layout": "reparto",
       "destinos": [
         "instagram",
         "facebook"
@@ -18,16 +18,17 @@
       "qa": "pendiente",
       "carpeta": "2026-10-25",
       "archivo": "01-historia",
-      "version": 1,
-      "formato": "mockup de pantalla (dashboard demo)",
-      "gancho": "Un solo número para mirar hoy",
-      "primera_linea": "Un solo número para mirar hoy",
-      "estilo": "app, navy, celular centrado con globo verde y botón kentra.pro",
+      "version": 2,
+      "formato": "reparto de la plata de la semana (barra apilada)",
+      "gancho": "La semana cerró en $2.800.000: solo 27 de cada 100 pesos son tuyos",
+      "primera_linea": "La semana cerró en $2.800.000. ¿Cuánto es tuyo?",
+      "estilo": "reparto, menta, cifra grande + barra apilada de 5 partes y leyenda, sin mascota",
       "modela": {
-        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
-        "url": "",
-        "que_tomo": ""
-      }
+        "referencia": "@davisemprende, TikTok «Administrando 28,500 pesos que gané esta semana» (1,2M vistas, 34x su mediana)",
+        "url": "https://www.tiktok.com/@davisemprende/video/7689979728387738901",
+        "que_tomo": "el reparto real de la plata de la semana con una cifra concreta, aterrizado a un salón"
+      },
+      "qa_ticket": "fef178d3-97a6-44ae-94be-e80fe73afabb"
     },
     {
       "id": "2026-10-25-04-post",
@@ -36,9 +37,9 @@
       "imagenes": [
         "piezas/2026-10-25/04-post.jpg"
       ],
-      "caption": "No hace falta revisarlo todo el domingo. Basta con un número.\n\nEn la pantalla, un estudio creativo a 25 de octubre: entraron $6.200.000, salieron $4.480.000 y le quedan $1.720.000. Ese número te dice si vas bien antes de que termine el mes.\n\nKentra lo calcula solo con lo que registras. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer",
-      "pilar": "ganancia-real",
-      "layout": "ui",
+      "caption": "Un jugo de $9.000 no te deja $9.000.\n\nEn el tiquete: fruta $2.400, vaso, hielo y azúcar $1.000, luz y arriendo por vaso $1.100 y tus 10 minutos $1.500. Te quedan $3.000 por jugo (33 %). Con 60 al día, $180.000 que sí son tuyos.\n\nRegistra cada venta y cada gasto y mira cuánto te queda de verdad. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Precios",
+      "pilar": "educacion",
+      "layout": "recibo",
       "destinos": [
         "instagram",
         "facebook"
@@ -46,16 +47,17 @@
       "qa": "pendiente",
       "carpeta": "2026-10-25",
       "archivo": "04-post",
-      "version": 1,
-      "formato": "mockup de pantalla (ui demo)",
-      "gancho": "Un solo número para mirar este domingo",
-      "primera_linea": "Un solo número para mirar este domingo",
-      "estilo": "ui, navy, pantalla de la app a la derecha y titular a la izquierda",
+      "version": 2,
+      "formato": "tiquete con el desglose de un producto (recibo)",
+      "gancho": "¿Me deja dinero vender jugos?",
+      "primera_linea": "¿Me deja dinero vender jugos?",
+      "estilo": "recibo, blanco, tiquete de papel centrado con zigzag y nota debajo, sin mascota",
       "modela": {
-        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
-        "url": "",
-        "que_tomo": ""
-      }
+        "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?» (2,1M vistas, 124x su mediana)",
+        "url": "https://www.tiktok.com/@rossybouchot/video/7694688337851878677",
+        "que_tomo": "la pregunta directa de si el producto deja dinero y el desglose de costos uno por uno, aterrizado a un jugo de barrio"
+      },
+      "qa_ticket": "c68835fe-7e94-41e9-b650-ade2a40743bb"
     },
     {
       "id": "2026-10-25-02-carrusel",
@@ -71,7 +73,7 @@
         "piezas/2026-10-25/02-carrusel-7.jpg",
         "piezas/2026-10-25/02-carrusel-8.jpg"
       ],
-      "caption": "Recortar a ciegas es fácil: se corta lo primero que se ve, aunque sea lo que trae ventas.\n\nEn este carrusel: 3 grupos para ordenar tus gastos y el ejemplo de una cafetería que libera $545.000 al mes sin vender más: $145.000 negociando insumos y $400.000 en gastos que no usaba. En un año son $6.540.000.\n\nKentra te muestra cada gasto en su categoría. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #ControlDeGastos #Pymes",
+      "caption": "«Convertí $200.000 en $1.600.000.» ¿Seguro?\n\nEn este carrusel, la cuenta completa de un lote de fresas con chocolate: 80 cajas a $20.000 son $1.600.000 de venta, pero empaques, comisiones, gas y tus 16 horas suman $500.000 más. Quedan $900.000 (56 %): 4,5 veces lo invertido, no 8.\n\nKentra te muestra cuánto te quedó del mes, no solo cuánto entró. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pasteleria #NegocioPropio",
       "pilar": "educacion",
       "layout": "carrusel",
       "destinos": [
@@ -81,16 +83,17 @@
       "qa": "pendiente",
       "carpeta": "2026-10-25",
       "archivo": "02-carrusel",
-      "version": 1,
-      "formato": "carrusel paso a paso (3 grupos de gastos)",
-      "gancho": "Hay que recortar gastos. ¿Por dónde empiezas?",
-      "primera_linea": "Hay que recortar gastos. ¿Por dónde empiezas?",
-      "estilo": "carrusel navy: portada con visual app, slides valor con ejemplo en cifras, cierre mascota",
+      "version": 2,
+      "formato": "tutorial paso a paso con cuenta (carrusel 8 slides)",
+      "gancho": "¿$200.000 se vuelven $1.600.000? La cuenta completa del lote",
+      "primera_linea": "¿$200.000 se vuelven $1.600.000?",
+      "estilo": "carrusel: portada marfil sin visual, slides valor navy/claro con tarjeta de cifras, slide 6 verde con bullets, slide 7 dato claro con las tres cifras del mes, cierre mascota navy",
       "modela": {
-        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
-        "url": "",
-        "que_tomo": ""
-      }
+        "referencia": "@frutillas.unlam, TikTok «Te enseño a convertir $20mil en 160,000» (1,2M vistas, 25x su mediana)",
+        "url": "https://www.tiktok.com/@frutillas.unlam/video/7699206775156772117",
+        "que_tomo": "el gancho de inversión a resultado con cifras y el desglose de costos; Kentra añade los costos que el video no cuenta (empaque, comisión, tus horas)"
+      },
+      "qa_ticket": "454aee44-6430-41fa-9e99-bd3048d4b734"
     },
     {
       "id": "2026-10-25-05-post",
@@ -99,9 +102,9 @@
       "imagenes": [
         "piezas/2026-10-25/05-post.jpg"
       ],
-      "caption": "Tú atiendes clientes. Kentra se encarga de las cuentas.\n\nCuando marcas un cobro, queda registrado solo; antes de que venza un pago o una cuota, te avisa; y con cada movimiento suma tus gastos por categoría y actualiza tu ganancia real del mes.\n\nDesde $15/mes, con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
-      "pilar": "funcionalidades",
-      "layout": "lista",
+      "caption": "Que te digan «está caro» no duele cuando sabes tu margen.\n\nEl precio no se defiende con nervios: se defiende con la cuenta hecha. Costo, tiempo, comisiones y lo que te tiene que quedar. Si el número ya está claro, la respuesta es tranquila.\n\n¿Conoces el margen de lo que vendes? Empieza por registrar cada gasto. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #NegocioPropio",
+      "pilar": "objeciones",
+      "layout": "meme",
       "destinos": [
         "instagram",
         "facebook"
@@ -109,16 +112,17 @@
       "qa": "pendiente",
       "carpeta": "2026-10-25",
       "archivo": "05-post",
-      "version": 1,
-      "formato": "lista (4 cosas que hace la app)",
-      "gancho": "Lo que hace Kentra mientras tú trabajas",
-      "primera_linea": "Lo que hace Kentra mientras tú trabajas",
-      "estilo": "lista, claro, checklist con mascota y celular a la derecha",
+      "version": 2,
+      "formato": "meme (texto arriba + mascota con globo)",
+      "gancho": "Cliente: «Uy, está caro». Yo, que ya hice la cuenta de ese precio",
+      "primera_linea": "Cliente: «Uy, está caro».",
+      "estilo": "meme, noche, tarjeta blanca arriba, mascota con celular a la izquierda y globo verde a la derecha",
       "modela": {
-        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
-        "url": "",
-        "que_tomo": ""
-      }
+        "referencia": "@marilynmachiz, reel lip-sync «Trabajo en ventas, me dicen que NO todos los días y sigo facturando» (893K vistas, 283x su mediana)",
+        "url": "https://www.instagram.com/reel/DeqCI64tuZ8",
+        "que_tomo": "la identidad del vendedor en una línea ante el rechazo; aquí ante el «está caro» con el margen ya calculado (uso sugerido por Sky)"
+      },
+      "qa_ticket": "ce64d4ec-e2d9-4a8a-8a66-37a94aace5cc"
     },
     {
       "id": "2026-10-25-03-historia",
@@ -128,8 +132,8 @@
         "piezas/2026-10-25/03-historia.jpg"
       ],
       "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "pregunta",
+      "pilar": "objeciones",
+      "layout": "antes",
       "destinos": [
         "instagram",
         "facebook"
@@ -137,16 +141,17 @@
       "qa": "pendiente",
       "carpeta": "2026-10-25",
       "archivo": "03-historia",
-      "version": 1,
-      "formato": "pregunta con CTA al quiz",
-      "gancho": "¿Arrancas la semana sabiendo cuánto llevas?",
-      "primera_linea": "¿Arrancas la semana sabiendo cuánto llevas?",
-      "estilo": "pregunta, verde, pregunta enorme centrada y botón kentra.pro/quiz",
+      "version": 2,
+      "formato": "comparativa antes/después",
+      "gancho": "Tu domingo, antes y después de llevar las cuentas",
+      "primera_linea": "Tu domingo, antes y después de llevar las cuentas",
+      "estilo": "antes, verdeoscuro, dos bloques apilados (gris tachado / verde con checks) y botón kentra.pro/quiz, sin mascota",
       "modela": {
-        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
-        "url": "",
-        "que_tomo": ""
-      }
+        "referencia": "@finanzas__3.0, reel «Esta chica compró una camioneta vacía» (867K vistas, 8,5x su mediana)",
+        "url": "https://www.instagram.com/reel/De0MIWeNJER",
+        "que_tomo": "la transformación antes/después de un negocio; aquí la del dueño el domingo en la noche, con CTA al diagnóstico"
+      },
+      "qa_ticket": "7ef1db34-09f8-47a5-929b-09194c53cb2b"
     },
     {
       "id": "2026-10-26-01-historia",

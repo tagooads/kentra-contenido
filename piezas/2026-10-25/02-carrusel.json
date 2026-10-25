@@ -2,200 +2,103 @@
  "layout": "carrusel",
  "formato": "post",
  "tema": "navy",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": true
- },
+ "cta": { "texto": "kentra.pro", "boton": true },
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Gastos",
-   "titulo": "Hay que recortar gastos. ¿Por dónde empiezas?",
-   "sub": "3 grupos para recortar sin frenar tus ventas.",
-   "visual": "app",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Octubre",
-    "categorias": [
-     [
-      "Insumos",
-      "$2.900.000",
-      96
-     ],
-     [
-      "Arriendo",
-      "$1.800.000",
-      100
-     ],
-     [
-      "Nómina",
-      "$1.500.000",
-      88
-     ],
-     [
-      "Publicidad",
-      "$400.000",
-      100
-     ],
-     [
-      "Suscripciones",
-      "$120.000",
-      140
-     ]
+   "tema": "marfil",
+   "kicker": "La cuenta completa",
+   "titulo": "¿$200.000 se vuelven $1.600.000?",
+   "sub": "Un lote de fresas con chocolate, con todos los costos sobre la mesa.",
+   "visual": "none"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "La venta que se ve en el video",
+   "texto": "Lo que invertiste y lo que entró. Hasta aquí parece 8 veces la plata.",
+   "ejemplo": {
+    "titulo": "Postres Dulce Fresa · datos demo",
+    "filas": [
+     ["Fresas y chocolate", "$200.000"],
+     ["Cajas que salen", "80"],
+     ["Precio por caja", "$20.000"],
+     ["**Venta del lote**", "$1.600.000", "verde"]
     ]
    }
   },
   {
    "layout": "valor",
-   "num": "1",
-   "titulo": "Separa tus gastos en 3 grupos",
-   "texto": "Antes de recortar, mira qué hace cada gasto por ti.",
-   "bullets": [
-    "Los que mantienen el negocio abierto",
-    "Los que traen ventas",
-    "Los que podrías dejar mañana"
-   ]
-  },
-  {
-   "layout": "valor",
-   "num": "2",
    "tema": "claro",
-   "titulo": "Grupo 1: no se quitan, se negocian",
-   "texto": "Arriendo, insumos, nómina. No los eliminas, pero puedes pedir mejor precio o plazo.",
+   "num": "2",
+   "titulo": "Los costos que no salen en el video",
+   "texto": "Cada caja también se empaca, se envía y se paga con comisión.",
    "ejemplo": {
-    "titulo": "Ejemplo: una cafetería",
     "filas": [
-     [
-      "Insumos del mes",
-      "$2.900.000"
-     ],
-     [
-      "**Negocias 5 % menos**",
-      "$145.000 de ahorro",
-      "verde"
-     ]
+     ["Empaques (80 × $1.000)", "− $80.000", "rojo"],
+     ["Comisión y domicilios (10 %)", "− $160.000", "rojo"],
+     ["Gas y luz", "− $20.000", "rojo"]
     ]
    }
   },
   {
    "layout": "valor",
    "num": "3",
-   "titulo": "Grupo 2: mide antes de cortar",
-   "texto": "Publicidad o domicilios pueden dejarte más de lo que cuestan.",
+   "titulo": "Tu tiempo también cuesta",
+   "texto": "Si no te pagas la hora, el negocio te la cobra después.",
    "ejemplo": {
     "filas": [
-     [
-      "Publicidad del mes",
-      "− $400.000",
-      "rojo"
-     ],
-     [
-      "Ganancia de las ventas que trajo",
-      "$560.000"
-     ],
-     [
-      "**Te dejó de más**",
-      "$160.000",
-      "verde"
-     ]
+     ["Horas de trabajo del lote", "16"],
+     ["Valor de tu hora", "$15.000"],
+     ["**Tu trabajo**", "− $240.000", "rojo"]
     ]
-   },
-   "cierre": "Si deja más de lo que cuesta, no es el primero en salir."
+   }
   },
   {
    "layout": "valor",
-   "num": "4",
    "tema": "claro",
-   "titulo": "Grupo 3: empieza por aquí",
-   "texto": "Suscripciones que no usas, compras repetidas, el «por si acaso».",
+   "num": "4",
+   "titulo": "La cuenta completa",
+   "texto": "Buen negocio, sí. Pero no 8 veces lo invertido: 4,5 veces.",
    "ejemplo": {
     "filas": [
-     [
-      "Apps y suscripciones sin uso",
-      "$120.000"
-     ],
-     [
-      "Compras sin planear",
-      "$280.000"
-     ],
-     [
-      "**Recorte inmediato**",
-      "$400.000",
-      "verde"
-     ]
+     ["Venta del lote", "$1.600.000"],
+     ["Fresas y chocolate", "− $200.000", "rojo"],
+     ["Otros costos y tus horas", "− $500.000", "rojo"],
+     ["**Te queda**", "$900.000 (56 %)", "verde"]
     ]
    }
   },
   {
    "layout": "valor",
    "tema": "verde",
-   "kicker": "El resultado",
-   "titulo": "$545.000 más al mes, sin vender más",
-   "ejemplo": {
-    "filas": [
-     [
-      "Negociado en insumos",
-      "$145.000"
-     ],
-     [
-      "Recorte del grupo 3",
-      "$400.000"
-     ],
-     [
-      "**Te queda de más**",
-      "$545.000"
-     ]
-    ]
-   },
-   "cierre": "En un año: $6.540.000."
+   "num": "5",
+   "titulo": "Para que la cuenta te cuadre siempre",
+   "bullets": [
+    "Separa la materia prima de los otros costos",
+    "Págate la hora, aunque sea poco",
+    "Mira cuánto quedó, no cuánto entró"
+   ],
+   "cierre": "El número que importa es el último."
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Cada gasto en su categoría, con su total",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Octubre",
-    "categorias": [
-     [
-      "Insumos",
-      "$2.900.000",
-      96
-     ],
-     [
-      "Arriendo",
-      "$1.800.000",
-      100
-     ],
-     [
-      "Nómina",
-      "$1.500.000",
-      88
-     ],
-     [
-      "Publicidad",
-      "$400.000",
-      100
-     ],
-     [
-      "Suscripciones",
-      "$120.000",
-      140
-     ]
-    ]
-   },
-   "nota": "Te avisa cuando una categoría se pasa"
+   "layout": "dato",
+   "tema": "claro",
+   "tam": "media",
+   "titulo": "El mes de la postrería, en tres cifras",
+   "filas": [
+    { "label": "Ventas", "valor": "$6.400.000", "nota": "4 lotes de 80 cajas a $20.000" },
+    { "label": "Gastos", "valor": "− $2.800.000", "color": "rojo", "nota": "materia prima, empaques, comisiones y tus horas" },
+    { "label": "Te quedó", "valor": "$3.600.000", "color": "verde", "grande": true }
+   ]
   },
   {
    "layout": "mascota",
-   "kicker": "Kentra",
-   "titulo": "Recorta con datos, no a ojo",
+   "titulo": "Lo que entra no es lo que queda. Kentra hace la resta.",
    "items": [
-    "Gastos por categoría",
-    "Alertas cuando una se pasa",
-    "Ganancia real del mes"
+    "Ventas y gastos por categoría",
+    "Lo que te quedó, en una pantalla",
+    "Acceso inmediato, desde $15/mes"
    ],
    "mascota": "app",
    "tam": "media"

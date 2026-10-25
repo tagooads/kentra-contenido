@@ -1,11 +1,24 @@
 {
- "layout": "pregunta",
+ "layout": "antes",
  "formato": "historia",
- "tema": "verde",
- "titulo": "¿Arrancas la semana sabiendo cuánto llevas?",
- "sub": "Haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
- "cta": {
-  "texto": "kentra.pro/quiz",
-  "boton": true
- }
+ "tema": "verdeoscuro",
+ "kicker": "Domingo en la noche",
+ "titulo": "Tu domingo, antes y después de llevar las cuentas",
+ "antes": {
+  "titulo": "Antes",
+  "items": [
+   "Las cuentas, en la cabeza",
+   "Adivinas qué quedó de la semana",
+   "Pagas y luego miras si alcanzó"
+  ]
+ },
+ "despues": {
+  "titulo": "Después",
+  "items": [
+   "Cada venta y gasto, registrado",
+   "Sabes qué quedó antes de dormir",
+   "Pagas sabiendo cuánto puedes"
+  ]
+ },
+ "cta": { "texto": "kentra.pro/quiz", "boton": true }
 }
