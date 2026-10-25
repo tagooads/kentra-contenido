@@ -2,11 +2,10 @@
  "layout": "mito",
  "formato": "historia",
  "tema": "noche",
- "kicker": "Precios",
- "titulo": "Subieron los insumos",
- "mito": "«Si subo el precio, pierdo clientes.»",
- "realidad": "Un 5 % en el plato ($28.000 → $29.500) cubre un 12 % en insumos. Aguantar cuesta $1.620.000 al mes.",
- "nota": "La cuenta completa está en el carrusel de hoy.",
+ "kicker": "Mito del dueño",
+ "mito": "«Mucha venta = mucha ganancia.»",
+ "realidad": "Una tienda vendió $12.000.000 el mes pasado y le quedaron $1.080.000: el 9 %. Lo que ganas lo decide el margen, no la venta.",
+ "nota": "¿Cuál es tu porcentaje? Si no lo sabes, no sabes si creciste.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

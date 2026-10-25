@@ -126,49 +126,38 @@
    ]
   },
   {
-   "layout": "app",
+   "layout": "dato",
    "kicker": "Así lo ves en Kentra",
-   "titulo": "Te avisa cuando los insumos se pasan",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Sazón de Casa",
-    "mes": "Octubre",
-    "categorias": [
-     [
-      "Insumos",
-      "$3.810.000",
-      112
-     ],
-     [
-      "Nómina",
-      "$2.200.000",
-      100
-     ],
-     [
-      "Arriendo",
-      "$1.600.000",
-      100
-     ],
-     [
-      "Servicios",
-      "$420.000",
-      105
-     ],
-     [
-      "Domicilios",
-      "$380.000",
-      95
-     ]
-    ]
-   },
-   "nota": "12 % sobre el presupuesto"
+   "tema": "claro",
+   "tam": "media",
+   "titulo": "El mes del restaurante, en tres cifras",
+   "filas": [
+    {
+     "label": "Ventas",
+     "valor": "$33.600.000",
+     "nota": "1.200 platos a $28.000"
+    },
+    {
+     "label": "Gastos",
+     "valor": "− $29.460.000",
+     "color": "rojo",
+     "nota": "insumos ya con el 12 % de más"
+    },
+    {
+     "label": "Te quedó",
+     "valor": "$4.140.000",
+     "color": "verde",
+     "grande": true
+    }
+   ],
+   "cierre": "Registras ventas y gastos y Kentra te muestra lo que te quedó."
   },
   {
    "layout": "mascota",
    "kicker": "Kentra",
    "titulo": "Mira el costo antes de tocar el precio",
    "items": [
-    "Gastos por categoría con alerta",
+    "Registro de ventas y gastos",
     "Ganancia real del mes",
     "Desde $15/mes"
    ],

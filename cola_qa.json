@@ -18,17 +18,17 @@
    "qa": "pendiente",
    "carpeta": "2026-10-26",
    "archivo": "01-historia",
-   "version": 2,
+   "version": 3,
    "formato": "tarjeta de postura (tweet)",
    "gancho": "«Vendí bien el fin de semana»: la mitad ya tiene dueño",
    "primera_linea": "«Vendí bien el fin de semana.»",
-   "estilo": "tweet, verdeoscuro, tarjeta blanca centrada, sin mascota",
+   "estilo": "tweet, verdeoscuro, tarjeta blanca centrada con pie y @kentra.pro a 40 px, sin mascota",
    "modela": {
     "referencia": "@tukutukuperu, reel «feliz con la venta y recuerdo que tengo que reinvertir» (780K vistas, 1355x su mediana)",
     "url": "https://www.instagram.com/reel/DemccisR8if",
     "que_tomo": "el dolor relatable del dueño: la venta ya está comprometida antes de gastarla"
    },
-   "qa_ticket": "96206a35-f23a-4062-a14d-37f1f56438ff"
+   "qa_ticket": "dcacbdf9-1dab-463c-a6fe-0e6338760a01"
   },
   {
    "id": "2026-10-26-04-post",
@@ -37,9 +37,9 @@
    "imagenes": [
     "piezas/2026-10-26/04-post.jpg"
    ],
-   "caption": "Un 12 % en insumos no se nota en la cocina. Se nota a fin de mes.\n\nEn la pantalla, un restaurante en octubre: insumos $3.810.000 (12 % por encima de lo previsto), nómina $2.200.000, arriendo $1.600.000, servicios $420.000 y domicilios $380.000. La barra roja avisa sola cuando una categoría se pasa.\n\nControl por categorías con alertas, desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #ControlDeGastos",
+   "caption": "Lo que ya vendiste y todavía no es tuyo tiene nombre: cuentas por cobrar.\n\nEn la pizarra, cuatro trabajos entregados y sin cobrar: $650.000, $480.000, $920.000 y $250.000, el más viejo de hace 34 días. En total $2.300.000 que salieron del negocio y aún no vuelven.\n\nKentra guarda cada cuenta por cobrar con su fecha límite, te avisa cuando vence y la registra sola cuando la marcas como cobrada.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Cobros #NegocioPropio",
    "pilar": "funcionalidades",
-   "layout": "app",
+   "layout": "pizarra",
    "destinos": [
     "instagram",
     "facebook"
@@ -47,17 +47,17 @@
    "qa": "pendiente",
    "carpeta": "2026-10-26",
    "archivo": "04-post",
-   "version": 1,
-   "formato": "mockup de la app con una cifra de alerta",
-   "gancho": "Tus insumos subieron 12 % y no lo viste",
-   "primera_linea": "Un 12 % en insumos no se nota en la cocina. Se nota a fin de mes.",
-   "estilo": "app, navy, celular a la izquierda con globo verde a la derecha, sin mascota",
+   "version": 2,
+   "formato": "pizarra con la cuenta de lo que le deben (cuentas por cobrar)",
+   "gancho": "Le deben $2.300.000 y no lo tiene anotado",
+   "primera_linea": "Lo que ya vendiste y todavía no es tuyo tiene nombre: cuentas por cobrar.",
+   "estilo": "pizarra, marfil, pizarra blanca centrada con el total encerrado en verde, sin mascota",
    "modela": {
-    "referencia": "@carlos_alarcon_e, reel «Así pierdes clientes» (2,8M vistas, 659x su mediana)",
-    "url": "https://www.instagram.com/reel/DefRlq3SvfW/",
-    "que_tomo": "señalar un error concreto del negocio con su cifra (aquí: los insumos que subieron sin que el dueño lo viera)"
+    "referencia": "@oscarfigueroa340, TikTok «Me regresaron el camión que vendí y hoy debo un millón y medio» (3,5M vistas, 5,4x su mediana)",
+    "url": "https://www.tiktok.com/@oscarfigueroa340/video/7698143038916414740",
+    "que_tomo": "abrir con la cifra de la deuda en el primer segundo (aquí: lo que le deben) y después mostrar la cuenta completa"
    },
-   "qa_ticket": "0685abb8-b4d1-468a-8623-556fd5584f76"
+   "qa_ticket": "c94db749-0c9f-4f73-a7fe-6aafd111fbf2"
   },
   {
    "id": "2026-10-26-02-carrusel",
@@ -73,7 +73,7 @@
     "piezas/2026-10-26/02-carrusel-7.jpg",
     "piezas/2026-10-26/02-carrusel-8.jpg"
    ],
-   "caption": "Los insumos suben. Tu carta, no. Y el que paga la diferencia eres tú.\n\nEn este carrusel, la cuenta con un plato de $28.000: con insumos 12 % más caros pasa de dejarte $4.800 a $3.450. En 1.200 platos al mes son $1.620.000 menos. Subir el plato a $29.500 (un 5 %) recupera la ganancia.\n\nKentra te avisa cuando una categoría se pasa del presupuesto. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Precios",
+   "caption": "Los insumos suben. Tu carta, no. Y el que paga la diferencia eres tú.\n\nEn este carrusel, la cuenta con un plato de $28.000: con insumos 12 % más caros pasa de dejarte $4.800 a $3.450. En 1.200 platos al mes son $1.620.000 menos. Subir el plato a $29.500 (un 5 %) recupera la ganancia.\n\nRegistra ventas y gastos y Kentra te muestra cuánto te quedó en el mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Precios",
    "pilar": "verticales",
    "layout": "carrusel",
    "destinos": [
@@ -83,46 +83,17 @@
    "qa": "pendiente",
    "carpeta": "2026-10-26",
    "archivo": "02-carrusel",
-   "version": 2,
+   "version": 3,
    "formato": "tutorial paso a paso con cuenta (carrusel 8 slides)",
    "gancho": "Subieron los insumos. ¿Subes el precio o aguantas?",
    "primera_linea": "Los insumos suben. Tu carta, no. Y el que paga la diferencia eres tú.",
-   "estilo": "carrusel: portada verdeoscuro sin visual, slides valor navy/claro con tarjeta de cifras, 1 slide app, cierre mascota navy",
+   "estilo": "carrusel: portada verdeoscuro sin visual, slides valor navy/claro con tarjeta de cifras, slide 7 dato claro con las tres cifras del mes (sin pantalla), cierre mascota navy",
    "modela": {
     "referencia": "@andresgarzam, skit «Si me costó $1 lo vendo a $2» (1,1M vistas, 4,6x su mediana)",
     "url": "https://www.instagram.com/reel/DeKkJTezmsk/",
     "que_tomo": "la corrección del precio puesto por costo: la cuenta completa (insumos + otros costos + lo que debe dejar) antes de fijar el nuevo precio"
    },
-   "qa_ticket": "5a512394-de0c-4ab4-b654-cc587324d024"
-  },
-  {
-   "id": "2026-10-26-05-post",
-   "fecha": "2026-10-26T18:00:00-05:00",
-   "tipo": "post",
-   "imagenes": [
-    "piezas/2026-10-26/05-post.jpg"
-   ],
-   "caption": "El lunes se nota dónde llevas las cuentas.\n\nA la izquierda, la versión Excel: buscar el archivo, pasar a mano las ventas del fin de semana y descubrir que una fórmula se rompió. A la derecha, la versión Kentra: abres la app, lo del fin de semana ya está registrado y la ganancia del mes se calculó sola.\n\nDesde $15/mes, en celular y computador. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes",
-   "pilar": "kentra-vs-excel",
-   "layout": "versus",
-   "destinos": [
-    "instagram",
-    "facebook"
-   ],
-   "qa": "pendiente",
-   "carpeta": "2026-10-26",
-   "archivo": "05-post",
-   "version": 1,
-   "formato": "comparativa Excel vs Kentra (versus)",
-   "gancho": "Un lunes en Excel vs un lunes en Kentra",
-   "primera_linea": "El lunes se nota dónde llevas las cuentas.",
-   "estilo": "versus, navy, dos columnas con personaje Excel y mascota",
-   "modela": {
-    "referencia": "@finanzas__3.0, reel «Esta chica compró una camioneta vacía» (867K vistas, antes y después de un negocio)",
-    "url": "https://www.instagram.com/reel/De0MIWeNJER",
-    "que_tomo": "el antes/después de la misma escena (el lunes con Excel vs el lunes con Kentra)"
-   },
-   "qa_ticket": "289a41af-32ab-4f2e-a544-8e720e00178f"
+   "qa_ticket": "c6780e40-0bad-433c-b8e4-6a564ee296c7"
   },
   {
    "id": "2026-10-26-03-historia",
@@ -141,17 +112,17 @@
    "qa": "pendiente",
    "carpeta": "2026-10-26",
    "archivo": "03-historia",
-   "version": 2,
+   "version": 3,
    "formato": "mito vs realidad",
-   "gancho": "«Si subo el precio, pierdo clientes»",
-   "primera_linea": "Subieron los insumos",
-   "estilo": "mito, noche, dos cajas apiladas (mito rojo / realidad verde), sin mascota",
+   "gancho": "«Mucha venta = mucha ganancia»",
+   "primera_linea": "«Mucha venta = mucha ganancia.»",
+   "estilo": "mito, noche, dos cajas apiladas (mito rojo / realidad verde) sin título, sin mascota",
    "modela": {
     "referencia": "@alrinconoficial, «Un streamer famoso NO te va a salvar el negocio» (867K vistas, 57,9x su mediana)",
     "url": "https://www.tiktok.com/@alrinconoficial/video/7699918929115843861",
-    "que_tomo": "la postura fuerte contra una creencia del dueño, respondida con una cifra"
+    "que_tomo": "la postura fuerte contra una creencia del dueño (vender más = ganar más), respondida con una cifra demo: el 9 % de $12.000.000"
    },
-   "qa_ticket": "0fcbbf90-9512-4dc5-ac84-95e562773e62"
+   "qa_ticket": "590038d5-189f-4eb7-9f50-48bcae18529c"
   },
   {
    "id": "2026-10-27-01-historia",

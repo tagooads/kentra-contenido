@@ -475,9 +475,9 @@ L.tweet = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <div style="flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center">
     <div style="${tarjetaBlanca(hist)};color:#1E2D4F;padding:${hist ? "48px 50px" : "44px 48px"};display:flex;flex-direction:column;gap:26px">
-      <div style="display:flex;align-items:center;gap:18px"><img src="${MARCA("isotipo.png")}" style="height:64px"><div><div style="font-weight:800;font-size:32px">Kentra</div><div style="font-size:26px;color:#5B6478">@kentra.pro</div></div></div>
-      <div class="fit" style="font-weight:700;font-size:${hist ? 58 : 54}px;line-height:1.2;letter-spacing:-.01em;max-height:${hist ? 640 : 520}px">${rich(p.texto)}</div>
-      ${p.pie ? `<div style="font-size:26px;color:#5B6478;border-top:2px solid #E6EAF0;padding-top:18px">${rich(p.pie)}</div>` : ""}
+      <div style="display:flex;align-items:center;gap:20px"><img src="${MARCA("isotipo.png")}" style="height:${hist ? 84 : 72}px"><div><div style="font-weight:800;font-size:${hist ? 40 : 36}px">Kentra</div><div style="font-size:${hist ? 40 : 34}px;color:#5B6478">@kentra.pro</div></div></div>
+      <div class="fit" style="font-weight:700;font-size:${hist ? 58 : 54}px;line-height:1.2;letter-spacing:-.01em;max-height:${hist ? 600 : 500}px">${rich(p.texto)}</div>
+      ${p.pie ? `<div style="font-size:${hist ? 40 : 36}px;line-height:1.25;color:#3F4A5E;border-top:2px solid #E6EAF0;padding-top:20px">${rich(p.pie)}</div>` : ""}
     </div>
   </div>
   ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}

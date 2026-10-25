@@ -1,42 +1,17 @@
 {
- "layout": "app",
+ "layout": "pizarra",
  "formato": "post",
- "tema": "navy",
- "kicker": "Restaurantes",
- "titulo": "Tus insumos subieron 12 % y no lo viste",
- "pantalla": "categorias",
- "app": {
-  "negocio": "Sazón de Casa",
-  "mes": "Octubre",
-  "categorias": [
-   [
-    "Insumos",
-    "$3.810.000",
-    112
-   ],
-   [
-    "Nómina",
-    "$2.200.000",
-    100
-   ],
-   [
-    "Arriendo",
-    "$1.600.000",
-    100
-   ],
-   [
-    "Servicios",
-    "$420.000",
-    105
-   ],
-   [
-    "Domicilios",
-    "$380.000",
-    95
-   ]
-  ]
- },
- "nota": "12 % sobre el presupuesto",
+ "tema": "marfil",
+ "kicker": "Por cobrar",
+ "titulo": "Le deben $2.300.000 y no lo tiene anotado",
+ "lineas": [
+  ["Trabajo 1 · entregado hace 34 días", "$650.000"],
+  ["Trabajo 2 · entregado hace 21 días", "$480.000"],
+  ["Trabajo 3 · entregado hace 15 días", "$920.000"],
+  ["Trabajo 4 · entregado hace 6 días", "$250.000"],
+  ["Por cobrar hoy", "$2.300.000", "res"]
+ ],
+ "nota": "Kentra te recuerda cada cuenta por cobrar y, al marcarla cobrada, la registra sola.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false
