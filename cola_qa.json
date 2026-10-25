@@ -2,6 +2,153 @@
   "zona_horaria": "America/Bogota",
   "piezas": [
     {
+      "id": "2026-10-25-01-historia",
+      "fecha": "2026-10-25T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-25/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "app",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-10-25",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "mockup de pantalla (dashboard demo)",
+      "gancho": "Un solo número para mirar hoy",
+      "primera_linea": "Un solo número para mirar hoy",
+      "estilo": "app, navy, celular centrado con globo verde y botón kentra.pro",
+      "modela": {
+        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
+        "url": "",
+        "que_tomo": ""
+      }
+    },
+    {
+      "id": "2026-10-25-04-post",
+      "fecha": "2026-10-25T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-25/04-post.jpg"
+      ],
+      "caption": "No hace falta revisarlo todo el domingo. Basta con un número.\n\nEn la pantalla, un estudio creativo a 25 de octubre: entraron $6.200.000, salieron $4.480.000 y le quedan $1.720.000. Ese número te dice si vas bien antes de que termine el mes.\n\nKentra lo calcula solo con lo que registras. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer",
+      "pilar": "ganancia-real",
+      "layout": "ui",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-10-25",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "mockup de pantalla (ui demo)",
+      "gancho": "Un solo número para mirar este domingo",
+      "primera_linea": "Un solo número para mirar este domingo",
+      "estilo": "ui, navy, pantalla de la app a la derecha y titular a la izquierda",
+      "modela": {
+        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
+        "url": "",
+        "que_tomo": ""
+      }
+    },
+    {
+      "id": "2026-10-25-02-carrusel",
+      "fecha": "2026-10-25T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-25/02-carrusel-1.jpg",
+        "piezas/2026-10-25/02-carrusel-2.jpg",
+        "piezas/2026-10-25/02-carrusel-3.jpg",
+        "piezas/2026-10-25/02-carrusel-4.jpg",
+        "piezas/2026-10-25/02-carrusel-5.jpg",
+        "piezas/2026-10-25/02-carrusel-6.jpg",
+        "piezas/2026-10-25/02-carrusel-7.jpg",
+        "piezas/2026-10-25/02-carrusel-8.jpg"
+      ],
+      "caption": "Recortar a ciegas es fácil: se corta lo primero que se ve, aunque sea lo que trae ventas.\n\nEn este carrusel: 3 grupos para ordenar tus gastos y el ejemplo de una cafetería que libera $545.000 al mes sin vender más: $145.000 negociando insumos y $400.000 en gastos que no usaba. En un año son $6.540.000.\n\nKentra te muestra cada gasto en su categoría. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #ControlDeGastos #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-10-25",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "carrusel paso a paso (3 grupos de gastos)",
+      "gancho": "Hay que recortar gastos. ¿Por dónde empiezas?",
+      "primera_linea": "Hay que recortar gastos. ¿Por dónde empiezas?",
+      "estilo": "carrusel navy: portada con visual app, slides valor con ejemplo en cifras, cierre mascota",
+      "modela": {
+        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
+        "url": "",
+        "que_tomo": ""
+      }
+    },
+    {
+      "id": "2026-10-25-05-post",
+      "fecha": "2026-10-25T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-25/05-post.jpg"
+      ],
+      "caption": "Tú atiendes clientes. Kentra se encarga de las cuentas.\n\nCuando marcas un cobro, queda registrado solo; antes de que venza un pago o una cuota, te avisa; y con cada movimiento suma tus gastos por categoría y actualiza tu ganancia real del mes.\n\nDesde $15/mes, con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "funcionalidades",
+      "layout": "lista",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-10-25",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "lista (4 cosas que hace la app)",
+      "gancho": "Lo que hace Kentra mientras tú trabajas",
+      "primera_linea": "Lo que hace Kentra mientras tú trabajas",
+      "estilo": "lista, claro, checklist con mascota y celular a la derecha",
+      "modela": {
+        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
+        "url": "",
+        "que_tomo": ""
+      }
+    },
+    {
+      "id": "2026-10-25-03-historia",
+      "fecha": "2026-10-25T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-25/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-10-25",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "pregunta con CTA al quiz",
+      "gancho": "¿Arrancas la semana sabiendo cuánto llevas?",
+      "primera_linea": "¿Arrancas la semana sabiendo cuánto llevas?",
+      "estilo": "pregunta, verde, pregunta enorme centrada y botón kentra.pro/quiz",
+      "modela": {
+        "referencia": "pieza del 11 oct, anterior a la regla de modelado (sin referencia con url)",
+        "url": "",
+        "que_tomo": ""
+      }
+    },
+    {
       "id": "2026-10-26-01-historia",
       "fecha": "2026-10-26T08:00:00-05:00",
       "tipo": "historia",
