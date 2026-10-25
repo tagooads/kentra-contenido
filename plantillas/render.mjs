@@ -75,7 +75,7 @@ function css(tema, formato) {
   .url{font-weight:700;font-size:36px;color:${t.muted}}
   .logo{height:${hist ? 64 : 60}px}
   .fila{display:flex;align-items:baseline;justify-content:space-between;gap:30px}
-  .fila .l{font-weight:700;font-size:34px;letter-spacing:.06em;text-transform:uppercase;color:${t.muted};white-space:nowrap}
+  .fila .l{font-weight:700;font-size:40px;letter-spacing:.04em;text-transform:uppercase;color:${t.muted};white-space:nowrap}
   .fila .v{font-weight:800;font-size:84px;letter-spacing:-.02em;white-space:nowrap}
   .fila.gris .v{color:${t.muted}} .fila.rojo .v{color:#FF6B6B} .fila.verde .v{color:#47C08B}
   .fila.grande .v{font-size:110px}
@@ -148,7 +148,7 @@ L.dato = (p, t, hist) => `
   <h1 class="${p.tam || ""}">${rich(p.titulo)}</h1>
   ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
   <div class="caja" style="display:flex;flex-direction:column;gap:26px;margin-top:10px">
-    ${(p.filas || []).map((f, i) => `${i ? '<div class="sep"></div>' : ""}<div class="fila ${f.color || ""} ${f.grande ? "grande" : ""}"><span class="l">${esc(f.label)}</span><span class="v">${esc(f.valor)}</span></div>${f.nota ? `<div class="muted" style="font-size:30px;margin-top:-14px">${rich(f.nota)}</div>` : ""}`).join("")}
+    ${(p.filas || []).map((f, i) => `${i ? '<div class="sep"></div>' : ""}<div class="fila ${f.color || ""} ${f.grande ? "grande" : ""}"><span class="l">${esc(f.label)}</span><span class="v">${esc(f.valor)}</span></div>${f.nota ? `<div class="muted" style="font-size:40px;line-height:1.2;margin-top:-10px">${rich(f.nota)}</div>` : ""}`).join("")}
   </div>
   ${p.cierre ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.cierre)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
@@ -281,8 +281,8 @@ L.valor = (p, t, hist) => `
   <h1 class="${p.tam || "media"}">${rich(p.titulo)}</h1>
   ${p.texto ? `<div class="sub" style="color:inherit;opacity:.88">${rich(p.texto)}</div>` : ""}
   ${p.ejemplo ? `<div class="caja" style="display:flex;flex-direction:column;gap:16px;margin-top:6px">
-      ${p.ejemplo.titulo ? `<div style="font-weight:800;font-size:28px;letter-spacing:.1em;text-transform:uppercase;color:${t.acc}">${esc(p.ejemplo.titulo)}</div>` : ""}
-      ${(p.ejemplo.filas || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-size:${hist ? 40 : 36}px"><span style="font-weight:600">${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#FF6B6B" : c === "verde" ? "#47C08B" : "inherit"}">${esc(v)}</b></div>`).join("")}
+      ${p.ejemplo.titulo ? `<div style="font-weight:800;font-size:40px;letter-spacing:.04em;text-transform:uppercase;color:${t.acc}">${esc(p.ejemplo.titulo)}</div>` : ""}
+      ${(p.ejemplo.filas || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-size:40px"><span style="font-weight:600">${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#FF6B6B" : c === "verde" ? "#47C08B" : "inherit"}">${esc(v)}</b></div>`).join("")}
     </div>` : ""}
   ${p.bullets?.length ? `<div class="lista" style="margin-top:6px">${p.bullets.map((b) => `<div class="item"><span class="ic">✓</span><span>${rich(b)}</span></div>`).join("")}</div>` : ""}
   ${p.cierre ? `<div class="sub" style="font-weight:800;color:inherit">${rich(p.cierre)}</div>` : ""}

@@ -54,17 +54,17 @@
       "qa": "pendiente",
       "carpeta": "2026-10-25",
       "archivo": "02-carrusel",
-      "version": 2,
+      "version": 3,
       "formato": "tutorial paso a paso con cuenta (carrusel 8 slides)",
       "gancho": "¿$200.000 se vuelven $1.600.000? La cuenta completa del lote",
       "primera_linea": "¿$200.000 se vuelven $1.600.000?",
-      "estilo": "carrusel: portada marfil sin visual, slides valor navy/claro con tarjeta de cifras, slide 6 verde con bullets, slide 7 dato claro con las tres cifras del mes, cierre mascota navy",
+      "estilo": "carrusel: portada marfil sin visual, slides valor navy/claro con tarjeta de cifras a 40 px, slide 6 verde con bullets, slide 7 dato claro con las tres cifras del mes, cierre mascota navy con celular de espaldas (sin pantalla)",
       "modela": {
         "referencia": "@frutillas.unlam, TikTok «Te enseño a convertir $20mil en 160,000» (1,2M vistas, 25x su mediana)",
         "url": "https://www.tiktok.com/@frutillas.unlam/video/7699206775156772117",
         "que_tomo": "el gancho de inversión a resultado con cifras y el desglose de costos; Kentra añade los costos que el video no cuenta (empaque, comisión, tus horas)"
       },
-      "qa_ticket": "454aee44-6430-41fa-9e99-bd3048d4b734"
+      "qa_ticket": "8757799d-1c12-4313-ab34-1d70758ade71"
     },
     {
       "id": "2026-10-26-01-historia",
