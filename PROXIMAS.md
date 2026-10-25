@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 10 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 5 piezas agendadas.
 
 
 ## Domingo 25/10
@@ -60,65 +60,6 @@ Desde $15/mes, con acceso inmediato. 👉 [link de la bio en Instagram / link co
 **19:00 — Historia** · ganancia-real · `2026-10-25-03-historia`
 
 <img src="piezas/2026-10-25/03-historia.jpg" width="160">
-
-
-## Lunes 26/10
-
-**08:00 — Historia** · funcionalidades · `2026-10-26-01-historia`
-
-<img src="piezas/2026-10-26/01-historia.jpg" width="160">
-
-**10:00 — Post** · funcionalidades · `2026-10-26-04-post`
-
-<img src="piezas/2026-10-26/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un 12 % en insumos no se nota en la cocina. Se nota a fin de mes.
-
-En la pantalla, un restaurante en octubre: insumos $3.810.000 (12 % por encima de lo previsto), nómina $2.200.000, arriendo $1.600.000, servicios $420.000 y domicilios $380.000. La barra roja avisa sola cuando una categoría se pasa.
-
-Control por categorías con alertas, desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #ControlDeGastos
-
-</details>
-
-**12:00 — Carrusel** · verticales · `2026-10-26-02-carrusel`
-
-<img src="piezas/2026-10-26/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-26/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Los insumos suben. Tu carta, no. Y el que paga la diferencia eres tú.
-
-En este carrusel, la cuenta con un plato de $28.000: con insumos 12 % más caros pasa de dejarte $4.800 a $3.450. En 1.200 platos al mes son $1.620.000 menos. Subir el plato a $29.500 (un 5 %) recupera la ganancia.
-
-Kentra te avisa cuando una categoría se pasa del presupuesto. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Precios
-
-</details>
-
-**18:00 — Post** · kentra-vs-excel · `2026-10-26-05-post`
-
-<img src="piezas/2026-10-26/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El lunes se nota dónde llevas las cuentas.
-
-A la izquierda, la versión Excel: buscar el archivo, pasar a mano las ventas del fin de semana y descubrir que una fórmula se rompió. A la derecha, la versión Kentra: abres la app, lo del fin de semana ya está registrado y la ganancia del mes se calculó sola.
-
-Desde $15/mes, en celular y computador. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes
-
-</details>
-
-**19:00 — Historia** · ganancia-real · `2026-10-26-03-historia`
-
-<img src="piezas/2026-10-26/03-historia.jpg" width="160">
 
 
 ## Últimas publicadas

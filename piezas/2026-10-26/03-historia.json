@@ -1,11 +1,14 @@
 {
- "layout": "pregunta",
+ "layout": "mito",
  "formato": "historia",
- "tema": "verde",
- "titulo": "¿Sabes cuánto te dejó el fin de semana?",
- "sub": "Haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
+ "tema": "noche",
+ "kicker": "Precios",
+ "titulo": "Subieron los insumos",
+ "mito": "«Si subo el precio, pierdo clientes.»",
+ "realidad": "Un 5 % en el plato ($28.000 → $29.500) cubre un 12 % en insumos. Aguantar cuesta $1.620.000 al mes.",
+ "nota": "La cuenta completa está en el carrusel de hoy.",
  "cta": {
-  "texto": "kentra.pro/quiz",
+  "texto": "kentra.pro",
   "boton": true
  }
 }

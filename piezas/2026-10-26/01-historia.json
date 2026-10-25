@@ -1,42 +1,10 @@
 {
- "layout": "app",
+ "layout": "tweet",
  "formato": "historia",
- "tema": "navy",
- "kicker": "Restaurantes",
- "titulo": "¿Subieron tus insumos este mes?",
- "pantalla": "categorias",
- "app": {
-  "negocio": "Sazón de Casa",
-  "mes": "Octubre",
-  "categorias": [
-   [
-    "Insumos",
-    "$3.810.000",
-    112
-   ],
-   [
-    "Nómina",
-    "$2.200.000",
-    100
-   ],
-   [
-    "Arriendo",
-    "$1.600.000",
-    100
-   ],
-   [
-    "Servicios",
-    "$420.000",
-    105
-   ],
-   [
-    "Domicilios",
-    "$380.000",
-    95
-   ]
-  ]
- },
- "nota": "Te avisa cuando una categoría se pasa",
+ "tema": "verdeoscuro",
+ "kicker": "Lunes",
+ "texto": "«Vendí bien el fin de semana.»\n\nLo que no dije: la mitad ya tiene dueño. Proveedores, arriendo, nómina.\n\nLo mío es lo que queda después.",
+ "pie": "Antes de gastarte la venta, mira cuánto es tuyo.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

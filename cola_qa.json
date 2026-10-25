@@ -2,6 +2,158 @@
  "zona_horaria": "America/Bogota",
  "piezas": [
   {
+   "id": "2026-10-26-01-historia",
+   "fecha": "2026-10-26T08:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-26/01-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "ganancia-real",
+   "layout": "tweet",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ],
+   "qa": "pendiente",
+   "carpeta": "2026-10-26",
+   "archivo": "01-historia",
+   "version": 2,
+   "formato": "tarjeta de postura (tweet)",
+   "gancho": "«Vendí bien el fin de semana»: la mitad ya tiene dueño",
+   "primera_linea": "«Vendí bien el fin de semana.»",
+   "estilo": "tweet, verdeoscuro, tarjeta blanca centrada, sin mascota",
+   "modela": {
+    "referencia": "@tukutukuperu, reel «feliz con la venta y recuerdo que tengo que reinvertir» (780K vistas, 1355x su mediana)",
+    "url": "https://www.instagram.com/reel/DemccisR8if",
+    "que_tomo": "el dolor relatable del dueño: la venta ya está comprometida antes de gastarla"
+   },
+   "qa_ticket": "96206a35-f23a-4062-a14d-37f1f56438ff"
+  },
+  {
+   "id": "2026-10-26-04-post",
+   "fecha": "2026-10-26T10:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-26/04-post.jpg"
+   ],
+   "caption": "Un 12 % en insumos no se nota en la cocina. Se nota a fin de mes.\n\nEn la pantalla, un restaurante en octubre: insumos $3.810.000 (12 % por encima de lo previsto), nómina $2.200.000, arriendo $1.600.000, servicios $420.000 y domicilios $380.000. La barra roja avisa sola cuando una categoría se pasa.\n\nControl por categorías con alertas, desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #ControlDeGastos",
+   "pilar": "funcionalidades",
+   "layout": "app",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ],
+   "qa": "pendiente",
+   "carpeta": "2026-10-26",
+   "archivo": "04-post",
+   "version": 1,
+   "formato": "mockup de la app con una cifra de alerta",
+   "gancho": "Tus insumos subieron 12 % y no lo viste",
+   "primera_linea": "Un 12 % en insumos no se nota en la cocina. Se nota a fin de mes.",
+   "estilo": "app, navy, celular a la izquierda con globo verde a la derecha, sin mascota",
+   "modela": {
+    "referencia": "@carlos_alarcon_e, reel «Así pierdes clientes» (2,8M vistas, 659x su mediana)",
+    "url": "https://www.instagram.com/reel/DefRlq3SvfW/",
+    "que_tomo": "señalar un error concreto del negocio con su cifra (aquí: los insumos que subieron sin que el dueño lo viera)"
+   },
+   "qa_ticket": "0685abb8-b4d1-468a-8623-556fd5584f76"
+  },
+  {
+   "id": "2026-10-26-02-carrusel",
+   "fecha": "2026-10-26T12:00:00-05:00",
+   "tipo": "carrusel",
+   "imagenes": [
+    "piezas/2026-10-26/02-carrusel-1.jpg",
+    "piezas/2026-10-26/02-carrusel-2.jpg",
+    "piezas/2026-10-26/02-carrusel-3.jpg",
+    "piezas/2026-10-26/02-carrusel-4.jpg",
+    "piezas/2026-10-26/02-carrusel-5.jpg",
+    "piezas/2026-10-26/02-carrusel-6.jpg",
+    "piezas/2026-10-26/02-carrusel-7.jpg",
+    "piezas/2026-10-26/02-carrusel-8.jpg"
+   ],
+   "caption": "Los insumos suben. Tu carta, no. Y el que paga la diferencia eres tú.\n\nEn este carrusel, la cuenta con un plato de $28.000: con insumos 12 % más caros pasa de dejarte $4.800 a $3.450. En 1.200 platos al mes son $1.620.000 menos. Subir el plato a $29.500 (un 5 %) recupera la ganancia.\n\nKentra te avisa cuando una categoría se pasa del presupuesto. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Precios",
+   "pilar": "verticales",
+   "layout": "carrusel",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ],
+   "qa": "pendiente",
+   "carpeta": "2026-10-26",
+   "archivo": "02-carrusel",
+   "version": 2,
+   "formato": "tutorial paso a paso con cuenta (carrusel 8 slides)",
+   "gancho": "Subieron los insumos. ¿Subes el precio o aguantas?",
+   "primera_linea": "Los insumos suben. Tu carta, no. Y el que paga la diferencia eres tú.",
+   "estilo": "carrusel: portada verdeoscuro sin visual, slides valor navy/claro con tarjeta de cifras, 1 slide app, cierre mascota navy",
+   "modela": {
+    "referencia": "@andresgarzam, skit «Si me costó $1 lo vendo a $2» (1,1M vistas, 4,6x su mediana)",
+    "url": "https://www.instagram.com/reel/DeKkJTezmsk/",
+    "que_tomo": "la corrección del precio puesto por costo: la cuenta completa (insumos + otros costos + lo que debe dejar) antes de fijar el nuevo precio"
+   },
+   "qa_ticket": "5a512394-de0c-4ab4-b654-cc587324d024"
+  },
+  {
+   "id": "2026-10-26-05-post",
+   "fecha": "2026-10-26T18:00:00-05:00",
+   "tipo": "post",
+   "imagenes": [
+    "piezas/2026-10-26/05-post.jpg"
+   ],
+   "caption": "El lunes se nota dónde llevas las cuentas.\n\nA la izquierda, la versión Excel: buscar el archivo, pasar a mano las ventas del fin de semana y descubrir que una fórmula se rompió. A la derecha, la versión Kentra: abres la app, lo del fin de semana ya está registrado y la ganancia del mes se calculó sola.\n\nDesde $15/mes, en celular y computador. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Excel #Pymes",
+   "pilar": "kentra-vs-excel",
+   "layout": "versus",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ],
+   "qa": "pendiente",
+   "carpeta": "2026-10-26",
+   "archivo": "05-post",
+   "version": 1,
+   "formato": "comparativa Excel vs Kentra (versus)",
+   "gancho": "Un lunes en Excel vs un lunes en Kentra",
+   "primera_linea": "El lunes se nota dónde llevas las cuentas.",
+   "estilo": "versus, navy, dos columnas con personaje Excel y mascota",
+   "modela": {
+    "referencia": "@finanzas__3.0, reel «Esta chica compró una camioneta vacía» (867K vistas, antes y después de un negocio)",
+    "url": "https://www.instagram.com/reel/De0MIWeNJER",
+    "que_tomo": "el antes/después de la misma escena (el lunes con Excel vs el lunes con Kentra)"
+   },
+   "qa_ticket": "289a41af-32ab-4f2e-a544-8e720e00178f"
+  },
+  {
+   "id": "2026-10-26-03-historia",
+   "fecha": "2026-10-26T19:00:00-05:00",
+   "tipo": "historia",
+   "imagenes": [
+    "piezas/2026-10-26/03-historia.jpg"
+   ],
+   "caption": "",
+   "pilar": "educacion",
+   "layout": "mito",
+   "destinos": [
+    "instagram",
+    "facebook"
+   ],
+   "qa": "pendiente",
+   "carpeta": "2026-10-26",
+   "archivo": "03-historia",
+   "version": 2,
+   "formato": "mito vs realidad",
+   "gancho": "«Si subo el precio, pierdo clientes»",
+   "primera_linea": "Subieron los insumos",
+   "estilo": "mito, noche, dos cajas apiladas (mito rojo / realidad verde), sin mascota",
+   "modela": {
+    "referencia": "@alrinconoficial, «Un streamer famoso NO te va a salvar el negocio» (867K vistas, 57,9x su mediana)",
+    "url": "https://www.tiktok.com/@alrinconoficial/video/7699918929115843861",
+    "que_tomo": "la postura fuerte contra una creencia del dueño, respondida con una cifra"
+   },
+   "qa_ticket": "0fcbbf90-9512-4dc5-ac84-95e562773e62"
+  },
+  {
    "id": "2026-10-27-01-historia",
    "fecha": "2026-10-27T08:00:00-05:00",
    "tipo": "historia",
