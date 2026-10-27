@@ -27,7 +27,8 @@
         "que_tomo": "reparto de roles entre dueños en una frase con pose; aquí vender vs anotar"
       },
       "carpeta": "reserva-2026-11-02",
-      "archivo": "01-post"
+      "archivo": "01-post",
+      "qa_ticket": "380795ac-0dac-48f1-97b8-4e9546b7e21f"
     },
     {
       "id": "reserva-2026-11-02-02-historia",
@@ -55,7 +56,8 @@
       },
       "carpeta": "reserva-2026-11-02",
       "archivo": "02-historia",
-      "reserva": true
+      "reserva": true,
+      "qa_ticket": "8a2d3b4b-2346-4f69-9ecb-2b0fe5703302"
     },
     {
       "id": "2026-10-25-04-post",
@@ -436,7 +438,8 @@
         "que_tomo": "pregunta con cifra y cuenta paso a paso hasta el resultado, aplicada a la decisión de contratar"
       },
       "carpeta": "2026-10-30",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "647fe8fe-1e3b-41d7-9d03-889b78bacb8b"
     },
     {
       "id": "2026-10-31-01-historia",
@@ -464,7 +467,8 @@
         "que_tomo": "serie «Día N» del dueño: abre con la cifra del día 1 del mes (gastos fijos que se pagan sin vender)"
       },
       "carpeta": "2026-10-31",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "43f9011c-73aa-43c3-a6fc-9619329b85b6"
     },
     {
       "id": "2026-10-31-04-post",
@@ -528,7 +532,8 @@
         "que_tomo": "la cuenta de margen hecha en segundos con cifras en mano, aplicada a cada cliente en vez de a un producto"
       },
       "carpeta": "2026-10-31",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "ec9d1caa-1865-4ab2-9068-466fe35701ae"
     },
     {
       "id": "2026-11-01-04-post",
@@ -556,7 +561,8 @@
         "referencia": "@rutina.stick, TikTok «¿Se puede convertir 1$ en 7.560$?» (820K vistas, 70x su mediana)",
         "url": "https://www.tiktok.com/@rutina.stick/video/7699879875620113687",
         "que_tomo": "cuenta paso a paso desde una cifra grande hasta el resultado real; aquí de lo vendido a la venta que se queda"
-      }
+      },
+      "qa_ticket": "a93f974a-c1c1-4184-b3a8-67c41156f575"
     },
     {
       "id": "2026-11-01-02-carrusel",
@@ -591,7 +597,8 @@
         "referencia": "@gisabftkd35, TikTok «¿Por qué a Bob NUNCA le aumentarán el sueldo?» (1,4M vistas, 54,9x su mediana)",
         "url": "https://www.tiktok.com/@gisabftkd35/video/7699690847931157763",
         "que_tomo": "gancho de pregunta «¿por qué a X nunca/siempre…?» y respuesta explicada en pasos"
-      }
+      },
+      "qa_ticket": "62e5029d-33e2-4d1e-a398-b57fa18d5fe4"
     },
     {
       "id": "2026-11-01-03-historia",
@@ -648,7 +655,8 @@
         "que_tomo": "cifra de la compra y el resultado en la pregunta, y el desglose de la cuenta después; aquí pagar hoy $1.940.000 en vez de $2.000.000"
       },
       "carpeta": "2026-11-02",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "b4b24321-609a-432e-9b89-aca9f56c8a96"
     },
     {
       "id": "2026-11-02-02-carrusel",
@@ -683,7 +691,8 @@
         "que_tomo": "alerta práctica en el primer segundo sobre una transferencia inesperada, resuelta en pasos (sin afirmar nada legal)"
       },
       "carpeta": "2026-11-02",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "6124aa6c-29a9-4f92-a056-369341dffdec"
     },
     {
       "id": "2026-11-02-05-post",
@@ -711,7 +720,8 @@
         "que_tomo": "tres opciones de precio lado a lado para que el cliente compare y elija (efecto señuelo); aquí Básico, Pro y Business"
       },
       "carpeta": "2026-11-02",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "59aa2185-bc6b-4c28-aa14-580a95693d56"
     },
     {
       "id": "2026-11-03-01-historia",
@@ -739,7 +749,8 @@
         "que_tomo": "humor del dueño en dos tiempos sobre una decisión de dinero; aquí regalar muestras y la suma de lo que cuestan"
       },
       "carpeta": "2026-11-03",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "bf4e1d28-dda7-4511-b41a-44d2803fcb04"
     },
     {
       "id": "2026-11-03-04-post",
@@ -767,7 +778,8 @@
         "que_tomo": "la cuenta real del producto mientras se trabaja, línea por línea hasta lo que queda"
       },
       "carpeta": "2026-11-03",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "ff1b6043-626e-4c2b-bb58-7a91ed8ae963"
     },
     {
       "id": "2026-11-03-02-carrusel",
@@ -801,7 +813,8 @@
         "que_tomo": "la comparación de dos escenarios con la misma cuenta en cifras, al estilo de la lección de márgenes · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
       },
       "carpeta": "2026-11-03",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "0d2ec42b-65bb-4aa0-bf62-b124493801c6"
     },
     {
       "id": "2026-11-03-05-post",
@@ -829,7 +842,8 @@
         "que_tomo": "el antes y el después de un negocio en dos tiempos; aquí cerrar el mes de memoria vs con cuentas"
       },
       "carpeta": "2026-11-03",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "987b961b-6706-484f-b515-938506e54812"
     },
     {
       "id": "2026-11-03-03-historia",
@@ -857,7 +871,8 @@
         "que_tomo": "lo que entra y lo que sale de un tramo concreto del día, con cifras; aquí una hora más de horario"
       },
       "carpeta": "2026-11-03",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "3b92f007-d96c-4c27-babd-226eac337429"
     },
     {
       "id": "2026-11-04-01-historia",
@@ -885,7 +900,8 @@
         "que_tomo": "un error concreto del dueño y su corrección en una frase; aquí creer que sin deudas el negocio está sano"
       },
       "carpeta": "2026-11-04",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "6803fa90-e544-4c63-8368-425b69256bd4"
     },
     {
       "id": "2026-11-04-04-post",
@@ -913,7 +929,8 @@
         "que_tomo": "mostrar el reparto real del dinero de la semana con una cifra concreta"
       },
       "carpeta": "2026-11-04",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "cadeb203-8bc6-4dc5-b47a-d812ca4b3738"
     },
     {
       "id": "2026-11-04-02-carrusel",
@@ -948,7 +965,8 @@
         "que_tomo": "frases listas para copiar ante situaciones incómodas de cobro, que generan guardados y compartidos"
       },
       "carpeta": "2026-11-04",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "443c4f27-03a8-48c4-aac7-56a449204f0d"
     },
     {
       "id": "2026-11-04-05-post",
@@ -976,7 +994,8 @@
         "que_tomo": "el skit de dos voces: precio a ojo vs la voz de la razón que hace la cuenta real"
       },
       "carpeta": "2026-11-04",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "7a43e648-6c5a-401e-814c-2408a79fc694"
     },
     {
       "id": "2026-11-04-03-historia",
@@ -1004,7 +1023,8 @@
         "que_tomo": "la escena de atender en el mostrador de principio a fin; aquí lo que Kentra hace mientras atiendes"
       },
       "carpeta": "2026-11-04",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "c247e9ea-9683-4acc-950b-24b177b75123"
     },
     {
       "id": "2026-11-05-01-historia",
@@ -1032,7 +1052,8 @@
         "que_tomo": "capturas de una conversación de cliente por mensajes; aquí un cliente que pide el comprobante de su pago"
       },
       "carpeta": "2026-11-05",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "318e1243-1721-4075-9619-31cec4bd60de"
     },
     {
       "id": "2026-11-05-04-post",
@@ -1060,7 +1081,8 @@
         "que_tomo": "la tensión de un clip de pitch arriba y la lección en pizarra abajo (pantalla dividida); tendencia: reacción a pitches de TV"
       },
       "carpeta": "2026-11-05",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "f9ca9830-76e8-471b-b8ed-78d1c6629598"
     },
     {
       "id": "2026-11-05-02-carrusel",
@@ -1094,7 +1116,8 @@
         "que_tomo": "la lógica de margen de una acción para atraer clientes contada con cifras; aquí cuánto cuesta un cliente nuevo y cuándo se recupera"
       },
       "carpeta": "2026-11-05",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "843c9c22-a4cb-402b-b1c4-09c4c1810eb7"
     },
     {
       "id": "2026-11-05-05-post",
@@ -1122,7 +1145,8 @@
         "que_tomo": "una frase del dueño en una línea sobre fondo liso, sin cara; aquí una frase sobre los vencimientos"
       },
       "carpeta": "2026-11-05",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "20148a9d-d8bb-43a1-a1fe-0cfe803c4a67"
     },
     {
       "id": "2026-11-05-03-historia",
@@ -1150,7 +1174,8 @@
         "que_tomo": "la pregunta con la cifra en el gancho y la cuenta que la responde; aquí 7 días sin ventas y cuánto necesitas guardar"
       },
       "carpeta": "2026-11-05",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "dd7a4a59-0a36-42f4-b3c7-d8eab7d0efda"
     },
     {
       "id": "2026-11-06-01-historia",
@@ -1178,7 +1203,8 @@
         "que_tomo": "la cuenta real de un producto del día a día, línea por línea"
       },
       "carpeta": "2026-11-06",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "5a7c9f4e-6475-4509-a25e-2e667796b654"
     },
     {
       "id": "2026-11-06-04-post",
@@ -1206,7 +1232,8 @@
         "que_tomo": "desglose de cuánto cuesta realmente algo contado con cifras; aquí cuánto cuesta lo que se bota"
       },
       "carpeta": "2026-11-06",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "dcc9a746-9760-47e4-b134-4f80d178bcba"
     },
     {
       "id": "2026-11-06-02-carrusel",
@@ -1240,7 +1267,8 @@
         "que_tomo": "«el IVA no es tu plata»: el dinero que entra pero ya tiene dueño, con cifra"
       },
       "carpeta": "2026-11-06",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "afd46acc-9307-40d5-b81d-a7ea8f627c7a"
     },
     {
       "id": "2026-11-06-05-post",
@@ -1268,7 +1296,8 @@
         "que_tomo": "una escena de arranque con el nicho claro desde el texto; aquí de digitar a subir el extracto"
       },
       "carpeta": "2026-11-06",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "bd4d248f-066c-44d3-92bb-2b0752d05548"
     },
     {
       "id": "2026-11-06-03-historia",
@@ -1296,7 +1325,8 @@
         "que_tomo": "la explicación en pizarra con la cuenta paso a paso"
       },
       "carpeta": "2026-11-06",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "7c294589-dd66-45d3-b09d-eec23feb95df"
     },
     {
       "id": "2026-11-07-01-historia",
@@ -1324,7 +1354,8 @@
         "que_tomo": "postura fuerte en una frase sobre cuentas; aquí vender mucho sin anotar"
       },
       "carpeta": "2026-11-07",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "5c40ce0d-5058-49b2-aeb6-8c69ce52309a"
     },
     {
       "id": "2026-11-07-04-post",
@@ -1352,7 +1383,8 @@
         "que_tomo": "la cuenta de margen hecha con cifras en mano; aquí el margen de 50 combos"
       },
       "carpeta": "2026-11-07",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "69b283af-1912-470d-a9b0-6a01250078b0"
     },
     {
       "id": "2026-11-07-02-carrusel",
@@ -1386,7 +1418,8 @@
         "que_tomo": "poner nombre a la incomodidad de cobrar y dar la razón al que cobra; aquí cobrar un anticipo por la cita"
       },
       "carpeta": "2026-11-07",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "afa4ff2a-9986-4018-a23a-4029a9256dcd"
     },
     {
       "id": "2026-11-07-05-post",
@@ -1414,7 +1447,8 @@
         "que_tomo": "reparto de roles entre dueños con humor; aquí el equipo con roles de Business: uno registra, otro decide"
       },
       "carpeta": "2026-11-07",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "3d1c50bc-7d51-4413-aced-9de09d6f57b2"
     },
     {
       "id": "2026-11-07-03-historia",
@@ -1442,7 +1476,8 @@
         "que_tomo": "frase corta lista para copiar en una situación del dueño; aquí cuando piden constancia de un pago"
       },
       "carpeta": "2026-11-07",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "8178acf2-c0de-4c37-9295-c9e65efa811b"
     },
     {
       "id": "2026-11-08-01-historia",
@@ -1470,7 +1505,8 @@
         "que_tomo": "pregunta final con opciones; aquí una pregunta con cifra y tres respuestas"
       },
       "carpeta": "2026-11-08",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "95d60e50-5718-46b5-ba46-a9b98e9ae71b"
     },
     {
       "id": "2026-11-08-04-post",
@@ -1498,7 +1534,8 @@
         "que_tomo": "la objeción «tus precios son caros» respondida sin bajar el precio"
       },
       "carpeta": "2026-11-08",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "fa5354d8-cf1e-45c0-8d26-5e8c8fb9df9b"
     },
     {
       "id": "2026-11-08-02-carrusel",
@@ -1533,7 +1570,8 @@
         "que_tomo": "el reto mental con número: pregunta, opciones y la respuesta después"
       },
       "carpeta": "2026-11-08",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "18fb7520-d5e9-479d-9a62-22cf50293dd7"
     },
     {
       "id": "2026-11-08-05-post",
@@ -1561,7 +1599,8 @@
         "que_tomo": "dos formas de hacer lo mismo en pantalla dividida; aquí cerrar el mes en Excel vs en Kentra"
       },
       "carpeta": "2026-11-08",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "a8650fa9-389b-4abd-b166-1f0948bb5da3"
     },
     {
       "id": "2026-11-08-03-historia",
@@ -1589,7 +1628,8 @@
         "que_tomo": "una rutina corta del dueño en pasos del día real; aquí el domingo de 10 minutos"
       },
       "carpeta": "2026-11-08",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "916f4dc4-afc2-48ff-9330-1098993408ee"
     }
   ]
 }
