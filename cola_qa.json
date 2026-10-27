@@ -2,6 +2,66 @@
   "zona_horaria": "America/Bogota",
   "piezas": [
     {
+      "id": "reserva-2026-11-02-01-post",
+      "fecha": null,
+      "tipo": "post",
+      "imagenes": [
+        "piezas/reserva-2026-11-02/01-post.jpg"
+      ],
+      "caption": "Tres verbos que se confunden: vender, cobrar, ganar.\nVender es que te digan sí. Cobrar es que entre el dinero. Ganar es lo que queda después de pagar todo, incluido tu sueldo.\nSolo el tercero paga tus cuentas.\nMira cuánto te queda en minutos. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "reserva": true,
+      "formato": "cita",
+      "gancho": "vender, cobrar y ganar no son lo mismo",
+      "primera_linea": "Tres verbos que se confunden: vender, cobrar, ganar.",
+      "estilo": "cita, marfil, frase grande con barra verde, sin mascota",
+      "modela": {
+        "referencia": "@soywilmermelo, TikTok «la peor estrategia es ser el más barato» (799K vistas)",
+        "url": "https://www.tiktok.com/@soywilmermelo/video/7689265619757174030",
+        "que_tomo": "una postura corta y directa sobre lo que de verdad es ganar"
+      },
+      "carpeta": "reserva-2026-11-02",
+      "archivo": "01-post",
+      "qa_ticket": "0e8ee6e3-eadf-4d3e-a66d-b4bb223d40ab"
+    },
+    {
+      "id": "reserva-2026-11-02-02-historia",
+      "fecha": null,
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/reserva-2026-11-02/02-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "reserva": true,
+      "formato": "pregunta",
+      "gancho": "cuánto te quedó la semana pasada",
+      "primera_linea": "¿Sabes cuánto te quedó la semana pasada?",
+      "estilo": "pregunta, menta, pregunta enorme centrada, sin mascota",
+      "modela": {
+        "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
+        "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
+        "que_tomo": "una pregunta con número que la persona intenta contestar"
+      },
+      "carpeta": "reserva-2026-11-02",
+      "archivo": "02-historia",
+      "qa_ticket": "99bed3d7-e998-4e30-9ebe-b15bd00bb365"
+    },
+    {
       "id": "2026-10-25-04-post",
       "fecha": "2026-10-25T10:00:00-05:00",
       "tipo": "post",
@@ -246,6 +306,67 @@
       "carpeta": "2026-10-27",
       "archivo": "04-post",
       "qa_ticket": "459082d0-5c65-42b8-bb55-ac587ca826c2"
+    },
+    {
+      "id": "2026-10-27-02-carrusel",
+      "fecha": "2026-10-27T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-27/02-carrusel-1.jpg",
+        "piezas/2026-10-27/02-carrusel-2.jpg",
+        "piezas/2026-10-27/02-carrusel-3.jpg",
+        "piezas/2026-10-27/02-carrusel-4.jpg",
+        "piezas/2026-10-27/02-carrusel-5.jpg",
+        "piezas/2026-10-27/02-carrusel-6.jpg",
+        "piezas/2026-10-27/02-carrusel-7.jpg",
+        "piezas/2026-10-27/02-carrusel-8.jpg"
+      ],
+      "caption": "¿A cuánto lo vendes? Responde antes de deslizar.\n\n5 retos de precio con su cuenta: el costo + 25 % que no da 25 % de margen, el descuento del 15 % que se lleva el 75 % de la ganancia, la app que cobra antes que tú, el pedido grande con rebaja y la subida de precio que vende menos y gana más.\n\nAl final, cómo KentrAI hace estas cuentas con tus números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 2,
+      "qa_ticket": "e579d432-b123-4984-8385-677f82c7cbc7"
+    },
+    {
+      "id": "2026-10-27-05-post",
+      "fecha": "2026-10-27T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-27/05-post.jpg"
+      ],
+      "caption": "Una semana de pedidos es una semana de ventas. No una semana de ganancia.\n\nEn la imagen, una pastelería con los pedidos de Halloween: vendió $3.200.000; insumos, empaques y entregas sumaron $2.270.000; le quedaron $930.000, el 29 %. Ese porcentaje es el que decide cuánto vale aceptar más pedidos en diciembre.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pastelería #Pymes",
+      "pilar": "verticales",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "qa_ticket": "526212d7-70eb-4d8f-858a-6a5569314543"
+    },
+    {
+      "id": "2026-10-27-03-historia",
+      "fecha": "2026-10-27T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-27/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 2,
+      "qa_ticket": "6acfe7d2-2685-41aa-af36-1001529b63a6"
     },
     {
       "id": "2026-11-03-01-historia",
@@ -1154,66 +1275,6 @@
       "carpeta": "2026-11-08",
       "archivo": "03-historia",
       "qa_ticket": "8595ee27-9971-421c-94c5-8a337816ead4"
-    },
-    {
-      "id": "reserva-2026-11-02-01-post",
-      "fecha": null,
-      "tipo": "post",
-      "imagenes": [
-        "piezas/reserva-2026-11-02/01-post.jpg"
-      ],
-      "caption": "Tres verbos que se confunden: vender, cobrar, ganar.\nVender es que te digan sí. Cobrar es que entre el dinero. Ganar es lo que queda después de pagar todo, incluido tu sueldo.\nSolo el tercero paga tus cuentas.\nMira cuánto te queda en minutos. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "ganancia-real",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "reserva": true,
-      "formato": "cita",
-      "gancho": "vender, cobrar y ganar no son lo mismo",
-      "primera_linea": "Tres verbos que se confunden: vender, cobrar, ganar.",
-      "estilo": "cita, marfil, frase grande con barra verde, sin mascota",
-      "modela": {
-        "referencia": "@soywilmermelo, TikTok «la peor estrategia es ser el más barato» (799K vistas)",
-        "url": "https://www.tiktok.com/@soywilmermelo/video/7689265619757174030",
-        "que_tomo": "una postura corta y directa sobre lo que de verdad es ganar"
-      },
-      "carpeta": "reserva-2026-11-02",
-      "archivo": "01-post",
-      "qa_ticket": "0e8ee6e3-eadf-4d3e-a66d-b4bb223d40ab"
-    },
-    {
-      "id": "reserva-2026-11-02-02-historia",
-      "fecha": null,
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/reserva-2026-11-02/02-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "reserva": true,
-      "formato": "pregunta",
-      "gancho": "cuánto te quedó la semana pasada",
-      "primera_linea": "¿Sabes cuánto te quedó la semana pasada?",
-      "estilo": "pregunta, menta, pregunta enorme centrada, sin mascota",
-      "modela": {
-        "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
-        "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
-        "que_tomo": "una pregunta con número que la persona intenta contestar"
-      },
-      "carpeta": "reserva-2026-11-02",
-      "archivo": "02-historia",
-      "qa_ticket": "99bed3d7-e998-4e30-9ebe-b15bd00bb365"
     }
   ]
 }
