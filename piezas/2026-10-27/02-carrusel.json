@@ -86,7 +86,7 @@
      "texto": "No, pierdes"
     }
    ],
-   "nota": "A $14.000 ganas $2.000 por unidad: $100.000. Lo mismo que 13 ventas al detal."
+   "nota": "A $14.000 ganas $2.000 por unidad: $100.000. Casi lo mismo que 13 ventas al detal."
   },
   {
    "layout": "reto",
@@ -107,43 +107,42 @@
    "nota": "Antes: 100 × $6.000 = $600.000. Después: 90 × $8.000 = $720.000."
   },
   {
-   "layout": "app",
+   "layout": "dato",
    "tema": "claro",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Pregúntale el margen y te responde con tus cifras",
-   "pantalla": "kentrai",
-   "app": {
-    "chat": [
-     [
-      "yo",
-      "Si vendo a $10.700 lo que me cuesta $8.000, ¿qué margen tengo?"
-     ],
-     [
-      "ia",
-      "**25 %**: te quedan **$2.700** por unidad."
-     ],
-     [
-      "yo",
-      "¿Y si lo vendo por la app que cobra 25 %?"
-     ],
-     [
-      "ia",
-      "La comisión son $2.675: te quedarían **$25**. Para ese canal el precio debería ser **$14.300**."
-     ]
-    ]
-   },
-   "nota": "KentrAI, ilimitado en todos los planes"
+   "kicker": "Hazlo con Kentra",
+   "titulo": "El canal también tiene su cuenta",
+   "tam": "media",
+   "filas": [
+    {
+     "label": "Vendes a",
+     "valor": "$10.700",
+     "color": "gris"
+    },
+    {
+     "label": "Comisión 25 %",
+     "valor": "− $2.675",
+     "color": "rojo",
+     "nota": "antes de pagar tu costo de $8.000"
+    },
+    {
+     "label": "Te queda",
+     "valor": "$25",
+     "color": "verde",
+     "grande": true
+    }
+   ],
+   "cierre": "Con la app al 25 %, el precio debería ser $14.300."
   },
   {
    "layout": "mascota",
    "kicker": "Kentra",
    "titulo": "El precio se calcula, no se adivina",
    "items": [
-    "KentrAI responde con tus cifras",
     "Ganancia real de cada mes",
-    "Desde $15/mes, sin permanencia"
+    "KentrAI responde con tus cifras",
+    "Desde $15/mes"
    ],
-   "mascota": "app",
+   "mascota": "telefono",
    "tam": "media"
   }
  ]

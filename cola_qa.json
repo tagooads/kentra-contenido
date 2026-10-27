@@ -321,7 +321,7 @@
         "piezas/2026-10-27/02-carrusel-7.jpg",
         "piezas/2026-10-27/02-carrusel-8.jpg"
       ],
-      "caption": "¿A cuánto lo vendes? Responde antes de deslizar.\n\n5 retos de precio con su cuenta: el costo + 25 % que no da 25 % de margen, el descuento del 15 % que se lleva el 75 % de la ganancia, la app que cobra antes que tú, el pedido grande con rebaja y la subida de precio que vende menos y gana más.\n\nAl final, cómo KentrAI hace estas cuentas con tus números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes",
+      "caption": "¿A cuánto lo vendes? Responde antes de deslizar.\n\n5 retos de precio con su cuenta: el costo + 25 % que no da 25 % de margen, el descuento del 15 % que se lleva el 75 % de la ganancia, la app que cobra antes que tú, el pedido grande con rebaja y la subida de precio que vende menos y gana más.\n\nEn el slide 7, la cuenta del canal: la comisión del 25 % deja $25 de ganancia. Kentra te muestra la ganancia real de cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes",
       "pilar": "educacion",
       "layout": "carrusel",
       "destinos": [
@@ -329,8 +329,17 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 2,
-      "qa_ticket": "e579d432-b123-4984-8385-677f82c7cbc7"
+      "version": 3,
+      "qa_ticket": "e579d432-b123-4984-8385-677f82c7cbc7",
+      "formato": "reto numérico con respuesta por slide",
+      "gancho": "¿A cuánto lo vendes? 5 precios a ojo",
+      "primera_linea": "¿A cuánto lo vendes? Responde antes de deslizar.",
+      "estilo": "carrusel noche/menta con retos, cierre mascota teléfono",
+      "modela": {
+        "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?»",
+        "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
+        "que_tomo": "reto con opciones y cuenta"
+      }
     },
     {
       "id": "2026-10-27-05-post",
@@ -339,16 +348,25 @@
       "imagenes": [
         "piezas/2026-10-27/05-post.jpg"
       ],
-      "caption": "Una semana de pedidos es una semana de ventas. No una semana de ganancia.\n\nEn la imagen, una pastelería con los pedidos de Halloween: vendió $3.200.000; insumos, empaques y entregas sumaron $2.270.000; le quedaron $930.000, el 29 %. Ese porcentaje es el que decide cuánto vale aceptar más pedidos en diciembre.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pastelería #Pymes",
-      "pilar": "verticales",
-      "layout": "dato",
+      "caption": "Dos planes, una conversación.\n\nEn la imagen, el plan Básico ($15/mes) y el Pro ($20/mes) hablan: Pro importa el extracto del banco y lo categoriza solo, y suma inventario y un segundo negocio por $5 más.\n\nElige el plan que te ahorra el trabajo que hoy haces a mano. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "precio",
+      "layout": "skit",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "qa_ticket": "526212d7-70eb-4d8f-858a-6a5569314543"
+      "version": 2,
+      "qa_ticket": "526212d7-70eb-4d8f-858a-6a5569314543",
+      "formato": "skit de dos voces",
+      "gancho": "Lo que suma el plan Pro por $5 más",
+      "primera_linea": "Me quedo con el Básico: $15 al mes.",
+      "estilo": "skit, marfil, burbujas dos voces, sin mascota",
+      "modela": {
+        "referencia": "@thevavig, skit de dos voces «voy a vender el llavero en 15 pesos» (6M plays)",
+        "url": "https://www.instagram.com/reel/Dea3rr3Ot9J/",
+        "que_tomo": "conversación de dos voces donde una corrige a la otra con la cuenta"
+      }
     },
     {
       "id": "2026-10-27-03-historia",

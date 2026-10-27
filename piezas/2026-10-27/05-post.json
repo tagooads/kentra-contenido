@@ -1,32 +1,19 @@
 {
- "layout": "dato",
+ "layout": "skit",
  "formato": "post",
- "tema": "claro",
- "kicker": "Pastelerías",
- "titulo": "Pedidos de Halloween: ¿cuánto te quedó?",
- "tam": "media",
- "filas": [
-  {
-   "label": "Pedidos",
-   "valor": "$3.200.000",
-   "color": "gris"
-  },
-  {
-   "label": "Costos",
-   "valor": "− $2.270.000",
-   "color": "rojo",
-   "nota": "insumos, empaques y entregas"
-  },
-  {
-   "label": "Te quedó",
-   "valor": "$930.000",
-   "color": "verde",
-   "grande": true
-  }
+ "tema": "marfil",
+ "kicker": "Dos planes",
+ "titulo": "«Me quedo con el Básico»",
+ "a": { "nombre": "Plan Básico", "inicial": "B" },
+ "b": { "nombre": "Plan Pro", "inicial": "P" },
+ "lineas": [
+  ["a", "Me quedo con el Básico: $15 al mes."],
+  ["b", "¿Cuánto te toma pasar el extracto del banco a mano?"],
+  ["a", "Unas 3 horas cada mes."],
+  ["b", "Por $5 más, Pro lo importa y lo categoriza solo."],
+  ["a", "¿Solo eso?"],
+  ["b", "También inventario y un segundo negocio."]
  ],
- "cierre": "El 29 % de lo vendido. Y diciembre viene más grande.",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": false
- }
+ "cierre": "Pro: $20/mes.",
+ "cta": { "texto": "kentra.pro", "boton": false }
 }
