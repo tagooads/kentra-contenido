@@ -30,7 +30,7 @@
      "texto": "$12.000"
     }
    ],
-   "nota": "Costo + 25 % da 20 % de margen. Para ganar 25 %: $8.000 ÷ 0,75 = $10.700."
+   "nota": "Costo + 25 % da 20 % de margen. Para ganar 25 %: $8.000 ÷ 0,75 = $10.667; redondeado, $10.700."
   },
   {
    "layout": "reto",
