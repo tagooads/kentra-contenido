@@ -1,14 +1,31 @@
 {
-  "layout": "dato",
-  "formato": "post",
-  "tema": "claro",
-  "kicker": "Taller mecánico",
-  "titulo": "$18.000 al día que nadie anota. ¿Cuánto es al año?",
-  "filas": [
-    { "label": "Cada día", "valor": "$18.000", "color": "gris", "nota": "tintos, tornillos sueltos y domicilios" },
-    { "label": "Al mes", "valor": "$468.000", "color": "rojo", "nota": "26 días de trabajo" },
-    { "label": "Al año", "valor": "$5.616.000", "color": "rojo", "grande": true }
-  ],
-  "cierre": "Lo chico que no se anota se vuelve grande.",
-  "cta": { "texto": "kentra.pro", "boton": false }
+ "layout": "dato",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Tienda online",
+ "titulo": "Vendiste $5.000.000 online, pero devolvieron 8 %",
+ "filas": [
+  {
+   "label": "Vendiste",
+   "valor": "$5.000.000",
+   "color": "gris",
+   "nota": "pedidos del mes"
+  },
+  {
+   "label": "Devoluciones",
+   "valor": "−$400.000",
+   "color": "rojo",
+   "nota": "8 % de lo vendido"
+  },
+  {
+   "label": "Venta real",
+   "valor": "$4.600.000",
+   "color": "verde"
+  }
+ ],
+ "cierre": "La venta real es la que no vuelve.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
 }

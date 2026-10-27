@@ -8,7 +8,8 @@
    "kicker": "Buen Fin · 13 al 17 de noviembre",
    "titulo": "¿20 % de descuento o envío incluido? Haz la cuenta antes",
    "sub": "Tienda online, un producto de $100.000.",
-   "visual": "mascota-telefono"
+   "visual": "mascota-telefono",
+   "sinPildora": true
   },
   {
    "layout": "valor",
@@ -107,43 +108,21 @@
    "cierre": "El envío incluido suena menos y te cuesta menos."
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Una categoría para la promo y ves qué te dejó",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Tienda Nube Verde",
-    "mes": "Noviembre",
-    "categorias": [
-     [
-      "Envíos Buen Fin",
-      "$360.000",
-      120
-     ],
-     [
-      "Comisiones de pago",
-      "$210.000",
-      84
-     ],
-     [
-      "Empaques",
-      "$95.000",
-      63
-     ],
-     [
-      "Publicidad",
-      "$300.000",
-      100
-     ]
-    ]
-   },
-   "nota": "Alerta cuando una categoría se pasa"
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "La promo, con su cuenta",
+   "items": [
+    "Una categoría para los envíos de la promo",
+    "Ingresos y gastos en un solo lugar",
+    "Tu ganancia real del mes en una pantalla"
+   ]
   },
   {
    "layout": "mascota",
    "titulo": "Haz la promo con la cuenta hecha",
    "tam": "media",
-   "mascota": "app",
+   "mascota": "telefono",
    "items": [
     "Gastos por categoría con alerta",
     "Ganancia real del mes",

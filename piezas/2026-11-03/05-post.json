@@ -1,25 +1,27 @@
 {
  "layout": "antes",
  "formato": "post",
- "tema": "noche",
- "kicker": "Cobros",
- "titulo": "«Me pagas el lunes» ya no se te pierde",
+ "tema": "navy",
+ "kicker": "Cierre del mes",
+ "titulo": "Cerrar el mes: de memoria vs con cuentas",
  "antes": {
+  "titulo": "De memoria",
   "items": [
-   "La cuenta por cobrar vive en un chat",
-   "Te acuerdas cuando ya pasó un mes",
-   "Cobras incómodo, sin fecha ni monto claro"
+   "Revisas el banco al final",
+   "Sumas lo que recuerdas",
+   "Adivinas lo que sobró"
   ]
  },
  "despues": {
+  "titulo": "Con cuentas",
   "items": [
-   "Cuenta por cobrar con fecha límite",
-   "Alerta antes de que venza",
-   "Al marcarla cobrada, se registra sola"
+   "Anotas cada venta ese día",
+   "Ves tu ganancia real del mes",
+   "Decides con números"
   ]
  },
  "cta": {
   "texto": "kentra.pro",
-  "boton": false
+  "boton": true
  }
 }

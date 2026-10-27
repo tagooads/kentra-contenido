@@ -1,29 +1,29 @@
 {
  "layout": "dato",
  "formato": "post",
- "tema": "verdeoscuro",
- "kicker": "Buen Fin 2025 · tienda online (demo)",
- "titulo": "Vendió $12.000.000 en cinco días. ¿Cuánto fue suyo?",
+ "tema": "menta",
+ "kicker": "Restaurante",
+ "titulo": "Botaste 6 % de tus insumos. ¿Cuánto es?",
  "filas": [
   {
-   "label": "Entró",
-   "valor": "$12.000.000",
+   "label": "Compraste",
+   "valor": "$4.000.000",
    "color": "gris"
   },
   {
-   "label": "Salió",
-   "valor": "−$10.600.000",
+   "label": "Se botó",
+   "valor": "−$240.000",
    "color": "rojo",
-   "nota": "mercancía $7,2M · promo y envíos $2,1M · anuncios $1,3M"
+   "nota": "6 % que se dañó o sobró"
   },
   {
-   "label": "Le quedó",
-   "valor": "$1.400.000",
+   "label": "Sí usaste",
+   "valor": "$3.760.000",
    "color": "verde",
    "grande": true
   }
  ],
- "cierre": "11,7 %. Buen Fin para los clientes; para la tienda, regular.",
+ "cierre": "Lo que se bota también se paga.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

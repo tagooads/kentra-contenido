@@ -11,8 +11,10 @@
    "layout": "portada",
    "kicker": "Cuenta por cliente",
    "titulo": "Tu mejor cliente no siempre es el que más compra",
-   "sub": "Tres clientes de una imprenta, con la cuenta completa.",
-   "visual": "mascota-telefono"
+   "sub": "Colegio 9 % · Restaurante 30 % · Tienda de barrio 40 %: lo que le queda a una imprenta.",
+   "visual": "none",
+   "tema": "noche",
+   "sinPildora": true
   },
   {
    "layout": "valor",

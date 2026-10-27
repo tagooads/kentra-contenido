@@ -9,26 +9,25 @@
       ],
       "caption": "Un negocio funciona cuando alguien vende y alguien anota.\n\nSi eres tú solo, las dos tareas son tuyas. Kentra te muestra tu ganancia real del mes en una sola pantalla para que anotar no sea el trabajo pesado. Desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
       "pilar": "educacion",
-      "layout": "cita",
+      "layout": "tweet",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 2,
+      "version": 3,
       "reserva": true,
-      "formato": "cita con mascota (reparto de roles del dueño)",
+      "formato": "tarjeta de postura (tweet): reparto de roles del dueño",
       "gancho": "En un buen equipo uno vende y otro anota; si eres solo tú, haces los dos",
       "primera_linea": "Un negocio funciona cuando alguien vende y alguien anota.",
-      "estilo": "cita, verde, frase grande con barra y mascota con celular sin pantalla",
+      "estilo": "tweet, navy, tarjeta blanca centrada con pie, sin mascota",
       "modela": {
         "referencia": "@thepartybox.usa, reel «la pareja perfecta dueños de negocio» (1,1M vistas, 290x su mediana)",
         "url": "https://www.instagram.com/reel/De0F2YWi-dY",
         "que_tomo": "reparto de roles entre dueños en una frase con pose; aquí vender vs anotar"
       },
       "carpeta": "reserva-2026-11-02",
-      "archivo": "01-post",
-      "qa_ticket": "c6a7bcd1-70f2-461a-8af7-85bbe8007649"
+      "archivo": "01-post"
     },
     {
       "id": "reserva-2026-11-02-02-historia",
@@ -38,26 +37,25 @@
       ],
       "caption": "",
       "pilar": "educacion",
-      "layout": "pregunta",
+      "layout": "lista",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 2,
-      "formato": "pregunta con cifra que calcular (reto de ahorro con plazo)",
-      "gancho": "$360.000 para publicidad en 6 semanas: ¿cuánto apartas por semana?",
-      "primera_linea": "$360.000 para publicidad en 6 semanas. ¿Cuánto apartas por semana?",
-      "estilo": "pregunta, marfil, pregunta enorme con opciones en el sub",
+      "version": 3,
+      "formato": "lista de 3 revisiones antes de endeudarte",
+      "gancho": "Antes de pedir un préstamo, revisa 3 cosas",
+      "primera_linea": "Antes de pedir un préstamo, revisa 3 cosas",
+      "estilo": "lista, noche, checklist de 3 con botón al quiz, sin mascota",
       "modela": {
-        "referencia": "@lourdescampooficial, reel «reto en pareja: ahorrar $20,000 en 12 meses» (1,6M vistas, 465x su mediana)",
-        "url": "https://www.instagram.com/reel/De2JR2wh9oN/",
-        "que_tomo": "reto con cifra y plazo para apartar dinero; aquí meta de $360.000 en 6 semanas"
+        "referencia": "@oscarfigueroa340, TikTok «Me regresaron el camión que vendí y hoy debo un millón y medio de pesos» (3,5M vistas, 5,4x su mediana)",
+        "url": "https://www.tiktok.com/@oscarfigueroa340/video/7698143038916414740",
+        "que_tomo": "la deuda y su cifra en el primer segundo, y qué revisar antes de endeudarte (sin contar una historia personal)"
       },
       "carpeta": "reserva-2026-11-02",
       "archivo": "02-historia",
-      "reserva": true,
-      "qa_ticket": "4209dd0c-a94c-495a-8f66-757e2ed0b561"
+      "reserva": true
     },
     {
       "id": "2026-10-25-04-post",
@@ -427,7 +425,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
+      "version": 4,
       "formato": "tutorial paso a paso con cuenta: contratar o no",
       "gancho": "¿Contratas ayuda? Haz esta cuenta primero",
       "primera_linea": "¿Contratas ayuda o no? Antes de firmar, haz la cuenta.",
@@ -438,8 +436,7 @@
         "que_tomo": "pregunta con cifra y cuenta paso a paso hasta el resultado, aplicada a la decisión de contratar"
       },
       "carpeta": "2026-10-30",
-      "archivo": "02-carrusel",
-      "qa_ticket": "6ce8c3f7-ac31-4ae7-a364-2d575271a69e"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-10-31-01-historia",
@@ -456,19 +453,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
+      "version": 4,
       "formato": "mascota (titular + mascota con celular)",
       "gancho": "Día 1 del mes: ya debes $2.150.000 antes de vender",
       "primera_linea": "Ya debes $2.150.000 y no has vendido nada",
-      "estilo": "mascota, verdeoscuro, titular grande + checklist y mascota con celular de espaldas",
+      "estilo": "mascota, verdeoscuro, titular grande + checklist y mascota con celular de espaldas, con aire sobre el botón",
       "modela": {
         "referencia": "@elpiky___, reel «Día 32 como emprendedor» (serie diaria POV, 1,6M vistas)",
         "url": "https://www.instagram.com/reel/De0dgf9O1C-/",
         "que_tomo": "serie «Día N» del dueño: abre con la cifra del día 1 del mes (gastos fijos que se pagan sin vender)"
       },
       "carpeta": "2026-10-31",
-      "archivo": "01-historia",
-      "qa_ticket": "3ee179d3-9d90-44a8-aee1-b1ac3e8389db"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-10-31-04-post",
@@ -521,19 +517,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
+      "version": 4,
       "formato": "comparativa en cifras: tres clientes con la cuenta completa",
       "gancho": "Tu mejor cliente no siempre es el que más compra",
       "primera_linea": "Tu mejor cliente puede ser el que menos te deja.",
-      "estilo": "carrusel marfil/claro/menta, portada con mascota teléfono, slides valor con ejemplo en cifras, cierre mascota teléfono; sin pantalla de app",
+      "estilo": "carrusel: portada noche solo titular con los tres márgenes, slides valor claro/menta/marfil con ejemplo en cifras, cierre mascota teléfono; sin pantalla de app",
       "modela": {
         "referencia": "@mayoristasdeperfumesvzla, TikTok «Yo te vendo este en 5» (demostración de margen con calculadora, 973K vistas, 15x mediana)",
         "url": "https://www.tiktok.com/@mayoristasdeperfumesvzla/video/7695092767923375380",
         "que_tomo": "la cuenta de margen hecha en segundos con cifras en mano, aplicada a cada cliente en vez de a un producto"
       },
       "carpeta": "2026-10-31",
-      "archivo": "02-carrusel",
-      "qa_ticket": "a671a00f-bc85-45dc-b0f8-c26affb0e1f1"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-01-04-post",
@@ -542,27 +537,26 @@
       "imagenes": [
         "piezas/2026-11-01/04-post.jpg"
       ],
-      "caption": "Poco al día, mucho al año.\n\nUn taller mecánico gasta $18.000 diarios en cosas que nadie anota: tintos, tornillos sueltos y domicilios. En 26 días son $468.000 al mes y $5.616.000 al año.\n\nLo que no se anota no se ve, y lo que no se ve se lleva tu ganancia. Kentra te deja registrar cada gasto, por pequeño que sea. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #GastosHormiga #Pymes",
+      "caption": "Vendiste $5.000.000, pero no todo se queda.\n\nEjemplo de una tienda online con datos demo: si devuelven 8 % de los pedidos, salen $400.000 y la venta real es de $4.600.000.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó en una sola pantalla. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
+      "version": 4,
       "carpeta": "2026-11-01",
       "archivo": "04-post",
-      "pilar": "educacion",
+      "pilar": "verticales",
       "layout": "dato",
-      "formato": "dato: de lo chico a lo grande (día, mes, año)",
-      "gancho": "$18.000 al día que nadie anota: cuánto es al año",
-      "primera_linea": "$18.000 al día que nadie anota. ¿Cuánto es al año?",
-      "estilo": "dato, claro, tres cifras en tarjeta con kicker (taller mecánico)",
+      "formato": "dato: lo vendido vs la venta real (tienda online y devoluciones)",
+      "gancho": "Vendiste $5.000.000 online, pero devolvieron 8 %",
+      "primera_linea": "Vendiste $5.000.000, pero no todo se queda.",
+      "estilo": "dato, claro, tres cifras en tarjeta con kicker (tienda online)",
       "modela": {
         "referencia": "@rutina.stick, TikTok «¿Se puede convertir 1$ en 7.560$?» (820K vistas, 70x su mediana)",
         "url": "https://www.tiktok.com/@rutina.stick/video/7699879875620113687",
-        "que_tomo": "cifra pequeña multiplicada paso a paso hasta una cifra grande"
-      },
-      "qa_ticket": "2431b340-aa17-4a3a-8b9c-318b639ef181"
+        "que_tomo": "cuenta paso a paso desde una cifra grande hasta el resultado real; aquí de lo vendido a la venta que se queda"
+      }
     },
     {
       "id": "2026-11-01-02-carrusel",
@@ -584,21 +578,20 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
+      "version": 4,
       "carpeta": "2026-11-01",
       "archivo": "02-carrusel",
       "pilar": "educacion",
       "layout": "carrusel",
       "formato": "tutorial paso a paso con cuenta (pagos anuales ÷ 12)",
-      "gancho": "¿Por qué a tu negocio le falta plata cada enero?",
+      "gancho": "¿Por qué a tu negocio le falta dinero cada enero?",
       "primera_linea": "Enero no avisa, pero siempre llega.",
       "estilo": "carrusel, marfil/menta/claro/verde con cierre navy, valor con ejemplo en tarjeta, sin pantallas",
       "modela": {
         "referencia": "@gisabftkd35, TikTok «¿Por qué a Bob NUNCA le aumentarán el sueldo?» (1,4M vistas, 54,9x su mediana)",
         "url": "https://www.tiktok.com/@gisabftkd35/video/7699690847931157763",
         "que_tomo": "gancho de pregunta «¿por qué a X nunca/siempre…?» y respuesta explicada en pasos"
-      },
-      "qa_ticket": "649eab72-d46f-4808-8481-e4e091789e3f"
+      }
     },
     {
       "id": "2026-11-01-03-historia",
@@ -636,27 +629,26 @@
       "imagenes": [
         "piezas/2026-11-02/04-post.jpg"
       ],
-      "caption": "«Mi primer cliente grande me pagó por transferencia».\n\nTres meses después, la plata estaba en el banco y nadie sabía a qué venta correspondía. Por eso cada ingreso y cada gasto debe quedar con su fecha, monto, categoría y nota el mismo día.\n\nEn Kentra los registras desde el celular o el computador. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "caption": "Pagar hoy o en 30 días: la diferencia son $60.000.\n\nUna compra de $2.000.000 con 3 % de descuento por pronto pago cuesta $1.940.000 si pagas hoy. Conviene solo si ese dinero no lo necesitas esta semana para otros gastos.\n\nKentra te muestra cuánto entró, cuánto salió y cuánto te queda antes de decidir. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Proveedores #Pymes",
       "pilar": "educacion",
-      "layout": "tweet",
+      "layout": "pizarra",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
-      "formato": "frase de identidad del dueño (tarjeta de postura)",
-      "gancho": "cada pago con su venta: la transferencia que nadie sabe de dónde vino",
-      "primera_linea": "«Mi primer cliente grande me pagó por transferencia».",
-      "estilo": "tweet, menta, tarjeta blanca con anécdota en primera persona y pie, sin mascota",
+      "version": 4,
+      "formato": "pizarra con la cuenta (pago de contado con descuento)",
+      "gancho": "Tu proveedor da 3 % por pagar hoy: ¿conviene?",
+      "primera_linea": "Pagar hoy o en 30 días: la diferencia son $60.000.",
+      "estilo": "pizarra, claro, pizarra blanca centrada con el ahorro encerrado, sin mascota",
       "modela": {
-        "referencia": "@mesadirectiva_, clip «Yo hacía rollitos de mil pesos en Argentina» (870.9K vistas, 401x su mediana)",
-        "url": "https://www.instagram.com/reel/De0Cy7OP2Tr",
-        "que_tomo": "abrir con una anécdota propia de plata en la primera frase (sin copiar su texto)"
+        "referencia": "@frutillas.unlam, TikTok «Te enseño a convertir $20mil en 160,000» (1,2M vistas, 25,3x su mediana)",
+        "url": "https://www.tiktok.com/@frutillas.unlam/video/7699206775156772117",
+        "que_tomo": "cifra de la compra y el resultado en la pregunta, y el desglose de la cuenta después; aquí pagar hoy $1.940.000 en vez de $2.000.000"
       },
       "carpeta": "2026-11-02",
-      "archivo": "04-post",
-      "qa_ticket": "1d2afda7-5d9d-4638-b006-43ced9913cd8"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-02-02-carrusel",
@@ -680,7 +672,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
+      "version": 4,
       "formato": "alerta con pasos (qué hacer cuando llega una transferencia que no reconoces)",
       "gancho": "Te llegó una transferencia que no reconoces: 5 pasos antes de gastarla",
       "primera_linea": "Te llega una transferencia y no sabes de quién.",
@@ -691,8 +683,7 @@
         "que_tomo": "alerta práctica en el primer segundo sobre una transferencia inesperada, resuelta en pasos (sin afirmar nada legal)"
       },
       "carpeta": "2026-11-02",
-      "archivo": "02-carrusel",
-      "qa_ticket": "a8e4134e-b3cc-4b4d-b338-3bc90797992d"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-02-05-post",
@@ -701,27 +692,26 @@
       "imagenes": [
         "piezas/2026-11-02/05-post.jpg"
       ],
-      "caption": "Son $15 al mes: menos que un domicilio a la semana.\n\nPlan Básico: dashboard con tu ganancia real, ingresos y gastos por categoría, comprobantes PDF con tu logo y KentrAI ilimitado. Sin permanencia y con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "caption": "Tres tamaños, tres precios: elige el que cabe en tu negocio.\n\nBásico $15/mes (1 negocio), Pro $20/mes (hasta 2 negocios, el más elegido) y Business $30/mes (negocios ilimitados). Todos con dashboard, KentrAI ilimitado y comprobantes PDF; sin permanencia y con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
       "pilar": "precio-valor",
-      "layout": "precio",
+      "layout": "lista",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 3,
-      "formato": "precio de un plan con lo que incluye",
-      "gancho": "Ordena tu negocio por menos que un domicilio semanal ($15/mes)",
-      "primera_linea": "Son $15 al mes: menos que un domicilio a la semana.",
-      "estilo": "precio, verdeoscuro, precio grande con 4 ítems y botón",
+      "version": 4,
+      "formato": "tres planes lado a lado (opciones de precio)",
+      "gancho": "Tres planes: elige el que cabe en tu negocio",
+      "primera_linea": "Tres tamaños, tres precios: elige el que cabe en tu negocio.",
+      "estilo": "lista, verdeoscuro, tres planes con precio y botón",
       "modela": {
-        "referencia": "Naimi Núñez, anuncio «Págate a ti primero en 90 días» (10 variantes activas desde el 19 oct)",
-        "url": "https://www.facebook.com/ads/library/?id=1636988744772535",
-        "que_tomo": "promesa con plazo concreto en el anuncio: aquí precio concreto, acceso inmediato y 4 beneficios medibles"
+        "referencia": "@nayperozzi, reel «¿Sabías que puedes vender más sin bajar tus precios?» (1,8M vistas, 13,8x su mediana)",
+        "url": "https://www.instagram.com/reel/De5OzbjIoa3",
+        "que_tomo": "tres opciones de precio lado a lado para que el cliente compare y elija (efecto señuelo); aquí Básico, Pro y Business"
       },
       "carpeta": "2026-11-02",
-      "archivo": "05-post",
-      "qa_ticket": "9895f5dc-2c2d-45f4-b6d8-e54e35c21bf5"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-03-01-historia",
@@ -732,25 +722,24 @@
       ],
       "caption": "",
       "pilar": "educacion",
-      "layout": "frase",
+      "layout": "meme",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "frase lista para copiar",
-      "gancho": "qué decir cuando piden descuento",
-      "primera_linea": "Puedo ajustar el precio si ajustamos lo que incluye.",
-      "estilo": "frase, navy, tarjeta blanca con comilla verde gigante y etiqueta «Copia esto»",
+      "version": 2,
+      "formato": "meme: frase del dueño en dos tiempos (lo que digo / lo que cuesta)",
+      "gancho": "Regalar muestras es publicidad… hasta que sumas",
+      "primera_linea": "«Voy a regalar muestras: es publicidad»",
+      "estilo": "meme, menta, tarjeta blanca arriba, mascota con celular de espaldas y globo verde",
       "modela": {
-        "referencia": "@sebaslopezinnova, frase lista cuando piden descuento (1,3M plays)",
-        "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
-        "que_tomo": "la frase lista para copiar ante una situación incómoda (descuento), que genera guardados"
+        "referencia": "@tukutukuperu, reel «Yo bien feliz con la venta… y recuerdo que tengo que reinvertir» (780,8K vistas, 1355x su mediana)",
+        "url": "https://www.instagram.com/reel/DemccisR8if",
+        "que_tomo": "humor del dueño en dos tiempos sobre una decisión de dinero; aquí regalar muestras y la suma de lo que cuestan"
       },
       "carpeta": "2026-11-03",
-      "archivo": "01-historia",
-      "qa_ticket": "794ee15c-ac3a-4b05-90e8-d41ff9f62deb"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-11-03-04-post",
@@ -759,7 +748,7 @@
       "imagenes": [
         "piezas/2026-11-03/04-post.jpg"
       ],
-      "caption": "Una torta de $120.000 deja $36.000. ¿Lo sabías?\nSe ve mucho, hasta que restas ingredientes, empaque, horno y tus tres horas de trabajo. Y aún falta el arriendo del local.\nHacer esta cuenta por producto es lo que te dice qué vale la pena hornear.\nRegistra cada venta y cada gasto y mira qué te queda. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pasteleria #NegocioPropio",
+      "caption": "Vendes una camiseta en $35.000. ¿Cuánto es tuyo?\n\nEl tiquete de una tienda online (datos demo): camiseta base $12.000, estampado $6.000, empaque $1.500, envío $5.500 y comisión de pago $1.050. Te quedan $8.950: 26 % de margen, antes de publicidad.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
       "pilar": "verticales",
       "layout": "recibo",
       "destinos": [
@@ -767,10 +756,10 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "detrás de cámaras: desglose en tiquete",
-      "gancho": "¿me deja dinero vender tortas? con el tiquete del costo",
-      "primera_linea": "Una torta de $120.000 deja $36.000. ¿Lo sabías?",
+      "version": 2,
+      "formato": "detrás de cámaras: desglose de una camiseta en tiquete",
+      "gancho": "Camiseta de $35.000: ¿cuánto te queda?",
+      "primera_linea": "Vendes una camiseta en $35.000. ¿Cuánto es tuyo?",
       "estilo": "recibo, marfil, tiquete de papel centrado con borde dentado, sin mascota",
       "modela": {
         "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?» (2,1M vistas)",
@@ -778,8 +767,7 @@
         "que_tomo": "la cuenta real del producto mientras se trabaja, línea por línea hasta lo que queda"
       },
       "carpeta": "2026-11-03",
-      "archivo": "04-post",
-      "qa_ticket": "4cf42779-60f4-4a28-ba55-2c46fe1d7ef9"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-03-02-carrusel",
@@ -794,7 +782,7 @@
         "piezas/2026-11-03/02-carrusel-6.jpg",
         "piezas/2026-11-03/02-carrusel-7.jpg"
       ],
-      "caption": "Buen Fin: el 20 % de descuento no sale del precio, sale de tu ganancia.\nEn este carrusel comparamos, con un producto de $100.000, qué te deja un 20 % de descuento y qué te deja el envío incluido, y cuántas ventas extra necesitas en cada caso.\nUna de las dos te cuesta la mitad de lo que ganas.\nLleva la cuenta de tu promo en Kentra. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
+      "caption": "Buen Fin: el 20 % de descuento no sale del precio, sale de tu ganancia.\n\nCon un producto de $100.000 comparamos qué te deja un 20 % de descuento y qué te deja el envío incluido, y cuántas ventas extra necesitas en cada caso.\n\nUna de las dos te cuesta la mitad de lo que ganas.\n\nLleva la cuenta de tu promo en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
       "pilar": "ganancia-real",
       "layout": "carrusel/portada",
       "destinos": [
@@ -802,19 +790,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "comparativa en cifras (A vs B)",
       "gancho": "Buen Fin: descuento vs envío incluido, cuál te deja más",
       "primera_linea": "Buen Fin: el 20 % de descuento no sale del precio, sale de tu ganancia.",
-      "estilo": "carrusel verde oscuro, portada con mascota-teléfono, slides valor con caja de ejemplo",
+      "estilo": "carrusel verde oscuro: portada con mascota teléfono, slides valor con ejemplo en cifras, slide lista de Kentra sin pantalla, cierre mascota teléfono",
       "modela": {
         "referencia": "@raquintetips, reel pantalla dividida márgenes bruto/operativo/neto (1,9M plays)",
         "url": "https://www.instagram.com/reel/Deh7xSdhmgF/",
         "que_tomo": "la comparación de dos escenarios con la misma cuenta en cifras, al estilo de la lección de márgenes · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
       },
       "carpeta": "2026-11-03",
-      "archivo": "02-carrusel",
-      "qa_ticket": "d17e5c71-05e9-43fa-b95c-b0aa8d871e9c"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-03-05-post",
@@ -823,27 +810,26 @@
       "imagenes": [
         "piezas/2026-11-03/05-post.jpg"
       ],
-      "caption": "Entregado… ¿y cobrado?\nAntes: el «me pagas el lunes» vive en un chat y se olvida. Después: la cuenta por cobrar tiene fecha, Kentra te avisa antes de que venza y, cuando la marcas como cobrada, queda registrada sola.\nCobrar a tiempo también es ganancia.\nDesde $15/mes, sin permanencia. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes",
-      "pilar": "funcionalidades",
+      "caption": "Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.\n\nAntes: revisas el banco, sumas lo que recuerdas y adivinas lo que sobró. Después: anotas cada venta el mismo día, ves tu ganancia real del mes y decides con números.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #CierreDeMes",
+      "pilar": "ganancia-real",
       "layout": "antes",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "antes / después",
-      "gancho": "el «me pagas el lunes» antes y después de Kentra",
-      "primera_linea": "Entregado… ¿y cobrado?",
-      "estilo": "antes, noche, dos bloques apilados gris (antes) y verde (después), sin mascota",
+      "version": 2,
+      "formato": "antes / después (cerrar el mes de memoria vs con cuentas)",
+      "gancho": "Cerrar el mes: de memoria vs con cuentas",
+      "primera_linea": "Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.",
+      "estilo": "antes, navy, dos bloques apilados gris (antes) y verde (después), sin mascota",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "el dolor de cobro en dos palabras («entregado… ¿cobrado?») aterrizado a un caso"
+        "referencia": "@finanzas__3.0, reel «Esta chica compró una camioneta vacía» (867,3K vistas, 8,5x su mediana)",
+        "url": "https://www.instagram.com/reel/De0MIWeNJER",
+        "que_tomo": "el antes y el después de un negocio en dos tiempos; aquí cerrar el mes de memoria vs con cuentas"
       },
       "carpeta": "2026-11-03",
-      "archivo": "05-post",
-      "qa_ticket": "0f40f60e-a62f-4f60-a97e-874a86dae68b"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-03-03-historia",
@@ -853,26 +839,25 @@
         "piezas/2026-11-03/03-historia.jpg"
       ],
       "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "app",
+      "pilar": "educacion",
+      "layout": "dato",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "mockup de función (KentrAI)",
-      "gancho": "pregúntale a la IA qué descuento aguantas",
-      "primera_linea": "Pregúntale qué descuento aguanta tu Buen Fin",
-      "estilo": "app, claro, celular centrado con chat de KentrAI y globo verde",
+      "version": 2,
+      "formato": "dato: lo que entra y lo que sale de una hora extra",
+      "gancho": "¿Vale la pena abrir una hora más?",
+      "primera_linea": "¿Vale la pena abrir una hora más?",
+      "estilo": "dato, blanco, tres cifras en tarjeta con botón, sin mascota",
       "modela": {
-        "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
-        "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
-        "que_tomo": "el número concreto que responde la pregunta (cuántas veces más hay que vender) · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
+        "referencia": "@yazbeck_98, TikTok «Lo que vendo un día en mi emprendimiento 3D» (1,3M vistas, 6,8x su mediana)",
+        "url": "https://www.tiktok.com/@yazbeck_98/video/7700439898775375125",
+        "que_tomo": "lo que entra y lo que sale de un tramo concreto del día, con cifras; aquí una hora más de horario"
       },
       "carpeta": "2026-11-03",
-      "archivo": "03-historia",
-      "qa_ticket": "d0ba0a6a-db46-4e06-b1a7-380564580830"
+      "archivo": "03-historia"
     },
     {
       "id": "2026-11-04-01-historia",
@@ -889,19 +874,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "mito vs realidad",
-      "gancho": "vender más no es ganar más",
-      "primera_linea": "Si vendo más, gano más.",
-      "estilo": "mito, verde, dos cajas con etiqueta roja (mito) y blanca (realidad), sin mascota",
+      "gancho": "«Si no debo nada, voy bien»",
+      "primera_linea": "«Si no debo nada, voy bien»",
+      "estilo": "mito, verde, dos cajas apiladas (mito rojo / realidad verde)",
       "modela": {
-        "referencia": "@soywilmermelo, TikTok «la peor estrategia es ser el más barato» (799K vistas)",
-        "url": "https://www.tiktok.com/@soywilmermelo/video/7689265619757174030",
-        "que_tomo": "desmontar una creencia común sobre precio y volumen con una postura directa"
+        "referencia": "@carlos_alarcon_e, reel «Así pierdes clientes» (2,8M vistas, 659x su mediana)",
+        "url": "https://www.instagram.com/reel/DefRlq3SvfW/",
+        "que_tomo": "un error concreto del dueño y su corrección en una frase; aquí creer que sin deudas el negocio está sano"
       },
       "carpeta": "2026-11-04",
-      "archivo": "01-historia",
-      "qa_ticket": "baec873f-fc89-4cf3-80ad-2399aec4b5c5"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-11-04-04-post",
@@ -918,10 +902,10 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "reparto de una cifra (barra apilada)",
-      "gancho": "entraron $2.400.000 y el dueño se pagó $288.000",
-      "primera_linea": "Entraron $2.400.000 y te pagaste $288.000. ¿Te suena?",
+      "gancho": "¿Cuánto se pagó el dueño de lo que entró?",
+      "primera_linea": "Entraron $2.400.000 esta semana, ¿y cuánto es tuyo?",
       "estilo": "reparto, blanco, cifra grande + barra apilada de colores + leyenda, sin mascota",
       "modela": {
         "referencia": "@davisemprende, TikTok reparto de lo ganado en la semana (1,2M vistas)",
@@ -929,8 +913,7 @@
         "que_tomo": "mostrar el reparto real del dinero de la semana con una cifra concreta"
       },
       "carpeta": "2026-11-04",
-      "archivo": "04-post",
-      "qa_ticket": "ec70d680-8afc-461a-9a5d-2a145d595865"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-04-02-carrusel",
@@ -954,19 +937,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "lista de frases listas para copiar",
       "gancho": "5 frases para cobrar sin pelear",
       "primera_linea": "Cobrar incomoda más que vender. Estas 5 frases lo arreglan.",
-      "estilo": "carrusel claro, portada con mascota, slides frase con tarjeta blanca y comilla verde",
+      "estilo": "carrusel claro con portada mascota, slides frase con tarjeta blanca y comilla verde (una por situación), slide lista de Kentra sin pantalla, cierre mascota teléfono",
       "modela": {
         "referencia": "@sebaslopezinnova, frase lista cuando piden descuento (1,3M plays)",
         "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
         "que_tomo": "frases listas para copiar ante situaciones incómodas de cobro, que generan guardados y compartidos"
       },
       "carpeta": "2026-11-04",
-      "archivo": "02-carrusel",
-      "qa_ticket": "3e05c347-d13e-44ec-9c6d-7d61d9ae4fc7"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-04-05-post",
@@ -983,19 +965,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "skit de dos voces",
       "gancho": "el que pone el precio a ojo vs el que hace la cuenta",
       "primera_linea": "«Como $5.000… creo» es la frase más cara de un negocio.",
-      "estilo": "skit, marfil, diálogo de burbujas alternadas gris/verde con iniciales, sin mascota",
+      "estilo": "skit, navy, diálogo de burbujas alternadas gris/verde, sin mascota",
       "modela": {
         "referencia": "@thevavig, skit de dos voces «voy a vender el llavero en 15 pesos» (6M plays)",
         "url": "https://www.instagram.com/reel/Dea3rr3Ot9J/",
         "que_tomo": "el skit de dos voces: precio a ojo vs la voz de la razón que hace la cuenta real"
       },
       "carpeta": "2026-11-04",
-      "archivo": "05-post",
-      "qa_ticket": "dfa8ca77-bf49-482b-ba07-a1c49a750084"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-04-03-historia",
@@ -1012,19 +993,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "lista",
       "gancho": "lo que Kentra hace solo mientras atiendes",
       "primera_linea": "Kentra hace esto solo",
       "estilo": "lista, noche, checklist en caja con íconos verdes, sin mascota",
       "modela": {
-        "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?» (2,1M vistas)",
-        "url": "https://www.tiktok.com/@rossybouchot/video/7694688337851878677",
-        "que_tomo": "«mientras trabajas»: la cuenta del negocio que se hace sola en el día a día"
+        "referencia": "@metales_jorge, reel «Siempre buenos clientes» (4,7M vistas, 16,7x su mediana)",
+        "url": "https://www.instagram.com/reel/De4kNzLR2PF",
+        "que_tomo": "la escena de atender en el mostrador de principio a fin; aquí lo que Kentra hace mientras atiendes"
       },
       "carpeta": "2026-11-04",
-      "archivo": "03-historia",
-      "qa_ticket": "3a2c3c4b-afb1-4033-a972-55e0cfed799a"
+      "archivo": "03-historia"
     },
     {
       "id": "2026-11-05-01-historia",
@@ -1034,26 +1014,25 @@
         "piezas/2026-11-05/01-historia.jpg"
       ],
       "caption": "",
-      "pilar": "ganancia-real",
+      "pilar": "funcionalidades",
       "layout": "chat",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "pantallazo de chat",
-      "gancho": "entregado ✓✓, ¿y cobrado?",
-      "primera_linea": "Entregado ✓✓. ¿Y cobrado?",
-      "estilo": "chat, blanco, ventana de chat con cabecera navy y burbujas blancas/menta, sin mascota",
+      "version": 2,
+      "formato": "pantallazo de chat (cliente pide el comprobante)",
+      "gancho": "¿Me mandas el comprobante de mi pago?",
+      "primera_linea": "El cliente pide el comprobante",
+      "estilo": "chat, blanco, ventana de chat con cabecera navy y burbujas, sin mascota",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "el gancho «entregado… ¿cobrado?» llevado a un chat real con el cliente"
+        "referencia": "@ximena.dav19, TikTok «Chat con clienta que confundió la fecha (parte 1)» (1,4M vistas, 5,3x su mediana)",
+        "url": "https://www.tiktok.com/@ximena.dav19/video/7700024211150195989",
+        "que_tomo": "capturas de una conversación de cliente por mensajes; aquí un cliente que pide el comprobante de su pago"
       },
       "carpeta": "2026-11-05",
-      "archivo": "01-historia",
-      "qa_ticket": "2c2bef0d-1cf7-45a7-be78-490672039c02"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-11-05-04-post",
@@ -1070,7 +1049,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "pantalla dividida (clip + cuenta)",
       "gancho": "el pitch dice cuánto factura, no cuánto le queda",
       "primera_linea": "«Facturamos $50 millones al mes.» ¿Y cuánto le queda?",
@@ -1081,8 +1060,7 @@
         "que_tomo": "la tensión de un clip de pitch arriba y la lección en pizarra abajo (pantalla dividida); tendencia: reacción a pitches de TV"
       },
       "carpeta": "2026-11-05",
-      "archivo": "04-post",
-      "qa_ticket": "1b82e48e-6b1a-41c2-aabd-b4c90bd7f151"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-05-02-carrusel",
@@ -1097,27 +1075,26 @@
         "piezas/2026-11-05/02-carrusel-6.jpg",
         "piezas/2026-11-05/02-carrusel-7.jpg"
       ],
-      "caption": "Buen Fin: 4 cuentas que hacer antes de poner el cartel de «20 %».\nPrecio piso, caja durante la promo, tope de publicidad e inventario real. Con cifras de una tienda online de ejemplo.\nEl que hace estas cuentas vende con calma. El que no, se entera en diciembre.\nLleva tu promo con la cuenta hecha. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
-      "pilar": "ganancia-real",
-      "layout": "carrusel/portada",
+      "caption": "¿Cuánto te cuesta un cliente nuevo?\n\nEjemplo con datos demo: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.\n\nLleva la publicidad como una categoría y mira tu ganancia real en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "checklist calculadora (4 cuentas)",
-      "gancho": "4 cuentas antes de lanzar la promo del Buen Fin",
-      "primera_linea": "Buen Fin: 4 cuentas que hacer antes de poner el cartel de «20 %».",
-      "estilo": "carrusel noche, portada con celular inclinado, slides valor numeradas con caja",
+      "version": 2,
+      "formato": "tutorial paso a paso con cuenta (publicidad: costo por cliente nuevo)",
+      "gancho": "¿Cuánto te cuesta un cliente nuevo?",
+      "primera_linea": "¿Cuánto te cuesta un cliente nuevo?",
+      "estilo": "carrusel noche/claro alternados con portada solo titular, slides valor con ejemplo en cifras, slide lista verdeoscuro, cierre navy con mascota teléfono; sin pantalla de app",
       "modela": {
-        "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
-        "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
-        "que_tomo": "cada slide plantea una cuenta concreta con su número, como el reto de cálculo · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
+        "referencia": "@jessikarodriguezv, reel «La peor estafa millonaria» (café de regalo para atraer clientes, 1,1M vistas, 44,8x su mediana)",
+        "url": "https://www.instagram.com/reel/DemX5-mRmL3",
+        "que_tomo": "la lógica de margen de una acción para atraer clientes contada con cifras; aquí cuánto cuesta un cliente nuevo y cuándo se recupera"
       },
       "carpeta": "2026-11-05",
-      "archivo": "02-carrusel",
-      "qa_ticket": "608427c7-8149-46bb-8a4c-8b76d1f3ca65"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-05-05-post",
@@ -1126,27 +1103,26 @@
       "imagenes": [
         "piezas/2026-11-05/05-post.jpg"
       ],
-      "caption": "En plena promo, lo que más duele es un pago que no viste venir.\nKentra te avisa antes: el proveedor que vence el lunes, la cuota de la tarjeta, la categoría de envíos que se pasó del presupuesto. Y cuando la pasarela te paga, queda registrado solo.\nTodo en la misma pantalla, desde el celular.\nDesde $15/mes, sin permanencia. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
-      "pilar": "funcionalidades",
-      "layout": "app",
+      "caption": "Lo que vence no avisa, pero se puede anotar.\n\nLos pagos a proveedores y las deudas tienen fecha. Si los anotas con su día, el lunes ya sabes qué viene.\n\nEn Kentra puedes guardar recordatorios con fecha límite y recibir avisos antes de que venzan. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "cita",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "mockup de función (alertas)",
-      "gancho": "los pagos que vencen en medio de la promo",
-      "primera_linea": "En plena promo, lo que más duele es un pago que no viste venir.",
-      "estilo": "app, menta, celular a la izquierda con pantalla de alertas y globo verde a la derecha",
+      "version": 2,
+      "formato": "cita / postura: los vencimientos se anotan",
+      "gancho": "Lo que vence esta semana no debería sorprenderte",
+      "primera_linea": "Lo que vence no avisa, pero se puede anotar.",
+      "estilo": "cita, claro, frase grande con barra, sin mascota",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "la serie de casos por vertical (tienda online) con un dolor concreto y su solución en pantalla · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
+        "referencia": "@fanto.fn, TikTok «Es pura suerte, dijo el que no sabe que tengo 2 trabajos» (912,9K vistas, 5,9x su mediana)",
+        "url": "https://www.tiktok.com/@fanto.fn/video/7698161297950641429",
+        "que_tomo": "una frase del dueño en una línea sobre fondo liso, sin cara; aquí una frase sobre los vencimientos"
       },
       "carpeta": "2026-11-05",
-      "archivo": "05-post",
-      "qa_ticket": "c9ca6b8e-9327-454f-9755-2923394caacd"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-05-03-historia",
@@ -1163,19 +1139,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "pregunta con cifra",
       "gancho": "¿aguantas 7 días sin ventas?",
       "primera_linea": "¿Tu negocio aguanta 7 días sin ventas?",
       "estilo": "pregunta, verde oscuro, pregunta enorme centrada, sin mascota",
       "modela": {
-        "referencia": "@grattzcontadores, reel deuda con la DIAN: el IVA no es tu plata (917K vistas)",
-        "url": "https://www.instagram.com/reel/DeciGwPqPvT/",
-        "que_tomo": "el miedo con una cifra concreta (7 días) como gancho"
+        "referencia": "@rutina.stick, TikTok «¿Se puede convertir 1$ en 7.560$?» (819,9K vistas, 70,3x su mediana)",
+        "url": "https://www.tiktok.com/@rutina.stick/video/7699879875620113687",
+        "que_tomo": "la pregunta con la cifra en el gancho y la cuenta que la responde; aquí 7 días sin ventas y cuánto necesitas guardar"
       },
       "carpeta": "2026-11-05",
-      "archivo": "03-historia",
-      "qa_ticket": "4906c9c5-0e4e-4743-a311-1b0eaad22d17"
+      "archivo": "03-historia"
     },
     {
       "id": "2026-11-06-01-historia",
@@ -1192,7 +1167,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "detrás de cámaras: desglose en tiquete",
       "gancho": "a dónde va cada peso de un café de $6.000",
       "primera_linea": "Un café de $6.000: a dónde va cada peso",
@@ -1203,8 +1178,7 @@
         "que_tomo": "la cuenta real de un producto del día a día, línea por línea"
       },
       "carpeta": "2026-11-06",
-      "archivo": "01-historia",
-      "qa_ticket": "4be1315b-a693-4ae7-9806-0addeb7cf039"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-11-06-04-post",
@@ -1213,27 +1187,26 @@
       "imagenes": [
         "piezas/2026-11-06/04-post.jpg"
       ],
-      "caption": "Vender $12.000.000 en el Buen Fin y quedarse con $1.400.000.\nEntró $12.000.000. Salió $10.600.000 entre mercancía, descuentos, envíos y anuncios. Quedó el 11,7 %. (Ejemplo de una tienda online.)\nNo es malo. Pero es muy distinto de lo que parece el viernes en la noche.\nMira cuánto te quedó a ti. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
-      "pilar": "ganancia-real",
+      "caption": "Lo que se bota también se paga.\n\nEjemplo de un restaurante con datos demo: compró $4.000.000 en insumos y botó 6 %, es decir $240.000. Lo que sí usó fueron $3.760.000.\n\nKentra te ayuda a ver cuánto entró, cuánto salió y cuánto te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "pilar": "verticales",
       "layout": "dato",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "dato: entró, salió, quedó",
-      "gancho": "vendió $12 millones en el Buen Fin y se quedó con $1,4",
-      "primera_linea": "Vender $12.000.000 en el Buen Fin y quedarse con $1.400.000.",
-      "estilo": "dato, verde oscuro, tres cifras apiladas en caja, sin mascota",
+      "version": 2,
+      "formato": "dato: lo comprado vs lo que de verdad se usó (restaurante y merma)",
+      "gancho": "Botaste 6 % de tus insumos: ¿cuánto es?",
+      "primera_linea": "Lo que se bota también se paga.",
+      "estilo": "dato, menta, tres cifras en tarjeta con kicker (restaurante), sin mascota",
       "modela": {
-        "referencia": "@davisemprende, TikTok reparto de lo ganado en la semana (1,2M vistas)",
-        "url": "https://www.tiktok.com/@davisemprende/video/7689979728387738901",
-        "que_tomo": "la cifra concreta de lo que entró y lo que quedó, como el reparto de la semana · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
+        "referencia": "@ojosdelobooficial, TikTok «Tu perfume NO lo hace la marca» (736,1K vistas, 20,4x su mediana)",
+        "url": "https://www.tiktok.com/@ojosdelobooficial/video/7697598245735894294",
+        "que_tomo": "desglose de cuánto cuesta realmente algo contado con cifras; aquí cuánto cuesta lo que se bota"
       },
       "carpeta": "2026-11-06",
-      "archivo": "04-post",
-      "qa_ticket": "eea5f669-f913-4411-89be-4fe7fdb81a5e"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-06-02-carrusel",
@@ -1256,19 +1229,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "tutorial con regla + ejemplo",
       "gancho": "el impuesto que cobras no es tu dinero",
       "primera_linea": "Si gastaste el impuesto de tus ventas, no te fue bien: te prestaron.",
-      "estilo": "carrusel menta, portada con mascota-teléfono, slides valor + una cita, cierre mascota",
+      "estilo": "carrusel menta con portada mascota teléfono, slides valor con ejemplo en cifras, cita, slide lista de Kentra sin pantalla, cierre mascota teléfono",
       "modela": {
         "referencia": "@grattzcontadores, reel deuda con la DIAN: el IVA no es tu plata (917K vistas)",
         "url": "https://www.instagram.com/reel/DeciGwPqPvT/",
         "que_tomo": "«el IVA no es tu plata»: el dinero que entra pero ya tiene dueño, con cifra"
       },
       "carpeta": "2026-11-06",
-      "archivo": "02-carrusel",
-      "qa_ticket": "8bd32053-e9da-42ca-8a46-477c32347a26"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-06-05-post",
@@ -1277,27 +1249,26 @@
       "imagenes": [
         "piezas/2026-11-06/05-post.jpg"
       ],
-      "caption": "63 movimientos del Buen Fin. Cero digitados.\nSubes el extracto del banco (CSV o Excel) y la importación con IA registra y clasifica cada movimiento: ventas, envíos, publicidad, mercancía.\nAsí el lunes después de la promo ya sabes qué te dejó.\nDisponible en Pro y Business. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
+      "caption": "Digitar decenas de movimientos del banco toma horas.\n\nEn los planes Pro y Business subes tu extracto (CSV o Excel) y tus facturas, y Kentra los registra con IA. Tú solo revisas.\n\nPro desde $20/mes, sin permanencia. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Productividad",
       "pilar": "funcionalidades",
-      "layout": "app",
+      "layout": "mascota",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "mockup de función (importar)",
-      "gancho": "63 movimientos del Buen Fin, cero digitados",
-      "primera_linea": "63 movimientos del Buen Fin. Cero digitados.",
-      "estilo": "app, noche, celular a la izquierda con pantalla de importación y globo verde",
+      "version": 2,
+      "formato": "titular + mascota: de digitar a subir el extracto",
+      "gancho": "¿Digitas cada movimiento del banco?",
+      "primera_linea": "Digitar decenas de movimientos del banco toma horas.",
+      "estilo": "mascota, navy, titular grande y checklist con mascota con celular de espaldas",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "caso por vertical (tienda online) con el dolor de digitar y la función que lo resuelve · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
+        "referencia": "@valen.anaya.ra, reel «POV: Tenes un gimnasio de Adultos Mayores» (4M vistas, 111,7x su mediana)",
+        "url": "https://www.instagram.com/reel/De4VrDAgwCZ",
+        "que_tomo": "una escena de arranque con el nicho claro desde el texto; aquí de digitar a subir el extracto"
       },
       "carpeta": "2026-11-06",
-      "archivo": "05-post",
-      "qa_ticket": "42704dda-b077-473c-8436-4e819d7f4bac"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-06-03-historia",
@@ -1314,10 +1285,10 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "pizarra con la cuenta",
-      "gancho": "tu precio piso en una línea",
-      "primera_linea": "Tu precio piso, en una línea",
+      "gancho": "Tu precio piso, con una cuenta",
+      "primera_linea": "Tu precio piso, con una cuenta",
       "estilo": "pizarra, blanco, tablero con borde y resultado encerrado en círculo verde, sin mascota",
       "modela": {
         "referencia": "@raquintetips, reel pantalla dividida márgenes bruto/operativo/neto (1,9M plays)",
@@ -1325,8 +1296,7 @@
         "que_tomo": "la explicación en pizarra con la cuenta paso a paso"
       },
       "carpeta": "2026-11-06",
-      "archivo": "03-historia",
-      "qa_ticket": "3a5452d1-1ac2-4422-b239-d9c7becf15d6"
+      "archivo": "03-historia"
     },
     {
       "id": "2026-11-07-01-historia",
@@ -1336,26 +1306,25 @@
         "piezas/2026-11-07/01-historia.jpg"
       ],
       "caption": "",
-      "pilar": "objeciones",
+      "pilar": "ganancia-real",
       "layout": "tweet",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "postura / tarjeta de texto",
-      "gancho": "que la competencia lo dé más económico",
-      "primera_linea": "Es que la competencia lo da más económico.",
+      "gancho": "Un negocio que vende mucho y no anota, trabaja a ciegas",
+      "primera_linea": "«Un negocio que vende mucho y no anota, trabaja a ciegas.»",
       "estilo": "tweet, noche, tarjeta blanca tipo publicación centrada, sin mascota",
       "modela": {
-        "referencia": "@giselacoronaestudiocontable, skit «cuando me dicen que mis precios son caros» (1,3M vistas)",
-        "url": "https://www.instagram.com/reel/Dd1CxwZRG_n/",
-        "que_tomo": "la objeción de precio respondida con sarcasmo corto"
+        "referencia": "@jeiver_vega, TikTok «El que debe y no paga es un mala paga» (961,2K vistas, 62,2x su mediana)",
+        "url": "https://www.tiktok.com/@jeiver_vega/video/7700294663227428129",
+        "que_tomo": "postura fuerte en una frase sobre cuentas; aquí vender mucho sin anotar"
       },
       "carpeta": "2026-11-07",
-      "archivo": "01-historia",
-      "qa_ticket": "4190cc5a-aa4f-4e11-ae52-d2c04db46738"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-11-07-04-post",
@@ -1364,27 +1333,26 @@
       "imagenes": [
         "piezas/2026-11-07/04-post.jpg"
       ],
-      "caption": "«¿Me haces precio de amigo?» Tú, ¿aceptas o negocias?\nEl precio de amigo casi siempre sale de tu margen, no del costo. Una forma de responder: el precio se queda, y a cambio das algo que no te cuesta dinero (prioridad, entrega primero).\nCuéntanos en comentarios qué contestarías.\nSi ya sabes cuánto te deja cada venta, negociar es más fácil. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Creativos #NegocioPropio",
-      "pilar": "objeciones",
-      "layout": "chat",
+      "caption": "¿Cuánto ganas si vendes 50 combos a $12.000?\n\nCada combo te cuesta $8.500. Haz la cuenta antes de mirar la respuesta: $12.000 − $8.500 = $3.500 por combo, y por 50 combos son $175.000.\n\nKentra te muestra cuánto te queda cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "pilar": "educacion",
+      "layout": "reto",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "pantallazo de chat + pregunta de debate",
-      "gancho": "«¿me haces precio de amigo?»",
-      "primera_linea": "«¿Me haces precio de amigo?» Tú, ¿aceptas o negocias?",
-      "estilo": "chat, blanco, ventana de chat con cabecera navy y burbujas, sin mascota",
+      "version": 2,
+      "formato": "reto numérico (pregunta con opciones)",
+      "gancho": "50 combos a $12.000 con costo de $8.500: ¿cuánto ganas?",
+      "primera_linea": "¿Cuánto ganas si vendes 50 combos a $12.000?",
+      "estilo": "reto, blanco, pregunta con tres opciones en tarjetas, sin mascota",
       "modela": {
-        "referencia": "@omarrosmen, TikTok humor del cliente que debe (789K vistas)",
-        "url": "https://www.tiktok.com/@omarrosmen/video/7695931047900417332",
-        "que_tomo": "el chat con el cliente difícil contado con humor y una pregunta para debatir en comentarios"
+        "referencia": "@mayoristasdeperfumesvzla, TikTok «Yo te vendo este en 5» (973K vistas, 15x su mediana)",
+        "url": "https://www.tiktok.com/@mayoristasdeperfumesvzla/video/7695092767923375380",
+        "que_tomo": "la cuenta de margen hecha con cifras en mano; aquí el margen de 50 combos"
       },
       "carpeta": "2026-11-07",
-      "archivo": "04-post",
-      "qa_ticket": "e93dd34a-c88e-4ad2-8f7c-eea1010d3d8f"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-07-02-carrusel",
@@ -1399,7 +1367,7 @@
         "piezas/2026-11-07/02-carrusel-6.jpg",
         "piezas/2026-11-07/02-carrusel-7.jpg"
       ],
-      "caption": "Un sábado de $1.200.000 en un salón. ¿Cuánto quedó?\nLa cuenta completa de un día: 14 servicios, productos, nómina del sábado, arriendo por día y comisiones. Quedó $385.000. Y la cuenta que te dice cuánto deja de verdad un corte de $70.000.\nGuárdalo y hazla con tu día.\nCierra el día en Kentra desde el celular. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #NegocioPropio",
+      "caption": "Una cita perdida no es solo una hora vacía.\n\nEjemplo de un salón (datos demo): una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Un anticipo del 30 % te protege.\n\nLleva tus ingresos y recordatorios en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes",
       "pilar": "verticales",
       "layout": "carrusel/portada",
       "destinos": [
@@ -1407,19 +1375,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "detrás de cámaras: la cuenta de un día",
-      "gancho": "un sábado de $1.200.000 en un salón, ¿y quedó?",
-      "primera_linea": "Un sábado de $1.200.000 en un salón. ¿Cuánto quedó?",
-      "estilo": "carrusel navy, portada con celular inclinado, slides valor con caja de ejemplo",
+      "version": 2,
+      "formato": "tutorial paso a paso con cuenta (citas perdidas y anticipo en un salón)",
+      "gancho": "Una cita perdida cuesta más que una hora vacía",
+      "primera_linea": "Una cita perdida no es solo una hora vacía.",
+      "estilo": "carrusel menta con portada solo titular, slides valor claro/marfil con ejemplo en cifras, slide lista verdeoscuro, cierre navy con mascota teléfono; sin pantalla de app",
       "modela": {
-        "referencia": "@rossybouchot, TikTok «¿Me deja dinero vender pizza?» (2,1M vistas)",
-        "url": "https://www.tiktok.com/@rossybouchot/video/7694688337851878677",
-        "que_tomo": "la cuenta real del negocio mientras se trabaja, de un día completo"
+        "referencia": "@labovedadelexito, reel «El que se ofende cuando le cobras» (873,7K vistas, 7,3x su mediana)",
+        "url": "https://www.instagram.com/reel/Decz2Vaj1GW/",
+        "que_tomo": "poner nombre a la incomodidad de cobrar y dar la razón al que cobra; aquí cobrar un anticipo por la cita"
       },
       "carpeta": "2026-11-07",
-      "archivo": "02-carrusel",
-      "qa_ticket": "86d3400f-31fe-4823-aa6b-ae4a7f8c8352"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-07-05-post",
@@ -1428,7 +1395,7 @@
       "imagenes": [
         "piezas/2026-11-07/05-post.jpg"
       ],
-      "caption": "Cuando ya no eres el único que registra, necesitas roles.\nPlan Business, $30/mes: negocios ilimitados, equipo con roles (el colaborador registra y sube facturas; el administrador ve todo menos la suscripción), importación con IA, reglas automáticas, inventario y créditos.\nAcceso inmediato, sin permanencia. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo",
+      "caption": "Cuando ya no eres el único que registra, necesitas roles.\n\nBusiness, $30/mes: negocios ilimitados y equipo con roles. El colaborador registra y sube facturas; el administrador ve todo menos la suscripción y el equipo. Incluye importación con IA, reglas automáticas, inventario y créditos.\n\nAcceso inmediato, sin permanencia. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo",
       "pilar": "precio",
       "layout": "precio",
       "destinos": [
@@ -1436,19 +1403,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "precio de un plan",
       "gancho": "cuando ya no eres el único que registra",
       "primera_linea": "Cuando ya no eres el único que registra, necesitas roles.",
       "estilo": "precio, marfil, cifra enorme con lista de incluidos, sin mascota",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "la oferta aterrizada a un caso concreto (un negocio con equipo)"
+        "referencia": "@thepartybox.usa, reel «La pareja perfecta dueños de negocio» (1,1M vistas, 290,5x su mediana)",
+        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
+        "que_tomo": "reparto de roles entre dueños con humor; aquí el equipo con roles de Business: uno registra, otro decide"
       },
       "carpeta": "2026-11-07",
-      "archivo": "05-post",
-      "qa_ticket": "e5fe7056-8ad1-4619-ba8a-47ada790e2df"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-07-03-historia",
@@ -1459,25 +1425,24 @@
       ],
       "caption": "",
       "pilar": "funcionalidades",
-      "layout": "app",
+      "layout": "frase",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "mockup de función (categorías)",
-      "gancho": "una categoría para la promo del Buen Fin",
-      "primera_linea": "Una categoría para la promo. Ves qué te dejó.",
-      "estilo": "app, verde, celular a la izquierda con gastos por categoría y globo",
+      "version": 2,
+      "formato": "frase lista para copiar (constancia de pago)",
+      "gancho": "Cuando te piden constancia de un pago",
+      "primera_linea": "Te mando el comprobante en PDF con el valor y la fecha del pago.",
+      "estilo": "frase, noche, tarjeta blanca con comilla verde, sin mascota",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "el caso por vertical (tienda online) con la función que resuelve el dolor · tendencia Buen Fin (MX, 13–17 nov) del mercado de Sky"
+        "referencia": "@sebaslopezinnova, frase lista para copiar cuando piden descuento (1,3M plays)",
+        "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
+        "que_tomo": "frase corta lista para copiar en una situación del dueño; aquí cuando piden constancia de un pago"
       },
       "carpeta": "2026-11-07",
-      "archivo": "03-historia",
-      "qa_ticket": "6c635bf0-76b2-4211-8a26-aeb7750566e9"
+      "archivo": "03-historia"
     },
     {
       "id": "2026-11-08-01-historia",
@@ -1494,19 +1459,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "pregunta / encuesta",
-      "gancho": "qué revisas los domingos",
-      "primera_linea": "¿Qué revisas los domingos?",
-      "estilo": "encuesta, menta, pregunta grande + 3 opciones con círculo, sin mascota",
+      "version": 2,
+      "formato": "pregunta con cifra y tres opciones",
+      "gancho": "Vendiste $1.000.000: ¿cuánto ganaste?",
+      "primera_linea": "Vendiste $1.000.000, mercancía $600.000 y arriendo $250.000.",
+      "estilo": "encuesta, claro, pregunta grande con 3 opciones en cápsulas y botón al quiz, sin mascota",
       "modela": {
-        "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
-        "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
-        "que_tomo": "pedir una respuesta concreta (1, 2 o 3)"
+        "referencia": "@angelpintoflores, reel «8 series de FINANZAS. ¿Cuál crees que me hizo falta?» (1,5M vistas, 153x su mediana)",
+        "url": "https://www.instagram.com/reel/DewxYdmRZu0",
+        "que_tomo": "pregunta final con opciones; aquí una pregunta con cifra y tres respuestas"
       },
       "carpeta": "2026-11-08",
-      "archivo": "01-historia",
-      "qa_ticket": "459ee93b-c630-4dc2-877c-6534d80df4e9"
+      "archivo": "01-historia"
     },
     {
       "id": "2026-11-08-04-post",
@@ -1523,7 +1487,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "frase lista para copiar",
       "gancho": "qué responder cuando dicen «está caro»",
       "primera_linea": "«Está caro.» No bajes el precio: cambia la oferta.",
@@ -1534,8 +1498,7 @@
         "que_tomo": "la objeción «tus precios son caros» respondida sin bajar el precio"
       },
       "carpeta": "2026-11-08",
-      "archivo": "04-post",
-      "qa_ticket": "37856994-c18d-4555-b8a2-de5df51495a6"
+      "archivo": "04-post"
     },
     {
       "id": "2026-11-08-02-carrusel",
@@ -1551,7 +1514,7 @@
         "piezas/2026-11-08/02-carrusel-7.jpg",
         "piezas/2026-11-08/02-carrusel-8.jpg"
       ],
-      "caption": "5 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?\nMargen de un producto, margen neto del mes, lo que te deben vs lo que tienes, el arriendo por día y cuándo una venta es ingreso. Con la respuesta en cada slide.\nComenta cuántas acertaste (sin trampa).\nSi prefieres que las cuentas se hagan solas: {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "5 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?\n\nMargen de un producto, margen neto del mes, lo que te deben vs lo que tienes, el arriendo por día y cuándo una venta es ingreso. Con la respuesta en cada slide.\n\nSi prefieres que las cuentas se hagan solas: {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "ganancia-real",
       "layout": "carrusel/portada",
       "destinos": [
@@ -1559,19 +1522,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "reto / quiz con respuesta por slide",
       "gancho": "5 cuentas de dueño: ¿cuántas aciertas?",
       "primera_linea": "5 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?",
-      "estilo": "carrusel claro, portada con mascota-teléfono, slides reto con opciones A/B/C y la correcta marcada",
+      "estilo": "carrusel claro con portada mascota teléfono, 5 slides reto con respuesta, slide lista de Kentra sin pantalla, cierre mascota teléfono",
       "modela": {
         "referencia": "@raquintetips, reel reto «¿a cuánto lo vendes?» (188K plays)",
         "url": "https://www.instagram.com/reel/DeSCyLjx9Zj/",
         "que_tomo": "el reto mental con número: pregunta, opciones y la respuesta después"
       },
       "carpeta": "2026-11-08",
-      "archivo": "02-carrusel",
-      "qa_ticket": "3546f6f5-2987-4dbd-83db-890c1f78155e"
+      "archivo": "02-carrusel"
     },
     {
       "id": "2026-11-08-05-post",
@@ -1580,7 +1542,7 @@
       "imagenes": [
         "piezas/2026-11-08/05-post.jpg"
       ],
-      "caption": "Domingo en la noche: ¿cuánto te deben?\nEn Excel: abrir la hoja correcta, preguntar en el chat quién pagó, sumar a mano. En Kentra: las cuentas por cobrar en una lista, alerta cuando una vence y, al marcarla cobrada, queda registrada sola.\nEl lunes empieza distinto.\nDesde $15/mes. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ExcelVsKentra",
+      "caption": "Cerrar el mes en Excel vs en Kentra.\n\nEn Excel: buscar el archivo del mes, copiar y pegar cifras y rezar para que cuadre. En Kentra: ganancia real a la vista, gastos por categoría y reporte listo en segundos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ExcelVsKentra",
       "pilar": "kentra-vs-excel",
       "layout": "versus",
       "destinos": [
@@ -1588,19 +1550,18 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "comparativa Excel vs Kentra",
-      "gancho": "¿cuánto te deben hoy? en Excel y en Kentra",
-      "primera_linea": "Domingo en la noche: ¿cuánto te deben?",
-      "estilo": "versus, noche, dos columnas gris/verde con personaje Excel y mascota",
+      "version": 2,
+      "formato": "comparativa Excel vs Kentra (cierre del mes)",
+      "gancho": "El cierre del mes: Excel vs Kentra",
+      "primera_linea": "Cerrar el mes en Excel vs en Kentra.",
+      "estilo": "versus, noche, dos columnas gris/verde con personaje Excel y mascota con celular de espaldas",
       "modela": {
-        "referencia": "Bind México, anuncio activo «Entregado… ¿cobrado?» (serie por vertical)",
-        "url": "https://www.facebook.com/ads/library/?id=2015984555993278",
-        "que_tomo": "el dolor de cobro («¿cobrado?») resuelto en comparación directa"
+        "referencia": "@dropkiller.io, reel «Dropshipper Novato vs Dropshipper Pro» (950,5K vistas, 666x su mediana)",
+        "url": "https://www.instagram.com/reel/De0vIMIqitW",
+        "que_tomo": "dos formas de hacer lo mismo en pantalla dividida; aquí cerrar el mes en Excel vs en Kentra"
       },
       "carpeta": "2026-11-08",
-      "archivo": "05-post",
-      "qa_ticket": "2a9593b4-de61-4a5f-b76f-9960fe184b25"
+      "archivo": "05-post"
     },
     {
       "id": "2026-11-08-03-historia",
@@ -1610,26 +1571,25 @@
         "piezas/2026-11-08/03-historia.jpg"
       ],
       "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "app",
+      "pilar": "educacion",
+      "layout": "tip",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "mockup de función (alertas)",
-      "gancho": "lo que vence esta semana, visto desde el domingo",
-      "primera_linea": "Lo que vence esta semana, desde el domingo",
-      "estilo": "app, navy, celular a la izquierda con alertas y globo verde",
+      "version": 2,
+      "formato": "tutorial paso a paso (rutina del domingo en 4 pasos)",
+      "gancho": "Tu domingo de 10 minutos",
+      "primera_linea": "Tu domingo de 10 minutos",
+      "estilo": "tip, navy, tarjeta con 4 pasos numerados y botón, sin mascota",
       "modela": {
-        "referencia": "@grattzcontadores, reel deuda con la DIAN: el IVA no es tu plata (917K vistas)",
-        "url": "https://www.instagram.com/reel/DeciGwPqPvT/",
-        "que_tomo": "la cifra que asusta («te deben hace 45 días: $1.300.000») como gancho"
+        "referencia": "@elpiky___, reel «Día 32 como emprendedor» (1,6M vistas, 3,9x su mediana)",
+        "url": "https://www.instagram.com/reel/De0dgf9O1C-/",
+        "que_tomo": "una rutina corta del dueño en pasos del día real; aquí el domingo de 10 minutos"
       },
       "carpeta": "2026-11-08",
-      "archivo": "03-historia",
-      "qa_ticket": "8595ee27-9971-421c-94c5-8a337816ead4"
+      "archivo": "03-historia"
     }
   ]
 }

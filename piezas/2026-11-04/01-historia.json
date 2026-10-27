@@ -2,12 +2,12 @@
  "layout": "mito",
  "formato": "historia",
  "tema": "verde",
- "kicker": "Mito vs realidad",
- "mito": "Si vendo más, gano más.",
- "realidad": "Si el margen no cubre tus gastos, vendes más para perder más.",
- "nota": "Primero el margen. Después el volumen.",
+ "kicker": "Mito del dueño",
+ "titulo": "«Si no debo nada, voy bien»",
+ "mito": "Sin deudas, el negocio está sano.",
+ "realidad": "Puedes no deber nada y aun así gastar más de lo que entra. Lo que cuenta es lo que **te queda** cada mes.",
  "cta": {
-  "texto": "kentra.pro/quiz",
+  "texto": "kentra.pro",
   "boton": true
  }
 }

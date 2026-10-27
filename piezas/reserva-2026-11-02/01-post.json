@@ -1,11 +1,10 @@
 {
- "layout": "cita",
+ "layout": "tweet",
  "formato": "post",
- "tema": "verde",
+ "tema": "navy",
  "kicker": "Dueños de negocio",
- "titulo": "En un buen equipo, uno vende y otro anota. Si eres solo tú, haces los dos.",
- "sub": "Que anotar no sea el trabajo pesado.",
- "mascota": "telefono",
+ "texto": "«En un buen equipo, uno vende y otro anota. Si eres solo tú, haces los dos.»",
+ "pie": "Que anotar no sea el trabajo pesado.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

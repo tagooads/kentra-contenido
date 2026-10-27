@@ -1,36 +1,10 @@
 {
- "layout": "app",
+ "layout": "cita",
  "formato": "post",
- "tema": "menta",
- "kicker": "Alertas",
- "titulo": "Pagos que vencen en plena promo: te avisa antes",
- "pantalla": "alertas",
- "app": {
-  "negocio": "Tienda Nube Verde",
-  "alertas": [
-   [
-    "rojo",
-    "Proveedor vence el lunes 16",
-    "Mercancía Buen Fin · $3.000.000"
-   ],
-   [
-    "amarillo",
-    "Cuota 2 de 6 de la tarjeta",
-    "Vence el 20 nov · $380.000"
-   ],
-   [
-    "rojo",
-    "Envíos superó el presupuesto",
-    "10 % por encima esta semana"
-   ],
-   [
-    "verde",
-    "La pasarela te pagó",
-    "$2.140.000 · registrado solo"
-   ]
-  ]
- },
- "nota": "Deudas, cuotas y categorías pasadas",
+ "tema": "claro",
+ "kicker": "Vencimientos",
+ "titulo": "Lo que vence esta semana no debería sorprenderte.",
+ "sub": "Anótalo hoy con su fecha y deja de adivinar.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

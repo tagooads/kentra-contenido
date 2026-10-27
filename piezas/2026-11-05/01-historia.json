@@ -2,32 +2,28 @@
  "layout": "chat",
  "formato": "historia",
  "tema": "blanco",
- "kicker": "Cobros",
- "titulo": "Entregado ✓✓. ¿Y cobrado?",
+ "kicker": "Comprobante",
+ "titulo": "El cliente pide el comprobante",
  "nombre": "Cliente",
  "chat": [
   [
    "cliente",
-   "¡Llegó el pedido! Quedó hermoso.",
-   "9:12"
+   "¿Me mandas el comprobante de mi pago?"
   ],
   [
    "yo",
-   "¡Qué bueno! Te paso el comprobante y el dato para el pago.",
-   "9:14"
+   "Claro, ya te lo envío."
   ],
   [
    "cliente",
-   "Dale, el lunes te transfiero.",
-   "9:15"
+   "¿Sale con el nombre de tu negocio?"
   ],
   [
    "yo",
-   "Perfecto, lo anoto para el lunes 9. Te recuerdo ese día.",
-   "9:16"
+   "Sí: PDF con mi logo, en segundos."
   ]
  ],
- "cierre": "Fecha anotada. Alerta puesta. Dinero cobrado.",
+ "cierre": "Un comprobante con tu logo se ve profesional.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

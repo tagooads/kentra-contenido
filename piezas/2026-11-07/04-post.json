@@ -1,33 +1,15 @@
 {
- "layout": "chat",
+ "layout": "reto",
  "formato": "post",
  "tema": "blanco",
- "kicker": "Chat (demo)",
- "titulo": "¿Qué le responderías tú?",
- "nombre": "Cliente",
- "chat": [
-  [
-   "cliente",
-   "Hola, ¿me haces precio de amigo? Son 3 piezas.",
-   "11:02"
-  ],
-  [
-   "yo",
-   "Claro. El precio de amigo es el mismo, pero te explico qué incluye.",
-   "11:05"
-  ],
-  [
-   "cliente",
-   "Jajaja ok. ¿Y si pago de una?",
-   "11:06"
-  ],
-  [
-   "yo",
-   "Si pagas hoy, te lo entrego primero. El precio se queda.",
-   "11:07"
-  ]
+ "kicker": "Reto de sábado",
+ "titulo": "Vendes 50 combos a $12.000 y cada uno te cuesta $8.500. ¿Cuánto ganas?",
+ "opciones": [
+  "$175.000",
+  "$600.000",
+  "$425.000"
  ],
- "cierre": "Comenta: ¿aceptas o negocias?",
+ "nota": "Pista: (12.000 − 8.500) × 50.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

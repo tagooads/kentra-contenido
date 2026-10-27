@@ -1,10 +1,29 @@
 {
- "layout": "tweet",
+ "layout": "pizarra",
  "formato": "post",
- "tema": "menta",
- "kicker": "Una anécdota de dueño",
- "texto": "«Mi primer cliente grande me pagó por transferencia. A los tres meses ya no sabía de qué venta era esa plata.»",
- "pie": "Cada pago, con su venta y su fecha.",
+ "tema": "claro",
+ "kicker": "Proveedores",
+ "titulo": "Tu proveedor da 3 % por pagar hoy. ¿Conviene?",
+ "lineas": [
+  [
+   "Compra del mes",
+   "$2.000.000"
+  ],
+  [
+   "Si pagas en 30 días",
+   "$2.000.000"
+  ],
+  [
+   "Si pagas hoy (−3 %)",
+   "$1.940.000"
+  ],
+  [
+   "Ahorras",
+   "$60.000",
+   "res"
+  ]
+ ],
+ "nota": "Conviene solo si ese dinero no lo necesitas esta semana.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

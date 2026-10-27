@@ -1,15 +1,15 @@
 {
  "layout": "encuesta",
  "formato": "historia",
- "tema": "menta",
- "kicker": "Domingo",
- "titulo": "¿Qué revisas los domingos?",
+ "tema": "claro",
+ "kicker": "Domingo de cuentas",
+ "titulo": "Vendiste $1.000.000, mercancía $600.000 y arriendo $250.000. ¿Cuánto ganaste?",
  "opciones": [
-  "Nada, descanso",
-  "El saldo del banco",
-  "Entró, salió, quedó"
+  "$400.000",
+  "$150.000",
+  "$250.000"
  ],
- "nota": "Responde 1, 2 o 3. Si es 1 o 2, el diagnóstico es para ti.",
+ "nota": "Resta todo lo que salió, no solo la mercancía.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

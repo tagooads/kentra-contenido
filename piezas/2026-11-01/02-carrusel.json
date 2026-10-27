@@ -1,16 +1,133 @@
 {
-  "layout": "carrusel",
-  "formato": "post",
-  "tema": "marfil",
-  "cta": { "texto": "kentra.pro", "boton": true },
-  "slides": [
-    { "layout": "portada", "kicker": "Pagos de una vez al año", "titulo": "¿Por qué a tu negocio le falta plata cada enero?", "sub": "Porque lo que pagas una vez al año llega todo junto.", "visual": "mascota-telefono" },
-    { "layout": "valor", "num": "1", "titulo": "Hay gastos que no se ven en el mes", "texto": "Permisos, seguros y mantenimiento llegan una o dos veces al año. Y casi siempre juntos." },
-    { "layout": "valor", "num": "2", "tema": "claro", "titulo": "Haz la lista de lo que pagas al año", "texto": "Revisa los recibos del año pasado y suma.", "ejemplo": { "titulo": "Barbería · pagos del año", "filas": [["Permiso del local", "$1.200.000"], ["Seguro", "$960.000"], ["Mantenimiento de máquinas", "$600.000"], ["**Total**", "$2.760.000", "rojo"]] } },
-    { "layout": "valor", "num": "3", "tema": "menta", "titulo": "Divide ese total entre 12", "texto": "Así enero deja de ser un golpe.", "ejemplo": { "filas": [["Total del año", "$2.760.000"], ["Dividido entre", "12 meses"], ["**Aparta cada mes**", "$230.000", "verde"]] } },
-    { "layout": "valor", "num": "4", "titulo": "Apártalo el mismo día de cada mes", "texto": "Si es un pago más, no un susto:", "bullets": ["Una cuenta o un sobre solo para esto", "El mismo día en que cobras", "Sin tocarlo para otra cosa"] },
-    { "layout": "valor", "num": "5", "tema": "claro", "titulo": "Ponle mes a cada pago", "texto": "Así ninguno te pilla de sorpresa.", "ejemplo": { "titulo": "Calendario de la barbería", "filas": [["Permiso del local", "Enero"], ["Seguro", "Marzo"], ["Mantenimiento", "Septiembre"]] } },
-    { "layout": "valor", "num": "6", "tema": "verde", "kicker": "Así lo haces en Kentra", "titulo": "Una nota con fecha límite y listo", "texto": "Anotas el pago y su fecha, y Kentra te avisa antes de que venza." },
-    { "layout": "mascota", "tema": "navy", "kicker": "Kentra", "titulo": "Que enero no te tome por sorpresa", "items": ["Ingresos y gastos en un solo lugar", "Recordatorios con fecha límite", "La ganancia real de cada mes"], "mascota": "telefono", "tam": "media" }
-  ]
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "marfil",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Pagos de una vez al año",
+   "titulo": "¿Por qué a tu negocio le falta dinero cada enero?",
+   "sub": "Porque lo que pagas una vez al año llega todo junto.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Hay gastos que no se ven en el mes",
+   "texto": "Permisos, seguros y mantenimiento llegan una o dos veces al año. Y casi siempre juntos."
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "tema": "claro",
+   "titulo": "Haz la lista de lo que pagas al año",
+   "texto": "Revisa los recibos del año pasado y suma.",
+   "ejemplo": {
+    "titulo": "Barbería · pagos del año",
+    "filas": [
+     [
+      "Permiso del local",
+      "$1.200.000"
+     ],
+     [
+      "Seguro",
+      "$960.000"
+     ],
+     [
+      "Mantenimiento de máquinas",
+      "$600.000"
+     ],
+     [
+      "**Total**",
+      "$2.760.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "tema": "menta",
+   "titulo": "Divide ese total entre 12",
+   "texto": "Así enero deja de ser un golpe.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Total del año",
+      "$2.760.000"
+     ],
+     [
+      "Dividido entre",
+      "12 meses"
+     ],
+     [
+      "**Aparta cada mes**",
+      "$230.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Apártalo el mismo día de cada mes",
+   "texto": "Si es un pago más, no un susto:",
+   "bullets": [
+    "Una cuenta o un sobre solo para esto",
+    "El mismo día en que cobras",
+    "Sin tocarlo para otra cosa"
+   ]
+  },
+  {
+   "layout": "valor",
+   "num": "5",
+   "tema": "claro",
+   "titulo": "Ponle mes a cada pago",
+   "texto": "Así ninguno te toma por sorpresa.",
+   "ejemplo": {
+    "titulo": "Calendario de la barbería",
+    "filas": [
+     [
+      "Permiso del local",
+      "Enero"
+     ],
+     [
+      "Seguro",
+      "Marzo"
+     ],
+     [
+      "Mantenimiento",
+      "Septiembre"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "6",
+   "tema": "verde",
+   "kicker": "Así lo haces en Kentra",
+   "titulo": "Una nota con fecha límite y listo",
+   "texto": "Anotas el pago y su fecha, y Kentra te avisa antes de que venza."
+  },
+  {
+   "layout": "mascota",
+   "tema": "navy",
+   "kicker": "Kentra",
+   "titulo": "Que enero no te tome por sorpresa",
+   "items": [
+    "Ingresos y gastos en un solo lugar",
+    "Recordatorios con fecha límite",
+    "La ganancia real de cada mes"
+   ],
+   "mascota": "telefono",
+   "tam": "media"
+  }
+ ]
 }

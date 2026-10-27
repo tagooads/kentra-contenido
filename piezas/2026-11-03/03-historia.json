@@ -1,31 +1,29 @@
 {
- "layout": "app",
+ "layout": "dato",
  "formato": "historia",
- "tema": "claro",
- "kicker": "KentrAI",
- "titulo": "Pregúntale qué descuento aguanta tu Buen Fin",
- "pantalla": "kentrai",
- "app": {
-  "chat": [
-   [
-    "yo",
-    "¿Puedo dar 20 % en el Buen Fin?"
-   ],
-   [
-    "ia",
-    "Tu margen promedio es **38 %**. Con 20 % de descuento te quedaría **18 %**: necesitas vender **2,1 veces más** para ganar lo mismo."
-   ],
-   [
-    "yo",
-    "¿Y 10 %?"
-   ],
-   [
-    "ia",
-    "Te quedaría **28 %** y necesitas **1,4 veces** más ventas. Más realista."
-   ]
-  ]
- },
- "nota": "Ilimitado en todos los planes",
+ "tema": "blanco",
+ "kicker": "Horario",
+ "titulo": "¿Vale la pena abrir una hora más?",
+ "filas": [
+  {
+   "label": "Ventas",
+   "valor": "$45.000",
+   "color": "gris"
+  },
+  {
+   "label": "Costo de la hora",
+   "valor": "−$38.000",
+   "color": "rojo",
+   "nota": "ayudante, luz y servicios"
+  },
+  {
+   "label": "Te queda",
+   "valor": "$7.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "Haz esta cuenta antes de ampliar el horario.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

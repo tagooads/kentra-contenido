@@ -9,7 +9,8 @@
    "kicker": "Transferencias",
    "titulo": "Te llegó una transferencia que no reconoces. ¿La gastas?",
    "sub": "5 pasos antes de tocarla.",
-   "visual": "mascota-telefono"
+   "visual": "mascota-telefono",
+   "sinPildora": true
   },
   {
    "layout": "valor",
@@ -41,17 +42,17 @@
    "tema": "claro",
    "num": "2",
    "titulo": "Busca quién la mandó y por qué",
-   "texto": "Nombre, hora y monto: ¿coincide con un cobro pendiente?",
+   "texto": "Nombre, hora y monto: ¿coincide con algún pedido pendiente?",
    "ejemplo": {
-    "titulo": "Cobros pendientes",
+    "titulo": "Pedidos pendientes",
     "filas": [
      [
-      "Ana debía",
-      "$45.000"
+      "Pedido de Ana",
+      "$115.000"
      ],
      [
-      "Luis debía",
-      "$25.000"
+      "Pedido de Luis",
+      "$30.000"
      ],
      [
       "Llegó a las 3:12",
@@ -66,7 +67,7 @@
    "tema": "blanco",
    "num": "3",
    "titulo": "Si no coincide, no la gastes",
-   "texto": "Apártala aparte y confirma con quien crees que fue. Hasta saberlo, no es ganancia.",
+   "texto": "Sepárala y confirma con quien crees que fue. Hasta saberlo, no es ganancia.",
    "cierre": "Gastarla hoy y devolverla mañana te deja corto."
   },
   {
@@ -80,7 +81,7 @@
     "filas": [
      [
       "Pedido",
-      "$120.000"
+      "$115.000"
      ],
      [
       "Adelanto",
@@ -89,7 +90,7 @@
      ],
      [
       "Saldo por cobrar",
-      "$50.000",
+      "$45.000",
       "rojo"
      ]
     ]

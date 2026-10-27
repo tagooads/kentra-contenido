@@ -2,76 +2,88 @@
  "layout": "carrusel",
  "formato": "post",
  "tema": "noche",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Buen Fin · 13 al 17 de noviembre",
-   "titulo": "4 cuentas antes de lanzar tu promo",
-   "sub": "Para que vender más no sea perder más.",
-   "visual": "app",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Tienda Nube Verde",
-    "mes": "Noviembre",
-    "ingresos": "$9.600.000",
-    "gastos": "$7.900.000",
-    "ganancia": "$1.700.000",
-    "margen": "17,7 % de margen",
-    "barras": [
-     45,
-     50,
-     48,
-     56,
-     60,
-     58,
-     78
+   "tema": "noche",
+   "sinPildora": true,
+   "kicker": "Publicidad",
+   "titulo": "¿Cuánto te cuesta un cliente nuevo?",
+   "sub": "4 cuentas antes de pagar un anuncio.",
+   "visual": "none"
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": "1",
+   "titulo": "Suma lo que invertiste",
+   "texto": "Anuncio, diseño y tu tiempo cuentan.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Anuncio",
+      "$150.000"
+     ],
+     [
+      "Diseño del anuncio",
+      "$50.000"
+     ],
+     [
+      "**Total invertido**",
+      "$200.000",
+      "rojo"
+     ]
     ]
    }
   },
   {
    "layout": "valor",
-   "num": "1",
-   "titulo": "Tu precio piso",
-   "texto": "Costo del producto + gastos del mes ÷ unidades que vendes. Debajo de eso, pierdes.",
+   "tema": "noche",
+   "num": "2",
+   "titulo": "Cuenta los clientes nuevos",
+   "texto": "Solo los que llegaron por ese anuncio.",
    "ejemplo": {
-    "titulo": "Un producto",
     "filas": [
      [
-      "Costo del producto",
-      "$55.000"
+      "Clientes nuevos",
+      "8"
      ],
      [
-      "Gastos del mes ÷ 120 unidades",
-      "$16.000"
+      "Compra promedio",
+      "$45.000"
      ],
      [
-      "Precio piso",
-      "$71.000",
+      "**Ventas nuevas**",
+      "$360.000",
       "verde"
      ]
     ]
-   },
-   "cierre": "Un 20 % sobre $100.000 te deja en $80.000: todavía arriba."
+   }
   },
   {
    "layout": "valor",
-   "num": "2",
-   "titulo": "Tu caja durante la promo",
-   "texto": "Vendes el viernes, la pasarela te paga el martes y el proveedor cobra el lunes.",
+   "tema": "claro",
+   "num": "3",
+   "titulo": "Resta lo que cuesta vender",
+   "texto": "De cada venta solo te queda el margen.",
    "ejemplo": {
     "filas": [
      [
-      "Proveedor, lunes 16",
-      "−$3.000.000",
+      "Ventas nuevas",
+      "$360.000"
+     ],
+     [
+      "Costo del producto",
+      "−$252.000",
       "rojo"
      ],
      [
-      "La pasarela te paga",
-      "martes 17"
-     ],
-     [
-      "Caja que necesitas antes",
-      "$3.000.000",
+      "**Te dejan**",
+      "$108.000",
       "verde"
      ]
     ]
@@ -79,92 +91,62 @@
   },
   {
    "layout": "valor",
-   "num": "3",
-   "titulo": "Tu tope de publicidad",
-   "texto": "Lo que puedes invertir por venta sin comerte la ganancia.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Te deja cada venta",
-      "$25.000"
-     ],
-     [
-      "Máximo por venta en anuncios",
-      "$8.000"
-     ],
-     [
-      "Con 200 ventas",
-      "$1.600.000",
-      "verde"
-     ]
-    ]
-   }
-  },
-  {
-   "layout": "valor",
+   "tema": "noche",
    "num": "4",
-   "titulo": "Tu inventario real",
-   "texto": "Cuánto puedes entregar sin quedar mal ni sobrecomprar.",
+   "titulo": "Compara con lo invertido",
+   "texto": "Aquí se ve si el anuncio valió la pena.",
    "ejemplo": {
     "filas": [
      [
-      "Unidades en bodega",
-      "140"
+      "Te dejan",
+      "$108.000"
      ],
      [
-      "Ventas esperadas",
-      "200"
+      "Invertiste",
+      "−$200.000",
+      "rojo"
      ],
      [
-      "Compra necesaria",
-      "60 unidades",
-      "verde"
+      "**Resultado**",
+      "−$92.000",
+      "rojo"
      ]
     ]
    }
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "La promo con sus gastos, en su categoría",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Tienda Nube Verde",
-    "mes": "Noviembre",
-    "categorias": [
-     [
-      "Publicidad Buen Fin",
-      "$1.600.000",
-      100
-     ],
-     [
-      "Mercancía",
-      "$3.300.000",
-      92
-     ],
-     [
-      "Envíos",
-      "$480.000",
-      110
-     ],
-     [
-      "Comisiones",
-      "$290.000",
-      70
-     ]
-    ]
-   },
-   "nota": "Sabes qué te dejó la promo"
+   "layout": "valor",
+   "tema": "claro",
+   "num": "5",
+   "titulo": "Úsalo para decidir",
+   "texto": "Con esas cifras:",
+   "bullets": [
+    "Cada cliente deja $13.500",
+    "Necesitas 15 clientes para recuperar $200.000",
+    "Si no llegas, mejora la oferta antes de invertir más"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Cada anuncio, con su cuenta",
+   "items": [
+    "Publicidad como categoría de gasto",
+    "Tu ganancia real del mes en una pantalla",
+    "Ingresos y gastos en un solo lugar"
+   ]
   },
   {
    "layout": "mascota",
-   "titulo": "Promo con cuenta, no con esperanza",
+   "tema": "navy",
+   "titulo": "Invierte con la cuenta hecha",
    "tam": "media",
-   "mascota": "app",
+   "mascota": "telefono",
    "items": [
-    "Gastos por categoría con alerta",
-    "Alertas de pagos por vencer",
-    "Ganancia real del mes"
+    "Ganancia real de cada mes",
+    "Gastos por categoría",
+    "Desde $15/mes, sin permanencia"
    ],
    "cta": {
     "texto": "kentra.pro",

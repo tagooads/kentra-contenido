@@ -1,11 +1,11 @@
 {
- "layout": "frase",
+ "layout": "meme",
  "formato": "historia",
- "tema": "navy",
- "kicker": "Cuando piden descuento",
- "etiqueta": "Copia esto",
- "frase": "«Puedo ajustar el precio si ajustamos lo que incluye. ¿Qué prefieres quitar?»",
- "porque": "Nunca digas sí o no de una. Así proteges tu margen sin perder la venta.",
+ "tema": "menta",
+ "arriba": "«Voy a regalar muestras: es publicidad», dijo quien no sumó que 40 muestras de $6.000 son $240.000.",
+ "abajo": "Yo, con la cuenta hecha:",
+ "figura": "telefono",
+ "globo": "Las muestras también se anotan.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

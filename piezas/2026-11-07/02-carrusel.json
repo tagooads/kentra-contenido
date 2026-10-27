@@ -1,55 +1,40 @@
 {
  "layout": "carrusel",
  "formato": "post",
- "tema": "navy",
+ "tema": "menta",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Salones de belleza",
-   "titulo": "Un sábado en un salón: entró $1.200.000. ¿Y quedó?",
-   "sub": "La cuenta de un día completo, paso a paso.",
-   "visual": "app",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Salón Coral",
-    "mes": "7 nov",
-    "ingresos": "$1.200.000",
-    "gastos": "$815.000",
-    "ganancia": "$385.000",
-    "margen": "32 % de margen",
-    "barras": [
-     40,
-     44,
-     38,
-     52,
-     60,
-     70,
-     100
-    ]
-   }
+   "sinPildora": true,
+   "kicker": "Salón de belleza",
+   "titulo": "Una cita perdida cuesta más que una hora vacía",
+   "sub": "La cuenta de un salón con 6 citas perdidas al mes.",
+   "visual": "none"
   },
   {
    "layout": "valor",
+   "tema": "claro",
    "num": "1",
-   "titulo": "Lo que entró",
+   "titulo": "Cuánto vale una cita",
+   "texto": "Un manicure completo, con sus materiales.",
    "ejemplo": {
-    "titulo": "Sábado, 14 servicios",
     "filas": [
      [
-      "6 cortes y peinados",
-      "$420.000"
+      "Manicure completo",
+      "$60.000"
      ],
      [
-      "5 manicures y pedicures",
-      "$350.000"
+      "Material que gastas",
+      "−$8.000",
+      "rojo"
      ],
      [
-      "3 tintes",
-      "$430.000"
-     ],
-     [
-      "Total",
-      "$1.200.000",
+      "**Te deja**",
+      "$52.000",
       "verde"
      ]
     ]
@@ -57,53 +42,67 @@
   },
   {
    "layout": "valor",
+   "tema": "marfil",
    "num": "2",
-   "titulo": "Lo que se fue en el día",
+   "titulo": "Multiplícala por las que se pierden",
+   "texto": "Seis citas al mes que no llegan.",
    "ejemplo": {
     "filas": [
      [
-      "Productos usados",
-      "−$215.000",
-      "rojo"
+      "Citas perdidas",
+      "6 al mes"
      ],
      [
-      "Nómina del sábado (3 personas)",
-      "−$360.000",
-      "rojo"
+      "Dejas de ganar por cita",
+      "$52.000"
      ],
      [
-      "Arriendo y servicios (por día)",
-      "−$210.000",
-      "rojo"
-     ],
-     [
-      "Comisiones de pago",
-      "−$30.000",
+      "**Al mes**",
+      "$312.000",
       "rojo"
      ]
     ]
-   },
-   "cierre": "Salió: $815.000"
+   }
   },
   {
    "layout": "valor",
+   "tema": "claro",
    "num": "3",
-   "titulo": "Lo que quedó",
-   "texto": "Un buen sábado. Pero un martes flojo se come parte de esto.",
+   "titulo": "Ahora mira el año",
+   "texto": "Lo que parece poco se vuelve mucho.",
    "ejemplo": {
     "filas": [
      [
-      "Entró",
-      "$1.200.000"
+      "Al mes",
+      "$312.000"
      ],
      [
-      "Salió",
-      "−$815.000",
+      "Por 12 meses",
+      "× 12"
+     ],
+     [
+      "**Al año**",
+      "$3.744.000",
       "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "marfil",
+   "num": "4",
+   "titulo": "Cobra un anticipo",
+   "texto": "Con el 30 % del servicio, la cita se cuida sola.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Anticipo del 30 %",
+      "$18.000"
      ],
      [
-      "Quedó",
-      "$385.000 (32 %)",
+      "Si la cita se pierde",
+      "Lo conservas",
       "verde"
      ]
     ]
@@ -111,59 +110,36 @@
   },
   {
    "layout": "valor",
-   "num": "4",
-   "titulo": "La cuenta que cambia el precio",
-   "texto": "Divide los gastos fijos del día entre los servicios:",
-   "ejemplo": {
-    "filas": [
-     [
-      "Nómina, arriendo y servicios del día",
-      "$570.000"
-     ],
-     [
-      "÷ 14 servicios",
-      "$40.700 por servicio"
-     ],
-     [
-      "Un corte de $70.000 deja",
-      "$29.300 menos producto",
-      "verde"
-     ]
-    ]
-   }
+   "tema": "claro",
+   "num": "5",
+   "titulo": "Avisa el día anterior",
+   "texto": "Tres hábitos que llenan la agenda:",
+   "bullets": [
+    "Un recordatorio el día anterior",
+    "Una lista de espera para cubrir huecos",
+    "Anota cada cita perdida para ver cuánto pesa"
+   ]
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Cada servicio registrado, el día cerrado solo",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Salón Coral",
-    "mes": "7 nov",
-    "ingresos": "$1.200.000",
-    "gastos": "$815.000",
-    "ganancia": "$385.000",
-    "margen": "32 % de margen",
-    "barras": [
-     40,
-     44,
-     38,
-     52,
-     60,
-     70,
-     100
-    ]
-   },
-   "nota": "Entró, salió, quedó: hoy"
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Cada ingreso, con su nota",
+   "items": [
+    "Ingresos con categoría, fecha y nota",
+    "Tu ganancia real del mes en una pantalla",
+    "Recordatorios con fecha límite"
+   ]
   },
   {
    "layout": "mascota",
-   "titulo": "Cierra el día, no solo el mes",
+   "tema": "navy",
+   "titulo": "Que una cita perdida no se pierda de vista",
    "tam": "media",
-   "mascota": "app",
+   "mascota": "telefono",
    "items": [
-    "Registro en segundos desde el celular",
-    "Ganancia real del día y del mes",
+    "Ganancia real de cada mes",
+    "Ingresos y gastos en un solo lugar",
     "Desde $15/mes, sin permanencia"
    ],
    "cta": {

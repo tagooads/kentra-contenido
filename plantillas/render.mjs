@@ -193,12 +193,12 @@ L.versus = (p, t, hist) => `
     <div style="background:linear-gradient(180deg,#CFCBCD,#E9E6E7);border-radius:44px;padding:36px 30px;color:#3B3F4A;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
       <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#6B6F7A">${esc(p.izq?.titulo || "Excel")}</div>
       ${(p.izq?.items || []).map(i => `<div class="item x" style="font-size:36px;color:#3B3F4A"><span class="ic" style="width:48px;height:48px;font-size:28px">✕</span><span>${rich(i)}</span></div>`).join("")}
-      <img src="${MARCA("excel.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:-20px;height:${hist ? 680 : 500}px;opacity:.95">
+      <img src="${MARCA("excel.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:-20px;height:${hist ? 680 : 500}px;opacity:1">
     </div>
     <div style="background:linear-gradient(180deg,#47C08B,#2FA173);border-radius:44px;padding:36px 30px;color:#0F1E38;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
       <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#0F1E38">${esc(p.der?.titulo || "Kentra")}</div>
       ${(p.der?.items || []).map(i => `<div class="item" style="font-size:36px"><span class="ic" style="width:48px;height:48px;font-size:28px;background:#1E2D4F;color:#fff">✓</span><span>${rich(i)}</span></div>`).join("")}
-      <img src="${MARCA("mascota-app.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:10px;height:${hist ? 660 : 480}px;filter:drop-shadow(0 20px 30px rgba(0,0,0,.25))">
+      <img src="${MARCA(p.der?.figura === "telefono" ? "mascota-telefono.png" : "mascota-app.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:10px;height:${hist ? 660 : 480}px;filter:drop-shadow(0 20px 30px rgba(0,0,0,.25))">
     </div>
   </div>
   ${pieFooter(t, p.cta, hist)}`;
@@ -298,7 +298,7 @@ L.portada = (p, t, hist) => {
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <h1 class="grande fit" style="max-width:${conVisual ? 600 : 930}px;max-height:${hist ? 560 : 560}px">${rich(p.titulo)}</h1>
   ${p.sub ? `<div class="sub" style="max-width:${conVisual ? 540 : 860}px">${rich(p.sub)}</div>` : ""}
-  <div style="margin-top:8px"><span class="pill">Desliza →</span></div>
+  ${p.sinPildora ? "" : `<div style="margin-top:8px"><span class="pill">Desliza →</span></div>`}
   ${img ? `<img src="${img}" style="position:absolute;right:30px;bottom:${hist ? 420 : 170}px;height:${hist ? 760 : 640}px;${visual === "excel" ? "" : "filter:drop-shadow(0 30px 40px rgba(0,0,0,.28))"}">` : ""}
   ${visual === "app" ? `<div style="position:absolute;right:-40px;top:${hist ? 820 : 470}px;transform:rotate(-6deg);height:${hist ? 700 : 690}px;overflow:hidden;-webkit-mask:linear-gradient(#000 75%,transparent);mask:linear-gradient(#000 75%,transparent)">${telefono(p, hist ? 520 : 420)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
@@ -424,10 +424,10 @@ L.pizarra = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 230}px">${rich(p.titulo)}</h1>
   <div style="flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center">
-    <div style="background:#FBFBF7;color:#1E2D4F;border:14px solid #D9D4C7;border-radius:28px;padding:40px 44px;box-shadow:inset 0 0 60px rgba(0,0,0,.06),0 24px 60px rgba(0,0,0,.18);display:flex;flex-direction:column;gap:20px">
+    <div style="background:#FBFBF7;color:#1E2D4F;border:14px solid #D9D4C7;border-radius:28px;padding:${40 * (p.escala || 1)}px 44px;box-shadow:inset 0 0 60px rgba(0,0,0,.06),0 24px 60px rgba(0,0,0,.18);display:flex;flex-direction:column;gap:${20 * (p.escala || 1)}px">
       ${(p.lineas || []).map(([l, v, tipo]) => tipo === "res"
-        ? `<div style="border-top:6px solid #1E2D4F;margin-top:6px;padding-top:22px;display:flex;justify-content:space-between;align-items:center;gap:20px;font-weight:800;font-size:${hist ? 48 : 44}px"><span>${rich(l)}</span><span style="border:8px solid #47C08B;border-radius:999px;padding:10px 28px;color:#1E8A5E;white-space:nowrap;transform:rotate(-2deg)">${esc(v)}</span></div>`
-        : `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-weight:600;font-size:${hist ? 42 : 38}px"><span>${rich(l)}</span><b style="white-space:nowrap;color:${tipo === "rojo" ? "#E5484D" : "inherit"}">${esc(v)}</b></div>`).join("")}
+        ? `<div style="border-top:6px solid #1E2D4F;margin-top:6px;padding-top:22px;display:flex;justify-content:space-between;align-items:center;gap:20px;font-weight:800;font-size:${(hist ? 48 : 44) * (p.escala || 1)}px"><span>${rich(l)}</span><span style="border:8px solid #47C08B;border-radius:999px;padding:10px 28px;color:#1E8A5E;white-space:nowrap;transform:rotate(-2deg)">${esc(v)}</span></div>`
+        : `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-weight:600;font-size:${(hist ? 42 : 38) * (p.escala || 1)}px"><span>${rich(l)}</span><b style="white-space:nowrap;color:${tipo === "rojo" ? "#E5484D" : "inherit"}">${esc(v)}</b></div>`).join("")}
     </div>
   </div>
   ${p.nota ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.nota)}</div>` : ""}
@@ -440,13 +440,13 @@ L.recibo = (p, t, hist) => {
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 230}px">${rich(p.titulo)}</h1>
   <div style="flex:1;min-height:0;display:flex;justify-content:center">
-    <div style="width:${hist ? 760 : 720}px;background:#FFFDF8;color:#222;padding:40px 44px 50px;box-shadow:0 24px 60px rgba(0,0,0,.22);clip-path:polygon(0 0,100% 0,${zig.join(",")});display:flex;flex-direction:column;gap:14px;font-size:${hist ? 36 : 33}px">
+    <div style="width:${hist ? 760 : 720}px;background:#FFFDF8;color:#222;padding:40px 44px 50px;box-shadow:0 24px 60px rgba(0,0,0,.22);clip-path:polygon(0 0,100% 0,${zig.join(",")});display:flex;flex-direction:column;gap:${14 * (p.escala || 1)}px;font-size:${(hist ? 36 : 33) * (p.escala || 1)}px">
       <div style="text-align:center;font-weight:800;letter-spacing:.14em;text-transform:uppercase;font-size:30px">${esc(p.negocio || "Mi negocio")}</div>
       <div style="text-align:center;font-size:26px;color:#777">${esc(p.detalle || "Cuenta real · datos demo")}</div>
       <div style="border-top:4px dashed #CFCAC0;margin:8px 0"></div>
       ${(p.items || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;gap:20px"><span>${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#E5484D" : c === "verde" ? "#1E8A5E" : "inherit"}">${esc(v)}</b></div>`).join("")}
       <div style="border-top:4px dashed #CFCAC0;margin:8px 0"></div>
-      ${p.total ? `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-weight:800;font-size:${hist ? 50 : 46}px"><span>${esc(p.total[0])}</span><span style="color:${String(p.total[1]).startsWith("−") ? "#E5484D" : "#1E8A5E"}">${esc(p.total[1])}</span></div>` : ""}
+      ${p.total ? `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-weight:800;font-size:${(hist ? 50 : 46) * (p.escala || 1)}px"><span>${esc(p.total[0])}</span><span style="color:${String(p.total[1]).startsWith("−") ? "#E5484D" : "#1E8A5E"}">${esc(p.total[1])}</span></div>` : ""}
       ${p.pie ? `<div style="text-align:center;font-size:26px;color:#777;margin-top:6px">${rich(p.pie)}</div>` : ""}
     </div>
   </div>

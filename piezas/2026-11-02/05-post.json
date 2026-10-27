@@ -1,19 +1,15 @@
 {
- "layout": "precio",
+ "layout": "lista",
  "formato": "post",
  "tema": "verdeoscuro",
- "kicker": "Plan Básico",
- "titulo": "Ordena tu negocio por menos que un domicilio semanal",
- "plan": "Plan Básico",
- "precio": "$15",
- "periodo": "/mes",
- "nota": "Sin permanencia. Acceso inmediato.",
+ "kicker": "Planes",
+ "titulo": "Tres planes. Elige el que cabe en tu negocio.",
  "items": [
-  "Dashboard con tu ganancia real",
-  "Ingresos y gastos por categoría",
-  "Comprobantes PDF con tu logo",
-  "KentrAI ilimitado"
+  "Básico: $15/mes · 1 negocio",
+  "Pro: $20/mes · hasta 2 negocios (el más elegido)",
+  "Business: $30/mes · negocios ilimitados"
  ],
+ "cierre": "Sin permanencia. Acceso inmediato.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

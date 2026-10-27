@@ -8,7 +8,8 @@
    "kicker": "Ganancia real",
    "titulo": "De cada venta, una parte nunca fue tuya",
    "sub": "Impuestos, comisiones y cuotas: sepáralos el mismo día.",
-   "visual": "mascota-telefono"
+   "visual": "mascota-telefono",
+   "sinPildora": true
   },
   {
    "layout": "valor",
@@ -82,43 +83,21 @@
    "sub": "Antes de gastar, resta lo que no es tuyo."
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Una categoría «Impuestos» y el saldo neto sin sorpresas",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Noviembre",
-    "categorias": [
-     [
-      "Impuestos (apartado)",
-      "$1.280.000",
-      100
-     ],
-     [
-      "Comisiones de pago",
-      "$320.000",
-      80
-     ],
-     [
-      "Cuota del crédito",
-      "$200.000",
-      100
-     ],
-     [
-      "Insumos",
-      "$2.900.000",
-      96
-     ]
-    ]
-   },
-   "nota": "Cada peso en su categoría"
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Cada peso, en su categoría",
+   "items": [
+    "Categorías personalizables",
+    "Alertas de recordatorio con fecha",
+    "Tu ganancia real del mes en una pantalla"
+   ]
   },
   {
    "layout": "mascota",
    "titulo": "Separa primero. Gasta después.",
    "tam": "media",
-   "mascota": "app",
+   "mascota": "telefono",
    "items": [
     "Categorías personalizables",
     "Alertas por categoría",

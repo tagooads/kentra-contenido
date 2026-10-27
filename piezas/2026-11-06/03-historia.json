@@ -3,7 +3,7 @@
  "formato": "historia",
  "tema": "blanco",
  "kicker": "Precio",
- "titulo": "Tu precio piso, en una línea",
+ "titulo": "Tu precio piso, con una cuenta",
  "lineas": [
   [
    "Costo del producto",
@@ -31,5 +31,7 @@
  "cta": {
   "texto": "kentra.pro",
   "boton": true
- }
+ },
+ "tam": "grande",
+ "escala": 1.35
 }

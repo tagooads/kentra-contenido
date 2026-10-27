@@ -2,9 +2,11 @@
  "layout": "tweet",
  "formato": "historia",
  "tema": "noche",
- "texto": "«Es que la competencia lo da más económico.»\n\nQue lo dé. Que vea cuánto le queda a fin de mes.",
+ "kicker": "Una postura",
+ "texto": "«Un negocio que vende mucho y no anota, trabaja a ciegas.»",
+ "pie": "Lo que no se anota, no se cobra ni se cuida.",
  "cta": {
-  "texto": "kentra.pro/quiz",
+  "texto": "kentra.pro",
   "boton": true
  }
 }

@@ -1,21 +1,21 @@
 {
  "layout": "skit",
  "formato": "post",
- "tema": "marfil",
+ "tema": "navy",
  "kicker": "Dos voces",
- "titulo": "Precio a ojo vs precio con cuenta",
+ "titulo": "Precio a ojo vs con cuenta",
  "a": {
-  "nombre": "El que pone precio a ojo",
+  "nombre": "A ojo",
   "inicial": "$"
  },
  "b": {
-  "nombre": "El que hace la cuenta",
+  "nombre": "Con cuenta",
   "inicial": "="
  },
  "lineas": [
   [
    "a",
-   "Ya decidí: vendo cada vela a $8.000."
+   "Ya decidí: cada vela a $8.000."
   ],
   [
    "b",
@@ -27,11 +27,7 @@
   ],
   [
    "b",
-   "Cera, mecha, frasco, etiqueta y tu hora: $6.400. Te quedan $1.600."
-  ],
-  [
-   "a",
-   "…"
+   "Con cera, frasco y tu hora: $6.400. Te quedan $1.600."
   ],
   [
    "b",

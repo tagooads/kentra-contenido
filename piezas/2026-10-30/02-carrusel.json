@@ -12,7 +12,8 @@
    "kicker": "Contratar o no",
    "titulo": "¿Contratas ayuda? Haz esta cuenta primero",
    "sub": "Con el ejemplo de un taller de costura.",
-   "visual": "mascota-telefono"
+   "visual": "mascota-telefono",
+   "sinPildora": true
   },
   {
    "layout": "valor",
@@ -119,7 +120,7 @@
    "titulo": "Contrata solo si genera más de lo que cuesta",
    "tema": "menta",
    "texto": "Pon un margen y revísalo a los 3 meses.",
-   "cierre": "Si la cuenta es negativa, espera o prueba con horas."
+   "cierre": "Si la cuenta es negativa, prueba unas horas a la semana."
   },
   {
    "layout": "dato",
@@ -140,8 +141,7 @@
     {
      "label": "Diferencia",
      "valor": "+$290.000",
-     "color": "verde",
-     "grande": true
+     "color": "verde"
     }
    ],
    "cierre": "Ejemplo de un mes."

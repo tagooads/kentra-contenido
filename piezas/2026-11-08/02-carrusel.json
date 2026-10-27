@@ -8,7 +8,8 @@
    "kicker": "Reto de domingo",
    "titulo": "5 cuentas que todo dueño debería hacer de memoria",
    "sub": "Responde antes de deslizar.",
-   "visual": "mascota-telefono"
+   "visual": "mascota-telefono",
+   "sinPildora": true
   },
   {
    "layout": "reto",
@@ -101,38 +102,21 @@
    "nota": "Para tu caja, el ingreso existe cuando el dinero entra."
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Las cuentas que KentrAI hace por ti",
-   "pantalla": "kentrai",
-   "app": {
-    "chat": [
-     [
-      "yo",
-      "¿Cuál fue mi margen neto de octubre?"
-     ],
-     [
-      "ia",
-      "**8,2 %**: vendiste $10.000.000 y te quedaron $820.000."
-     ],
-     [
-      "yo",
-      "¿Cuánto me deben vencido?"
-     ],
-     [
-      "ia",
-      "**$4.000.000** en 3 cuentas; la más vieja, de hace 62 días. ¿Te preparo los recordatorios?"
-     ]
-    ]
-   },
-   "nota": "Ilimitado en todos los planes"
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Las cuentas, a la vista",
+   "items": [
+    "Tu ganancia real del mes en una pantalla",
+    "Cuentas por cobrar con recordatorio",
+    "KentrAI responde tus dudas con tus números"
+   ]
   },
   {
    "layout": "mascota",
    "titulo": "¿Cuántas acertaste?",
-   "sub": "Cuéntanos en comentarios.",
    "tam": "media",
-   "mascota": "app",
+   "mascota": "telefono",
    "items": [
     "Ganancia real del mes",
     "Cuentas por cobrar con alerta",

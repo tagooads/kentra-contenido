@@ -2,42 +2,47 @@
  "layout": "recibo",
  "formato": "post",
  "tema": "marfil",
- "kicker": "Pastelerías",
- "titulo": "¿Me deja dinero vender tortas?",
- "negocio": "Pastelería Trigal",
- "detalle": "Torta de chocolate · 20 porciones · datos demo",
+ "kicker": "Tienda online",
+ "titulo": "Camiseta de $35.000: ¿cuánto te queda?",
+ "negocio": "Tienda Nube Verde",
+ "detalle": "Camiseta estampada · datos demo",
  "items": [
   [
    "Precio de venta",
-   "$120.000",
+   "$35.000",
    "verde"
   ],
   [
-   "Ingredientes",
-   "−$38.000",
+   "Camiseta base",
+   "−$12.000",
    "rojo"
   ],
   [
-   "Empaque y base",
+   "Estampado",
    "−$6.000",
    "rojo"
   ],
   [
-   "Luz y gas del horno",
-   "−$4.000",
+   "Empaque",
+   "−$1.500",
    "rojo"
   ],
   [
-   "3 horas de trabajo",
-   "−$36.000",
+   "Envío que pagas tú",
+   "−$5.500",
+   "rojo"
+  ],
+  [
+   "Comisión de pago (3 %)",
+   "−$1.050",
    "rojo"
   ]
  ],
  "total": [
   "Te queda",
-  "$36.000"
+  "$8.950"
  ],
- "pie": "30 % de margen. Sin contar arriendo ni domicilio.",
+ "pie": "26 % de margen, antes de publicidad.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

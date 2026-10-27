@@ -1,10 +1,15 @@
 {
- "layout": "pregunta",
+ "layout": "lista",
  "formato": "historia",
- "tema": "marfil",
- "kicker": "Reto de ahorro",
- "titulo": "$360.000 para publicidad en 6 semanas. ¿Cuánto apartas por semana?",
- "sub": "Opciones: $45.000 · $60.000 · $72.000. Haz la cuenta.",
+ "tema": "noche",
+ "kicker": "Deudas",
+ "titulo": "Antes de pedir un préstamo, revisa 3 cosas",
+ "items": [
+  "Cuánto pagas de cuota al mes",
+  "Cuánto te queda después de pagarla",
+  "Qué pasa si vendes 20 % menos"
+ ],
+ "cierre": "Haz el diagnóstico de tu negocio en 2 minutos.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

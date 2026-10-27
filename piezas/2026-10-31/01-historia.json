@@ -14,5 +14,6 @@
  "cta": {
   "texto": "kentra.pro",
   "boton": true
- }
+ },
+ "mascotaPos": "right:40px;bottom:540px;height:600px"
 }

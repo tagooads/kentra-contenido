@@ -1,37 +1,11 @@
 {
- "layout": "app",
+ "layout": "frase",
  "formato": "historia",
- "tema": "verde",
- "kicker": "Buen Fin",
- "titulo": "Una categoría para la promo. Ves qué te dejó.",
- "pantalla": "categorias",
- "app": {
-  "negocio": "Tienda Nube Verde",
-  "mes": "Noviembre",
-  "categorias": [
-   [
-    "Publicidad Buen Fin",
-    "$1.600.000",
-    100
-   ],
-   [
-    "Envíos Buen Fin",
-    "$480.000",
-    110
-   ],
-   [
-    "Empaques",
-    "$140.000",
-    56
-   ],
-   [
-    "Comisiones de pago",
-    "$290.000",
-    70
-   ]
-  ]
- },
- "nota": "Alerta si una se pasa",
+ "tema": "noche",
+ "kicker": "Cuando piden constancia",
+ "etiqueta": "Copia esto",
+ "frase": "Te mando el comprobante en PDF con el valor y la fecha del pago.",
+ "porque": "Un comprobante claro evita discusiones.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

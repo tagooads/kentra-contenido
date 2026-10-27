@@ -2,21 +2,22 @@
  "layout": "versus",
  "formato": "post",
  "tema": "noche",
- "titulo": "¿Cuánto te deben hoy?",
+ "titulo": "El cierre del mes: Excel vs Kentra",
  "izq": {
   "titulo": "Excel",
   "items": [
-   "Abrir la hoja correcta",
-   "Preguntar quién ya pagó",
-   "Sumar a mano y rezar"
+   "Buscar archivo",
+   "Copiar cifras",
+   "Rezar y cuadrar"
   ]
  },
  "der": {
   "titulo": "Kentra",
+  "figura": "telefono",
   "items": [
-   "Por cobrar en una lista",
-   "Alerta cuando vence",
-   "Al cobrar se registra"
+   "Ganancia real",
+   "Por categoría",
+   "Reporte listo"
   ]
  },
  "cta": {
