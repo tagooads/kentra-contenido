@@ -2964,6 +2964,497 @@
         "instagram",
         "facebook"
       ]
+    },
+    {
+      "id": "2026-10-28-01-historia",
+      "fecha": "2026-10-28T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-28/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "app",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-28-04-post",
+      "fecha": "2026-10-28T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-28/04-post.jpg"
+      ],
+      "caption": "Vendió el doble. Le quedó lo mismo.\n\nArriba, la frase que todos celebran. Abajo, la cuenta: septiembre vendió $6.000.000 y dejó $900.000; octubre vendió $12.000.000, gastó $11.100.000 y dejó… $900.000. El margen pasó de 15 % a 7,5 %.\n\nCrecer en ventas sin mirar el margen es trabajar el doble por lo mismo. Kentra te muestra las dos cifras juntas. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "split",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-28-02-carrusel",
+      "fecha": "2026-10-28T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-28/02-carrusel-1.jpg",
+        "piezas/2026-10-28/02-carrusel-2.jpg",
+        "piezas/2026-10-28/02-carrusel-3.jpg",
+        "piezas/2026-10-28/02-carrusel-4.jpg",
+        "piezas/2026-10-28/02-carrusel-5.jpg",
+        "piezas/2026-10-28/02-carrusel-6.jpg",
+        "piezas/2026-10-28/02-carrusel-7.jpg",
+        "piezas/2026-10-28/02-carrusel-8.jpg"
+      ],
+      "caption": "Vendió $9.000.000. Ganó $295.000. Y los dos números son verdad.\n\nEn la pizarra, la cuenta de una tienda de ropa en octubre: margen bruto 40 % ($3.600.000 tras la mercancía), margen operativo 7 % ($630.000 tras arriendo, sueldo y servicios) y margen neto 3,3 % ($295.000 tras comisiones y la cuota del crédito). El problema no está en lo que vende: está en lo que le cuesta abrir la puerta.\n\nKentra te muestra los tres números cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-28-05-post",
+      "fecha": "2026-10-28T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-28/05-post.jpg"
+      ],
+      "caption": "El saldo se ve lindo el 28. El 5 del mes siguiente, ya no tanto.\n\nLo que dice la imagen: el dinero de la cuenta todavía tiene dueños pendientes (el arriendo, el proveedor, la cuota). Lo tuyo es lo que queda después de restarlos, y eso casi nunca es lo que muestra el banco.\n\nKentra separa lo que entró, lo que salió y lo que debes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #GananciaReal #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-28-03-historia",
+      "fecha": "2026-10-28T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-28/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-29-01-historia",
+      "fecha": "2026-10-29T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-29/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "verticales",
+      "layout": "recibo",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-29-04-post",
+      "fecha": "2026-10-29T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-29/04-post.jpg"
+      ],
+      "caption": "«A $3.000 se venden solas.» Sí. Y dejan $400.\n\nDos voces, una galleta: la que pone precio redondo y la que suma harina, mantequilla, empaque, horno y la hora de trabajo ($2.600). A $3.000 quedan $400 por galleta; a $4.500 quedan $1.900.\n\nAntes de poner precio, mira cuánto te deja. Kentra te muestra el costo real y la ganancia de cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "skit",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-29-02-carrusel",
+      "fecha": "2026-10-29T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-29/02-carrusel-1.jpg",
+        "piezas/2026-10-29/02-carrusel-2.jpg",
+        "piezas/2026-10-29/02-carrusel-3.jpg",
+        "piezas/2026-10-29/02-carrusel-4.jpg",
+        "piezas/2026-10-29/02-carrusel-5.jpg",
+        "piezas/2026-10-29/02-carrusel-6.jpg",
+        "piezas/2026-10-29/02-carrusel-7.jpg",
+        "piezas/2026-10-29/02-carrusel-8.jpg"
+      ],
+      "caption": "Si cobras todo al final, el proyecto lo financias tú.\n\nEn este carrusel, el caso de un estudio de diseño con un proyecto de $3.000.000: sin anticipo pone $1.800.000 de su bolsillo durante 10 semanas; con un 50 % al firmar y dos hitos (30 % y 20 %), nunca pone más de $300.000. Cada hito con su comprobante, su fecha límite y su recordatorio.\n\nKentra hace el comprobante PDF con tu logo y registra el cobro cuando lo marcas. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Creativos",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-29-05-post",
+      "fecha": "2026-10-29T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-29/05-post.jpg"
+      ],
+      "caption": "Al que te debe no le da pena. ¿Por qué a ti sí?\n\nUna postura para pegar en la pared: cobrar lo que acordaron no es ser intenso, es terminar el trabajo. La incomodidad dura un mensaje; el dinero que no cobras dura todo el mes.\n\nEn Kentra cada cuenta por cobrar tiene fecha y alerta: cobras el día, sin pensarlo dos veces. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros",
+      "pilar": "educacion",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-29-03-historia",
+      "fecha": "2026-10-29T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-29/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "kentra-vs-excel",
+      "layout": "fantasma",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-30-01-historia",
+      "fecha": "2026-10-30T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-30/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-30-04-post",
+      "fecha": "2026-10-30T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-30/04-post.jpg"
+      ],
+      "caption": "Vendida en $45.000. Ganancia: $9.600.\n\nEl tiquete de una camiseta estampada vendida por internet: camiseta en blanco $12.000, estampado y etiqueta $7.800, envío «incluido» $9.000, comisión de la pasarela $1.600 y $5.000 de publicidad por cada venta. Quedan $9.600: 21 %.\n\nEl precio que ve el cliente y lo que te queda son dos números distintos. Kentra te muestra el segundo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
+      "pilar": "verticales",
+      "layout": "recibo",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-30-02-carrusel",
+      "fecha": "2026-10-30T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-30/02-carrusel-1.jpg",
+        "piezas/2026-10-30/02-carrusel-2.jpg",
+        "piezas/2026-10-30/02-carrusel-3.jpg",
+        "piezas/2026-10-30/02-carrusel-4.jpg",
+        "piezas/2026-10-30/02-carrusel-5.jpg",
+        "piezas/2026-10-30/02-carrusel-6.jpg",
+        "piezas/2026-10-30/02-carrusel-7.jpg",
+        "piezas/2026-10-30/02-carrusel-8.jpg"
+      ],
+      "caption": "Cerrar el mes no es un domingo entero con la calculadora. Son 5 pasos.\n\nEn este carrusel, el cierre de octubre de una cafetería: registrar lo que falta, cobrar los $640.000 pendientes, apartar los $3.000.000 que ya debe pagar en noviembre, mirar los tres números (entró $9.800.000, salió $7.900.000, quedó $1.900.000) y compararlos con septiembre: +31 %.\n\nEn Kentra el cierre ya está hecho cuando llegas al 31. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #Restaurantes",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-30-05-post",
+      "fecha": "2026-10-30T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-30/05-post.jpg"
+      ],
+      "caption": "Las cuentas sin revisar desde agosto. Yo: decorando.\nSi la vitrina ya está lista para noviembre pero no sabes cuánto te dejó octubre, esto es para ti: en Kentra el mes ya está sumado, restado y comparado. Solo tienes que mirarlo.\nCierra octubre antes de que noviembre te lo cobre. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-30-03-historia",
+      "fecha": "2026-10-30T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-30/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "reto",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-31-01-historia",
+      "fecha": "2026-10-31T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-31/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "app",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-31-04-post",
+      "fecha": "2026-10-31T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-31/04-post.jpg"
+      ],
+      "caption": "El cliente lleva tres «mañana le pago». Hoy pidió el cuarto.\n\nEl chat de una tienda de barrio: $86.000 en el cuaderno, un abono de $20.000 y la memoria del cliente que siempre falla a su favor. La lista con fechas no es desconfianza: es la única forma de que el fiado no se vuelva regalo.\n\nEn Kentra cada deuda queda con fecha, monto y alerta. ¿Tú qué harías: le fías otra vez o cortas ahí? {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaDeBarrio #Pymes",
+      "pilar": "verticales",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-31-02-carrusel",
+      "fecha": "2026-10-31T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-10-31/02-carrusel-1.jpg",
+        "piezas/2026-10-31/02-carrusel-2.jpg",
+        "piezas/2026-10-31/02-carrusel-3.jpg",
+        "piezas/2026-10-31/02-carrusel-4.jpg",
+        "piezas/2026-10-31/02-carrusel-5.jpg",
+        "piezas/2026-10-31/02-carrusel-6.jpg",
+        "piezas/2026-10-31/02-carrusel-7.jpg",
+        "piezas/2026-10-31/02-carrusel-8.jpg"
+      ],
+      "caption": "Un mes solo es un número. Dos meses son una tendencia.\n\nEn este carrusel, octubre contra septiembre en una cafetería: vendió 17 % más, los insumos subieron 16 %, la nómina 10 % y los domicilios bajaron 8 %. La ganancia pasó de $1.450.000 a $1.900.000 (+31 %) y el margen de 17,3 % a 19,4 %. Al final, una sola decisión para noviembre.\n\nKentra compara el mes con el anterior sin que armes tablas. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes #GananciaReal",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-31-05-post",
+      "fecha": "2026-10-31T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-31/05-post.jpg"
+      ],
+      "caption": "Vendiste $10.000.000. La DIAN ya tiene $1.597.000 apartados… en tu cuenta.\n\nLa cuenta en la pizarra: ventas con IVA $10.000.000; IVA del 19 % que cobraste por cuenta de la DIAN $1.597.000; lo que de verdad entró a tu negocio $8.403.000. Si ese IVA se mezcla con tu caja y lo gastas, en la fecha de pago aparece una deuda que no viste venir, con sanción e intereses.\n\nEn Kentra lo apartas en su categoría y lo ves separado desde el primer día. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Impuestos #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "pizarra",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-10-31-03-historia",
+      "fecha": "2026-10-31T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-31/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-01-01-historia",
+      "fecha": "2026-11-01T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-01/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-01-04-post",
+      "fecha": "2026-11-01T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-01/04-post.jpg"
+      ],
+      "caption": "Octubre cerró. Estos son los tres números que importan.\n\nEn la imagen, una cafetería: entraron $9.800.000, salieron $7.900.000 (insumos $3.350.000, arriendo $1.800.000, nómina $1.650.000 y otros $1.100.000) y quedaron $1.900.000. De ese número sale el sueldo del dueño, pero no todo: una parte vuelve al negocio.\n\nKentra te da los tres números el día 1, sin calculadora. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #GananciaReal #Restaurantes",
+      "pilar": "ganancia-real",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-01-02-carrusel",
+      "fecha": "2026-11-01T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-01/02-carrusel-1.jpg",
+        "piezas/2026-11-01/02-carrusel-2.jpg",
+        "piezas/2026-11-01/02-carrusel-3.jpg",
+        "piezas/2026-11-01/02-carrusel-4.jpg",
+        "piezas/2026-11-01/02-carrusel-5.jpg",
+        "piezas/2026-11-01/02-carrusel-6.jpg",
+        "piezas/2026-11-01/02-carrusel-7.jpg",
+        "piezas/2026-11-01/02-carrusel-8.jpg"
+      ],
+      "caption": "Si tu sueldo es «lo que sobre», hay meses en los que no cobras.\n\nEn este carrusel, cómo fijar el sueldo del dueño con los números de octubre de una cafetería: de los $1.900.000 que quedaron, aparta el colchón ($380.000) y el abono al crédito ($400.000); quedan $1.120.000, así que el sueldo se fija en $1.100.000 como un gasto más. ¿Quieres $1.500.000? Faltan $400.000: $2.100.000 más en ventas o 12 % menos en insumos.\n\nEn Kentra, tu sueldo es una categoría más. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SueldoDelDueño #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-01-05-post",
+      "fecha": "2026-11-01T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-01/05-post.jpg"
+      ],
+      "caption": "«Carísimo» depende de con qué lo compares.\n\nUn logo de $250.000 que se usa 10 años cuesta $2.000 al mes. La salida del sábado costó $95.000 y duró 3 horas. Ninguna de las dos es cara: una es inversión y la otra es gasto, y las dos están bien si sabes cuál es cuál.\n\nPonle a tu trabajo el precio que vale, no el que no incomode. Kentra te muestra cuánto te deja de verdad cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Creativos",
+      "pilar": "objeciones",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-01-03-historia",
+      "fecha": "2026-11-01T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-01/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "pizarra",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-02-01-historia",
+      "fecha": "2026-11-02T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-02/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "reto",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-02-04-post",
+      "fecha": "2026-11-02T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-02/04-post.jpg"
+      ],
+      "caption": "Competir por precio es una carrera que gana el que más pierde.\nSi bajas el precio para que no se vayan, cada venta te deja menos. Y si el margen no cubre tus gastos, vendes más para perder más.\nAntes de bajar un precio, mira cuánto te deja hoy.\nMira en minutos si de verdad estás ganando. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-02-02-carrusel",
+      "fecha": "2026-11-02T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-02/02-carrusel-1.jpg",
+        "piezas/2026-11-02/02-carrusel-2.jpg",
+        "piezas/2026-11-02/02-carrusel-3.jpg",
+        "piezas/2026-11-02/02-carrusel-4.jpg",
+        "piezas/2026-11-02/02-carrusel-5.jpg",
+        "piezas/2026-11-02/02-carrusel-6.jpg",
+        "piezas/2026-11-02/02-carrusel-7.jpg"
+      ],
+      "caption": "Tu pizzería vendió $18.000.000. ¿Cuánto fue tuyo?\nEn este carrusel: los tres márgenes (bruto, operativo y neto) con una pizzería de ejemplo, y la respuesta al reto de la mañana: ¿a cuánto vendes algo que te cuesta $10.000 si quieres ganar el 30 %?\nGuárdalo para tu próximo cierre de mes.\nMira tu margen real en minutos. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "pilar": "educacion",
+      "layout": "carrusel/portada",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-02-05-post",
+      "fecha": "2026-11-02T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-02/05-post.jpg"
+      ],
+      "caption": "Cobrar no es una ofensa. Es tu trabajo.\nAl que se incomoda cuando le cobras le respondes con calma si sabes cuánto te cuesta y cuánto te deja. El número te quita el miedo.\n¿Ya sabes cuánto te deja lo que vendes?\nHaz el diagnóstico en 2 minutos. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "objeciones",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
+    },
+    {
+      "id": "2026-11-02-03-historia",
+      "fecha": "2026-11-02T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-02/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "encuesta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ]
     }
   ]
 }
