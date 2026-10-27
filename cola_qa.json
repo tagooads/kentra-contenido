@@ -365,8 +365,17 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 2,
-      "qa_ticket": "6acfe7d2-2685-41aa-af36-1001529b63a6"
+      "version": 3,
+      "qa_ticket": "6acfe7d2-2685-41aa-af36-1001529b63a6",
+      "formato": "frase lista para copiar",
+      "gancho": "Cuando te piden descuento",
+      "primera_linea": "«Ese precio ya trae lo que necesito para seguir.",
+      "estilo": "frase, verdeoscuro, tarjeta blanca con comilla verde, sin mascota",
+      "modela": {
+        "referencia": "@sebaslopezinnova, frase lista cuando piden descuento (1,3M plays)",
+        "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
+        "que_tomo": "frase corta para sostener el precio sin bajar margen, con cifra demo"
+      }
     },
     {
       "id": "2026-10-28-01-historia",

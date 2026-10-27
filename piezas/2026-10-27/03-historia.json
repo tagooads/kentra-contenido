@@ -2,10 +2,10 @@
  "layout": "frase",
  "formato": "historia",
  "tema": "verdeoscuro",
- "kicker": "Cuando te piden fiado",
+ "kicker": "Cuando te piden descuento",
  "etiqueta": "Copia esto",
- "frase": "«Te lo aparto hoy y te lo entrego cuando lo pagues. Así no me atraso ni te atraso.»",
- "porque": "Fiar es prestar sin interés y sin fecha. Si ya fiaste, anótalo con fecha y cóbralo.",
+ "frase": "«Ese precio ya trae lo que necesito para seguir. Si quieres, te regalo un detalle, pero el precio no se mueve.»",
+ "porque": "Con 20 % de margen, un 15 % de descuento sobre $30.000 te deja $1.500 de los $6.000.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
