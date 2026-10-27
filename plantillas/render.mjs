@@ -514,9 +514,9 @@ L.fantasma = (p, t, hist) => {
     hist ? "right:-10px;top:400px;transform:rotate(5deg)" : "right:-10px;top:300px;transform:rotate(5deg)",
     hist ? "left:0;top:620px;transform:rotate(-4deg)" : "left:0;top:470px;transform:rotate(-4deg)",
   ];
-  const cartel = (txt, i) => `<div style="position:absolute;${pos[i]};width:${hist ? 440 : 380}px;z-index:2;background:#FBF4E4;color:#1E2D4F;border:6px solid #1E2D4F;border-radius:18px;padding:${hist ? "22px 26px" : "18px 22px"};box-shadow:0 18px 40px rgba(0,0,0,.35);display:flex;align-items:center;gap:16px">
+  const cartel = (txt, i) => `<div style="position:absolute;${pos[i]};width:${hist ? 500 : 420}px;z-index:2;background:#FBF4E4;color:#1E2D4F;border:6px solid #1E2D4F;border-radius:18px;padding:${hist ? "22px 26px" : "18px 22px"};box-shadow:0 18px 40px rgba(0,0,0,.35);display:flex;align-items:center;gap:16px">
       <span style="flex:none;width:52px;height:52px;border-radius:50%;background:#FF6B6B;color:#fff;font-weight:800;font-size:30px;display:flex;align-items:center;justify-content:center">✕</span>
-      <span style="font-weight:800;font-size:${hist ? 38 : 34}px;line-height:1.15;min-width:0;overflow-wrap:anywhere;text-decoration:line-through;text-decoration-thickness:5px;text-decoration-color:#FF6B6B">${rich(txt)}</span>
+      <span style="font-weight:800;font-size:40px;line-height:1.12;min-width:0;overflow-wrap:anywhere;text-decoration:line-through;text-decoration-thickness:3px;text-decoration-color:rgba(255,107,107,.75)">${rich(txt)}</span>
       <span style="position:absolute;left:50%;bottom:-${hist ? 60 : 50}px;width:16px;height:${hist ? 60 : 50}px;background:#8A6A3F;transform:translateX(-50%);z-index:-1"></span>
     </div>`;
   return `
@@ -556,13 +556,18 @@ function html(p, formato) {
   const hist = formato === "historia";
   const layout = L[p.layout] || L.mascota;
   const [W, H] = TAMANOS[formato] || TAMANOS.post;
-  return `<!doctype html><html><head><meta charset="utf-8"><style>${css(tema, formato)}</style></head>
+  return minLetra(`<!doctype html><html><head><meta charset="utf-8"><style>${css(tema, formato)}</style></head>
   <body class="${tema}">
     ${p.marcaAgua === false ? "" : '<div class="wm"></div>'}
     ${mascotaImg(p, hist, "none")}
     <main class="safe">${layout(p, t, hist)}</main>
     ${p.pagina ? `<div style="position:absolute;top:${hist ? 270 : 40}px;right:60px;font-weight:700;font-size:28px;color:${t.muted}">${esc(p.pagina)}</div>` : ""}
-  </body></html>`;
+  </body></html>`);
+}
+
+// Regla de Karol (QA): ninguna letra bajo 40 px. Se sube todo font-size literal < 40 px a 40 px (27 oct 2026).
+function minLetra(h) {
+  return h.replace(/font-size:\s*(\d+(?:\.\d+)?)px/g, (m, n) => (parseFloat(n) < 40 ? "font-size:40px" : m));
 }
 
 async function browser() {
@@ -606,7 +611,14 @@ async function renderUno(page, spec, formato, salida) {
       const b = el.getBoundingClientRect();
       if (b.bottom > r.bottom + 2 || b.right > r.right + 2 || b.left < r.left - 2) fuera++;
     }
-    return { overflowY, fuera, alto: m.scrollHeight, caja: m.clientHeight };
+    let chicas = 0;
+    const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    while (w.nextNode()) {
+      const n = w.currentNode; if (!n.textContent.trim()) continue;
+      const fs = parseFloat(getComputedStyle(n.parentElement).fontSize);
+      if (fs < 39.5) chicas++;
+    }
+    return { overflowY, fuera, chicas, alto: m.scrollHeight, caja: m.clientHeight };
   });
   await page.screenshot({ path: salida, type: "jpeg", quality: 92 });
   return desborde;
@@ -639,7 +651,7 @@ async function main() {
       }
       const salida = spec.layout === "carrusel" ? f.replace(/\.json$/, `-${i + 1}.jpg`) : f.replace(/\.json$/, ".jpg");
       const r = await renderUno(page, s, formato, salida);
-      const aviso = r.overflowY || r.fuera ? ` ⚠️ DESBORDE (contenido ${r.alto}px > caja ${r.caja}px, ${r.fuera} bloques fuera)` : "";
+      const aviso = (r.overflowY || r.fuera ? ` ⚠️ DESBORDE (contenido ${r.alto}px > caja ${r.caja}px, ${r.fuera} bloques fuera)` : "") + (r.chicas ? ` ⚠️ LETRA<40px (${r.chicas} textos)` : "");
       if (aviso) problemas++;
       console.log(`${aviso ? "⚠️" : "✅"} ${path.relative(RAIZ, salida)}${aviso}`);
     }

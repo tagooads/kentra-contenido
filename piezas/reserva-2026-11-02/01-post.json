@@ -1,10 +1,11 @@
 {
  "layout": "cita",
  "formato": "post",
- "tema": "marfil",
- "kicker": "Ganancia real",
- "titulo": "Vender no es ganar. Cobrar tampoco. Ganar es lo que queda.",
- "sub": "Tres números cada mes: entró, salió, quedó.",
+ "tema": "verde",
+ "kicker": "Dueños de negocio",
+ "titulo": "En un buen equipo, uno vende y otro anota. Si eres solo tú, haces los dos.",
+ "sub": "Que anotar no sea el trabajo pesado.",
+ "mascota": "telefono",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

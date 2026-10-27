@@ -1,7 +1,7 @@
 {
  "layout": "carrusel",
  "formato": "post",
- "tema": "navy",
+ "tema": "marfil",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
@@ -9,65 +9,54 @@
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Cierre de octubre",
-   "titulo": "Octubre se acaba. Ciérralo en 5 pasos",
-   "sub": "Con el ejemplo de una cafetería.",
-   "visual": "app",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Octubre",
-    "ingresos": "$9.800.000",
-    "gastos": "$7.900.000",
-    "ganancia": "$1.900.000",
-    "margen": "19,4 % de margen",
-    "barras": [
-     55,
-     70,
-     40,
-     85,
-     65,
-     80,
-     95
-    ],
-    "rojo": [
-     2
-    ],
-    "vencidas": "Por cobrar vencido",
-    "vencidasValor": "$640.000"
-   }
+   "kicker": "Contratar o no",
+   "titulo": "¿Contratas ayuda? Haz esta cuenta primero",
+   "sub": "Con el ejemplo de un taller de costura.",
+   "visual": "mascota-telefono"
   },
   {
    "layout": "valor",
    "num": "1",
-   "titulo": "Registra lo que falta antes del 31",
-   "texto": "Lo que no está anotado no existe para el cierre.",
-   "bullets": [
-    "Las ventas del fin de semana",
-    "Los gastos de la última semana",
-    "Las compras pequeñas en efectivo"
-   ]
+   "titulo": "Suma lo que cuesta en total",
+   "tema": "marfil",
+   "texto": "No es solo el pago mensual.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pago mensual",
+      "$900.000"
+     ],
+     [
+      "Cargas y aportes",
+      "$250.000"
+     ],
+     [
+      "**Total al mes**",
+      "$1.150.000",
+      "rojo"
+     ]
+    ]
+   }
   },
   {
    "layout": "valor",
    "num": "2",
-   "tema": "claro",
-   "titulo": "Cobra lo que te deben de octubre",
-   "texto": "Lo pendiente no es ganancia hasta que entra. Llama antes del 31.",
+   "titulo": "Cuenta las horas que te libera",
+   "tema": "blanco",
+   "texto": "Tiempo parcial: 20 horas a la semana son 80 al mes.",
    "ejemplo": {
     "filas": [
      [
-      "Pedidos de eventos por cobrar",
-      "$640.000",
-      "rojo"
+      "Horas liberadas",
+      "80 h"
      ],
      [
-      "Vencieron el",
-      "24 de octubre"
+      "Tu hora produciendo",
+      "$12.000"
      ],
      [
-      "**Si entra antes del 31**",
-      "cuenta en octubre",
+      "**Ganancia extra**",
+      "$960.000",
       "verde"
      ]
     ]
@@ -76,115 +65,98 @@
   {
    "layout": "valor",
    "num": "3",
-   "titulo": "Aparta lo que ya debes pagar en noviembre",
-   "texto": "Esa parte del saldo no es tuya todavía.",
+   "titulo": "Compara los dos números",
+   "tema": "marfil",
+   "texto": "Lo que genera contra lo que cuesta.",
    "ejemplo": {
     "filas": [
      [
-      "Arriendo (5 nov)",
-      "$1.800.000"
+      "Ganancia extra",
+      "$960.000"
      ],
      [
-      "Proveedor (2 nov)",
-      "$1.200.000"
+      "Costo de la ayuda",
+      "− $1.150.000",
+      "rojo"
      ],
      [
-      "**Comprometido**",
-      "$3.000.000",
+      "**Diferencia**",
+      "− $190.000",
       "rojo"
      ]
     ]
-   }
+   },
+   "cierre": "Todavía no conviene."
   },
   {
    "layout": "valor",
    "num": "4",
-   "tema": "claro",
-   "titulo": "Mira los tres números",
-   "texto": "Lo que entró, lo que salió y lo que te quedó. Ese es el cierre.",
+   "titulo": "Mira si tu hora vale más",
+   "tema": "blanco",
+   "texto": "Con otra hora, otro resultado.",
    "ejemplo": {
-    "titulo": "Octubre · Café La Esquina",
     "filas": [
      [
-      "Entró",
-      "$9.800.000"
+      "80 h × $18.000",
+      "$1.440.000"
      ],
      [
-      "Salió",
-      "− $7.900.000",
+      "Costo de la ayuda",
+      "− $1.150.000",
       "rojo"
      ],
      [
-      "**Te quedó**",
-      "$1.900.000",
-      "verde"
-     ]
-    ]
-   },
-   "cierre": "19,4 % de margen."
-  },
-  {
-   "layout": "valor",
-   "num": "5",
-   "titulo": "Compara con septiembre y decide una sola cosa",
-   "texto": "Un número mejor no basta: hay que saber de dónde salió.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Septiembre",
-      "$1.450.000"
-     ],
-     [
-      "Octubre",
-      "$1.900.000"
-     ],
-     [
       "**Diferencia**",
-      "+31 %",
+      "+$290.000",
       "verde"
      ]
     ]
    }
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Los tres números y lo que falta por cobrar",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Octubre",
-    "ingresos": "$9.800.000",
-    "gastos": "$7.900.000",
-    "ganancia": "$1.900.000",
-    "margen": "19,4 % de margen",
-    "barras": [
-     55,
-     70,
-     40,
-     85,
-     65,
-     80,
-     95
-    ],
-    "rojo": [
-     2
-    ],
-    "vencidas": "Por cobrar vencido",
-    "vencidasValor": "$640.000"
-   },
-   "nota": "Por cobrar vencido: $640.000"
+   "layout": "valor",
+   "num": "5",
+   "titulo": "Contrata solo si genera más de lo que cuesta",
+   "tema": "menta",
+   "texto": "Pon un margen y revísalo a los 3 meses.",
+   "cierre": "Si la cuenta es negativa, espera o prueba con horas."
+  },
+  {
+   "layout": "dato",
+   "tema": "claro",
+   "kicker": "Con Kentra",
+   "titulo": "Compara tu ganancia antes y después",
+   "filas": [
+    {
+     "label": "Antes",
+     "valor": "$2.100.000",
+     "color": "gris"
+    },
+    {
+     "label": "Con ayuda",
+     "valor": "$2.390.000",
+     "color": "gris"
+    },
+    {
+     "label": "Diferencia",
+     "valor": "+$290.000",
+     "color": "verde",
+     "grande": true
+    }
+   ],
+   "cierre": "Ejemplo de un mes."
   },
   {
    "layout": "mascota",
+   "tema": "menta",
    "kicker": "Kentra",
-   "titulo": "Cierra octubre en minutos, no en un domingo",
+   "titulo": "Contrata con números, no con corazonadas",
    "items": [
-    "Ganancia real del mes",
-    "Alertas de lo que falta por cobrar",
-    "Comparación con el mes anterior"
+    "Ganancia real de cada mes",
+    "Ingresos y gastos en un solo lugar",
+    "Gestión de deudas y recordatorios"
    ],
-   "mascota": "app",
+   "mascota": "telefono",
    "tam": "media"
   }
  ]

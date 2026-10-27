@@ -1,12 +1,19 @@
 {
- "layout": "tweet",
+ "layout": "mascota",
  "formato": "post",
- "tema": "verde",
- "kicker": "Cobros",
- "texto": "Si te da pena cobrar, tranquilo: al que te debe no le da ninguna.\n\nCobrar lo acordado no es ser intenso. Es terminar el trabajo.",
- "pie": "Anota la fecha, pon la alerta, cobra el día. Sin pena.",
+ "tema": "claro",
+ "kicker": "Dueño y negocio",
+ "titulo": "Tú y tu negocio son dos cuentas distintas",
+ "sub": "Si pagas el mercado con la tarjeta del negocio, no sabes cuánto ganó él ni cuánto gastaste tú.",
+ "items": [
+  "Una cuenta o tarjeta solo para el negocio",
+  "Lo personal que saques, anótalo aparte",
+  "Cada gasto, en su categoría"
+ ],
+ "mascota": "telefono",
+ "tam": "media",
  "cta": {
   "texto": "kentra.pro",
-  "boton": false
+  "boton": true
  }
 }

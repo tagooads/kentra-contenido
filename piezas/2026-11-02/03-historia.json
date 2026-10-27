@@ -2,14 +2,14 @@
  "layout": "encuesta",
  "formato": "historia",
  "tema": "marfil",
- "kicker": "Encuesta",
- "titulo": "¿Ya sabes cuánto te quedó de octubre?",
+ "kicker": "Semana de pagos",
+ "titulo": "Vencen $850.000 y tienes $620.000. ¿Qué haces primero?",
  "opciones": [
-  "Sí, al peso",
-  "Más o menos",
-  "Ni idea"
+  "Pago lo más urgente",
+  "Cobro lo que me deben",
+  "Pido más plazo"
  ],
- "nota": "Responde 1, 2 o 3. Si dudaste, el diagnóstico te lo dice.",
+ "nota": "Te faltan $230.000. Cuéntalos antes de decidir.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

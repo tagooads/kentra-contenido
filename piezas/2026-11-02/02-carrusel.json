@@ -1,77 +1,61 @@
 {
  "layout": "carrusel",
  "formato": "post",
- "tema": "navy",
+ "tema": "claro",
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Ganancia real",
-   "titulo": "Un negocio tiene tres márgenes. ¿Cuál miras tú?",
-   "sub": "Con una pizzería de ejemplo, en cifras.",
-   "visual": "app",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Pizzería Don Nino",
-    "mes": "Octubre",
-    "ingresos": "$18.000.000",
-    "gastos": "$16.600.000",
-    "ganancia": "$1.400.000",
-    "margen": "7,8 % de margen",
-    "barras": [
-     52,
-     60,
-     55,
-     66,
-     62,
-     70,
-     74
-    ]
-   }
+   "tema": "claro",
+   "kicker": "Transferencias",
+   "titulo": "Te llegó una transferencia que no reconoces. ¿La gastas?",
+   "sub": "5 pasos antes de tocarla.",
+   "visual": "mascota-telefono"
   },
   {
    "layout": "valor",
+   "tema": "blanco",
    "num": "1",
-   "titulo": "Margen bruto: lo que queda después de hacer el producto",
-   "texto": "Ventas menos el costo de lo que vendes: ingredientes, empaques, caja.",
+   "titulo": "Compara con lo que vendiste hoy",
+   "texto": "Suma las ventas que anotaste y mira cuánto entró al banco.",
    "ejemplo": {
-    "titulo": "Pizzería, octubre",
+    "titulo": "Papelería, martes",
     "filas": [
      [
-      "Ventas",
-      "$18.000.000"
+      "Ventas anotadas",
+      "$620.000"
      ],
      [
-      "Costo de lo vendido",
-      "−$6.300.000",
+      "Entró al banco",
+      "$690.000"
+     ],
+     [
+      "Sin explicar",
+      "$70.000",
       "rojo"
-     ],
-     [
-      "Margen bruto",
-      "$11.700.000 (65 %)",
-      "verde"
      ]
     ]
    }
   },
   {
    "layout": "valor",
+   "tema": "claro",
    "num": "2",
-   "titulo": "Margen operativo: después de pagar el negocio",
-   "texto": "Resta arriendo, nómina, servicios, domicilios y publicidad.",
+   "titulo": "Busca quién la mandó y por qué",
+   "texto": "Nombre, hora y monto: ¿coincide con un cobro pendiente?",
    "ejemplo": {
+    "titulo": "Cobros pendientes",
     "filas": [
      [
-      "Margen bruto",
-      "$11.700.000"
+      "Ana debía",
+      "$45.000"
      ],
      [
-      "Gastos del negocio",
-      "−$9.900.000",
-      "rojo"
+      "Luis debía",
+      "$25.000"
      ],
      [
-      "Margen operativo",
-      "$1.800.000 (10 %)",
+      "Llegó a las 3:12",
+      "$70.000",
       "verde"
      ]
     ]
@@ -79,82 +63,71 @@
   },
   {
    "layout": "valor",
+   "tema": "blanco",
    "num": "3",
-   "titulo": "Margen neto: lo que de verdad es tuyo",
-   "texto": "Resta impuestos, cuotas de crédito y comisiones de pago.",
+   "titulo": "Si no coincide, no la gastes",
+   "texto": "Apártala aparte y confirma con quien crees que fue. Hasta saberlo, no es ganancia.",
+   "cierre": "Gastarla hoy y devolverla mañana te deja corto."
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": "4",
+   "titulo": "Si es de un cliente, anótala en su pedido",
+   "texto": "Un adelanto no es una venta nueva: se resta de lo que ya te debe.",
    "ejemplo": {
+    "titulo": "Pedido de Ana",
     "filas": [
      [
-      "Margen operativo",
-      "$1.800.000"
+      "Pedido",
+      "$120.000"
      ],
      [
-      "Impuestos, cuotas y comisiones",
-      "−$400.000",
-      "rojo"
-     ],
-     [
-      "Margen neto",
-      "$1.400.000 (7,8 %)",
+      "Adelanto",
+      "−$70.000",
       "verde"
+     ],
+     [
+      "Saldo por cobrar",
+      "$50.000",
+      "rojo"
      ]
     ]
    }
   },
   {
    "layout": "valor",
-   "kicker": "La respuesta del reto",
-   "titulo": "Te cuesta $10.000 y quieres ganar el 30 %",
-   "texto": "Si le sumas 30 % al costo, el margen sobre el precio es 23 %. Para que el 30 % sea margen, divides entre 0,7.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Costo + 30 %",
-      "$13.000 → margen 23 %",
-      "rojo"
-     ],
-     [
-      "Costo ÷ 0,7",
-      "$14.300 → margen 30 %",
-      "verde"
-     ]
-    ]
-   },
-   "cierre": "Respuesta: B."
+   "tema": "blanco",
+   "num": "5",
+   "titulo": "Anota siempre de quién y de qué",
+   "texto": "Así el cierre del día cuadra sin adivinar.",
+   "bullets": [
+    "Fecha y monto",
+    "De quién llegó",
+    "A qué pedido corresponde"
+   ]
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Entró, salió, te quedó: el margen sin fórmulas",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Pizzería Don Nino",
-    "mes": "Octubre",
-    "ingresos": "$18.000.000",
-    "gastos": "$16.600.000",
-    "ganancia": "$1.400.000",
-    "margen": "7,8 % de margen",
-    "barras": [
-     52,
-     60,
-     55,
-     66,
-     62,
-     70,
-     74
-    ]
-   },
-   "nota": "Saldo neto y margen del mes, solos"
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Cada ingreso con categoría, fecha, monto y nota",
+   "items": [
+    "Ingresos con categoría y nota",
+    "Cuentas por cobrar que se registran solas al cobrarlas",
+    "Tu ganancia real del mes en una sola pantalla"
+   ]
   },
   {
    "layout": "mascota",
-   "titulo": "Vender mucho no es ganar mucho",
+   "tema": "verde",
+   "titulo": "Si no sabes de dónde viene, no es ganancia",
    "tam": "media",
-   "mascota": "app",
+   "mascota": "telefono",
    "items": [
-    "Ingresos y gastos por categoría",
-    "Ganancia real del mes en una pantalla",
-    "KentrAI responde con tus números"
+    "Compara ventas con lo que entró",
+    "Anota de quién y de qué",
+    "Mira tu ganancia real del mes"
    ],
    "cta": {
     "texto": "kentra.pro",

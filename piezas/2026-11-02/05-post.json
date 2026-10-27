@@ -1,13 +1,21 @@
 {
- "layout": "meme",
+ "layout": "precio",
  "formato": "post",
- "tema": "blanco",
- "arriba": "El cliente cuando le cobras lo que acordaron:",
- "abajo": "«¿Y por qué tan caro?»",
- "figura": "app",
- "globo": "Tranquilo. Ya hice la cuenta: me deja $36.000.",
+ "tema": "verdeoscuro",
+ "kicker": "Plan Básico",
+ "titulo": "Ordena tu negocio por menos que un domicilio semanal",
+ "plan": "Plan Básico",
+ "precio": "$15",
+ "periodo": "/mes",
+ "nota": "Sin permanencia. Acceso inmediato.",
+ "items": [
+  "Dashboard con tu ganancia real",
+  "Ingresos y gastos por categoría",
+  "Comprobantes PDF con tu logo",
+  "KentrAI ilimitado"
+ ],
  "cta": {
   "texto": "kentra.pro",
-  "boton": false
+  "boton": true
  }
 }

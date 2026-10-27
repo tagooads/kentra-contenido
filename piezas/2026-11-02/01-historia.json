@@ -3,13 +3,13 @@
  "formato": "historia",
  "tema": "noche",
  "kicker": "Reto de lunes",
- "titulo": "Te cuesta $10.000 y quieres ganar el 30 %. ¿A cuánto lo vendes?",
+ "titulo": "Vendes 20 empanadas a $4.000 y gastas $52.000. ¿Cuánto ganas?",
  "opciones": [
-  "$13.000",
-  "$14.300",
-  "$11.500"
+  "$80.000",
+  "$28.000",
+  "$32.000"
  ],
- "nota": "Responde con la letra. La respuesta, hoy a las 12 en el feed.",
+ "nota": "Haz la cuenta antes de seguir: vender no es ganar.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

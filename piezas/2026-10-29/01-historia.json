@@ -5,7 +5,7 @@
  "kicker": "Restaurantes",
  "titulo": "Hamburguesa de $18.000: ¿cuánto queda?",
  "negocio": "Burger del Barrio",
- "detalle": "Combo clásico por domicilio · datos demo",
+ "detalle": "Combo clásico por domicilio",
  "items": [
   [
    "Precio de venta",
@@ -37,7 +37,7 @@
   "Te queda",
   "$2.000"
  ],
- "pie": "11 % de margen. En el local, sin la comisión, quedan $6.500 (36 %).",
+ "pie": "11 % de margen. En el local, sin la comisión, quedan $6.500 (36 %).",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

@@ -1,31 +1,14 @@
 {
- "layout": "dato",
- "formato": "post",
- "tema": "claro",
- "kicker": "Cierre de octubre",
- "titulo": "Octubre en una cafetería: entró, salió, quedó",
- "filas": [
-  {
-   "label": "Entró",
-   "valor": "$9.800.000",
-   "color": "gris"
-  },
-  {
-   "label": "Salió",
-   "valor": "− $7.900.000",
-   "color": "rojo",
-   "nota": "insumos $3.350.000 · nómina $1.650.000 · arriendo y otros $2.900.000"
-  },
-  {
-   "label": "Te quedó",
-   "valor": "$1.900.000",
-   "color": "verde",
-   "grande": true
-  }
- ],
- "cierre": "No todo es sueldo: una parte vuelve al negocio.",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": false
- }
+  "layout": "dato",
+  "formato": "post",
+  "tema": "claro",
+  "kicker": "Taller mecánico",
+  "titulo": "$18.000 al día que nadie anota. ¿Cuánto es al año?",
+  "filas": [
+    { "label": "Cada día", "valor": "$18.000", "color": "gris", "nota": "tintos, tornillos sueltos y domicilios" },
+    { "label": "Al mes", "valor": "$468.000", "color": "rojo", "nota": "26 días de trabajo" },
+    { "label": "Al año", "valor": "$5.616.000", "color": "rojo", "grande": true }
+  ],
+  "cierre": "Lo chico que no se anota se vuelve grande.",
+  "cta": { "texto": "kentra.pro", "boton": false }
 }

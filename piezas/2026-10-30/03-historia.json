@@ -1,7 +1,7 @@
 {
  "layout": "reto",
  "formato": "historia",
- "tema": "marfil",
+ "tema": "noche",
  "kicker": "Reto de viernes",
  "titulo": "Compraste $3.000.000 en mercancía y vendiste la mitad en $2.400.000. ¿Ganaste o perdiste?",
  "opciones": [
@@ -16,7 +16,7 @@
    "ok": true
   }
  ],
- "nota": "Ganancia: $900.000. Caja: −$600.000. Ganar y tener dinero no es lo mismo.",
+ "nota": "Ganancia: $900.000. Caja: − $600.000. Ganar y tener dinero no es lo mismo.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

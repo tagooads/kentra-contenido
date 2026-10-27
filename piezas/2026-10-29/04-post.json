@@ -1,43 +1,12 @@
 {
- "layout": "skit",
+ "layout": "mito",
  "formato": "post",
- "tema": "blanco",
- "kicker": "Dos voces",
- "titulo": "«A $3.000 se venden solas»",
- "a": {
-  "nombre": "Precio a ojo",
-  "inicial": "?"
- },
- "b": {
-  "nombre": "La cuenta",
-  "inicial": "="
- },
- "lineas": [
-  [
-   "a",
-   "Listo: galletas a $3.000. Se venden solas."
-  ],
-  [
-   "b",
-   "¿Cuánto te cuesta cada una, con todo?"
-  ],
-  [
-   "a",
-   "Como $1.200."
-  ],
-  [
-   "b",
-   "Más empaque, horno y tu hora: $2.600. Te quedan $400."
-  ],
-  [
-   "a",
-   "Es que a $3.000 nadie lo piensa."
-  ],
-  [
-   "b",
-   "A $4.500 tampoco. Y te quedan $1.900."
-  ]
- ],
+ "tema": "verde",
+ "kicker": "Mito del local",
+ "titulo": "«Un gasto de $15.000 no cambia nada»",
+ "mito": "Un café, un domicilio, una recarga: $15.000 no se nota.",
+ "realidad": "Tres veces por semana son **$180.000 al mes** y $2.160.000 al año. Lo pequeño que se repite también es un gasto grande.",
+ "nota": "Si no lo anotas, no lo ves.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

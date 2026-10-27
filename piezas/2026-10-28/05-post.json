@@ -1,11 +1,17 @@
 {
- "layout": "cita",
- "formato": "post",
- "tema": "navy",
- "titulo": "Lo que hay en la cuenta no es tuyo hasta que pagues lo que debes.",
- "sub": "Resta arriendo, proveedores y cuotas. Lo que queda es lo que puedes tocar.",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": false
- }
+  "layout": "split",
+  "formato": "post",
+  "tema": "menta",
+  "kicker": "Regalar para vender",
+  "arriba": { "kicker": "El gancho", "texto": "«Con tu pedido, un pan de regalo»" },
+  "abajo": {
+    "kicker": "La cuenta del mes",
+    "filas": [
+      ["Pan regalado: 300 × $900", "−$270.000", "rojo"],
+      ["40 clientes que vuelven × $8.000", "+$320.000"],
+      ["Queda", "$50.000", "res"]
+    ]
+  },
+  "nota": "Si vuelven menos de 34 clientes, regalar te cuesta.",
+  "cta": { "texto": "kentra.pro", "boton": false }
 }

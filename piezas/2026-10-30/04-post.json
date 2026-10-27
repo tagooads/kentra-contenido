@@ -1,48 +1,43 @@
 {
- "layout": "recibo",
+ "layout": "skit",
  "formato": "post",
- "tema": "verdeoscuro",
- "kicker": "Tiendas online",
- "titulo": "Una camiseta de $45.000 vendida por internet",
- "negocio": "Tienda Nube Verde",
- "detalle": "Camiseta estampada · pedido 0412 · datos demo",
- "items": [
+ "tema": "menta",
+ "kicker": "Dos voces",
+ "titulo": "«Fue solo un mandado»",
+ "a": {
+  "nombre": "Lo que pensé",
+  "inicial": "?"
+ },
+ "b": {
+  "nombre": "Lo que sumó",
+  "inicial": "="
+ },
+ "lineas": [
   [
-   "Precio de venta",
-   "$45.000",
-   "verde"
+   "a",
+   "Solo fueron $6.000 de parqueadero."
   ],
   [
-   "Camiseta en blanco",
-   "−$12.000",
-   "rojo"
+   "b",
+   "Y $4.500 de hielo. Y $9.000 de bolsas."
   ],
   [
-   "Estampado y etiqueta",
-   "−$7.800",
-   "rojo"
+   "a",
+   "Eso no es nada."
   ],
   [
-   "Envío «incluido»",
-   "−$9.000",
-   "rojo"
+   "b",
+   "Esta semana: $19.500. El mes: $78.000."
   ],
   [
-   "Comisión de la pasarela",
-   "−$1.600",
-   "rojo"
+   "a",
+   "Es que no lo anoté."
   ],
   [
-   "Publicidad por cada venta",
-   "−$5.000",
-   "rojo"
+   "b",
+   "Por eso el mes cierra $78.000 más corto."
   ]
  ],
- "total": [
-  "Te queda",
-  "$9.600"
- ],
- "nota": "21 % de margen. El envío «incluido» costó más que el estampado.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

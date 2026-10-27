@@ -1,27 +1,15 @@
 {
- "layout": "pizarra",
- "formato": "historia",
- "tema": "verde",
- "kicker": "Reto de domingo",
- "titulo": "Meta de noviembre: $1.000.000 de ganancia. ¿Cuánto hay que vender?",
- "lineas": [
-  [
-   "Ganancia que quieres",
-   "$1.000.000"
+  "layout": "tip",
+  "formato": "historia",
+  "tema": "menta",
+  "kicker": "Noviembre",
+  "titulo": "Ordena tu negocio en 4 días de 10 minutos",
+  "items": [
+    "Día 1: junta recibos y facturas",
+    "Día 2: anota lo que vendiste",
+    "Día 3: anota lo que pagaste",
+    "Día 4: resta y mira cuánto te quedó"
   ],
-  [
-   "Tu margen neto",
-   "20 %"
-  ],
-  [
-   "Ventas necesarias",
-   "?",
-   "res"
-  ]
- ],
- "nota": "Respuesta: $1.000.000 ÷ 0,20 = $5.000.000. ¿Sabes tu margen? Sin él, la meta es un deseo.",
- "cta": {
-  "texto": "kentra.pro/quiz",
-  "boton": true
- }
+  "cierre": "¿Sabes cuánto te queda hoy? Hazlo en 2 minutos.",
+  "cta": { "texto": "kentra.pro/quiz", "boton": true }
 }

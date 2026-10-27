@@ -1,42 +1,17 @@
 {
- "layout": "split",
- "formato": "post",
- "tema": "noche",
- "kicker": "Pantalla dividida",
- "arriba": {
-  "kicker": "Lo que se celebra",
-  "texto": "«Este mes vendimos el doble. Nos fue increíble.»"
- },
- "abajo": {
-  "kicker": "La cuenta",
-  "filas": [
-   [
-    "Ventas de septiembre",
-    "$6.000.000"
-   ],
-   [
-    "Ganancia de septiembre",
-    "$900.000 (15 %)"
-   ],
-   [
-    "Ventas de octubre",
-    "$12.000.000"
-   ],
-   [
-    "Gastos de octubre",
-    "−$11.100.000",
-    "rojo"
-   ],
-   [
-    "Ganancia de octubre",
-    "$900.000 (7,5 %)",
-    "res"
-   ]
-  ]
- },
- "nota": "Vender el doble con el mismo resultado no es crecer. Es trabajar el doble.",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": false
- }
+  "layout": "lista",
+  "formato": "post",
+  "tema": "blanco",
+  "numerar": true,
+  "kicker": "Pedido grande",
+  "titulo": "5 preguntas antes de aceptar un pedido grande",
+  "items": [
+    "¿Cuánto me cuesta hacerlo completo?",
+    "¿Me pagan antes o después de entregar?",
+    "¿Tengo con qué comprar el material?",
+    "¿Cuánto me queda por unidad con rebaja?",
+    "¿A qué otros clientes dejo esperando?"
+  ],
+  "cierre": "Si no puedes contestar una, todavía no es un buen pedido.",
+  "cta": { "texto": "kentra.pro", "boton": false }
 }

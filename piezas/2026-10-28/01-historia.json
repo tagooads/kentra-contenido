@@ -1,32 +1,10 @@
 {
- "layout": "app",
- "formato": "historia",
- "tema": "navy",
- "kicker": "Tienda online",
- "titulo": "Octubre va 18 % mejor que septiembre",
- "pantalla": "dashboard",
- "app": {
-  "negocio": "Tienda Nube Verde",
-  "mes": "Octubre",
-  "ingresos": "$7.400.000",
-  "gastos": "$5.620.000",
-  "ganancia": "$1.780.000",
-  "margen": "24 % de margen",
-  "vsMes": "+18 % vs sept.",
-  "barras": [
-   48,
-   55,
-   52,
-   60,
-   58,
-   66,
-   76
-  ],
-  "rojo": []
- },
- "nota": "Comparado con septiembre, sin fórmulas",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": true
- }
+  "layout": "encuesta",
+  "formato": "historia",
+  "tema": "verde",
+  "kicker": "Antes de gastarlo",
+  "titulo": "Te pagaron $400.000 y la mercancía costó $280.000. ¿Cuánto apartas para reponerla?",
+  "opciones": ["$120.000", "$280.000", "$400.000"],
+  "nota": "Piénsalo antes de gastarlo.",
+  "cta": { "texto": "kentra.pro/quiz", "boton": true }
 }

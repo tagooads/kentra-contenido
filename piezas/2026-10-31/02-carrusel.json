@@ -1,7 +1,7 @@
 {
  "layout": "carrusel",
  "formato": "post",
- "tema": "navy",
+ "tema": "marfil",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
@@ -9,53 +9,32 @@
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Cierre de octubre",
-   "titulo": "¿Qué cambió de septiembre a octubre?",
-   "sub": "Comparar el mes dice más que mirarlo solo.",
-   "visual": "app",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Octubre",
-    "ingresos": "$9.800.000",
-    "gastos": "$7.900.000",
-    "ganancia": "$1.900.000",
-    "margen": "19,4 % de margen",
-    "barras": [
-     55,
-     70,
-     40,
-     85,
-     65,
-     80,
-     95
-    ],
-    "rojo": [
-     2
-    ],
-    "vsMes": "+31 % vs sept."
-   }
+   "kicker": "Cuenta por cliente",
+   "titulo": "Tu mejor cliente no siempre es el que más compra",
+   "sub": "Tres clientes de una imprenta, con la cuenta completa.",
+   "visual": "mascota-telefono"
   },
   {
    "layout": "valor",
    "num": "1",
-   "titulo": "Compara ventas con ventas",
-   "texto": "El mismo número, en los dos meses.",
+   "tema": "claro",
+   "titulo": "El que más compra: un colegio",
+   "texto": "Pide $4.000.000 al mes y exige pagar a 60 días.",
    "ejemplo": {
-    "titulo": "Café La Esquina",
+    "titulo": "Colegio",
     "filas": [
      [
-      "Septiembre",
-      "$8.400.000"
+      "Ventas",
+      "$4.000.000"
      ],
      [
-      "Octubre",
-      "$9.800.000"
+      "Papel, tinta y entrega",
+      "−$3.640.000",
+      "rojo"
      ],
      [
-      "**Vendió**",
-      "+17 %",
-      "verde"
+      "**Le queda**",
+      "$360.000 (9 %)"
      ]
     ]
    }
@@ -63,47 +42,50 @@
   {
    "layout": "valor",
    "num": "2",
-   "tema": "claro",
-   "titulo": "Compara cada gasto con el suyo",
-   "texto": "No el total: categoría por categoría.",
+   "tema": "menta",
+   "titulo": "El del medio: un restaurante",
+   "texto": "Compra menos y deja mucho más.",
    "ejemplo": {
+    "titulo": "Restaurante",
     "filas": [
      [
-      "Insumos",
-      "$2.900.000 → $3.350.000 (+16 %)",
+      "Ventas",
+      "$1.500.000"
+     ],
+     [
+      "Papel, tinta y entrega",
+      "−$1.050.000",
       "rojo"
      ],
      [
-      "Nómina",
-      "$1.500.000 → $1.650.000 (+10 %)"
-     ],
-     [
-      "Domicilios",
-      "$430.000 → $395.000 (−8 %)",
+      "**Le queda**",
+      "$450.000 (30 %)",
       "verde"
      ]
     ]
-   },
-   "cierre": "Los insumos subieron casi igual que las ventas: ahí no ganaste."
+   }
   },
   {
    "layout": "valor",
    "num": "3",
-   "titulo": "Compara la ganancia, no el movimiento",
-   "texto": "Vender más solo sirve si queda más.",
+   "tema": "claro",
+   "titulo": "El pequeño: una tienda de barrio",
+   "texto": "Casi nadie lo mira, y es el que mejor margen deja.",
    "ejemplo": {
+    "titulo": "Tienda de barrio",
     "filas": [
      [
-      "Septiembre",
-      "$1.450.000"
+      "Ventas",
+      "$900.000"
      ],
      [
-      "Octubre",
-      "$1.900.000"
+      "Papel, tinta y entrega",
+      "−$540.000",
+      "rojo"
      ],
      [
-      "**Te quedó**",
-      "+31 %",
+      "**Le queda**",
+      "$360.000 (40 %)",
       "verde"
      ]
     ]
@@ -112,76 +94,62 @@
   {
    "layout": "valor",
    "num": "4",
-   "tema": "claro",
-   "titulo": "Mira el margen",
-   "texto": "Cuánto queda de cada $100 vendidos.",
+   "tema": "menta",
+   "titulo": "Ordénalos por lo que dejan",
+   "texto": "El colegio es más de la mitad de las ventas y menos de un tercio de la ganancia.",
    "ejemplo": {
     "filas": [
      [
-      "Septiembre",
-      "17,3 %"
-     ],
-     [
-      "Octubre",
-      "19,4 %"
-     ],
-     [
-      "**De cada $100**",
-      "$19 en vez de $17",
+      "Tienda de barrio",
+      "40 %",
       "verde"
+     ],
+     [
+      "Restaurante",
+      "30 %",
+      "verde"
+     ],
+     [
+      "Colegio",
+      "9 %",
+      "rojo"
      ]
     ]
    }
   },
   {
    "layout": "valor",
-   "tema": "verde",
-   "kicker": "Para noviembre",
-   "titulo": "Decide una sola cosa",
+   "tema": "marfil",
+   "kicker": "Qué haces con eso",
+   "titulo": "Decide con el margen, no con el tamaño",
    "bullets": [
-    "Negociar insumos: es el gasto que más creció",
-    "Mantener el turno extra: dejó más de lo que costó",
-    "Revisar domicilios: ¿bajó el gasto o bajaron los pedidos?"
+    "Revisa si el precio del colegio cubre tu cuenta completa",
+    "Busca más clientes como el restaurante",
+    "Dedica tu tiempo a los que más dejan"
    ]
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Octubre al lado de septiembre",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Café La Esquina",
-    "mes": "Octubre",
-    "ingresos": "$9.800.000",
-    "gastos": "$7.900.000",
-    "ganancia": "$1.900.000",
-    "margen": "19,4 % de margen",
-    "barras": [
-     55,
-     70,
-     40,
-     85,
-     65,
-     80,
-     95
-    ],
-    "rojo": [
-     2
-    ],
-    "vsMes": "+31 % vs sept."
-   },
-   "nota": "La comparación con el mes anterior, lista"
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Kentra",
+   "titulo": "Kentra te muestra lo que de verdad te queda",
+   "items": [
+    "Anotas ingresos y gastos con su categoría",
+    "Ves la ganancia real del mes",
+    "Decides con datos, no con intuición"
+   ]
   },
   {
    "layout": "mascota",
-   "kicker": "Kentra",
-   "titulo": "Compara meses sin armar tablas",
+   "tema": "marfil",
+   "kicker": "Haz la cuenta",
+   "titulo": "Cada cliente tiene su margen",
    "items": [
-    "Ganancia real de cada mes",
-    "Gastos por categoría",
-    "Tendencia de los últimos meses"
+    "Cuánto te paga",
+    "Cuánto te cuesta atenderlo",
+    "Cuánto te queda de verdad"
    ],
-   "mascota": "app",
+   "mascota": "telefono",
    "tam": "media"
   }
  ]

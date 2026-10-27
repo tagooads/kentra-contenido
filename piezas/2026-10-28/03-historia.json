@@ -1,11 +1,10 @@
 {
- "layout": "pregunta",
- "formato": "historia",
- "tema": "verde",
- "titulo": "¿Tu negocio aguanta diciembre sin sustos?",
- "sub": "Haz el diagnóstico gratis: 5 preguntas, 2 minutos.",
- "cta": {
-  "texto": "kentra.pro/quiz",
-  "boton": true
- }
+  "layout": "antes",
+  "formato": "historia",
+  "tema": "noche",
+  "kicker": "Mercancía",
+  "titulo": "Pedir mercancía: de a ojo vs con lo vendido",
+  "antes": { "titulo": "De a ojo", "items": ["Pides «lo de siempre» al proveedor", "Te sobra lo que no se mueve", "Te falta lo que sí se vende"] },
+  "despues": { "titulo": "Con lo vendido", "items": ["Anotas lo que sale cada día", "Pides según lo que se vendió", "Sabes cuándo se te va a acabar"] },
+  "cta": { "texto": "kentra.pro", "boton": true }
 }

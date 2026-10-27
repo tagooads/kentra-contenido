@@ -1,9 +1,10 @@
 {
  "layout": "pregunta",
  "formato": "historia",
- "tema": "menta",
- "titulo": "¿Sabes cuánto te quedó la semana pasada?",
- "sub": "Si tienes que pensarlo, el diagnóstico de 2 minutos es para ti.",
+ "tema": "marfil",
+ "kicker": "Reto de ahorro",
+ "titulo": "$360.000 para publicidad en 6 semanas. ¿Cuánto apartas por semana?",
+ "sub": "Opciones: $45.000 · $60.000 · $72.000. Haz la cuenta.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

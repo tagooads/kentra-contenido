@@ -1,42 +1,16 @@
 {
- "layout": "app",
+ "layout": "mascota",
  "formato": "historia",
- "tema": "navy",
- "kicker": "Cierre de octubre",
- "titulo": "Lo que más cambió en octubre",
- "pantalla": "categorias",
- "app": {
-  "negocio": "Café La Esquina",
-  "mes": "Octubre",
-  "categorias": [
-   [
-    "Insumos",
-    "$3.350.000",
-    112
-   ],
-   [
-    "Arriendo",
-    "$1.800.000",
-    100
-   ],
-   [
-    "Nómina",
-    "$1.650.000",
-    110
-   ],
-   [
-    "Domicilios",
-    "$395.000",
-    92
-   ],
-   [
-    "Comisiones",
-    "$365.000",
-    104
-   ]
-  ]
- },
- "nota": "Insumos: 12 % sobre lo previsto",
+ "tema": "verdeoscuro",
+ "mascota": "telefono",
+ "kicker": "Día 1 del mes",
+ "titulo": "Ya debes $2.150.000 y no has vendido nada",
+ "sub": "Se pagan aunque abras sin clientes:",
+ "items": [
+  "Arriendo: $1.200.000",
+  "Un ayudante: $750.000",
+  "Luz, agua e internet: $200.000"
+ ],
  "cta": {
   "texto": "kentra.pro",
   "boton": true

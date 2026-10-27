@@ -1,33 +1,29 @@
 {
  "layout": "chat",
  "formato": "post",
- "tema": "navy",
- "kicker": "Chat (demo)",
- "titulo": "Tres «mañana le pago» después",
+ "tema": "menta",
+ "kicker": "Floristería",
+ "titulo": "Cambió el pedido y quiere el mismo precio",
  "nombre": "Cliente",
  "chat": [
   [
    "cliente",
-   "Apúnteme lo de hoy, mañana le pago.",
-   "7:40"
+   "Mejor tulipanes en vez de rosas."
   ],
   [
    "yo",
-   "Listo. Con lo de hoy van $86.000.",
-   "7:41"
+   "Con tulipanes son $278.000, no $240.000."
   ],
   [
    "cliente",
-   "¿Tanto? Pero la semana pasada le pagué…",
-   "7:42"
+   "¿Y por qué sube?"
   ],
   [
    "yo",
-   "Abonó $20.000 el martes. Aquí está la lista con fechas. ¿Se la mando?",
-   "7:44"
+   "Cada flor tiene su costo. Te paso la cuenta nueva."
   ]
  ],
- "cierre": "¿Tú qué harías: le fías la cuarta vez o cortas ahí?",
+ "cierre": "Cada cambio tiene costo. Anótalo antes de decir que sí.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

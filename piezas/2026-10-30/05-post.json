@@ -1,11 +1,11 @@
 {
  "layout": "meme",
  "formato": "post",
- "tema": "blanco",
- "arriba": "Las cuentas del negocio sin revisar desde agosto.",
- "abajo": "Yo: decorando la vitrina para noviembre.",
- "figura": "app",
- "globo": "Octubre te dejó $1.850.000. Ya lo revisé yo.",
+ "tema": "verde",
+ "arriba": "«Tu negocio va bien por pura suerte», dijo quien no sabe que cada lunes reviso mis números.",
+ "abajo": "Yo, con las cuentas al día:",
+ "figura": "telefono",
+ "globo": "La suerte también se anota.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

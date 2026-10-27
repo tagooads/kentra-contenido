@@ -1,11 +1,10 @@
 {
- "layout": "pregunta",
- "formato": "historia",
- "tema": "navy",
- "titulo": "¿Cuánto te pagaste en octubre?",
- "sub": "Si la respuesta es «lo que sobró», esto es para ti.",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": true
- }
+  "layout": "cita",
+  "formato": "historia",
+  "tema": "verde",
+  "kicker": "Domingo de caja",
+  "titulo": "Cerré con $480.000 en caja. La libreta decía $430.000.",
+  "sub": "Faltaban $50.000 de un domicilio que nunca anoté.",
+  "mascota": "telefono",
+  "cta": { "texto": "kentra.pro", "boton": true }
 }

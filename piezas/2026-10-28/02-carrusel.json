@@ -1,195 +1,22 @@
 {
- "layout": "carrusel",
- "formato": "post",
- "tema": "claro",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": true
- },
- "slides": [
-  {
-   "layout": "portada",
-   "kicker": "Tres márgenes",
-   "titulo": "Vendió $9.000.000 en octubre. ¿Cuánto ganó de verdad?",
-   "sub": "La cuenta en la pizarra, paso a paso, con una tienda de ropa.",
-   "visual": "app",
-   "pantalla": "dashboard",
-   "app": {
-    "negocio": "Tienda Nube Verde",
-    "mes": "Octubre",
-    "ganancia": "$630.000",
-    "margen": "7 % de margen",
-    "ingresos": "$9.000.000",
-    "gastos": "$8.370.000",
-    "barras": [
-     60,
-     55,
-     70,
-     65,
-     80,
-     75,
-     90
-    ]
-   }
-  },
-  {
-   "layout": "pizarra",
-   "kicker": "Paso 1",
-   "titulo": "Margen bruto: lo que queda tras pagar la mercancía",
-   "lineas": [
-    [
-     "Ventas de octubre",
-     "$9.000.000"
-    ],
-    [
-     "Costo de la ropa vendida",
-     "−$5.400.000",
-     "rojo"
-    ],
-    [
-     "Margen bruto",
-     "$3.600.000 (40 %)",
-     "res"
-    ]
-   ],
-   "nota": "Es el techo. De aquí sale todo lo demás."
-  },
-  {
-   "layout": "pizarra",
-   "tema": "noche",
-   "kicker": "Paso 2",
-   "titulo": "Margen operativo: tras pagar el negocio",
-   "lineas": [
-    [
-     "Margen bruto",
-     "$3.600.000"
-    ],
-    [
-     "Arriendo del local",
-     "−$1.500.000",
-     "rojo"
-    ],
-    [
-     "Sueldo de la vendedora",
-     "−$1.100.000",
-     "rojo"
-    ],
-    [
-     "Servicios, bolsas y publicidad",
-     "−$370.000",
-     "rojo"
-    ],
-    [
-     "Margen operativo",
-     "$630.000 (7 %)",
-     "res"
-    ]
-   ]
-  },
-  {
-   "layout": "pizarra",
-   "kicker": "Paso 3",
-   "titulo": "Margen neto: lo que es tuyo",
-   "lineas": [
-    [
-     "Margen operativo",
-     "$630.000"
-    ],
-    [
-     "Comisiones del datáfono",
-     "−$135.000",
-     "rojo"
-    ],
-    [
-     "Cuota del crédito",
-     "−$200.000",
-     "rojo"
-    ],
-    [
-     "Margen neto",
-     "$295.000 (3,3 %)",
-     "res"
-    ]
-   ],
-   "nota": "De $9.000.000 vendidos, $295.000 son tuyos."
-  },
-  {
-   "layout": "valor",
-   "tema": "noche",
-   "num": "4",
-   "titulo": "El margen bruto está bien. El operativo, no.",
-   "texto": "Arriendo y sueldo se llevan el 29 % de las ventas. Dos salidas:",
-   "ejemplo": {
-    "filas": [
-     [
-      "Subir el precio promedio 8 %",
-      "+$720.000 de margen",
-      "verde"
-     ],
-     [
-      "Vender $11.000.000 con los mismos fijos",
-      "operativo 13 %",
-      "verde"
-     ]
-    ]
-   },
-   "cierre": "Las dos se ven antes si miras los tres números cada mes."
-  },
-  {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "Cada gasto en su categoría: ves qué se come el margen",
-   "pantalla": "categorias",
-   "app": {
-    "negocio": "Tienda Nube Verde",
-    "mes": "Octubre",
-    "categorias": [
-     [
-      "Mercancía",
-      "$5.400.000",
-      100
-     ],
-     [
-      "Arriendo",
-      "$1.500.000",
-      100
-     ],
-     [
-      "Sueldos",
-      "$1.100.000",
-      100
-     ],
-     [
-      "Publicidad",
-      "$370.000",
-      123
-     ],
-     [
-      "Comisiones",
-      "$135.000",
-      90
-     ]
-    ]
-   },
-   "nota": "Presupuesto vs. real por categoría"
-  },
-  {
-   "layout": "cita",
-   "tema": "noche",
-   "titulo": "Vender $9.000.000 se siente bien. Ganar $295.000 se siente distinto.",
-   "sub": "Los dos números son verdad. Solo uno paga tus cuentas."
-  },
-  {
-   "layout": "mascota",
-   "kicker": "Kentra",
-   "titulo": "Tus tres márgenes, cada mes, sin fórmulas",
-   "items": [
-    "Ingresos y gastos por categoría",
-    "Ganancia real del mes",
-    "KentrAI te explica qué cambió"
-   ],
-   "mascota": "app",
-   "tam": "media"
-  }
- ]
+  "layout": "carrusel",
+  "formato": "post",
+  "tema": "marfil",
+  "cta": { "texto": "kentra.pro", "boton": true },
+  "slides": [
+    { "layout": "portada", "kicker": "Mismo costo, mismo postre", "titulo": "$16.000 o $16.200: ¿cuál precio gana más?", "sub": "Dos pastelerías, 200 ventas al mes. Hagamos la cuenta.", "visual": "none" },
+    { "layout": "valor", "tema": "claro", "num": "A", "kicker": "Negocio A", "titulo": "Pone $16.000 porque suena bien", "texto": "Número redondo, sin cuenta de por medio.",
+      "ejemplo": { "filas": [["Precio", "$16.000"], ["Costo del postre", "−$11.000", "rojo"], ["Comisión de cobro 3 %", "−$480", "rojo"], ["Le queda", "$4.520", "verde"]] } },
+    { "layout": "valor", "tema": "menta", "num": "B", "kicker": "Negocio B", "titulo": "Calcula y pone $16.200", "texto": "$11.000 ÷ 0,70 ÷ 0,97 ≈ $16.200: margen del 30 % y comisión incluidos.",
+      "ejemplo": { "filas": [["Precio", "$16.200"], ["Costo del postre", "−$11.000", "rojo"], ["Comisión de cobro 3 %", "−$486", "rojo"], ["Le queda", "$4.714", "verde"]] } },
+    { "layout": "valor", "tema": "marfil", "num": "$", "kicker": "Por venta", "titulo": "Una diferencia de $194", "texto": "Parece poco. Se repite en cada venta.",
+      "ejemplo": { "filas": [["B se queda con", "$4.714"], ["A se queda con", "$4.520"], ["Diferencia por venta", "$194", "rojo"]] } },
+    { "layout": "dato", "tema": "claro", "kicker": "200 ventas al mes", "titulo": "Al mes, A deja $38.800 en la mesa", "tam": "media",
+      "filas": [ { "label": "A", "valor": "$904.000", "color": "gris", "nota": "200 × $4.520" }, { "label": "B", "valor": "$942.800", "color": "verde", "nota": "200 × $4.714" }, { "label": "Diferencia", "valor": "$38.800", "color": "rojo", "grande": true } ] },
+    { "layout": "cita", "tema": "verdeoscuro", "kicker": "La regla", "titulo": "Si vas a redondear, hazlo hacia arriba", "sub": "Hacia abajo regalas ganancia en cada venta." },
+    { "layout": "dato", "tema": "blanco", "kicker": "Hazlo con Kentra", "titulo": "El mes de B, en tres cifras", "tam": "media",
+      "filas": [ { "label": "Entró", "valor": "$3.240.000", "color": "gris" }, { "label": "Salió", "valor": "−$2.297.200", "color": "rojo", "nota": "costo $2.200.000 + comisión $97.200" }, { "label": "Te quedó", "valor": "$942.800", "color": "verde", "grande": true } ],
+      "cierre": "Lo que entró, lo que salió y lo que te quedó, en una sola pantalla." },
+    { "layout": "mascota", "tema": "menta", "kicker": "Kentra", "titulo": "Primero la cuenta, después el precio", "items": ["Lo que entró, salió y te quedó", "Ganancia real de cada mes", "Desde $15/mes"], "mascota": "telefono", "tam": "media" }
+  ]
 }

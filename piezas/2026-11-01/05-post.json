@@ -1,13 +1,17 @@
 {
- "layout": "meme",
- "formato": "post",
- "tema": "menta",
- "arriba": "«$250.000 por un logo es carísimo.»",
- "abajo": "La misma persona, el mismo sábado:",
- "figura": "app",
- "globo": "$95.000 en una salida de 3 horas. El logo le dura 10 años: $2.000 al mes.",
- "cta": {
-  "texto": "kentra.pro",
-  "boton": false
- }
+  "layout": "reparto",
+  "formato": "post",
+  "tema": "noche",
+  "kicker": "Floristería",
+  "titulo": "Cobró $2.000.000 por las flores de un evento. ¿Cuánto le quedó?",
+  "total": "$2.000.000",
+  "partes": [
+    ["Flores y materiales", "$900.000", 45],
+    ["Ayudante del día", "$300.000", 15],
+    ["Transporte", "$160.000", 8],
+    ["Cuota del local", "$240.000", 12],
+    ["Le quedó", "$400.000", 20]
+  ],
+  "cierre": "El cliente ve $2.000.000. Ella, $400.000.",
+  "cta": { "texto": "kentra.pro", "boton": false }
 }

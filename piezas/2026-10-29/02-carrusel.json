@@ -10,7 +10,7 @@
   {
    "layout": "portada",
    "kicker": "Creativos y freelancers",
-   "titulo": "¿Tu cliente te paga o tú le prestas?",
+   "titulo": "¿Tu cliente te paga o tú le prestas $1.800.000?",
    "sub": "Cómo cobrar un proyecto sin financiarlo tú.",
    "visual": "mascota-telefono"
   },
@@ -122,24 +122,29 @@
    "cierre": "El cliente paga el proyecto. No tú."
   },
   {
-   "layout": "app",
-   "kicker": "Así lo ves en Kentra",
-   "titulo": "El comprobante del anticipo, con tu logo",
-   "pantalla": "comprobante",
-   "app": {
-    "negocio": "Estudio Luna",
-    "numero": "0131",
-    "fecha": "29 oct 2026",
-    "cliente": "Agencia Norte",
-    "items": [
+   "layout": "valor",
+   "num": "5",
+   "tema": "claro",
+   "titulo": "Entrega el comprobante del anticipo",
+   "texto": "Un PDF con tu logo, el concepto y el monto: el cliente sabe qué paga y tú tienes el registro.",
+   "ejemplo": {
+    "titulo": "Comprobante · Estudio Luna",
+    "filas": [
      [
-      "Anticipo 50 % · identidad de marca",
+      "Concepto",
+      "Anticipo 50 % · marca"
+     ],
+     [
+      "Monto cobrado",
+      "$1.500.000",
+      "verde"
+     ],
+     [
+      "Falta por cobrar",
       "$1.500.000"
      ]
-    ],
-    "total": "$1.500.000"
-   },
-   "nota": "Lo marcas como cobrado y queda registrado"
+    ]
+   }
   },
   {
    "layout": "mascota",
@@ -150,7 +155,7 @@
     "Recordatorios con fecha límite",
     "Lo cobrado se registra solo"
    ],
-   "mascota": "app",
+   "mascota": "telefono",
    "tam": "media"
   }
  ]
