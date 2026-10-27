@@ -2912,6 +2912,60 @@
       "publicado_fb": true,
       "publicado": true,
       "publicado_en": "2026-10-26T23:01:52.904Z"
+    },
+    {
+      "id": "2026-10-27-05-post",
+      "fecha": "2026-10-27T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-10-27/05-post.jpg"
+      ],
+      "caption": "Dos planes, una conversación.\n\nEn la imagen, el plan Básico ($15/mes) y el Pro ($20/mes) hablan: Pro importa el extracto del banco y lo categoriza solo, y suma inventario y un segundo negocio por $5 más.\n\nElige el plan que te ahorra el trabajo que hoy haces a mano. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "precio",
+      "layout": "skit",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "qa_ticket": "fec6df50-c2a9-485e-a5ad-fb6a129edf92",
+      "formato": "skit de dos voces",
+      "gancho": "Lo que suma el plan Pro por $5 más",
+      "primera_linea": "Me quedo con el Básico: $15 al mes.",
+      "estilo": "skit, marfil, burbujas dos voces, sin mascota",
+      "modela": {
+        "referencia": "@thevavig, skit de dos voces «voy a vender el llavero en 15 pesos» (6M plays)",
+        "url": "https://www.instagram.com/reel/Dea3rr3Ot9J/",
+        "que_tomo": "conversación de dos voces donde una corrige a la otra con la cuenta"
+      }
+    },
+    {
+      "id": "2026-10-27-03-historia",
+      "fecha": "2026-10-27T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-10-27/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 3,
+      "qa_ticket": "5ec9ceaa-1d4b-4419-8297-2b23c65656a2",
+      "formato": "frase lista para copiar",
+      "gancho": "Cuando te piden descuento",
+      "primera_linea": "«Ese precio ya trae lo que necesito para seguir.",
+      "estilo": "frase, verdeoscuro, tarjeta blanca con comilla verde, sin mascota",
+      "modela": {
+        "referencia": "@sebaslopezinnova, frase lista cuando piden descuento (1,3M plays)",
+        "url": "https://www.instagram.com/reel/DeCjDepiN6S/",
+        "que_tomo": "frase corta para sostener el precio sin bajar margen, con cifra demo"
+      }
     }
   ]
 }
