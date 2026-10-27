@@ -5,7 +5,7 @@
  "kicker": "Cafeterías",
  "titulo": "Un café de $6.000: a dónde va cada peso",
  "negocio": "Café La Esquina",
- "detalle": "Capuchino mediano · datos demo",
+ "detalle": "Capuchino · datos demo",
  "items": [
   [
    "Precio",
@@ -23,7 +23,7 @@
    "rojo"
   ],
   [
-   "Arriendo y servicios (por taza)",
+   "Arriendo y servicios",
    "−$1.400",
    "rojo"
   ],
@@ -37,9 +37,10 @@
   "Te queda",
   "$1.400"
  ],
- "pie": "23 % de margen: importa el volumen.",
+ "pie": "23 % de margen: lo que importa es el volumen.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
- }
+ },
+ "marcaAgua": false
 }

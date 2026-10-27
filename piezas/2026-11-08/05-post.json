@@ -6,18 +6,18 @@
  "izq": {
   "titulo": "Excel",
   "items": [
-   "Buscar archivo",
-   "Copiar cifras",
-   "Rezar y cuadrar"
+   "Buscar el archivo",
+   "Copiar cifras a mano",
+   "Cuadrar y rezar"
   ]
  },
  "der": {
   "titulo": "Kentra",
   "figura": "telefono",
   "items": [
-   "Ganancia real",
-   "Por categoría",
-   "Reporte listo"
+   "Ganancia real a la vista",
+   "Gastos por categoría",
+   "Reporte en segundos"
   ]
  },
  "cta": {

@@ -5,9 +5,9 @@
  "slides": [
   {
    "layout": "portada",
-   "kicker": "Buen Fin · 13 al 17 de noviembre",
-   "titulo": "¿20 % de descuento o envío incluido? Haz la cuenta antes",
-   "sub": "Tienda online, un producto de $100.000.",
+   "kicker": "Buen Fin · México",
+   "titulo": "¿20 % de descuento o envío incluido? Haz la cuenta antes",
+   "sub": "Tienda online, un producto de $1,000 MXN.",
    "visual": "mascota-telefono",
    "sinPildora": true
   },
@@ -20,21 +20,21 @@
     "filas": [
      [
       "Precio",
-      "$100.000"
+      "$1,000"
      ],
      [
       "Costo del producto",
-      "−$55.000",
+      "−$550",
       "rojo"
      ],
      [
-      "Empaque y comisión de pago",
-      "−$7.000",
+      "Empaque y comisión",
+      "−$70",
       "rojo"
      ],
      [
       "Te deja",
-      "$38.000",
+      "$380",
       "verde"
      ]
     ]
@@ -43,22 +43,22 @@
   {
    "layout": "valor",
    "num": "2",
-   "titulo": "Con 20 % de descuento",
+   "titulo": "Con 20 % de descuento",
    "texto": "El descuento sale completo de tu ganancia, no del costo.",
    "ejemplo": {
     "filas": [
      [
       "Precio con descuento",
-      "$80.000"
+      "$800"
      ],
      [
       "Costos",
-      "−$62.000",
+      "−$620",
       "rojo"
      ],
      [
       "Te deja",
-      "$18.000 (−53 %)",
+      "$180 (−53 %)",
       "rojo"
      ]
     ]
@@ -68,21 +68,21 @@
    "layout": "valor",
    "num": "3",
    "titulo": "Con envío incluido",
-   "texto": "Un envío de $12.000 que pagas tú.",
+   "texto": "Un envío de $120 que pagas tú.",
    "ejemplo": {
     "filas": [
      [
       "Precio",
-      "$100.000"
+      "$1,000"
      ],
      [
       "Costos + envío",
-      "−$74.000",
+      "−$740",
       "rojo"
      ],
      [
       "Te deja",
-      "$26.000 (−32 %)",
+      "$260 (−32 %)",
       "rojo"
      ]
     ]
@@ -91,21 +91,21 @@
   {
    "layout": "valor",
    "num": "4",
-   "titulo": "¿Cuántas ventas más necesitas?",
-   "texto": "Para ganar lo mismo que sin promo:",
+   "titulo": "Ventas para ganar lo mismo",
+   "texto": "Por cada venta que hacías sin promo, necesitas:",
    "ejemplo": {
     "filas": [
      [
-      "Con 20 % de descuento",
-      "2,1 ventas por cada 1"
+      "Con 20 % de descuento",
+      "2.1 ventas"
      ],
      [
       "Con envío incluido",
-      "1,5 ventas por cada 1"
+      "1.5 ventas"
      ]
     ]
    },
-   "cierre": "El envío incluido suena menos y te cuesta menos."
+   "cierre": "El envío incluido te pide menos ventas extra."
   },
   {
    "layout": "lista",
@@ -121,13 +121,9 @@
   {
    "layout": "mascota",
    "titulo": "Haz la promo con la cuenta hecha",
+   "sub": "Desde $15/mes.",
    "tam": "media",
    "mascota": "telefono",
-   "items": [
-    "Gastos por categoría con alerta",
-    "Ganancia real del mes",
-    "Desde $15/mes, sin permanencia"
-   ],
    "cta": {
     "texto": "kentra.pro",
     "boton": true

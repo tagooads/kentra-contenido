@@ -7,7 +7,7 @@
    "layout": "portada",
    "kicker": "Ganancia real",
    "titulo": "De cada venta, una parte nunca fue tuya",
-   "sub": "Impuestos, comisiones y cuotas: sepáralos el mismo día.",
+   "sub": "Impuestos, comisiones y cuotas: sepáralos cada semana.",
    "visual": "mascota-telefono",
    "sinPildora": true
   },
@@ -17,21 +17,20 @@
    "titulo": "El impuesto que cobras no es ingreso",
    "texto": "Lo cobras por el Estado y lo entregas después. Si lo gastas, lo debes.",
    "ejemplo": {
-    "titulo": "Venta de $119.000 (IVA 19 %, Colombia)",
+    "titulo": "Ejemplo con IVA del 19 %",
     "filas": [
+     [
+      "Venta total",
+      "$119.000"
+     ],
      [
       "Precio sin impuesto",
       "$100.000"
      ],
      [
-      "IVA cobrado",
+      "Lo que debes entregar",
       "$19.000",
       "rojo"
-     ],
-     [
-      "Lo que realmente vendiste",
-      "$100.000",
-      "verde"
      ]
     ]
    }
@@ -39,10 +38,10 @@
   {
    "layout": "valor",
    "num": "2",
-   "titulo": "Sepáralo el mismo día",
-   "texto": "Una categoría o bolsillo «Impuestos» al que mueves lo cobrado cada semana.",
+   "titulo": "Sepáralo cada semana",
+   "texto": "Una categoría «Impuestos» a la que mueves lo cobrado cada semana.",
    "bullets": [
-    "Cada semana: suma el impuesto de lo vendido",
+    "Suma el impuesto de lo vendido",
     "Muévelo a una cuenta aparte",
     "No cuenta para decidir gastos"
    ]
@@ -55,7 +54,7 @@
    "ejemplo": {
     "filas": [
      [
-      "Ventas del mes",
+      "Ventas del mes (IVA incluido)",
       "$8.000.000"
      ],
      [
@@ -88,9 +87,9 @@
    "kicker": "Así lo ordenas en Kentra",
    "titulo": "Cada peso, en su categoría",
    "items": [
-    "Categorías personalizables",
     "Alertas de recordatorio con fecha",
-    "Tu ganancia real del mes en una pantalla"
+    "Tu ganancia real del mes en una pantalla",
+    "Ingresos y gastos en un solo lugar"
    ]
   },
   {
@@ -101,7 +100,7 @@
    "items": [
     "Categorías personalizables",
     "Alertas por categoría",
-    "Deudas y cuotas a la vista"
+    "Deudas y recordatorios a la vista"
    ],
    "cta": {
     "texto": "kentra.pro",

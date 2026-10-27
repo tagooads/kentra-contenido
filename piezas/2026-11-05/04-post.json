@@ -2,10 +2,11 @@
  "layout": "split",
  "formato": "post",
  "tema": "navy",
- "kicker": "Reacción al pitch",
+ "kicker": "Reacción",
  "arriba": {
-  "kicker": "El pitch",
-  "texto": "«Facturamos $50 millones al mes y crecemos 30 % cada trimestre.»"
+  "kicker": "La presentación",
+  "texto": "«Facturamos $50 millones al mes y crecemos 30 % cada trimestre.»",
+  "tam": 66
  },
  "abajo": {
   "kicker": "La cuenta que no dijo",
@@ -15,23 +16,18 @@
     "$50.000.000"
    ],
    [
-    "Costo de lo vendido",
-    "−$31.000.000",
+    "Costos y gastos",
+    "−$48.800.000",
     "rojo"
    ],
    [
-    "Arriendo, nómina, publicidad",
-    "−$17.800.000",
-    "rojo"
-   ],
-   [
-    "Le queda",
-    "$1.200.000 (2,4 %)",
+    "Le queda (2,4 %)",
+    "$1.200.000",
     "res"
    ]
   ]
  },
- "nota": "Crecer 30 % con 2,4 % de margen es crecer el problema.",
+ "nota": "Crecer 30 % con 2,4 % de margen es crecer el problema.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

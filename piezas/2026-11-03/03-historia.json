@@ -11,10 +11,10 @@
    "color": "gris"
   },
   {
-   "label": "Costo de la hora",
+   "label": "Costo",
    "valor": "−$38.000",
    "color": "rojo",
-   "nota": "ayudante, luz y servicios"
+   "nota": "Ayudante, luz y servicios"
   },
   {
    "label": "Te queda",
@@ -23,7 +23,7 @@
    "grande": true
   }
  ],
- "cierre": "Haz esta cuenta antes de ampliar el horario.",
+ "cierre": "Te quedan $7.000: vale la pena si esa hora se repite. Anótala en Kentra.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

@@ -4,9 +4,10 @@
  "tema": "noche",
  "kicker": "Una postura",
  "texto": "«Un negocio que vende mucho y no anota, trabaja a ciegas.»",
- "pie": "Lo que no se anota, no se cobra ni se cuida.",
+ "pie": "Lo que no se anota, no se cobra ni se cuida. Anótalo en Kentra.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
- }
+ },
+ "tamTexto": 80
 }

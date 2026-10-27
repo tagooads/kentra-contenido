@@ -1,16 +1,13 @@
 {
  "layout": "skit",
  "formato": "post",
- "tema": "navy",
- "kicker": "Dos voces",
+ "tema": "marfil",
  "titulo": "Precio a ojo vs con cuenta",
  "a": {
-  "nombre": "A ojo",
-  "inicial": "$"
+  "nombre": "Tú"
  },
  "b": {
-  "nombre": "Con cuenta",
-  "inicial": "="
+  "nombre": "La cuenta"
  },
  "lineas": [
   [
@@ -27,11 +24,7 @@
   ],
   [
    "b",
-   "Con cera, frasco y tu hora: $6.400. Te quedan $1.600."
-  ],
-  [
-   "b",
-   "A $11.000 te quedan $4.600. Y se vende igual."
+   "$6.400 con cera, mecha, frasco, etiqueta y tu hora. Te quedan $1.600. A $11.000, $4.600."
   ]
  ],
  "cta": {

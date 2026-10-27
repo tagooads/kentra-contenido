@@ -12,8 +12,8 @@
    "sinPildora": true,
    "kicker": "Salón de belleza",
    "titulo": "Una cita perdida cuesta más que una hora vacía",
-   "sub": "La cuenta de un salón con 6 citas perdidas al mes.",
-   "visual": "none"
+   "sub": "$3.744.000 al año en citas que no llegan.",
+   "visual": "mascota-telefono"
   },
   {
    "layout": "valor",
@@ -92,8 +92,8 @@
    "layout": "valor",
    "tema": "marfil",
    "num": "4",
-   "titulo": "Cobra un anticipo",
-   "texto": "Con el 30 % del servicio, la cita se cuida sola.",
+   "titulo": "Cobrar el anticipo incomoda: dilo en una frase",
+   "texto": "«Reservo tu cita con el 30 %; si no llegas, se mantiene.»",
    "ejemplo": {
     "filas": [
      [
@@ -112,12 +112,12 @@
    "layout": "valor",
    "tema": "claro",
    "num": "5",
-   "titulo": "Avisa el día anterior",
-   "texto": "Tres hábitos que llenan la agenda:",
+   "titulo": "Tres hábitos para llenar la agenda",
+   "texto": "Antes de que la silla quede vacía:",
    "bullets": [
     "Un recordatorio el día anterior",
     "Una lista de espera para cubrir huecos",
-    "Anota cada cita perdida para ver cuánto pesa"
+    "Anota cada cita perdida y mira cuánto pesa"
    ]
   },
   {
@@ -134,13 +134,13 @@
   {
    "layout": "mascota",
    "tema": "navy",
-   "titulo": "Que una cita perdida no se pierda de vista",
+   "titulo": "Que cada anticipo quede anotado",
    "tam": "media",
    "mascota": "telefono",
    "items": [
-    "Ganancia real de cada mes",
-    "Ingresos y gastos en un solo lugar",
-    "Desde $15/mes, sin permanencia"
+    "Cada anticipo con su nota",
+    "Recordatorios con fecha límite",
+    "Ganancia real de cada mes"
    ],
    "cta": {
     "texto": "kentra.pro",

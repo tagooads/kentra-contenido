@@ -1,13 +1,13 @@
 {
- "layout": "frase",
+ "layout": "tweet",
  "formato": "post",
- "tema": "verdeoscuro",
- "kicker": "Cuando dicen «está caro»",
- "etiqueta": "Copia esto",
- "frase": "Es el precio de que te lo entregue bien, a tiempo y sin sorpresas. Si quieres algo más sencillo, lo armamos.",
- "porque": "No te justificas ni bajas el precio: ofreces otra versión.",
+ "tema": "marfil",
+ "kicker": "Historia de dueño",
+ "texto": "«Vendí $3.000.000 en un mes y no tenía para pagar al proveedor.»",
+ "pie": "Vender mucho no es tener dinero disponible.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false
- }
+ },
+ "tamTexto": 72
 }

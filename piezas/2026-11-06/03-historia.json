@@ -10,15 +10,15 @@
    "$55.000"
   ],
   [
-   "Gastos del mes",
+   "Gastos fijos del mes",
    "$1.920.000"
   ],
   [
-   "÷ unidades que vendes",
+   "Entre las unidades que vendes",
    "120"
   ],
   [
-   "= gasto por unidad",
+   "Gasto por unidad",
    "$16.000"
   ],
   [
@@ -27,11 +27,12 @@
    "res"
   ]
  ],
- "nota": "Debajo de eso, cada venta te cuesta dinero.",
+ "nota": "Debajo de ese precio,\ncada venta te cuesta dinero.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
  },
  "tam": "grande",
- "escala": 1.35
+ "escala": 1,
+ "marcaAgua": false
 }

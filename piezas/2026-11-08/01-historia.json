@@ -1,15 +1,29 @@
 {
- "layout": "encuesta",
+ "layout": "dato",
  "formato": "historia",
- "tema": "claro",
- "kicker": "Domingo de cuentas",
- "titulo": "Vendiste $1.000.000, mercancía $600.000 y arriendo $250.000. ¿Cuánto ganaste?",
- "opciones": [
-  "$400.000",
-  "$150.000",
-  "$250.000"
+ "tema": "blanco",
+ "kicker": "Cuentas de domingo",
+ "titulo": "Vendiste $1.000.000. ¿Cuánto ganaste?",
+ "filas": [
+  {
+   "label": "Ventas",
+   "valor": "$1.000.000",
+   "color": "gris"
+  },
+  {
+   "label": "Salió",
+   "valor": "−$850.000",
+   "color": "rojo",
+   "nota": "Mercancía + alquiler"
+  },
+  {
+   "label": "Ganaste",
+   "valor": "$150.000",
+   "color": "verde",
+   "grande": true
+  }
  ],
- "nota": "Resta todo lo que salió, no solo la mercancía.",
+ "cierre": "Resta todo lo que salió, no solo la mercancía.",
  "cta": {
   "texto": "kentra.pro/quiz",
   "boton": true

@@ -6,100 +6,129 @@
   {
    "layout": "portada",
    "kicker": "Reto de domingo",
-   "titulo": "5 cuentas que todo dueño debería hacer de memoria",
+   "titulo": "3 cuentas que todo dueño debería hacer de memoria",
    "sub": "Responde antes de deslizar.",
    "visual": "mascota-telefono",
    "sinPildora": true
   },
   {
    "layout": "reto",
-   "kicker": "1 de 5",
+   "kicker": "Cuenta 1",
    "titulo": "Vendes a $25.000 y te cuesta $15.000. ¿Margen?",
    "opciones": [
     {
-     "texto": "60 %"
+     "texto": "60 %"
     },
     {
-     "texto": "40 %",
-     "ok": true
+     "texto": "40 %"
     },
     {
-     "texto": "66 %"
+     "texto": "66 %"
     }
-   ],
-   "nota": "Ganancia ÷ precio: 10.000 ÷ 25.000 = 40 %."
+   ]
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Respuesta: 40 %",
+   "texto": "La ganancia entre el precio de venta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Precio",
+      "$25.000"
+     ],
+     [
+      "Costo",
+      "−$15.000",
+      "rojo"
+     ],
+     [
+      "**Margen**",
+      "40 %",
+      "verde"
+     ]
+    ]
+   }
   },
   {
    "layout": "reto",
-   "kicker": "2 de 5",
+   "kicker": "Cuenta 2",
    "titulo": "Vendiste $10.000.000 y gastaste $9.200.000. ¿Margen neto?",
    "opciones": [
     {
-     "texto": "8 %",
-     "ok": true
+     "texto": "8 %"
     },
     {
-     "texto": "12 %"
+     "texto": "12 %"
     },
     {
-     "texto": "92 %"
+     "texto": "92 %"
     }
-   ],
-   "nota": "800.000 ÷ 10.000.000 = 8 %."
+   ]
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Respuesta: 8 %",
+   "texto": "Lo que te queda entre lo que vendiste.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "$10.000.000"
+     ],
+     [
+      "Gastos",
+      "−$9.200.000",
+      "rojo"
+     ],
+     [
+      "**Te quedan**",
+      "$800.000 · 8 %",
+      "verde"
+     ]
+    ]
+   }
   },
   {
    "layout": "reto",
-   "kicker": "3 de 5",
-   "titulo": "Te deben $4.000.000 y tienes $1.000.000 en el banco. ¿Cuánto tienes?",
-   "opciones": [
-    {
-     "texto": "$5.000.000"
-    },
-    {
-     "texto": "$1.000.000",
-     "ok": true
-    },
-    {
-     "texto": "$4.000.000"
-    }
-   ],
-   "nota": "Lo que te deben no es tuyo hasta que entra. Cóbralo."
-  },
-  {
-   "layout": "reto",
-   "kicker": "4 de 5",
-   "titulo": "Arriendo $1.200.000 y atiendes 20 días. ¿Cuánto cubres al día?",
+   "kicker": "Cuenta 3",
+   "titulo": "Alquiler $1.200.000 y atiendes 20 días. ¿Cuánto cubres al día?",
    "opciones": [
     {
      "texto": "$40.000"
     },
     {
-     "texto": "$60.000",
-     "ok": true
+     "texto": "$60.000"
     },
     {
      "texto": "$120.000"
     }
-   ],
-   "nota": "1.200.000 ÷ 20 = $60.000 al día, solo de arriendo."
+   ]
   },
   {
-   "layout": "reto",
-   "kicker": "5 de 5",
-   "titulo": "Un cliente te paga a 30 días. ¿Cuándo es ingreso para tu caja?",
-   "opciones": [
-    {
-     "texto": "Cuando entregas"
-    },
-    {
-     "texto": "Cuando te paga",
-     "ok": true
-    },
-    {
-     "texto": "Cuando facturas"
-    }
-   ],
-   "nota": "Para tu caja, el ingreso existe cuando el dinero entra."
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Respuesta: $60.000",
+   "texto": "Solo de alquiler, antes de ganar un peso.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Alquiler del mes",
+      "$1.200.000"
+     ],
+     [
+      "Días que atiendes",
+      "20"
+     ],
+     [
+      "**Por día**",
+      "$60.000",
+      "verde"
+     ]
+    ]
+   }
   },
   {
    "layout": "lista",
@@ -115,13 +144,9 @@
   {
    "layout": "mascota",
    "titulo": "¿Cuántas acertaste?",
+   "sub": "Desde $15/mes.",
    "tam": "media",
    "mascota": "telefono",
-   "items": [
-    "Ganancia real del mes",
-    "Cuentas por cobrar con alerta",
-    "KentrAI con tus números"
-   ],
    "cta": {
     "texto": "kentra.pro",
     "boton": true

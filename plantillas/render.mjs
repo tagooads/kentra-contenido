@@ -62,20 +62,22 @@ function css(tema, formato) {
   .muted{color:${t.muted}}
   .wm{position:absolute;right:-140px;bottom:${hist ? 260 : 120}px;width:760px;height:1020px;pointer-events:none;background:${t.wm};
        -webkit-mask:url("${ISO_MONO}") no-repeat center/contain;mask:url("${ISO_MONO}") no-repeat center/contain}
-  .safe{position:absolute;left:0;right:0;top:${hist ? 250 : 0}px;bottom:${hist ? 300 : 0}px;padding:${hist ? "40px 72px" : "84px 76px"};display:flex;flex-direction:column;gap:28px}
-  .kicker{display:inline-flex;align-items:center;gap:14px;font-weight:800;font-size:30px;letter-spacing:.12em;text-transform:uppercase;color:${t.acc}}
-  .kicker::before{content:"";width:18px;height:18px;border-radius:50%;background:${t.acc}}
+  .safe{position:absolute;left:0;right:0;top:${hist ? 230 : 0}px;bottom:${hist ? 230 : 0}px;padding:${hist ? "40px 72px" : "84px 76px"};display:flex;flex-direction:column;gap:28px}
+  .kicker{display:inline-flex;align-items:center;gap:14px;font-weight:800;font-size:54px;letter-spacing:.05em;text-transform:uppercase;color:${t.acc}}
+  .kicker::before{content:"";width:22px;height:22px;border-radius:50%;background:${t.acc}}
   h1{font-weight:800;line-height:1.04;letter-spacing:-.02em;font-size:${hist ? 92 : 88}px}
   h1.grande{font-size:${hist ? 110 : 104}px}
   h1.media{font-size:${hist ? 78 : 74}px}
-  .sub{font-weight:500;font-size:${hist ? 44 : 40}px;line-height:1.3;color:${t.muted}}
+  .sub{font-weight:500;font-size:${hist ? 52 : 48}px;line-height:1.3;color:${t.dark ? "rgba(255,255,255,.93)" : "#37425C"}}
+  ${hist ? ".safe>:first-child{margin-top:auto}" : ""}
   .cta{margin-top:auto;display:flex;align-items:center;justify-content:space-between;gap:24px}
-  .boton{display:inline-flex;align-items:center;gap:16px;background:#06C444;color:#fff;font-weight:800;font-size:40px;padding:26px 44px;border-radius:999px;box-shadow:0 18px 40px rgba(6,196,68,.35)}
+  .boton{display:inline-flex;align-items:center;gap:16px;background:#06C444;color:#fff;font-weight:800;font-size:54px;padding:26px 44px;border-radius:999px;box-shadow:0 18px 40px rgba(6,196,68,.35)}
+  ${tema === "verde" ? ".boton{background:#1E2D4F;box-shadow:0 18px 40px rgba(15,30,56,.35)}" : ""}
   .boton.suave{background:${tema === "verde" ? "#1E2D4F" : "#47C08B"};box-shadow:none;color:#fff}
-  .url{font-weight:700;font-size:36px;color:${t.muted}}
+  .url{font-weight:700;font-size:54px;color:${t.muted}}
   .logo{height:${hist ? 64 : 60}px}
   .fila{display:flex;align-items:baseline;justify-content:space-between;gap:30px}
-  .fila .l{font-weight:700;font-size:40px;letter-spacing:.04em;text-transform:uppercase;color:${t.muted};white-space:nowrap}
+  .fila .l{font-weight:700;font-size:48px;letter-spacing:.02em;text-transform:uppercase;color:${t.muted};white-space:nowrap}
   .fila .v{font-weight:800;font-size:84px;letter-spacing:-.02em;white-space:nowrap}
   .fila.gris .v{color:${t.muted}} .fila.rojo .v{color:#FF6B6B} .fila.verde .v{color:#47C08B}
   .fila.grande .v{font-size:110px}
@@ -84,13 +86,13 @@ function css(tema, formato) {
   .caja.verde{background:#47C08B;color:#0F1E38}
   .caja.navy{background:#1E2D4F;color:#fff}
   .lista{display:flex;flex-direction:column;gap:26px}
-  .item{display:flex;gap:24px;align-items:flex-start;font-weight:600;font-size:${hist ? 46 : 42}px;line-height:1.22}
+  .item{display:flex;gap:24px;align-items:flex-start;font-weight:600;font-size:${hist ? 52 : 48}px;line-height:1.22}
   .item .ic{flex:none;width:58px;height:58px;border-radius:50%;background:#47C08B;color:#0F1E38;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:34px;margin-top:2px}
   .item.x .ic{background:#FF6B6B;color:#fff}
   .item.num .ic{background:${t.acc};color:${tema === "verde" ? "#fff" : t.onAcc}}
   .mascota{position:absolute;pointer-events:none;filter:drop-shadow(0 30px 40px rgba(0,0,0,.28))}
   .excel{position:absolute;pointer-events:none}
-  .pill{display:inline-flex;align-items:center;gap:12px;background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.35);border-radius:999px;padding:14px 26px;font-weight:700;font-size:30px}
+  .pill{display:inline-flex;align-items:center;gap:12px;background:rgba(255,255,255,.14);border:2px solid rgba(255,255,255,.35);border-radius:999px;padding:14px 30px;font-weight:700;font-size:54px}
   .claro .pill,.blanco .pill,.menta .pill,.marfil .pill{background:#E8F5EE;border-color:#BFE7D3;color:#1E2D4F}
   .app{background:#fff;color:#1E2D4F;border-radius:40px;box-shadow:0 40px 80px rgba(0,0,0,.25);overflow:hidden}
   .app .top{background:#1E2D4F;color:#fff;padding:28px 40px;display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:30px}
@@ -111,17 +113,17 @@ function css(tema, formato) {
   .precio .num small{font-size:56px;font-weight:700;letter-spacing:0;color:${t.muted}}
   .cita{font-weight:800;font-size:${hist ? 84 : 80}px;line-height:1.1;letter-spacing:-.02em}
   .cita{border-left:16px solid ${t.acc};padding-left:44px}
-  .tag{align-self:flex-start;background:${t.acc};color:${t.onAcc};font-weight:800;font-size:30px;padding:12px 24px;border-radius:14px;letter-spacing:.08em;text-transform:uppercase}
+  .tag{align-self:flex-start;background:${t.acc};color:${t.onAcc};font-weight:800;font-size:54px;padding:12px 26px;border-radius:14px;letter-spacing:.04em;text-transform:uppercase}
   .tag.rojo{background:#FF6B6B;color:#fff} .tag.gris{background:#CFCBCD;color:#3B3F4A}
   .burbuja{border-radius:34px;padding:26px 32px;font-weight:600;font-size:${hist ? 40 : 36}px;line-height:1.25;max-width:82%;position:relative}
-  .burbuja .hora{display:block;text-align:right;font-size:22px;font-weight:600;opacity:.55;margin-top:8px}
+  .burbuja .hora{display:none;text-align:right;font-size:22px;font-weight:600;opacity:.55;margin-top:8px}
   .fit{overflow:hidden;padding-bottom:.14em}
   `;
 }
 
 function pieFooter(t, cta, hist) {
   return `<div class="cta">
-    <img class="logo" src="${MARCA(t.logo)}">
+    ${t === TEMAS.verde ? `<span style="background:#fff;border-radius:22px;padding:14px 26px;display:inline-flex"><img class="logo" src="${MARCA(t.logo)}"></span>` : `<img class="logo" src="${MARCA(t.logo)}">`}
     ${cta ? `<span class="${cta.boton ? "boton" : "url"}">${esc(cta.texto || cta)}</span>` : ""}
   </div>`;
 }
@@ -190,15 +192,15 @@ L.lista = (p, t, hist) => `
 L.versus = (p, t, hist) => `
   <h1 class="media" style="text-align:center">${rich(p.titulo || "Kentra vs Excel")}</h1>
   <div style="display:grid;grid-template-columns:1fr 1fr;gap:22px;flex:1;min-height:0">
-    <div style="background:linear-gradient(180deg,#CFCBCD,#E9E6E7);border-radius:44px;padding:36px 30px;color:#3B3F4A;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
-      <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#6B6F7A">${esc(p.izq?.titulo || "Excel")}</div>
-      ${(p.izq?.items || []).map(i => `<div class="item x" style="font-size:36px;color:#3B3F4A"><span class="ic" style="width:48px;height:48px;font-size:28px">✕</span><span>${rich(i)}</span></div>`).join("")}
-      <img src="${MARCA("excel.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:-20px;height:${hist ? 680 : 500}px;opacity:1">
+    <div style="background:#8E94A3;border-radius:44px;padding:36px 30px;color:#121A2B;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
+      <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#121A2B">${esc(p.izq?.titulo || "Excel")}</div>
+      ${(p.izq?.items || []).map(i => `<div class="item x" style="font-size:48px;color:#121A2B"><span class="ic" style="width:48px;height:48px;font-size:28px">✕</span><span>${rich(i)}</span></div>`).join("")}
+      <img src="${MARCA("excel.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:-20px;height:${hist ? 680 : 330}px;opacity:1">
     </div>
     <div style="background:linear-gradient(180deg,#47C08B,#2FA173);border-radius:44px;padding:36px 30px;color:#0F1E38;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
       <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#0F1E38">${esc(p.der?.titulo || "Kentra")}</div>
-      ${(p.der?.items || []).map(i => `<div class="item" style="font-size:36px"><span class="ic" style="width:48px;height:48px;font-size:28px;background:#1E2D4F;color:#fff">✓</span><span>${rich(i)}</span></div>`).join("")}
-      <img src="${MARCA(p.der?.figura === "telefono" ? "mascota-telefono.png" : "mascota-app.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:10px;height:${hist ? 660 : 480}px;filter:drop-shadow(0 20px 30px rgba(0,0,0,.25))">
+      ${(p.der?.items || []).map(i => `<div class="item" style="font-size:48px"><span class="ic" style="width:48px;height:48px;font-size:28px;background:#1E2D4F;color:#fff">✓</span><span>${rich(i)}</span></div>`).join("")}
+      <img src="${MARCA(p.der?.figura === "telefono" ? "mascota-telefono.png" : "mascota-app.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:10px;height:${hist ? 660 : 340}px;filter:drop-shadow(0 20px 30px rgba(0,0,0,.25))">
     </div>
   </div>
   ${pieFooter(t, p.cta, hist)}`;
@@ -280,9 +282,9 @@ L.valor = (p, t, hist) => `
   </div>
   <h1 class="${p.tam || "media"}">${rich(p.titulo)}</h1>
   ${p.texto ? `<div class="sub" style="color:inherit;opacity:.88">${rich(p.texto)}</div>` : ""}
-  ${p.ejemplo ? `<div class="caja" style="display:flex;flex-direction:column;gap:16px;margin-top:6px">
-      ${p.ejemplo.titulo ? `<div style="font-weight:800;font-size:40px;letter-spacing:.04em;text-transform:uppercase;color:${t.acc}">${esc(p.ejemplo.titulo)}</div>` : ""}
-      ${(p.ejemplo.filas || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-size:40px"><span style="font-weight:600">${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#FF6B6B" : c === "verde" ? "#47C08B" : "inherit"}">${esc(v)}</b></div>`).join("")}
+  ${p.ejemplo ? `<div class="caja" style="display:flex;flex-direction:column;gap:30px;margin-top:10px;padding:48px 44px">
+      ${p.ejemplo.titulo ? `<div style="font-weight:800;font-size:52px;letter-spacing:.04em;text-transform:uppercase;color:${t.acc}">${esc(p.ejemplo.titulo)}</div>` : ""}
+      ${(p.ejemplo.filas || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;align-items:baseline;gap:20px;font-size:56px;line-height:1.15"><span style="font-weight:600">${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#FF6B6B" : c === "verde" ? "#47C08B" : "inherit"}">${esc(v)}</b></div>`).join("")}
     </div>` : ""}
   ${p.bullets?.length ? `<div class="lista" style="margin-top:6px">${p.bullets.map((b) => `<div class="item"><span class="ic">✓</span><span>${rich(b)}</span></div>`).join("")}</div>` : ""}
   ${p.cierre ? `<div class="sub" style="font-weight:800;color:inherit">${rich(p.cierre)}</div>` : ""}
@@ -307,7 +309,7 @@ L.portada = (p, t, hist) => {
 L.cita = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <div style="flex:1;display:flex;flex-direction:column;justify-content:${hist && conMascota(p) ? "flex-start" : "center"};gap:34px">
-    <div class="cita fit" style="max-width:${ancho(p, hist, 40)}px">${rich(p.titulo)}</div>
+    <div class="cita fit" style="max-width:${ancho(p, hist, 40)}px${p.tamCita ? `;font-size:${p.tamCita}px` : ""}">${rich(p.titulo)}</div>
     ${p.sub ? `<div class="sub" style="max-width:${ancho(p, hist)}px">${rich(p.sub)}</div>` : ""}
   </div>
   ${pieFooter(t, p.cta, hist)}`;
@@ -325,7 +327,7 @@ L.meme = (p, t, hist) => `
   <div style="${tarjetaBlanca(hist)};padding:40px 46px;font-weight:800;font-size:${hist ? 56 : 50}px;line-height:1.15;letter-spacing:-.01em">${rich(p.arriba)}${p.abajo ? `<div style="margin-top:16px;font-weight:600;color:#555;font-size:${hist ? 46 : 42}px">${rich(p.abajo)}</div>` : ""}</div>
   <div style="flex:1;min-height:0;position:relative">
     <img src="${figuraSrc(p.figura || "app")}" style="position:absolute;left:${p.globo ? "27%" : "50%"};bottom:0;transform:translateX(-50%);height:100%;filter:drop-shadow(0 30px 40px rgba(0,0,0,.28))">
-    ${p.globo ? `<div style="position:absolute;right:0;top:4%;width:${hist ? 420 : 400}px;background:#47C08B;color:#0F1E38;font-weight:800;font-size:${hist ? 40 : 36}px;line-height:1.2;padding:26px 30px;border-radius:30px 30px 30px 6px;box-shadow:0 20px 40px rgba(0,0,0,.3)">${rich(p.globo)}</div>` : ""}
+    ${p.globo ? `<div style="position:absolute;right:${hist ? 420 : 400}px;top:calc(4% + 70px);width:0;height:0;border-top:34px solid transparent;border-bottom:34px solid transparent;border-right:56px solid #47C08B;z-index:1"></div><div style="position:absolute;right:0;top:4%;width:${hist ? 420 : 400}px;background:#47C08B;color:#0F1E38;font-weight:800;font-size:${hist ? 40 : 36}px;line-height:1.2;padding:26px 30px;border-radius:30px 30px 30px 6px;box-shadow:0 20px 40px rgba(0,0,0,.3)">${rich(p.globo)}</div>` : ""}
   </div>
   ${pieFooter(t, p.cta, hist)}`;
 
@@ -334,7 +336,7 @@ L.chat = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   ${p.titulo ? `<h1 class="${p.tam || "media"} fit" style="flex:none;max-height:${hist ? 260 : 240}px">${rich(p.titulo)}</h1>` : ""}
   <div style="flex:none;border-radius:40px;overflow:hidden;background:#E9EEF3;color:#111;box-shadow:0 24px 60px rgba(0,0,0,.18);display:flex;flex-direction:column">
-    <div style="background:#1E2D4F;color:#fff;padding:22px 30px;display:flex;align-items:center;gap:18px"><div style="width:64px;height:64px;border-radius:50%;background:#47C08B;color:#0F1E38;font-weight:800;font-size:32px;display:flex;align-items:center;justify-content:center">${esc((p.nombre || "Cliente").slice(0, 1))}</div><div><div style="font-weight:800;font-size:32px">${esc(p.nombre || "Cliente")}</div><div style="font-size:22px;opacity:.7">en línea</div></div></div>
+    <div style="background:#1E2D4F;color:#fff;padding:22px 30px;display:flex;align-items:center;gap:18px"><div style="width:64px;height:64px;border-radius:50%;background:#47C08B;color:#0F1E38;font-weight:800;font-size:32px;display:flex;align-items:center;justify-content:center">${esc((p.nombre || "Cliente").slice(0, 1))}</div><div><div style="font-weight:800;font-size:48px">${esc(p.nombre || "Cliente")}</div></div></div>
     <div class="caja" style="padding:22px 28px;display:flex;flex-direction:column;gap:14px;background:none;border-radius:0">
       ${(p.chat || []).map(([q, texto, hora]) => q === "yo"
         ? `<div class="burbuja" style="align-self:flex-end;background:#D8F3E6;border-bottom-right-radius:8px">${rich(texto)}${hora ? `<span class="hora">${esc(hora)} ✓✓</span>` : ""}</div>`
@@ -350,11 +352,10 @@ L.skit = (p, t, hist) => {
   return `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   ${p.titulo ? `<h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 240}px">${rich(p.titulo)}</h1>` : ""}
-  <div style="display:flex;justify-content:space-between;gap:20px;font-weight:800;font-size:26px;letter-spacing:.08em;text-transform:uppercase"><span class="muted">${esc(a.nombre)}</span><span style="color:${t.acc}">${esc(b.nombre)}</span></div>
-  <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:20px;justify-content:center">
+  <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:18px;justify-content:center">
     ${(p.lineas || []).map(([q, texto]) => q === "b"
-      ? `<div style="display:flex;justify-content:flex-end;align-items:flex-end;gap:16px"><div class="burbuja" style="background:${t.acc};color:${t.onAcc};border-bottom-right-radius:8px;font-weight:700">${rich(texto)}</div><div style="flex:none;width:64px;height:64px;border-radius:50%;background:${t.acc};color:${t.onAcc};font-weight:800;font-size:30px;display:flex;align-items:center;justify-content:center">${esc(b.inicial || String(b.nombre).slice(0, 1))}</div></div>`
-      : `<div style="display:flex;align-items:flex-end;gap:16px"><div style="flex:none;width:64px;height:64px;border-radius:50%;background:${t.dark ? "rgba(255,255,255,.18)" : "#E1E5EB"};color:inherit;font-weight:800;font-size:30px;display:flex;align-items:center;justify-content:center">${esc(a.inicial || String(a.nombre).slice(0, 1))}</div><div class="burbuja" style="background:${t.card};border-bottom-left-radius:8px;${t.dark ? "" : "box-shadow:0 10px 30px rgba(0,0,0,.08)"}">${rich(texto)}</div></div>`).join("")}
+      ? `<div style="display:flex;flex-direction:column;align-items:flex-end;gap:6px"><div style="font-weight:800;font-size:48px;color:${t.acc}">${esc(b.nombre)}</div><div class="burbuja" style="background:${t.acc};color:${t.onAcc};border-bottom-right-radius:8px;font-weight:700">${rich(texto)}</div></div>`
+      : `<div style="display:flex;flex-direction:column;align-items:flex-start;gap:6px"><div class="muted" style="font-weight:800;font-size:48px">${esc(a.nombre)}</div><div class="burbuja" style="background:${t.card};border-bottom-left-radius:8px;${t.dark ? "" : "box-shadow:0 10px 30px rgba(0,0,0,.08)"}">${rich(texto)}</div></div>`).join("")}
   </div>
   ${p.cierre ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.cierre)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
@@ -377,12 +378,12 @@ L.frase = (p, t, hist) => `
   ${p.titulo ? `<h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 230}px">${rich(p.titulo)}</h1>` : ""}
   <div style="flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center">
     <div style="${tarjetaBlanca(hist)};color:#1E2D4F;padding:${hist ? "54px 50px" : "48px 48px"};position:relative">
-      <div style="position:absolute;top:-30px;left:40px;background:${t.acc === "#FFFFFF" ? "#1E2D4F" : t.acc};color:${t.acc === "#FFFFFF" ? "#fff" : t.onAcc};font-weight:800;font-size:26px;letter-spacing:.1em;text-transform:uppercase;padding:12px 22px;border-radius:12px">${esc(p.etiqueta || "Copia esto")}</div>
+      <div style="position:absolute;top:-30px;left:40px;background:${t.acc === "#FFFFFF" ? "#1E2D4F" : t.acc};color:${t.acc === "#FFFFFF" ? "#fff" : t.onAcc};font-weight:800;font-size:50px;letter-spacing:.04em;text-transform:uppercase;padding:12px 26px;border-radius:12px">${esc(p.etiqueta || "Copia esto")}</div>
       <div style="font-size:${hist ? 150 : 130}px;line-height:.6;font-weight:800;color:#47C08B;margin-top:10px">“</div>
-      <div class="fit" style="font-weight:800;font-size:${hist ? 58 : 56}px;line-height:1.18;letter-spacing:-.01em;max-height:${hist ? 560 : 440}px">${rich(p.frase)}</div>
+      <div class="fit" style="font-weight:800;font-size:${p.tamFrase || (hist ? 58 : 56)}px;line-height:1.18;letter-spacing:-.01em;max-height:${hist ? 760 : 520}px">${rich(p.frase)}</div>
     </div>
+    ${p.porque ? `<div class="sub" style="font-weight:700;margin-top:34px;color:inherit">${rich(p.porque)}</div>` : ""}
   </div>
-  ${p.porque ? `<div class="sub" style="font-weight:600">${rich(p.porque)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
 
 // antes: antes / después apilados
@@ -476,8 +477,8 @@ L.tweet = (p, t, hist) => `
   <div style="flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center">
     <div style="${tarjetaBlanca(hist)};color:#1E2D4F;padding:${hist ? "48px 50px" : "44px 48px"};display:flex;flex-direction:column;gap:26px">
       <div style="display:flex;align-items:center;gap:20px"><img src="${MARCA("isotipo.png")}" style="height:${hist ? 84 : 72}px"><div><div style="font-weight:800;font-size:${hist ? 40 : 36}px">Kentra</div><div style="font-size:${hist ? 40 : 34}px;color:#5B6478">@kentra.pro</div></div></div>
-      <div class="fit" style="font-weight:700;font-size:${hist ? 58 : 54}px;line-height:1.2;letter-spacing:-.01em;max-height:${hist ? 600 : 500}px">${rich(p.texto)}</div>
-      ${p.pie ? `<div style="font-size:${hist ? 40 : 36}px;line-height:1.25;color:#3F4A5E;border-top:2px solid #E6EAF0;padding-top:20px">${rich(p.pie)}</div>` : ""}
+      <div class="fit" style="font-weight:700;font-size:${p.tamTexto || (hist ? 58 : 54)}px;line-height:1.2;letter-spacing:-.01em;max-height:${hist ? 900 : 640}px">${rich(p.texto)}</div>
+      ${p.pie ? `<div style="font-size:${hist ? 48 : 48}px;line-height:1.25;color:#1E2D4F;font-weight:700;border-top:2px solid #E6EAF0;padding-top:20px">${rich(p.pie)}</div>` : ""}
     </div>
   </div>
   ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
@@ -489,7 +490,7 @@ L.split = (p, t, hist) => `
   <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:22px">
     <div style="flex:1;min-height:0;background:#0B1220;color:#fff;border-radius:40px;padding:36px 42px;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.25)">
       <div style="display:flex;align-items:center;gap:14px;font-weight:800;font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:#FF6B6B"><span style="width:18px;height:18px;border-radius:50%;background:#FF6B6B"></span>${esc(p.arriba?.kicker || "El pitch")}</div>
-      <div class="fit" style="font-weight:800;font-size:${hist ? 54 : 50}px;line-height:1.15;max-height:${hist ? 300 : 230}px">${rich(p.arriba?.texto)}</div>
+      <div class="fit" style="font-weight:800;font-size:${p.arriba?.tam || (hist ? 54 : 50)}px;line-height:1.15;max-height:${hist ? 300 : 330}px">${rich(p.arriba?.texto)}</div>
       <div style="position:absolute;right:36px;bottom:30px;width:74px;height:74px;border-radius:50%;background:rgba(255,255,255,.14);display:flex;align-items:center;justify-content:center;font-size:30px">▶</div>
     </div>
     <div style="flex:1.1;min-height:0;background:#FBFBF7;color:#1E2D4F;border-radius:40px;padding:34px 42px;display:flex;flex-direction:column;gap:14px;box-shadow:0 24px 60px rgba(0,0,0,.18)">
@@ -561,13 +562,13 @@ function html(p, formato) {
     ${p.marcaAgua === false ? "" : '<div class="wm"></div>'}
     ${mascotaImg(p, hist, "none")}
     <main class="safe">${layout(p, t, hist)}</main>
-    ${p.pagina ? `<div style="position:absolute;top:${hist ? 270 : 40}px;right:60px;font-weight:700;font-size:28px;color:${t.muted}">${esc(p.pagina)}</div>` : ""}
+    ${p.pagina ? `<div style="position:absolute;top:${hist ? 270 : 40}px;right:60px;font-weight:700;font-size:54px;color:${t.muted}">${esc(p.pagina)}</div>` : ""}
   </body></html>`);
 }
 
-// Regla de Karol (QA): ninguna letra bajo 40 px. Se sube todo font-size literal < 40 px a 40 px (27 oct 2026).
+// Regla de Karol (QA): letra >= 40 px MEDIDA en altura de mayúscula (~0.72 del font-size): se sube todo font-size literal < 48 px a 48 px y las etiquetas cortas a 54 (27 oct 2026).
 function minLetra(h) {
-  return h.replace(/font-size:\s*(\d+(?:\.\d+)?)px/g, (m, n) => (parseFloat(n) < 40 ? "font-size:40px" : m));
+  return h.replace(/font-size:\s*(\d+(?:\.\d+)?)px/g, (m, n) => (parseFloat(n) < 48 ? "font-size:48px" : m));
 }
 
 async function browser() {
@@ -611,6 +612,9 @@ async function renderUno(page, spec, formato, salida) {
       const b = el.getBoundingClientRect();
       if (b.bottom > r.bottom + 2 || b.right > r.right + 2 || b.left < r.left - 2) fuera++;
     }
+    for (const el of m.querySelectorAll("div,h1")) {
+      if (el.clientHeight > 0 && el.scrollHeight > el.clientHeight * 1.2 + 6 && el.textContent.trim().length > 2 && !el.querySelector("img")) { fuera++; (window.__ff = window.__ff || []).push(`${el.tagName}.${el.className}|${el.scrollHeight}>${el.clientHeight}|${el.textContent.trim().slice(0, 30)}`); }
+    }
     let chicas = 0;
     const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
     while (w.nextNode()) {
@@ -618,7 +622,7 @@ async function renderUno(page, spec, formato, salida) {
       const fs = parseFloat(getComputedStyle(n.parentElement).fontSize);
       if (fs < 39.5) chicas++;
     }
-    return { overflowY, fuera, chicas, alto: m.scrollHeight, caja: m.clientHeight };
+    return { overflowY, fuera, chicas, alto: m.scrollHeight, caja: m.clientHeight, ff: (window.__ff || []).join(' ; ') };
   });
   await page.screenshot({ path: salida, type: "jpeg", quality: 92 });
   return desborde;
@@ -651,7 +655,7 @@ async function main() {
       }
       const salida = spec.layout === "carrusel" ? f.replace(/\.json$/, `-${i + 1}.jpg`) : f.replace(/\.json$/, ".jpg");
       const r = await renderUno(page, s, formato, salida);
-      const aviso = (r.overflowY || r.fuera ? ` ⚠️ DESBORDE (contenido ${r.alto}px > caja ${r.caja}px, ${r.fuera} bloques fuera)` : "") + (r.chicas ? ` ⚠️ LETRA<40px (${r.chicas} textos)` : "");
+      const aviso = (r.overflowY || r.fuera ? ` ⚠️ DESBORDE (contenido ${r.alto}px > caja ${r.caja}px, ${r.fuera} bloques fuera: ${r.ff})` : "") + (r.chicas ? ` ⚠️ LETRA<40px (${r.chicas} textos)` : "");
       if (aviso) problemas++;
       console.log(`${aviso ? "⚠️" : "✅"} ${path.relative(RAIZ, salida)}${aviso}`);
     }

@@ -2,13 +2,13 @@
  "layout": "lista",
  "formato": "historia",
  "tema": "noche",
- "kicker": "Mientras tú atiendes",
+ "kicker": "En tu mostrador",
  "titulo": "Lo que Kentra hace por ti",
  "items": [
-  "Suma el día y el mes mientras registras",
-  "Te avisa antes de que algo venza",
-  "Guarda tus comprobantes PDF con tu logo",
-  "KentrAI responde tus dudas de dinero"
+  "Mientras cobras: suma el día y el mes",
+  "Mientras atiendes: te avisa lo que vence",
+  "Mientras entregas: crea el comprobante PDF con tu logo",
+  "Mientras cierras: KentrAI responde con tus números"
  ],
  "cierre": "Tú atiendes. Las cuentas se ordenan.",
  "cta": {

@@ -2,12 +2,12 @@
  "layout": "reparto",
  "formato": "post",
  "tema": "blanco",
- "kicker": "Una semana (demo)",
+ "kicker": "Una semana demo",
  "titulo": "¿Cuánto se pagó el dueño de lo que entró?",
  "total": "$2.400.000",
  "partes": [
   [
-   "Insumos y mercancía",
+   "Insumos",
    "$960.000",
    40
   ],
@@ -17,12 +17,12 @@
    25
   ],
   [
-   "Arriendo y servicios",
+   "Arriendo y luz",
    "$360.000",
    15
   ],
   [
-   "Impuestos (apartados)",
+   "Impuestos",
    "$192.000",
    8
   ],
@@ -32,7 +32,7 @@
    12
   ]
  ],
- "cierre": "Lo que «sobra» ya tiene dueño. Lo tuyo es el 12 %.",
+ "cierre": "Lo que «sobra» ya tiene dueño.\nLo tuyo es el 12 %.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

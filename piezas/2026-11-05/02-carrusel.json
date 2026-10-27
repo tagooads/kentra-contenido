@@ -13,15 +13,15 @@
    "sinPildora": true,
    "kicker": "Publicidad",
    "titulo": "¿Cuánto te cuesta un cliente nuevo?",
-   "sub": "4 cuentas antes de pagar un anuncio.",
-   "visual": "none"
+   "sub": "4 cuentas antes de pagar un anuncio. Con un ejemplo: −$92.000.",
+   "visual": "mascota-telefono"
   },
   {
    "layout": "valor",
    "tema": "claro",
    "num": "1",
    "titulo": "Suma lo que invertiste",
-   "texto": "Anuncio, diseño y tu tiempo cuentan.",
+   "texto": "Anuncio y diseño cuentan.",
    "ejemplo": {
     "filas": [
      [
@@ -69,7 +69,7 @@
    "tema": "claro",
    "num": "3",
    "titulo": "Resta lo que cuesta vender",
-   "texto": "De cada venta solo te queda el margen.",
+   "texto": "Con un margen del 30 %, de cada venta solo te queda eso.",
    "ejemplo": {
     "filas": [
      [
@@ -77,12 +77,12 @@
       "$360.000"
      ],
      [
-      "Costo del producto",
+      "Costo (70 %)",
       "−$252.000",
       "rojo"
      ],
      [
-      "**Te dejan**",
+      "**Te dejan (30 %)**",
       "$108.000",
       "verde"
      ]
@@ -119,12 +119,24 @@
    "tema": "claro",
    "num": "5",
    "titulo": "Úsalo para decidir",
-   "texto": "Con esas cifras:",
-   "bullets": [
-    "Cada cliente deja $13.500",
-    "Necesitas 15 clientes para recuperar $200.000",
-    "Si no llegas, mejora la oferta antes de invertir más"
-   ]
+   "texto": "Cada cliente deja $13.500. Para recuperar $200.000 necesitas 15.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Clientes que necesitas",
+      "15"
+     ],
+     [
+      "Clientes que tuviste",
+      "8"
+     ],
+     [
+      "**Te faltaron**",
+      "7",
+      "rojo"
+     ]
+    ]
+   }
   },
   {
    "layout": "lista",
@@ -141,13 +153,9 @@
    "layout": "mascota",
    "tema": "navy",
    "titulo": "Invierte con la cuenta hecha",
+   "sub": "Desde $15/mes.",
    "tam": "media",
    "mascota": "telefono",
-   "items": [
-    "Ganancia real de cada mes",
-    "Gastos por categoría",
-    "Desde $15/mes, sin permanencia"
-   ],
    "cta": {
     "texto": "kentra.pro",
     "boton": true

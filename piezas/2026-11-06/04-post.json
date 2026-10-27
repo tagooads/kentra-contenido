@@ -3,7 +3,7 @@
  "formato": "post",
  "tema": "menta",
  "kicker": "Restaurante",
- "titulo": "Botaste 6 % de tus insumos. ¿Cuánto es?",
+ "titulo": "Desperdiciaste 6 % de tus insumos. ¿Cuánto es?",
  "filas": [
   {
    "label": "Compraste",
@@ -11,19 +11,19 @@
    "color": "gris"
   },
   {
-   "label": "Se botó",
+   "label": "Se perdió",
    "valor": "−$240.000",
    "color": "rojo",
-   "nota": "6 % que se dañó o sobró"
+   "grande": true,
+   "nota": "El 6 % que se dañó o sobró"
   },
   {
    "label": "Sí usaste",
    "valor": "$3.760.000",
-   "color": "verde",
-   "grande": true
+   "color": "verde"
   }
  ],
- "cierre": "Lo que se bota también se paga.",
+ "cierre": "Lo que se pierde también se paga.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

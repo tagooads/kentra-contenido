@@ -2,10 +2,9 @@
  "layout": "recibo",
  "formato": "post",
  "tema": "marfil",
- "kicker": "Tienda online",
  "titulo": "Camiseta de $35.000: ¿cuánto te queda?",
- "negocio": "Tienda Nube Verde",
- "detalle": "Camiseta estampada · datos demo",
+ "negocio": "Camisetas",
+ "detalle": "Datos demo",
  "items": [
   [
    "Precio de venta",
@@ -13,38 +12,28 @@
    "verde"
   ],
   [
-   "Camiseta base",
-   "−$12.000",
+   "Producción",
+   "−$18.000",
    "rojo"
   ],
   [
-   "Estampado",
-   "−$6.000",
+   "Empaque y envío",
+   "−$7.000",
    "rojo"
   ],
   [
-   "Empaque",
-   "−$1.500",
-   "rojo"
-  ],
-  [
-   "Envío que pagas tú",
-   "−$5.500",
-   "rojo"
-  ],
-  [
-   "Comisión de pago (3 %)",
+   "Comisión de pago",
    "−$1.050",
    "rojo"
   ]
  ],
  "total": [
-  "Te queda",
+  "Te queda (26 %)",
   "$8.950"
  ],
- "pie": "26 % de margen, antes de publicidad.",
+ "marcaAgua": false,
  "cta": {
   "texto": "kentra.pro",
-  "boton": false
+  "boton": true
  }
 }

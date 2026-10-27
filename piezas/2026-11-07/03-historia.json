@@ -1,11 +1,11 @@
 {
- "layout": "frase",
+ "layout": "cita",
  "formato": "historia",
- "tema": "noche",
- "kicker": "Cuando piden constancia",
- "etiqueta": "Copia esto",
- "frase": "Te mando el comprobante en PDF con el valor y la fecha del pago.",
- "porque": "Un comprobante claro evita discusiones.",
+ "tema": "verdeoscuro",
+ "kicker": "Frase para copiar",
+ "titulo": "Te mando el comprobante en PDF con el valor y la fecha del pago.",
+ "sub": "Hazlo en Kentra: comprobante PDF con tu logo.",
+ "tamCita": 92,
  "cta": {
   "texto": "kentra.pro",
   "boton": true

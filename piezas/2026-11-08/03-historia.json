@@ -7,10 +7,10 @@
  "items": [
   "Suma lo que entró esta semana",
   "Suma lo que salió",
-  "Mira qué vence la próxima",
+  "Mira qué vence la próxima semana",
   "Elige un gasto que recortar"
  ],
- "cierre": "Diez minutos hoy evitan sorpresas el lunes.",
+ "cierre": "En Kentra lo ves todo en una pantalla.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

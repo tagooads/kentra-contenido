@@ -1,16 +1,25 @@
 {
- "layout": "mascota",
+ "layout": "antes",
  "formato": "post",
- "tema": "navy",
- "kicker": "Pro y Business",
- "titulo": "¿Digitas cada movimiento del banco?",
- "sub": "Sube tu extracto o tus facturas y Kentra los registra con IA.",
- "items": [
-  "Extractos en CSV o Excel",
-  "Facturas con IA",
-  "En los planes Pro y Business"
- ],
- "mascota": "telefono",
+ "tema": "claro",
+ "kicker": "POV",
+ "titulo": "Tienes una tienda y te llegan 80 movimientos del banco",
+ "antes": {
+  "titulo": "Antes",
+  "items": [
+   "Digitas movimiento por movimiento",
+   "Pierdes horas cada mes",
+   "Se te cuelgan errores"
+  ]
+ },
+ "despues": {
+  "titulo": "Después",
+  "items": [
+   "Subes tu extracto o tus facturas",
+   "Se registran solas, con IA",
+   "Tú revisas (Pro y Business)"
+  ]
+ },
  "cta": {
   "texto": "kentra.pro",
   "boton": false

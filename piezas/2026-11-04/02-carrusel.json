@@ -13,38 +13,38 @@
   },
   {
    "layout": "frase",
-   "kicker": "1 · Cuando se pasó la fecha",
+   "kicker": "1 · Se pasó la fecha",
    "etiqueta": "Copia esto",
-   "frase": "«Te escribo por la factura del 20: vence hoy. ¿La pagas esta tarde?»",
+   "frase": "Te escribo por la factura del 20: ya venció. ¿La pagas hoy?",
    "porque": "Fecha y una acción concreta."
   },
   {
    "layout": "frase",
-   "kicker": "2 · Cuando dicen «la próxima semana»",
+   "kicker": "2 · Dicen «luego»",
    "etiqueta": "Copia esto",
-   "frase": "«Perfecto. ¿Qué día exacto? Lo anoto y te escribo ese día.»",
+   "frase": "Perfecto. ¿Qué día exacto? Lo anoto y te escribo ese día.",
    "porque": "Conviertes una promesa vaga en una fecha."
   },
   {
    "layout": "frase",
-   "kicker": "3 · Cuando piden plazo",
+   "kicker": "3 · Piden plazo",
    "etiqueta": "Copia esto",
-   "frase": "«Te lo divido en dos: la mitad hoy y la otra el 15.»",
+   "frase": "Te lo divido en dos: la mitad hoy y la otra el 15.",
    "porque": "Cobras algo ahora y fijas el resto."
   },
   {
    "layout": "frase",
-   "kicker": "4 · Cuando se ofenden",
+   "kicker": "4 · Se ofenden",
    "etiqueta": "Copia esto",
-   "frase": "«Entiendo. Este es el valor que acordamos, y lo sostengo.»",
+   "frase": "Entiendo. Este es el valor que acordamos y lo sostengo.",
    "porque": "Calma y firmeza. Sin justificarte."
   },
   {
    "layout": "frase",
    "kicker": "5 · Antes de entregar",
    "etiqueta": "Copia esto",
-   "frase": "«Te lo entrego con el pago confirmado. ¿Te mando el comprobante?»",
-   "porque": "Cobrar antes de entregar es lo que más dinero cuida."
+   "frase": "Te lo entrego con el pago confirmado. ¿Te envío los datos de pago?",
+   "porque": "Cobrar antes de entregar cuida tu dinero."
   },
   {
    "layout": "lista",
@@ -53,20 +53,16 @@
    "titulo": "Cada cobro con su fecha",
    "items": [
     "Notas con fecha límite y recordatorio",
-    "Comprobantes PDF con tu logo",
+    "Comprobante de pago PDF con tu logo",
     "Al marcar cobrado, queda registrado"
    ]
   },
   {
    "layout": "mascota",
    "titulo": "Cobra a tiempo. Es tu dinero.",
+   "sub": "Desde $15/mes.",
    "tam": "media",
    "mascota": "telefono",
-   "items": [
-    "Cuentas por cobrar con recordatorio",
-    "Comprobante de pago PDF con tu logo",
-    "Desde $15/mes"
-   ],
    "cta": {
     "texto": "kentra.pro",
     "boton": true
