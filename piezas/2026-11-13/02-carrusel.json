@@ -1,0 +1,121 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "noche",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Reto",
+   "titulo": "Aparta $50.000 para tu negocio en 10 semanas",
+   "sub": "Un reto con plazo y cifra.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Elige meta y plazo",
+   "texto": "Escribe los dos en un papel.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Meta",
+      "$50.000"
+     ],
+     [
+      "Plazo",
+      "10 semanas"
+     ],
+     [
+      "Cada semana",
+      "$5.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Define de dónde sale",
+   "texto": "Un porcentaje fijo de lo que vendes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas de la semana",
+      "$100.000"
+     ],
+     [
+      "Apartas 5 %",
+      "$5.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Guárdalo aparte",
+   "texto": "Si lo ves en tu cuenta de gastos, se gasta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Cuenta de gastos",
+      "$95.000"
+     ],
+     [
+      "Cuenta del reto",
+      "$5.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Marca cada semana",
+   "texto": "La constancia te lleva a la meta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Semana 1",
+      "$5.000"
+     ],
+     [
+      "Semana 5",
+      "$25.000"
+     ],
+     [
+      "Semana 10",
+      "$50.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "En Kentra",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Anota cada aporte con su fecha",
+    "Pon una nota con fecha límite",
+    "Mira tu avance cada semana"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "¿Qué vas a comprar con $50.000?",
+   "sub": "Desde $15/mes.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

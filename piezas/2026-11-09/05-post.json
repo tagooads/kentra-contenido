@@ -1,0 +1,13 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "verdeoscuro",
+ "kicker": "Cobros",
+ "titulo": "El dinero que te debe un cliente no es tuyo hasta que lo cobras.",
+ "sub": "Anótalo con su fecha y míralo antes de que venza.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamCita": 96
+}

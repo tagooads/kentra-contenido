@@ -1,0 +1,30 @@
+{
+ "layout": "pizarra",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Tu ayudante",
+ "titulo": "¿Cuántos pedidos para pagar a tu ayudante?",
+ "lineas": [
+  [
+   "Pago del ayudante",
+   "$6,000 MXN"
+  ],
+  [
+   "Te queda por pedido",
+   "$60 MXN"
+  ],
+  [
+   "Pedidos para pagarlo",
+   "100",
+   "res"
+  ]
+ ],
+ "nota": "Del pedido 101 en adelante,\nempiezas a ganar tú.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tam": "grande",
+ "escala": 1,
+ "marcaAgua": false
+}

@@ -1,0 +1,136 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "marfil",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Buen Fin",
+   "titulo": "¿Te alcanza el stock y la caja?",
+   "sub": "Cifras en pesos mexicanos (MXN). Desliza.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "¿Cuántas piezas vas a vender?",
+   "texto": "Compara con tu finde normal.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Tienes en bodega",
+      "120"
+     ],
+     [
+      "Finde normal",
+      "30"
+     ],
+     [
+      "Buen Fin (×3)",
+      "90",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "¿Cuánto cuesta reponerlas?",
+   "texto": "Cada pieza vendida es una pieza que debes volver a comprar.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Piezas vendidas",
+      "90"
+     ],
+     [
+      "Costo por pieza",
+      "$520 MXN"
+     ],
+     [
+      "**Reponer**",
+      "$46,800 MXN",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "¿Cuánto te queda?",
+   "texto": "Vendes en promedio a $800 MXN con descuento.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas (90 × $800)",
+      "$72,000"
+     ],
+     [
+      "Mercancía",
+      "−$46,800",
+      "rojo"
+     ],
+     [
+      "Envío, empaque y comisión",
+      "−$7,920",
+      "rojo"
+     ],
+     [
+      "**Te quedan**",
+      "$17,280 · 24 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Aparta el pago de tu proveedor",
+   "texto": "Hazlo el mismo día que vendes, no cuando te cobren.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste el viernes",
+      "$24,000"
+     ],
+     [
+      "Apartas 65 % para reponer",
+      "$15,600",
+      "rojo"
+     ],
+     [
+      "Libre para gastar",
+      "$8,400",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "En Kentra",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Anota cada venta en el momento",
+    "Ve entró, salió y quedó del finde en una pantalla",
+    "KentrAI responde con tus números"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "¿Cuánto te va a quedar?",
+   "sub": "Desde $15/mes.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

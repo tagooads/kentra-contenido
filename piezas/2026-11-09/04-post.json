@@ -1,0 +1,31 @@
+{
+ "layout": "chat",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Buen Fin",
+ "titulo": "Piden el precio del Buen Fin con envío incluido",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "¿Me lo dejas en $700 con envío incluido?"
+  ],
+  [
+   "yo",
+   "Producto $520 + envío $110 + comisión $35 = $665."
+  ],
+  [
+   "cliente",
+   "¿Entonces sí?"
+  ],
+  [
+   "yo",
+   "Sí, pero me quedan $35. Mejor $760."
+  ]
+ ],
+ "cierre": "Haz la cuenta antes de decir que sí.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

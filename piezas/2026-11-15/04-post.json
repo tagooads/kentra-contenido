@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "menta",
+ "kicker": "Domingo",
+ "titulo": "Vendiste $30.000 y gastaste $26.400. ¿Qué % ganaste?",
+ "filas": [
+  {
+   "label": "Vendiste",
+   "valor": "$30.000",
+   "color": "gris"
+  },
+  {
+   "label": "Gastaste",
+   "valor": "−$26.400",
+   "color": "rojo"
+  },
+  {
+   "label": "Ganaste",
+   "valor": "12 %",
+   "color": "verde",
+   "grande": true,
+   "nota": "$3.600 de $30.000"
+  }
+ ],
+ "cierre": "Ganancia entre ventas.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

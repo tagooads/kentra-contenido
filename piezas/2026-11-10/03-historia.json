@@ -1,0 +1,17 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "verdeoscuro",
+ "kicker": "Cierre del día",
+ "titulo": "3 minutos antes de apagar la caja",
+ "items": [
+  "Suma lo que entró hoy",
+  "Anota lo que gastaste",
+  "Aparta lo del proveedor"
+ ],
+ "cierre": "Así el dinero de hoy no se gasta dos veces.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

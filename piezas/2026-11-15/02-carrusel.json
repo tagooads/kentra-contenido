@@ -1,0 +1,81 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verde",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Empieza hoy",
+   "titulo": "Tu primera ganancia real en 6 pasos",
+   "sub": "Sin Excel y sin saber de finanzas.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Paso 1",
+   "titulo": "Crea tu cuenta",
+   "items": [
+    "Entra a kentra.pro",
+    "Elige el plan que te sirva",
+    "Acceso inmediato"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "kicker": "Paso 2",
+   "titulo": "Configura tu negocio",
+   "items": [
+    "Nombre del negocio",
+    "Moneda",
+    "Categorías (puedes editarlas)"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Paso 3",
+   "titulo": "Registra tu primer ingreso",
+   "items": [
+    "Monto, fecha y categoría",
+    "Una nota si quieres",
+    "Desde el celular o el computador"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "kicker": "Paso 4",
+   "titulo": "Registra tu primer gasto",
+   "items": [
+    "Elige su categoría",
+    "Fija cuánto puedes gastar en ella",
+    "Recibe alertas"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Paso 5",
+   "titulo": "Mira tu ganancia real",
+   "items": [
+    "Lo que entró",
+    "Lo que salió",
+    "Lo que te quedó"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "Tu primera ganancia real, hoy",
+   "sub": "Desde $15/mes. Sin permanencia.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Buen Fin",
+ "titulo": "Vendiste $50,000 MXN en el Buen Fin. ¿Cuánto es tuyo?",
+ "filas": [
+  {
+   "label": "Ventas",
+   "valor": "$50,000",
+   "color": "gris"
+  },
+  {
+   "label": "Salió",
+   "valor": "−$41,500",
+   "color": "rojo",
+   "nota": "Mercancía, envíos y comisiones"
+  },
+  {
+   "label": "Es tuyo",
+   "valor": "$8,500",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "Resta todo lo que salió, no solo la mercancía.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

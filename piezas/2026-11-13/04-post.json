@@ -1,0 +1,35 @@
+{
+ "layout": "split",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Reacción",
+ "arriba": {
+  "kicker": "La promesa",
+  "texto": "«Vende 5 veces más en el Buen Fin.»",
+  "tam": 64
+ },
+ "abajo": {
+  "kicker": "La cuenta que falta",
+  "filas": [
+   [
+    "Ventas",
+    "$100,000"
+   ],
+   [
+    "Costos y publicidad",
+    "−$96,000",
+    "rojo"
+   ],
+   [
+    "Te queda (4 %)",
+    "$4,000",
+    "res"
+   ]
+  ]
+ },
+ "nota": "5 veces más ventas con 4 % de margen.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

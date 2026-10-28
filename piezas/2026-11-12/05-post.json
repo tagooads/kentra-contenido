@@ -1,0 +1,21 @@
+{
+ "layout": "precio",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Plan Pro",
+ "titulo": "Para dos negocios y el control completo",
+ "plan": "Pro",
+ "precio": "USD 20",
+ "periodo": "/mes",
+ "nota": "El más elegido.",
+ "items": [
+  "Hasta 2 negocios y 1 usuario extra",
+  "Importación de extractos y facturas con IA",
+  "Reglas de categorización y créditos",
+  "Sin permanencia, acceso inmediato"
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

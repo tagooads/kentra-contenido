@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "noche",
+ "titulo": "¿Tu ganancia de hoy alcanza para pagar mañana?",
+ "sub": "Suma lo que entró, resta lo que debes mañana y mira qué queda.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

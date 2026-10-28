@@ -1,0 +1,66 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Serie del Buen Fin",
+   "titulo": "Tu Buen Fin con Kentra, día por día",
+   "sub": "De viernes a lunes.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "kicker": "Día 1 · Viernes",
+   "titulo": "Anota mientras vendes",
+   "items": [
+    "Registra cada venta al momento",
+    "Pon cada gasto en su categoría"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Día 2 · Sábado",
+   "titulo": "Revisa tus gastos",
+   "items": [
+    "Mira cuánto llevas en publicidad y envíos",
+    "Recibe alertas de lo que vence"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "kicker": "Día 3 · Domingo",
+   "titulo": "Manda comprobantes",
+   "items": [
+    "Crea el comprobante PDF con tu logo",
+    "Envíalo a tu cliente en segundos"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Día 4 · Lunes",
+   "titulo": "Cierra con tu número",
+   "items": [
+    "Mira entró, salió y quedó del finde",
+    "Pregúntale a KentrAI con tus números"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "¿Listo para el Buen Fin?",
+   "sub": "Desde $15/mes.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

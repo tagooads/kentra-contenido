@@ -1,0 +1,27 @@
+{
+ "layout": "antes",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "POV",
+ "titulo": "Cierras el día y no sabes cuánto vendiste",
+ "antes": {
+  "titulo": "Antes",
+  "items": [
+   "Cuentas billetes y transferencias a ojo",
+   "Anotas en un papel que se pierde",
+   "Sumas el viernes de memoria"
+  ]
+ },
+ "despues": {
+  "titulo": "Después",
+  "items": [
+   "Anotas cada venta al momento",
+   "Ves cuánto entró y cuánto salió",
+   "Cierras el día con un número"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

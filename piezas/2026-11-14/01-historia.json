@@ -1,0 +1,13 @@
+{
+ "layout": "mito",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Mito del dueño",
+ "titulo": "«Si vendo a pérdida hoy, lo recupero mañana»",
+ "mito": "Vender por debajo del costo atrae clientes.",
+ "realidad": "Cada pieza bajo su costo sale de tu bolsillo. Solo la recuperas si el cliente vuelve **y** compra a un precio con ganancia.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "layout": "reto",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Reto de jueves",
+ "titulo": "Vendes 30 pares a $850. Cada uno cuesta $600 y $60 de envío. ¿Cuánto ganas?",
+ "opciones": [
+  "$5,700",
+  "$7,500",
+  "$25,500"
+ ],
+ "nota": "Respuesta: $5,700. Son $190 por par × 30 pares.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

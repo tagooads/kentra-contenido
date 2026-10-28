@@ -1,0 +1,27 @@
+{
+ "layout": "antes",
+ "formato": "post",
+ "tema": "verde",
+ "kicker": "POV",
+ "titulo": "Es domingo y tienes que cuadrar la semana",
+ "antes": {
+  "titulo": "Antes",
+  "items": [
+   "Abrir fotos, notas y chats",
+   "Sumar con calculadora",
+   "Dudar de la cifra"
+  ]
+ },
+ "despues": {
+  "titulo": "Después",
+  "items": [
+   "Todo anotado durante la semana",
+   "Entró, salió y quedó en una vista",
+   "Cierras en minutos"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

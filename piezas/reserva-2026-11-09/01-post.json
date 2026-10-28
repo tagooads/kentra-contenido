@@ -1,0 +1,32 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Facturar no es ganar",
+ "titulo": "Facturaste $2.000.000. ¿Cuánto es tuyo?",
+ "filas": [
+  {
+   "label": "Facturaste",
+   "valor": "$2.000.000",
+   "color": "gris"
+  },
+  {
+   "label": "Gastos",
+   "valor": "−$1.740.000",
+   "color": "rojo",
+   "grande": false
+  },
+  {
+   "label": "Es tuyo",
+   "valor": "$260.000",
+   "color": "verde",
+   "grande": true,
+   "nota": "13 % de lo facturado"
+  }
+ ],
+ "cierre": "Lo que facturas no es lo que te queda.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

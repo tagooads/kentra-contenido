@@ -1,0 +1,103 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Proveedores",
+   "titulo": "3 preguntas antes de comprar a crédito",
+   "sub": "Con una compra de $40.000.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "¿Cuándo entra mi dinero?",
+   "texto": "Compara el plazo del proveedor con el tuyo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Compras hoy",
+      "$40.000"
+     ],
+     [
+      "Te cobran en",
+      "30 días"
+     ],
+     [
+      "Lo vendes en",
+      "20 días",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "¿Y si vendo la mitad?",
+   "texto": "Haz la cuenta del peor caso.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Debes al día 30",
+      "$40.000"
+     ],
+     [
+      "Vendiste la mitad",
+      "$28.000",
+      "verde"
+     ],
+     [
+      "**Te faltan**",
+      "$12.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "¿Cuánto es lo máximo que compro?",
+   "texto": "No más de lo que vendes en 30 días a precio de costo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Costo de lo que vendes al mes",
+      "$28.000"
+     ],
+     [
+      "Compra máxima",
+      "$28.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "En Kentra",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Anota cada compra con su fecha de pago",
+    "Recordatorios con alertas antes de que venzan",
+    "Ve cuánto debes y cuánto te deben"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "¿Cuánto debes y cuándo?",
+   "sub": "Desde $15/mes.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

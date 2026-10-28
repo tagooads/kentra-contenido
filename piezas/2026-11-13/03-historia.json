@@ -1,0 +1,34 @@
+{
+ "layout": "skit",
+ "formato": "historia",
+ "tema": "menta",
+ "titulo": "Rematar para vender rápido",
+ "a": {
+  "nombre": "Tú"
+ },
+ "b": {
+  "nombre": "La cuenta"
+ },
+ "lineas": [
+  [
+   "a",
+   "Voy a rematar todo al 50 %."
+  ],
+  [
+   "b",
+   "¿A cuánto lo compraste?"
+  ],
+  [
+   "a",
+   "A $600; lo vendo en $1,000."
+  ],
+  [
+   "b",
+   "Al 50 % lo vendes a $500: pierdes $100 por pieza."
+  ]
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

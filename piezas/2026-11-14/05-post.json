@@ -1,0 +1,31 @@
+{
+ "layout": "chat",
+ "formato": "post",
+ "tema": "noche",
+ "kicker": "Transferencia",
+ "titulo": "El cliente dice que ya pagó",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "Ya te transferí."
+  ],
+  [
+   "yo",
+   "No me llega todavía."
+  ],
+  [
+   "cliente",
+   "Te mando la captura."
+  ],
+  [
+   "yo",
+   "La anoto como pendiente hasta verla en el banco."
+  ]
+ ],
+ "cierre": "Pendiente hasta que llega.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

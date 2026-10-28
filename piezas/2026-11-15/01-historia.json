@@ -1,0 +1,17 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "verdeoscuro",
+ "kicker": "Domingo de Buen Fin",
+ "titulo": "Tu ayudante pide $500 extra. Si vendes $6,000 más con 25 % de margen, ¿te conviene?",
+ "opciones": [
+  "Sí, me deja $1,000",
+  "No, me cuesta",
+  "Depende de mi margen"
+ ],
+ "nota": "Respuesta: sí. 25 % de $6,000 son $1,500; menos $500, te quedan $1,000.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

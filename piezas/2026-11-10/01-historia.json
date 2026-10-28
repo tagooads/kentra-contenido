@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "historia",
+ "tema": "noche",
+ "kicker": "Una postura",
+ "texto": "«Prefiero vender 10 y ganar $200 en cada uno, que vender 50 y ganar $0.»",
+ "pie": "Mira cuánto te queda, no cuántos vendiste. Anótalo en Kentra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "tamTexto": 78
+}

@@ -1,0 +1,40 @@
+{
+ "layout": "reparto",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Un día de Buen Fin",
+ "titulo": "De $10,000 MXN vendidos, ¿cuánto te queda?",
+ "total": "$10,000",
+ "partes": [
+  [
+   "Mercancía",
+   "$4,500",
+   45
+  ],
+  [
+   "Envíos y empaque",
+   "$1,500",
+   15
+  ],
+  [
+   "Publicidad y comisiones",
+   "$1,400",
+   14
+  ],
+  [
+   "Impuestos y otros",
+   "$1,100",
+   11
+  ],
+  [
+   "Te queda",
+   "$1,500",
+   15
+  ]
+ ],
+ "cierre": "El 15 % es tuyo.\nEl resto ya tenía dueño.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

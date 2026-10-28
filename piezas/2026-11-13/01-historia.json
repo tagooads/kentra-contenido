@@ -1,0 +1,18 @@
+{
+ "layout": "tip",
+ "formato": "historia",
+ "tema": "noche",
+ "kicker": "Día 1 del Buen Fin",
+ "titulo": "Hoy arranca: 4 cosas que anotar",
+ "items": [
+  "Cada venta, con su hora",
+  "El costo de lo que despachas",
+  "Envíos y empaque",
+  "Lo que gastas en publicidad"
+ ],
+ "cierre": "En Kentra queda todo en una pantalla.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

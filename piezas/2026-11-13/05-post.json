@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Una regla",
+ "texto": "«El Buen Fin se mide el lunes, no el viernes.»",
+ "pie": "Cuenta lo que te quedó, no lo que vendiste.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 92
+}

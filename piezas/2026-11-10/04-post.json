@@ -1,0 +1,44 @@
+{
+ "layout": "recibo",
+ "formato": "post",
+ "tema": "menta",
+ "titulo": "Un pedido de $450 por Instagram: ¿cuánto te queda?",
+ "negocio": "Tienda en línea",
+ "detalle": "Datos demo",
+ "items": [
+  [
+   "Precio de venta",
+   "$450",
+   "verde"
+  ],
+  [
+   "Producto",
+   "−$230",
+   "rojo"
+  ],
+  [
+   "Empaque",
+   "−$25",
+   "rojo"
+  ],
+  [
+   "Envío",
+   "−$80",
+   "rojo"
+  ],
+  [
+   "Comisión de pago",
+   "−$16",
+   "rojo"
+  ]
+ ],
+ "total": [
+  "Te queda (22 %)",
+  "$99"
+ ],
+ "marcaAgua": false,
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

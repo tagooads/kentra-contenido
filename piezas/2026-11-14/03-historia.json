@@ -1,0 +1,13 @@
+{
+ "layout": "cita",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Para anotar",
+ "titulo": "Una venta sin anotar es una venta que no cobras.",
+ "sub": "Anótala ahora, aunque sea en dos líneas.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "tamCita": 96
+}

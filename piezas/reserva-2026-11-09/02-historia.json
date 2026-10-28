@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "¿Cuánto te quedó este mes, no cuánto vendiste?",
+ "sub": "Haz la resta: ventas menos todo lo que salió.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

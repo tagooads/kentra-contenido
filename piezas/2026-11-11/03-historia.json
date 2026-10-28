@@ -1,0 +1,17 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Antes del Buen Fin",
+ "titulo": "Escribe tu meta con número",
+ "items": [
+  "Cuánto quieres vender",
+  "Cuánto quieres que te quede",
+  "Qué día la vas a revisar"
+ ],
+ "cierre": "Una meta escrita se cumple más.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

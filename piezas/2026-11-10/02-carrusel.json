@@ -1,0 +1,149 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Tienda en línea",
+   "titulo": "4 costos que no ves en tu tienda en línea",
+   "sub": "Con $100.000 de ventas al mes.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "El empaque",
+   "texto": "Cajas, bolsas y cinta cuentan.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pedidos al mes",
+      "200"
+     ],
+     [
+      "Empaque por pedido",
+      "$25"
+     ],
+     [
+      "**Total**",
+      "$5.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "La comisión de pago",
+   "texto": "Cada cobro con tarjeta deja un porcentaje.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas del mes",
+      "$100.000"
+     ],
+     [
+      "Comisión 3,5 %",
+      "−$3.500",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Los cambios y devoluciones",
+   "texto": "El envío de vuelta también lo pagas tú.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Cambios al mes",
+      "12"
+     ],
+     [
+      "Envío por cambio",
+      "$90"
+     ],
+     [
+      "**Total**",
+      "$1.080",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "4",
+   "titulo": "Tu tiempo armando pedidos",
+   "texto": "Pon un valor a tus horas.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Horas al mes",
+      "20"
+     ],
+     [
+      "Valor por hora",
+      "$100"
+     ],
+     [
+      "**Total**",
+      "$2.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "dato",
+   "titulo": "Suma de los cuatro costos",
+   "filas": [
+    {
+     "label": "Ventas",
+     "valor": "$100.000",
+     "color": "gris"
+    },
+    {
+     "label": "Costos que no veías",
+     "valor": "−$11.580",
+     "color": "rojo",
+     "grande": false,
+     "nota": "Empaque, comisión, cambios y tiempo"
+    },
+    {
+     "label": "Parte de tus ventas",
+     "valor": "11,6 %",
+     "color": "verde"
+    }
+   ],
+   "cierre": "Y aún falta restar la mercancía."
+  },
+  {
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "En Kentra",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Crea categorías para empaque y comisiones",
+    "Ve cuánto se va en cada categoría",
+    "KentrAI responde con tus números"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "¿Cuánto se te va sin que lo veas?",
+   "sub": "Desde $15/mes.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

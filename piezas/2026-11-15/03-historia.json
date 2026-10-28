@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "navy",
+ "titulo": "¿Sabes cuánto ganaste esta semana, no cuánto vendiste?",
+ "sub": "Entró − salió = lo que te quedó.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

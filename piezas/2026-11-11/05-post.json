@@ -1,0 +1,27 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "verdeoscuro",
+ "titulo": "Contar el Buen Fin: Excel vs Kentra",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "Pegar ventas de tres días",
+   "Sumar a mano dos veces",
+   "No ver el costo real"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "figura": "telefono",
+  "items": [
+   "Entró, salió y quedó",
+   "Gastos por categoría",
+   "Reportes en segundos"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

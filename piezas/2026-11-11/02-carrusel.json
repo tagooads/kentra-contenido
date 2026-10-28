@@ -1,0 +1,121 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "blanco",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Buen Fin",
+   "titulo": "Tu finde normal contra tu Buen Fin",
+   "sub": "Cifras en MXN. Anota las dos.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "num": "1",
+   "titulo": "Anota tu finde normal",
+   "texto": "Es tu punto de comparación.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "$18,000"
+     ],
+     [
+      "Costos",
+      "−$11,700",
+      "rojo"
+     ],
+     [
+      "**Te quedó**",
+      "$6,300",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "2",
+   "titulo": "Anota tu Buen Fin",
+   "texto": "Incluye los gastos extra del finde.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "$45,000"
+     ],
+     [
+      "Costos con descuento",
+      "−$33,750",
+      "rojo"
+     ],
+     [
+      "Publicidad y empaque",
+      "−$3,000",
+      "rojo"
+     ],
+     [
+      "**Te quedó**",
+      "$8,250",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "num": "3",
+   "titulo": "Compara los dos",
+   "texto": "No solo las ventas.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "2,5 veces más"
+     ],
+     [
+      "Ganancia",
+      "31 % más",
+      "verde"
+     ],
+     [
+      "Costos",
+      "3,1 veces más",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "cita",
+   "kicker": "Para decidir",
+   "titulo": "Si vendes 2,5 veces más y ganas 31 % más, el descuento sí trabajó, pero poco.",
+   "sub": "Ese número te dice qué cambiar en la próxima campaña.",
+   "tamCita": 70
+  },
+  {
+   "layout": "lista",
+   "tema": "verdeoscuro",
+   "kicker": "En Kentra",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Registra cada venta y cada gasto del finde",
+    "Compara el mes y los días que quieras",
+    "KentrAI responde con tus números"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "titulo": "¿Cuánto te quedó en el Buen Fin?",
+   "sub": "Desde $15/mes.",
+   "tam": "media",
+   "mascota": "telefono",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

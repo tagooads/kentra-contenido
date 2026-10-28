@@ -1,0 +1,18 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Revisión de sábado",
+ "titulo": "Cargos recurrentes que se te olvidan",
+ "items": [
+  "Música para el local: $12/mes",
+  "Programa de diseño: $25/mes",
+  "Dominio y correo: $9/mes",
+  "App que ya no usas: $15/mes"
+ ],
+ "cierre": "Son $61 al mes: $732 al año.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

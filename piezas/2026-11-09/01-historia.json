@@ -1,0 +1,17 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "marfil",
+ "kicker": "Buen Fin",
+ "titulo": "Tu producto cuesta $65 y lo vendes en $100. ¿Qué descuento te hace perder?",
+ "opciones": [
+  "10 %",
+  "25 %",
+  "40 %"
+ ],
+ "nota": "Respuesta: 40 %. Vendes a $60, te cuesta $65 y pierdes $5 por pieza.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}
