@@ -1,66 +1,129 @@
 {
- "layout": "carrusel",
- "formato": "post",
- "tema": "navy",
- "slides": [
-  {
-   "layout": "portada",
-   "kicker": "Serie del Buen Fin",
-   "titulo": "Tu Buen Fin con Kentra, día por día",
-   "sub": "De viernes a lunes.",
-   "visual": "mascota-telefono",
-   "sinPildora": true
-  },
-  {
-   "layout": "lista",
-   "tema": "navy",
-   "kicker": "Día 1 · Viernes",
-   "titulo": "Anota mientras vendes",
-   "items": [
-    "Registra cada venta al momento",
-    "Pon cada gasto en su categoría"
-   ]
-  },
-  {
-   "layout": "lista",
-   "tema": "claro",
-   "kicker": "Día 2 · Sábado",
-   "titulo": "Revisa tus gastos",
-   "items": [
-    "Mira cuánto llevas en publicidad y envíos",
-    "Recibe alertas de lo que vence"
-   ]
-  },
-  {
-   "layout": "lista",
-   "tema": "navy",
-   "kicker": "Día 3 · Domingo",
-   "titulo": "Manda comprobantes",
-   "items": [
-    "Crea el comprobante PDF con tu logo",
-    "Envíalo a tu cliente en segundos"
-   ]
-  },
-  {
-   "layout": "lista",
-   "tema": "claro",
-   "kicker": "Día 4 · Lunes",
-   "titulo": "Cierra con tu número",
-   "items": [
-    "Mira entró, salió y quedó del finde",
-    "Pregúntale a KentrAI con tus números"
-   ]
-  },
-  {
-   "layout": "mascota",
-   "titulo": "¿Listo para el Buen Fin?",
-   "sub": "Desde $15/mes.",
-   "tam": "media",
-   "mascota": "telefono",
-   "cta": {
-    "texto": "kentra.pro",
-    "boton": true
-   }
-  }
- ]
+  "layout": "carrusel",
+  "formato": "post",
+  "tema": "navy",
+  "slides": [
+    {
+      "layout": "portada",
+      "kicker": "Serie del Buen Fin",
+      "titulo": "Tu Buen Fin con Kentra, día por día",
+      "sub": "De viernes a lunes.",
+      "visual": "mascota-telefono",
+      "sinPildora": true
+    },
+    {
+      "layout": "valor",
+      "tema": "navy",
+      "kicker": "Día 1 · Viernes",
+      "titulo": "Anota mientras vendes",
+      "texto": "Cada venta al momento y cada gasto en su categoría.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Ventas anotadas",
+            "$18,500"
+          ],
+          [
+            "Gastos anotados",
+            "−$6,200",
+            "rojo"
+          ],
+          [
+            "**Va quedando**",
+            "$12,300",
+            "verde"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "claro",
+      "kicker": "Día 2 · Sábado",
+      "titulo": "Revisa tus gastos",
+      "texto": "Mira en qué se va el dinero y qué vence pronto.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Publicidad",
+            "$2,400"
+          ],
+          [
+            "Envíos",
+            "$1,900"
+          ],
+          [
+            "Empaque",
+            "$600"
+          ],
+          [
+            "**Gastos del día**",
+            "$4,900",
+            "rojo"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "navy",
+      "kicker": "Día 3 · Domingo",
+      "titulo": "Manda comprobantes",
+      "texto": "Crea el PDF con tu logo y envíalo en segundos.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Pedido",
+            "$1,250"
+          ],
+          [
+            "Anticipo",
+            "−$400",
+            "verde"
+          ],
+          [
+            "**Saldo por cobrar**",
+            "$850",
+            "rojo"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "claro",
+      "kicker": "Día 4 · Lunes",
+      "titulo": "Cierra con tu número",
+      "texto": "Entró, salió y quedó del fin de semana.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Entró",
+            "$52,000"
+          ],
+          [
+            "Salió",
+            "−$31,500",
+            "rojo"
+          ],
+          [
+            "**Quedó**",
+            "$20,500",
+            "verde"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "mascota",
+      "titulo": "¿Listo para el Buen Fin?",
+      "sub": "Desde $15/mes.",
+      "tam": "media",
+      "mascota": "telefono",
+      "cta": {
+        "texto": "kentra.pro",
+        "boton": true
+      }
+    }
+  ]
 }
