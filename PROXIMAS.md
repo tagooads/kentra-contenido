@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 45 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
 
 
 ## Miércoles 28/10
@@ -507,6 +507,211 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 **19:00 — Historia** · educacion · `2026-11-08-03-historia`
 
 <img src="piezas/2026-11-08/03-historia.jpg" width="160">
+
+
+## Lunes 9/11
+
+**08:00 — Historia** · ganancia-real · `2026-11-09-01-historia`
+
+<img src="piezas/2026-11-09/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · ganancia-real · `2026-11-09-02-carrusel`
+
+<img src="piezas/2026-11-09/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Vender 90 piezas no es lo mismo que ganar por 90 piezas.
+
+Cuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.
+
+Haz estas cuentas en un solo lugar. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline
+
+</details>
+
+**18:00 — Post** · educacion · `2026-11-09-05-post`
+
+<img src="piezas/2026-11-09/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Vendido no es lo mismo que cobrado.
+
+Una venta pendiente sirve para tu ánimo, no para pagar a tu proveedor. Anota quién te debe, cuánto y para cuándo, y revísalo cada semana. Kentra te avisa lo que vence.
+
+Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-11-09-03-historia`
+
+<img src="piezas/2026-11-09/03-historia.jpg" width="160">
+
+
+## Martes 10/11
+
+**08:00 — Historia** · educacion · `2026-11-10-01-historia`
+
+<img src="piezas/2026-11-10/01-historia.jpg" width="160">
+
+**19:00 — Historia** · educacion · `2026-11-10-03-historia`
+
+<img src="piezas/2026-11-10/03-historia.jpg" width="160">
+
+
+## Miércoles 11/11
+
+**08:00 — Historia** · objeciones · `2026-11-11-01-historia`
+
+<img src="piezas/2026-11-11/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · ganancia-real · `2026-11-11-02-carrusel`
+
+<img src="piezas/2026-11-11/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Valió la pena el Buen Fin? Se responde con dos números.
+
+Ejemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 veces más, ganas 31 % más y trabajas 3 veces más. Desliza para ver cada cuenta.
+
+Compara tus fines de semana desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
+
+</details>
+
+**19:00 — Historia** · educacion · `2026-11-11-03-historia`
+
+<img src="piezas/2026-11-11/03-historia.jpg" width="160">
+
+
+## Jueves 12/11
+
+**08:00 — Historia** · ganancia-real · `2026-11-12-01-historia`
+
+<img src="piezas/2026-11-12/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · educacion · `2026-11-12-02-carrusel`
+
+<img src="piezas/2026-11-12/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-6.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.
+
+Tres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).
+
+Controla tus pagos con alertas desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-11-12-03-historia`
+
+<img src="piezas/2026-11-12/03-historia.jpg" width="160">
+
+
+## Viernes 13/11
+
+**08:00 — Historia** · educacion · `2026-11-13-01-historia`
+
+<img src="piezas/2026-11-13/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · educacion · `2026-11-13-02-carrusel`
+
+<img src="piezas/2026-11-13/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-13/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-13/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-13/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-13/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-13/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-13/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Un reto simple: $50.000 apartados en 10 semanas.
+
+Eliges la meta y el plazo, apartas 5 % de cada semana de ventas ($5.000 si vendes $100.000), lo guardas aparte y marcas cada semana. Desliza para ver cómo avanza.
+
+Sigue tu reto con alertas desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ahorro #NegocioPropio
+
+</details>
+
+**18:00 — Post** · ganancia-real · `2026-11-13-05-post`
+
+<img src="piezas/2026-11-13/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El viernes se vende; el lunes se sabe si ganaste.
+
+Después del Buen Fin, suma lo que entró, resta lo que salió y mira lo que te quedó. Esa es la medida de si valió la pena.
+
+Hazlo en minutos desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
+
+</details>
+
+**19:00 — Historia** · objeciones · `2026-11-13-03-historia`
+
+<img src="piezas/2026-11-13/03-historia.jpg" width="160">
+
+
+## Sábado 14/11
+
+**08:00 — Historia** · objeciones · `2026-11-14-01-historia`
+
+<img src="piezas/2026-11-14/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-11-14-04-post`
+
+<img src="piezas/2026-11-14/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Cuatro cargos pequeños y $732 al año.
+
+Música del local ($12), programa de diseño ($25), dominio y correo ($9) y una app que ya no usas ($15) suman $61 al mes. Revisa tus cargos y cancela el que sobra.
+
+Anótalos por categoría desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Gastos #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · educacion · `2026-11-14-03-historia`
+
+<img src="piezas/2026-11-14/03-historia.jpg" width="160">
+
+
+## Domingo 15/11
+
+**08:00 — Historia** · ganancia-real · `2026-11-15-01-historia`
+
+<img src="piezas/2026-11-15/01-historia.jpg" width="160">
+
+**18:00 — Post** · funcionalidades · `2026-11-15-05-post`
+
+<img src="piezas/2026-11-15/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Cuadrar la semana no debería tomarte el domingo.
+
+Antes: fotos, notas y chats para sumar con calculadora. Después: todo anotado durante la semana y el cierre en minutos.
+
+Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-11-15-03-historia`
+
+<img src="piezas/2026-11-15/03-historia.jpg" width="160">
 
 
 ## Últimas publicadas
