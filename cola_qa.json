@@ -289,35 +289,6 @@
       }
     },
     {
-      "id": "2026-11-11-05-post",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-11-11/05-post.jpg"
-      ],
-      "caption": "Después del Buen Fin, contar no debería tomar el lunes entero.\n\nEn Excel pegas las ventas de tres días, sumas dos veces y no ves el costo real. En Kentra ves entró, salió y quedó, con gastos por categoría y reportes en segundos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Excel",
-      "pilar": "kentra-vs-excel",
-      "layout": "versus",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 3,
-      "formato": "versus Excel contra Kentra (el único de la semana)",
-      "gancho": "Contar el Buen Fin con Excel contra Kentra",
-      "primera_linea": "Después del Buen Fin, contar no debería tomar el lunes entero.",
-      "estilo": "versus, verdeoscuro, 3 ítems por lado, mascota con celular de espaldas",
-      "modela": {
-        "referencia": "@dropkiller.io, «Novato vs Pro»",
-        "url": "https://www.instagram.com/reel/De0vIMIqitW",
-        "que_tomo": "comparativa novato contra pro en dos columnas; aquí Excel contra Kentra"
-      },
-      "carpeta": "2026-11-11",
-      "archivo": "05-post",
-      "fecha": "2026-11-11T18:00:00-05:00",
-      "qa_ticket": "44ae658d-9e45-4cf0-a328-997de50ae8e2"
-    },
-    {
       "id": "reserva-2026-11-09-01-post",
       "tipo": "post",
       "imagenes": [

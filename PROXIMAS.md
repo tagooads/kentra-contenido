@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 93 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 94 piezas agendadas.
 
 ## ⚠️ Con error
 
@@ -851,6 +851,22 @@ Ejemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 vec
 Compara tus fines de semana desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
+
+</details>
+
+**18:00 — Post** · kentra-vs-excel · `2026-11-11-05-post`
+
+<img src="piezas/2026-11-11/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Después del Buen Fin, contar no debería tomar el lunes entero.
+
+En Excel pegas las ventas de tres días, sumas dos veces y no ves el costo real. En Kentra ves entró, salió y quedó, con gastos por categoría y reportes en segundos.
+
+Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Excel
 
 </details>
 
