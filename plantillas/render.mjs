@@ -195,7 +195,7 @@ L.versus = (p, t, hist) => `
     <div style="background:#8E94A3;border-radius:44px;padding:36px 30px;color:#121A2B;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
       <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#121A2B">${esc(p.izq?.titulo || "Excel")}</div>
       ${(p.izq?.items || []).map(i => `<div class="item x" style="font-size:48px;color:#121A2B"><span class="ic" style="width:48px;height:48px;font-size:28px">✕</span><span>${rich(i)}</span></div>`).join("")}
-      <img src="${MARCA("excel.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:-20px;height:${hist ? 680 : 330}px;opacity:1">
+      <img src="${MARCA("excel-limpio.png")}" style="position:absolute;left:50%;transform:translateX(-50%);bottom:10px;height:${hist ? 700 : 295}px;opacity:1">
     </div>
     <div style="background:linear-gradient(180deg,#47C08B,#2FA173);border-radius:44px;padding:36px 30px;color:#0F1E38;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden">
       <div style="font-weight:800;font-size:40px;letter-spacing:.06em;text-transform:uppercase;color:#0F1E38">${esc(p.der?.titulo || "Kentra")}</div>
