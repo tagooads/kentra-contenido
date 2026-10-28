@@ -3041,7 +3041,11 @@
       },
       "carpeta": "2026-10-28",
       "archivo": "04-post",
-      "qa_ticket": "83c0692e-b5e6-4081-bd03-9df574f77a44"
+      "qa_ticket": "83c0692e-b5e6-4081-bd03-9df574f77a44",
+      "fb_post_id": "956335110897891_122145271629213382",
+      "publicado_fb": true,
+      "intentos": 1,
+      "error": "IG: 17841480064403784/media_publish: Media ID is not available"
     },
     {
       "id": "2026-10-28-02-carrusel",

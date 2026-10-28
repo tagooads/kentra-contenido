@@ -1,25 +1,13 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 94 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 93 piezas agendadas.
+
+## ⚠️ Con error
+
+- **miércoles 28/10 · 10:00** Post `2026-10-28-04-post`: IG: 17841480064403784/media_publish: Media ID is not available
 
 
 ## Miércoles 28/10
-
-**10:00 — Post** · educacion · `2026-10-28-04-post`
-
-<img src="piezas/2026-10-28/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un pedido grande no siempre es una buena venta.
-
-Antes de decir que sí, cinco preguntas: cuánto te cuesta hacerlo completo, si te pagan antes o después de entregar, si tienes con qué comprar el material, cuánto te queda por unidad con la rebaja y a qué otros clientes dejas esperando.
-
-Kentra te muestra la ganancia real del mes para saber si el pedido valió la pena. Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-28-02-carrusel`
 
