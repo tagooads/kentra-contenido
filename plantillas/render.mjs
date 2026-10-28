@@ -378,7 +378,7 @@ L.frase = (p, t, hist) => `
   ${p.titulo ? `<h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 230}px">${rich(p.titulo)}</h1>` : ""}
   <div style="flex:1;min-height:0;display:flex;flex-direction:column;justify-content:center">
     <div style="${tarjetaBlanca(hist)};color:#1E2D4F;padding:${hist ? "54px 50px" : "48px 48px"};position:relative">
-      <div style="position:absolute;top:-30px;left:40px;background:${t.acc === "#FFFFFF" ? "#1E2D4F" : t.acc};color:${t.acc === "#FFFFFF" ? "#fff" : t.onAcc};font-weight:800;font-size:50px;letter-spacing:.04em;text-transform:uppercase;padding:12px 26px;border-radius:12px">${esc(p.etiqueta || "Copia esto")}</div>
+      ${p.etiqueta ? `<div style="position:absolute;top:-30px;left:40px;background:${t.acc === "#FFFFFF" ? "#1E2D4F" : t.acc};color:${t.acc === "#FFFFFF" ? "#fff" : t.onAcc};font-weight:800;font-size:50px;letter-spacing:.04em;text-transform:uppercase;padding:12px 26px;border-radius:12px">${esc(p.etiqueta)}</div>` : ""}
       <div style="font-size:${hist ? 150 : 130}px;line-height:.6;font-weight:800;color:#47C08B;margin-top:10px">“</div>
       <div class="fit" style="font-weight:800;font-size:${p.tamFrase || (hist ? 58 : 56)}px;line-height:1.18;letter-spacing:-.01em;max-height:${hist ? 760 : 520}px">${rich(p.frase)}</div>
     </div>
@@ -443,7 +443,7 @@ L.recibo = (p, t, hist) => {
   <div style="flex:1;min-height:0;display:flex;justify-content:center">
     <div style="width:${hist ? 760 : 720}px;background:#FFFDF8;color:#222;padding:40px 44px 50px;box-shadow:0 24px 60px rgba(0,0,0,.22);clip-path:polygon(0 0,100% 0,${zig.join(",")});display:flex;flex-direction:column;gap:${14 * (p.escala || 1)}px;font-size:${(hist ? 36 : 33) * (p.escala || 1)}px">
       <div style="text-align:center;font-weight:800;letter-spacing:.14em;text-transform:uppercase;font-size:30px">${esc(p.negocio || "Mi negocio")}</div>
-      <div style="text-align:center;font-size:26px;color:#777">${esc(p.detalle || "Cuenta real · datos demo")}</div>
+      ${p.detalle ? `<div style="text-align:center;font-size:26px;color:#777">${esc(p.detalle)}</div>` : ""}
       <div style="border-top:4px dashed #CFCAC0;margin:8px 0"></div>
       ${(p.items || []).map(([l, v, c]) => `<div style="display:flex;justify-content:space-between;gap:20px"><span>${rich(l)}</span><b style="white-space:nowrap;color:${c === "rojo" ? "#E5484D" : c === "verde" ? "#1E8A5E" : "inherit"}">${esc(v)}</b></div>`).join("")}
       <div style="border-top:4px dashed #CFCAC0;margin:8px 0"></div>

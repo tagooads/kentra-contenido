@@ -7,42 +7,37 @@
    "layout": "portada",
    "kicker": "Cobros",
    "titulo": "5 frases para cobrar sin pelear (y sin perder al cliente)",
-   "sub": "Cópialas tal cual.",
+   "sub": "Una para cada situación.",
    "visual": "mascota-telefono",
    "sinPildora": true
   },
   {
    "layout": "frase",
    "kicker": "1 · Se pasó la fecha",
-   "etiqueta": "Copia esto",
    "frase": "Te escribo por la factura del 20: ya venció. ¿La pagas hoy?",
    "porque": "Fecha y una acción concreta."
   },
   {
    "layout": "frase",
    "kicker": "2 · Dicen «luego»",
-   "etiqueta": "Copia esto",
    "frase": "Perfecto. ¿Qué día exacto? Lo anoto y te escribo ese día.",
    "porque": "Conviertes una promesa vaga en una fecha."
   },
   {
    "layout": "frase",
    "kicker": "3 · Piden plazo",
-   "etiqueta": "Copia esto",
    "frase": "Te lo divido en dos: la mitad hoy y la otra el 15.",
    "porque": "Cobras algo ahora y fijas el resto."
   },
   {
    "layout": "frase",
    "kicker": "4 · Se ofenden",
-   "etiqueta": "Copia esto",
    "frase": "Entiendo. Este es el valor que acordamos y lo sostengo.",
    "porque": "Calma y firmeza. Sin justificarte."
   },
   {
    "layout": "frase",
    "kicker": "5 · Antes de entregar",
-   "etiqueta": "Copia esto",
    "frase": "Te lo entrego con el pago confirmado. ¿Te envío los datos de pago?",
    "porque": "Cobrar antes de entregar cuida tu dinero."
   },

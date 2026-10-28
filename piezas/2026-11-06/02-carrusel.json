@@ -50,7 +50,7 @@
    "layout": "valor",
    "num": "3",
    "titulo": "Lo mismo con comisiones y cuotas",
-   "texto": "Pasarela, tarjeta, cuota del crédito: ya están comprometidas.",
+   "texto": "Impuestos, comisiones y cuotas ya están comprometidos.",
    "ejemplo": {
     "filas": [
      [
@@ -58,13 +58,8 @@
       "$8.000.000"
      ],
      [
-      "Impuestos apartados",
-      "−$1.280.000",
-      "rojo"
-     ],
-     [
-      "Comisiones y cuotas",
-      "−$520.000",
+      "Impuestos, comisiones y cuotas",
+      "−$1.800.000",
       "rojo"
      ],
      [
