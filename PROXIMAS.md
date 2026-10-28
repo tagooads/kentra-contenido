@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 93 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 92 piezas agendadas.
 
 
 ## Miércoles 28/10
-
-**18:00 — Post** · educacion · `2026-10-28-05-post`
-
-<img src="piezas/2026-10-28/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Regalar algo suena a buena idea. Hasta que haces la cuenta.
-
-Una panadería regala un pan con cada pedido: 300 pedidos × $900 son −$270.000. Si 40 clientes vuelven por eso y dejan $8.000 cada uno, entran $320.000 y quedan $50.000. Con menos de 34 clientes que vuelvan, regalar cuesta.
-
-Kentra te muestra la ganancia real del mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Panaderia #Pymes
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-10-28-03-historia`
 
@@ -1093,9 +1077,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- miércoles 28/10 · 18:00 · Post `2026-10-28-05-post` · IG ✓ · FB ✓
 - miércoles 28/10 · 12:00 · Carrusel `2026-10-28-02-carrusel` · IG ✓ · FB ✓
 - miércoles 28/10 · 10:00 · Post `2026-10-28-04-post` · IG ✓ · FB ✓
 - miércoles 28/10 · 08:00 · Historia `2026-10-28-01-historia` · IG ✓ · FB ✓
 - martes 27/10 · 19:00 · Historia `2026-10-27-03-historia` · IG ✓ · FB ✓
 - martes 27/10 · 18:00 · Post `2026-10-27-05-post` · IG ✓ · FB ✓
-- lunes 26/10 · 18:00 · Post `2026-10-26-05-post` · IG ✓ · FB ✓
