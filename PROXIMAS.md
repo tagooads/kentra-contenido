@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 94 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 93 piezas agendadas.
 
 
 ## Miércoles 28/10
-
-**12:00 — Carrusel** · educacion · `2026-10-28-02-carrusel`
-
-<img src="piezas/2026-10-28/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-28/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Mismo costo, mismo postre: $16.000 o $16.200.
-
-En 8 slides, dos pastelerías con 200 ventas al mes: A pone un precio redondo y B lo calcula con 30 % de margen y 3 % de comisión de cobro. Al mes, A deja $38.800 en la mesa.
-
-Al final, el mes de B en tres cifras: entró $3.240.000, salió $2.297.200, le quedó $942.800. Kentra te muestra esas cifras en una sola pantalla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-28-05-post`
 
@@ -1109,9 +1093,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- miércoles 28/10 · 12:00 · Carrusel `2026-10-28-02-carrusel` · IG ✓ · FB ✓
 - miércoles 28/10 · 10:00 · Post `2026-10-28-04-post` · IG ✓ · FB ✓
 - miércoles 28/10 · 08:00 · Historia `2026-10-28-01-historia` · IG ✓ · FB ✓
 - martes 27/10 · 19:00 · Historia `2026-10-27-03-historia` · IG ✓ · FB ✓
 - martes 27/10 · 18:00 · Post `2026-10-27-05-post` · IG ✓ · FB ✓
 - lunes 26/10 · 18:00 · Post `2026-10-26-05-post` · IG ✓ · FB ✓
-- domingo 25/10 · 19:00 · Historia `2026-10-25-03-historia` · IG ✓ · FB ✓
