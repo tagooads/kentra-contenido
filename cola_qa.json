@@ -768,7 +768,7 @@
       "carpeta": "2026-11-09",
       "archivo": "04-post",
       "fecha": "2026-11-09T10:00:00-05:00",
-      "qa_ticket": "bf7571f4-1cec-4784-ae29-5df0d2df545c"
+      "qa_ticket": "099c4c54-77f7-4a2c-aadb-e1dae0bd41e2"
     },
     {
       "id": "2026-11-10-04-post",
@@ -797,7 +797,7 @@
       "carpeta": "2026-11-10",
       "archivo": "04-post",
       "fecha": "2026-11-10T10:00:00-05:00",
-      "qa_ticket": "822c4e3f-650b-44d8-ac00-b0315893d2ce"
+      "qa_ticket": "db165b29-d054-4074-89e0-0bb491712307"
     },
     {
       "id": "2026-11-10-02-carrusel",
@@ -823,7 +823,7 @@
       "version": 2,
       "formato": "lista de costos escondidos con cifras",
       "gancho": "4 costos de la tienda en línea que no ves",
-      "primera_linea": "Tu tienda vende $100.000 y 11,6 % se va en costos que casi no se ven.",
+      "primera_linea": "Tu tienda vende $100,000 MXN y el 11.6 % se va en costos que casi no se ven.",
       "estilo": "carrusel claro, portada mascota teléfono, 4 slides valor, dato resumen, lista Kentra, cierre mascota teléfono",
       "modela": {
         "referencia": "@dropkiller.io, «Novato vs Pro»",
@@ -833,7 +833,7 @@
       "carpeta": "2026-11-10",
       "archivo": "02-carrusel",
       "fecha": "2026-11-10T12:00:00-05:00",
-      "qa_ticket": "b09a85ec-58ec-45d4-867f-f44c9ff27e73"
+      "qa_ticket": "f5abb8f2-facc-4d15-a3fb-fe02c4dc7572"
     },
     {
       "id": "2026-11-10-05-post",
@@ -862,7 +862,7 @@
       "carpeta": "2026-11-10",
       "archivo": "05-post",
       "fecha": "2026-11-10T18:00:00-05:00",
-      "qa_ticket": "4678d682-bfb2-4ab0-8ff5-294c60b941c5"
+      "qa_ticket": "d788baf8-ea70-4411-95dd-b7aced5fdc7b"
     },
     {
       "id": "2026-11-11-04-post",
@@ -891,7 +891,7 @@
       "carpeta": "2026-11-11",
       "archivo": "04-post",
       "fecha": "2026-11-11T10:00:00-05:00",
-      "qa_ticket": "34d2e906-6ad6-4158-a980-ca97aa5f7c80"
+      "qa_ticket": "9f4b5211-d88c-4b83-819b-661679d74573"
     },
     {
       "id": "2026-11-11-05-post",
@@ -920,7 +920,7 @@
       "carpeta": "2026-11-11",
       "archivo": "05-post",
       "fecha": "2026-11-11T18:00:00-05:00",
-      "qa_ticket": "89d580c2-b19a-4147-8d7a-15d99dd9b105"
+      "qa_ticket": "3d8df30a-32ef-4e92-bb88-9a7f80ab1709"
     },
     {
       "id": "2026-11-12-04-post",
@@ -949,7 +949,7 @@
       "carpeta": "2026-11-12",
       "archivo": "04-post",
       "fecha": "2026-11-12T10:00:00-05:00",
-      "qa_ticket": "bac30525-cfeb-45f4-8e29-06ea72b6d702"
+      "qa_ticket": "d7e7207e-029d-4109-9bec-f2e52f6efee4"
     },
     {
       "id": "2026-11-12-05-post",
@@ -978,7 +978,7 @@
       "carpeta": "2026-11-12",
       "archivo": "05-post",
       "fecha": "2026-11-12T18:00:00-05:00",
-      "qa_ticket": "98f5b20e-4da4-4188-a025-71c2ba98d867"
+      "qa_ticket": "1db54667-4a21-4d47-823f-7560b7cdd757"
     },
     {
       "id": "2026-11-13-04-post",
@@ -1007,7 +1007,7 @@
       "carpeta": "2026-11-13",
       "archivo": "04-post",
       "fecha": "2026-11-13T10:00:00-05:00",
-      "qa_ticket": "1293ec03-5dc3-4f1b-8845-2704df4ac550"
+      "qa_ticket": "b291a725-5fc7-4540-b706-b0699618b067"
     },
     {
       "id": "2026-11-14-02-carrusel",
@@ -1041,7 +1041,7 @@
       "carpeta": "2026-11-14",
       "archivo": "02-carrusel",
       "fecha": "2026-11-14T12:00:00-05:00",
-      "qa_ticket": "1113ea1c-94cf-4275-990b-4edf0f37748c"
+      "qa_ticket": "e2d1087f-bc93-4bdc-b106-94d9a04b9664"
     },
     {
       "id": "2026-11-14-05-post",
@@ -1070,7 +1070,7 @@
       "carpeta": "2026-11-14",
       "archivo": "05-post",
       "fecha": "2026-11-14T18:00:00-05:00",
-      "qa_ticket": "aca1ab11-cc3a-49fd-98d7-6ef1143b0c1a"
+      "qa_ticket": "5f2b6de6-2b08-4416-af39-20b4049b6a50"
     },
     {
       "id": "2026-11-15-04-post",
@@ -1099,7 +1099,7 @@
       "carpeta": "2026-11-15",
       "archivo": "04-post",
       "fecha": "2026-11-15T10:00:00-05:00",
-      "qa_ticket": "172eedd6-72e6-4aa6-963f-5c6b3eaadaef"
+      "qa_ticket": "302e1280-6fc5-44ae-83c0-c529b5ba5de0"
     },
     {
       "id": "2026-11-15-02-carrusel",
@@ -1123,7 +1123,7 @@
       "qa": "pendiente",
       "version": 2,
       "formato": "tutorial paso a paso (100 % Kentra)",
-      "gancho": "Primera ganancia real en 6 pasos",
+      "gancho": "Primera ganancia real en 5 pasos",
       "primera_linea": "De cero a tu primera ganancia real, paso a paso.",
       "estilo": "carrusel verde/claro/navy, portada mascota teléfono, 5 slides lista por paso, cierre mascota teléfono",
       "modela": {
@@ -1134,7 +1134,7 @@
       "carpeta": "2026-11-15",
       "archivo": "02-carrusel",
       "fecha": "2026-11-15T12:00:00-05:00",
-      "qa_ticket": "965f63dd-b99b-44c0-9a1a-b368c44267e1"
+      "qa_ticket": "89a17c4b-0036-4cdf-96b5-b3105a1047e8"
     },
     {
       "id": "reserva-2026-11-09-01-post",
