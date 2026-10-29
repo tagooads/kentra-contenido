@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
 
 
 ## Jueves 29/10
-
-**18:00 — Post** · educacion · `2026-10-29-05-post`
-
-<img src="piezas/2026-10-29/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Tu negocio y tú no comparten billetera.
-
-Si pagas el mercado con la tarjeta del negocio, no sabes cuánto ganó el negocio ni cuánto gastaste tú. Tres hábitos: una cuenta o tarjeta solo para el negocio, lo personal que saques anotado aparte y cada gasto en su categoría.
-
-En Kentra tus categorías son personalizables: así separas lo del negocio de lo demás. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
-
-</details>
 
 **19:00 — Historia** · kentra-vs-excel · `2026-10-29-03-historia`
 
@@ -1034,9 +1018,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- jueves 29/10 · 18:00 · Post `2026-10-29-05-post` · IG ✓ · FB ✓
 - jueves 29/10 · 12:00 · Carrusel `2026-10-29-02-carrusel` · IG ✓ · FB ✓
 - jueves 29/10 · 10:00 · Post `2026-10-29-04-post` · IG ✓ · FB ✓
 - jueves 29/10 · 08:00 · Historia `2026-10-29-01-historia` · IG ✓ · FB ✓
 - miércoles 28/10 · 19:00 · Historia `2026-10-28-03-historia` · IG ✓ · FB ✓
 - miércoles 28/10 · 18:00 · Post `2026-10-28-05-post` · IG ✓ · FB ✓
-- miércoles 28/10 · 12:00 · Carrusel `2026-10-28-02-carrusel` · IG ✓ · FB ✓
