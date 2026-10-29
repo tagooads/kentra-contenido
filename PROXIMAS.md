@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
 
 
 ## Jueves 29/10
-
-**12:00 — Carrusel** · educacion · `2026-10-29-02-carrusel`
-
-<img src="piezas/2026-10-29/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-29/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si cobras todo al final, el proyecto lo financias tú.
-
-El caso de un estudio de diseño con un proyecto de $3.000.000: sin anticipo pone $1.800.000 de su bolsillo durante 10 semanas; con un 50 % al firmar y dos hitos (30 % y 20 %), nunca pone más de $300.000. Cada hito con su comprobante, su fecha límite y su recordatorio.
-
-Kentra hace el comprobante PDF con tu logo y registra el cobro cuando lo marcas. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Creativos
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-29-05-post`
 
@@ -1050,9 +1034,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- jueves 29/10 · 12:00 · Carrusel `2026-10-29-02-carrusel` · IG ✓ · FB ✓
 - jueves 29/10 · 10:00 · Post `2026-10-29-04-post` · IG ✓ · FB ✓
 - jueves 29/10 · 08:00 · Historia `2026-10-29-01-historia` · IG ✓ · FB ✓
 - miércoles 28/10 · 19:00 · Historia `2026-10-28-03-historia` · IG ✓ · FB ✓
 - miércoles 28/10 · 18:00 · Post `2026-10-28-05-post` · IG ✓ · FB ✓
 - miércoles 28/10 · 12:00 · Carrusel `2026-10-28-02-carrusel` · IG ✓ · FB ✓
-- miércoles 28/10 · 10:00 · Post `2026-10-28-04-post` · IG ✓ · FB ✓
