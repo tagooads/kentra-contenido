@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 90 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
 
 
 ## Jueves 29/10
-
-**10:00 — Post** · educacion · `2026-10-29-04-post`
-
-<img src="piezas/2026-10-29/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un gasto de $15.000 parece nada. Repetido, deja de serlo.
-
-Arriba, el mito: un café, un domicilio o una recarga no se notan. Abajo, la cuenta: tres veces por semana son $180.000 al mes y $2.160.000 al año.
-
-Anotar cada gasto, aunque sea pequeño, es lo que te deja ver adónde se va tu dinero. En Kentra lo registras en su categoría desde el celular. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-29-02-carrusel`
 
@@ -1066,9 +1050,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- jueves 29/10 · 10:00 · Post `2026-10-29-04-post` · IG ✓ · FB ✓
 - jueves 29/10 · 08:00 · Historia `2026-10-29-01-historia` · IG ✓ · FB ✓
 - miércoles 28/10 · 19:00 · Historia `2026-10-28-03-historia` · IG ✓ · FB ✓
 - miércoles 28/10 · 18:00 · Post `2026-10-28-05-post` · IG ✓ · FB ✓
 - miércoles 28/10 · 12:00 · Carrusel `2026-10-28-02-carrusel` · IG ✓ · FB ✓
 - miércoles 28/10 · 10:00 · Post `2026-10-28-04-post` · IG ✓ · FB ✓
-- miércoles 28/10 · 08:00 · Historia `2026-10-28-01-historia` · IG ✓ · FB ✓

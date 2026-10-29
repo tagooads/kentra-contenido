@@ -3224,7 +3224,13 @@
       },
       "carpeta": "2026-10-29",
       "archivo": "04-post",
-      "qa_ticket": "eb2179ad-774f-4969-8e56-450d08d82317"
+      "qa_ticket": "eb2179ad-774f-4969-8e56-450d08d82317",
+      "media_id": "18381786226235306",
+      "publicado_ig": true,
+      "fb_post_id": "956335110897891_122145385119213382",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-10-29T15:05:09.579Z"
     },
     {
       "id": "2026-10-29-02-carrusel",
