@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 82 piezas agendadas.
 
 
 ## Viernes 30/10
-
-**18:00 — Post** · educacion · `2026-10-30-05-post`
-
-<img src="piezas/2026-10-30/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-«Tu negocio va bien por pura suerte», dijo quien no sabe que cada lunes revisas tus números.
-
-Arriba, la frase de quien ve solo el resultado. Abajo, la mascota con las cuentas al día: la suerte también se anota.
-
-Kentra te muestra en minutos si estás ganando o perdiendo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · ganancia-real · `2026-10-30-03-historia`
 
@@ -975,9 +959,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- viernes 30/10 · 18:00 · Post `2026-10-30-05-post` · IG ✓ · FB ✓
 - viernes 30/10 · 12:00 · Carrusel `2026-10-30-02-carrusel` · IG ✓ · FB ✓
 - viernes 30/10 · 10:00 · Post `2026-10-30-04-post` · IG ✓ · FB ✓
 - viernes 30/10 · 08:00 · Historia `2026-10-30-01-historia` · IG ✓ · FB ✓
 - jueves 29/10 · 19:00 · Historia `2026-10-29-03-historia` · IG ✓ · FB ✓
 - jueves 29/10 · 18:00 · Post `2026-10-29-05-post` · IG ✓ · FB ✓
-- jueves 29/10 · 12:00 · Carrusel `2026-10-29-02-carrusel` · IG ✓ · FB ✓

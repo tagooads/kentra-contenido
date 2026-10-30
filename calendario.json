@@ -3483,7 +3483,13 @@
       },
       "carpeta": "2026-10-30",
       "archivo": "05-post",
-      "qa_ticket": "03c89ec5-2b2f-4bb0-84f0-71b01d75e06c"
+      "qa_ticket": "03c89ec5-2b2f-4bb0-84f0-71b01d75e06c",
+      "media_id": "17924101377445557",
+      "publicado_ig": true,
+      "fb_post_id": "956335110897891_122145538827213382",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-10-30T23:04:13.173Z"
     },
     {
       "id": "2026-10-30-03-historia",
