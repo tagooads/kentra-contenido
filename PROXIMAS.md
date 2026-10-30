@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
 
 
 ## Viernes 30/10
-
-**12:00 — Carrusel** · educacion · `2026-10-30-02-carrusel`
-
-<img src="piezas/2026-10-30/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-30/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Contratas ayuda o no? Antes de firmar, haz la cuenta.
-
-En 8 slides y con el ejemplo de un taller de costura: el costo total de una ayudante ($1.150.000 al mes), cuántas horas te libera (80), cuánto genera tu hora ($12.000 → no alcanza; $18.000 → sobran $290.000) y cómo compararlo con tu ganancia de antes.
-
-Kentra te muestra la ganancia real de cada mes para decidir con números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **18:00 — Post** · educacion · `2026-10-30-05-post`
 
@@ -991,9 +975,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- viernes 30/10 · 12:00 · Carrusel `2026-10-30-02-carrusel` · IG ✓ · FB ✓
 - viernes 30/10 · 10:00 · Post `2026-10-30-04-post` · IG ✓ · FB ✓
 - viernes 30/10 · 08:00 · Historia `2026-10-30-01-historia` · IG ✓ · FB ✓
 - jueves 29/10 · 19:00 · Historia `2026-10-29-03-historia` · IG ✓ · FB ✓
 - jueves 29/10 · 18:00 · Post `2026-10-29-05-post` · IG ✓ · FB ✓
 - jueves 29/10 · 12:00 · Carrusel `2026-10-29-02-carrusel` · IG ✓ · FB ✓
-- jueves 29/10 · 10:00 · Post `2026-10-29-04-post` · IG ✓ · FB ✓
