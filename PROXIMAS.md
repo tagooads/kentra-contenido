@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 85 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
 
 
 ## Viernes 30/10
-
-**10:00 — Post** · educacion · `2026-10-30-04-post`
-
-<img src="piezas/2026-10-30/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Fue solo un mandado… hasta que lo sumas.
-
-En el diálogo, un parqueadero de $6.000, hielo de $4.500 y bolsas de $9.000: $19.500 en una semana y $78.000 en un mes que nunca se anotaron.
-
-Los gastos chiquitos no se sienten, pero se suman. Kentra te muestra en qué se fue cada peso. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #GastosHormiga #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-30-02-carrusel`
 
@@ -1007,9 +991,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- viernes 30/10 · 10:00 · Post `2026-10-30-04-post` · IG ✓ · FB ✓
 - viernes 30/10 · 08:00 · Historia `2026-10-30-01-historia` · IG ✓ · FB ✓
 - jueves 29/10 · 19:00 · Historia `2026-10-29-03-historia` · IG ✓ · FB ✓
 - jueves 29/10 · 18:00 · Post `2026-10-29-05-post` · IG ✓ · FB ✓
 - jueves 29/10 · 12:00 · Carrusel `2026-10-29-02-carrusel` · IG ✓ · FB ✓
 - jueves 29/10 · 10:00 · Post `2026-10-29-04-post` · IG ✓ · FB ✓
-- jueves 29/10 · 08:00 · Historia `2026-10-29-01-historia` · IG ✓ · FB ✓
