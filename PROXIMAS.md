@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 79 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 78 piezas agendadas.
 
 
 ## Sábado 31/10
-
-**12:00 — Carrusel** · educacion · `2026-10-31-02-carrusel`
-
-<img src="piezas/2026-10-31/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-10-31/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Tu mejor cliente puede ser el que menos te deja.
-
-Tres clientes de una imprenta: un colegio compra $4.000.000 y deja $360.000 (9 %); un restaurante compra $1.500.000 y deja $450.000 (30 %); una tienda de barrio compra $900.000 y deja $360.000 (40 %). El colegio es más de la mitad de las ventas y menos de un tercio de la ganancia.
-
-Kentra te muestra la ganancia real de cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #GananciaReal
-
-</details>
 
 **18:00 — Post** · ganancia-real · `2026-10-31-05-post`
 
@@ -932,9 +916,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- sábado 31/10 · 12:00 · Carrusel `2026-10-31-02-carrusel` · IG ✓ · FB ✓
 - sábado 31/10 · 10:00 · Post `2026-10-31-04-post` · IG ✓ · FB ✓
 - sábado 31/10 · 08:00 · Historia `2026-10-31-01-historia` · IG ✓ · FB ✓
 - viernes 30/10 · 19:00 · Historia `2026-10-30-03-historia` · IG ✓ · FB ✓
 - viernes 30/10 · 18:00 · Post `2026-10-30-05-post` · IG ✓ · FB ✓
 - viernes 30/10 · 12:00 · Carrusel `2026-10-30-02-carrusel` · IG ✓ · FB ✓
-- viernes 30/10 · 10:00 · Post `2026-10-30-04-post` · IG ✓ · FB ✓
