@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 78 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 77 piezas agendadas.
 
 
 ## Sábado 31/10
-
-**18:00 — Post** · ganancia-real · `2026-10-31-05-post`
-
-<img src="piezas/2026-10-31/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vendiste $10.000.000. La DIAN ya tiene $1.597.000 apartados… en tu cuenta.
-
-La cuenta en la pizarra: ventas con IVA $10.000.000; IVA del 19 % que cobraste por cuenta de la DIAN $1.597.000; lo que de verdad entró a tu negocio $8.403.000. Si ese IVA se mezcla con tu caja y lo gastas, en la fecha de pago aparece una deuda que no viste venir, con sanción e intereses.
-
-En Kentra lo apartas en su categoría y lo ves separado desde el primer día. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Impuestos #Pymes
-
-</details>
 
 **19:00 — Historia** · educacion · `reserva-2026-11-02-02-historia`
 
@@ -916,9 +900,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- sábado 31/10 · 18:00 · Post `2026-10-31-05-post` · IG ✓ · FB ✓
 - sábado 31/10 · 12:00 · Carrusel `2026-10-31-02-carrusel` · IG ✓ · FB ✓
 - sábado 31/10 · 10:00 · Post `2026-10-31-04-post` · IG ✓ · FB ✓
 - sábado 31/10 · 08:00 · Historia `2026-10-31-01-historia` · IG ✓ · FB ✓
 - viernes 30/10 · 19:00 · Historia `2026-10-30-03-historia` · IG ✓ · FB ✓
 - viernes 30/10 · 18:00 · Post `2026-10-30-05-post` · IG ✓ · FB ✓
-- viernes 30/10 · 12:00 · Carrusel `2026-10-30-02-carrusel` · IG ✓ · FB ✓
