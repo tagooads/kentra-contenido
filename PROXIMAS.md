@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 80 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 79 piezas agendadas.
 
 
 ## Sábado 31/10
-
-**10:00 — Post** · verticales · `2026-10-31-04-post`
-
-<img src="piezas/2026-10-31/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cambió el pedido y quiere el mismo precio.
-
-En el chat de una floristería, el cliente pasa de rosas a tulipanes: el pedido sube de $240.000 a $278.000. Cada cambio tiene su costo, y si no lo anotas antes de decir que sí, lo pagas tú.
-
-Kentra te muestra la ganancia real de cada mes, con todo lo que entró y salió. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Floristeria #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-10-31-02-carrusel`
 
@@ -948,9 +932,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- sábado 31/10 · 10:00 · Post `2026-10-31-04-post` · IG ✓ · FB ✓
 - sábado 31/10 · 08:00 · Historia `2026-10-31-01-historia` · IG ✓ · FB ✓
 - viernes 30/10 · 19:00 · Historia `2026-10-30-03-historia` · IG ✓ · FB ✓
 - viernes 30/10 · 18:00 · Post `2026-10-30-05-post` · IG ✓ · FB ✓
 - viernes 30/10 · 12:00 · Carrusel `2026-10-30-02-carrusel` · IG ✓ · FB ✓
 - viernes 30/10 · 10:00 · Post `2026-10-30-04-post` · IG ✓ · FB ✓
-- viernes 30/10 · 08:00 · Historia `2026-10-30-01-historia` · IG ✓ · FB ✓
