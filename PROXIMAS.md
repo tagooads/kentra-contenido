@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
 
 
 ## Domingo 1/11
-
-**12:00 — Carrusel** · educacion · `2026-11-01-02-carrusel`
-
-<img src="piezas/2026-11-01/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-01/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Enero no avisa, pero siempre llega.
-
-Desliza: la lista de lo que pagas una vez al año, una barbería que lo divide entre 12 y aparta $230.000 al mes, y cómo ponerle mes a cada pago para que ninguno te sorprenda.
-
-En Kentra anotas el pago con su fecha límite y recibes el aviso antes de que venza. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **18:00 — Post** · ganancia-real · `2026-11-01-05-post`
 
@@ -869,9 +853,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- domingo 1/11 · 12:00 · Carrusel `2026-11-01-02-carrusel` · IG ✓ · FB ✓
 - domingo 1/11 · 10:00 · Post `2026-11-01-04-post` · IG ✓ · FB ✓
 - domingo 1/11 · 08:00 · Historia `2026-11-01-01-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 19:00 · Historia `reserva-2026-11-02-02-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 19:00 · Historia `2026-10-31-03-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 18:00 · Post `2026-10-31-05-post` · IG ✓ · FB ✓
-- sábado 31/10 · 12:00 · Carrusel `2026-10-31-02-carrusel` · IG ✓ · FB ✓
