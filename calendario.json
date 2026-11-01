@@ -3701,7 +3701,13 @@
       "archivo": "02-historia",
       "qa_ticket": "8a2d3b4b-2346-4f69-9ecb-2b0fe5703302",
       "reserva_usada": "2026-10-31T19:00:00-05:00",
-      "fecha": "2026-10-31T19:00:00-05:00"
+      "fecha": "2026-10-31T19:00:00-05:00",
+      "media_id": "18147138022581362",
+      "publicado_ig": true,
+      "fb_post_id": "1147760507813976",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-01T00:02:11.910Z"
     },
     {
       "id": "2026-10-31-03-historia",
@@ -3730,7 +3736,13 @@
       },
       "carpeta": "2026-10-31",
       "archivo": "03-historia",
-      "qa_ticket": "d49a8b3e-5a86-4344-9ecd-bb5f65807803"
+      "qa_ticket": "d49a8b3e-5a86-4344-9ecd-bb5f65807803",
+      "media_id": "18449284300126848",
+      "publicado_ig": true,
+      "fb_post_id": "1669636641181905",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-01T00:02:24.728Z"
     },
     {
       "id": "2026-11-01-01-historia",
