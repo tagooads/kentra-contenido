@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 12 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Menos de **US$7 al mes**, todo el año",
+ "planes": [
+  {
+   "plan": "Básico anual",
+   "antes": "US$99",
+   "precio": "US$79",
+   "periodo": "/año",
+   "nota": "Son US$6,58 al mes",
+   "destacado": true
+  }
+ ],
+ "nota": "Kentra Priority de regalo el primer año."
+}

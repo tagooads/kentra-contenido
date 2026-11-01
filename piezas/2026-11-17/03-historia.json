@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Alerta de categoría",
+ "titulo": "Publicidad: llevas $400.000 de $500.000",
+ "filas": [
+  {
+   "label": "Presupuesto",
+   "valor": "$500.000",
+   "color": "gris"
+  },
+  {
+   "label": "Gastado",
+   "valor": "−$400.000",
+   "color": "rojo"
+  },
+  {
+   "label": "Te queda",
+   "valor": "$100.000",
+   "color": "verde",
+   "grande": true,
+   "nota": "y faltan 12 días"
+  }
+ ],
+ "cierre": "Kentra te avisa antes de pasarte.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Antes de diciembre",
+   "titulo": "5 gastos de diciembre que se comen la ganancia de noviembre",
+   "sub": "Haz la cuenta antes de que lleguen."
+  },
+  {
+   "layout": "valor",
+   "tema": "blanco",
+   "num": 1,
+   "titulo": "El bono del equipo",
+   "texto": "Con 2 personas de $1.500.000, el medio sueldo de bono sale el mismo mes que la nómina.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Nómina",
+      "$3.000.000"
+     ],
+     [
+      "Bono",
+      "$1.500.000",
+      "rojo"
+     ],
+     [
+      "Sale en diciembre",
+      "$4.500.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "La mercancía de temporada",
+   "texto": "Compras en noviembre lo que vendes en diciembre: la caja baja antes de que entre la venta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Compra extra",
+      "$2.400.000",
+      "rojo"
+     ],
+     [
+      "Se recupera",
+      "En diciembre"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "blanco",
+   "num": 3,
+   "titulo": "La pauta más cara",
+   "texto": "Todos anuncian en diciembre y cada clic cuesta más.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pauta normal",
+      "$400.000"
+     ],
+     [
+      "Pauta de diciembre",
+      "$700.000",
+      "rojo"
+     ],
+     [
+      "Diferencia",
+      "$300.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Empaques y envíos",
+   "texto": "Más pedidos, más cajas, bolsas y domicilios.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Empaque por pedido",
+      "$1.800"
+     ],
+     [
+      "Pedidos extra",
+      "200"
+     ],
+     [
+      "Costo extra",
+      "$360.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "blanco",
+   "num": 5,
+   "titulo": "Servicios con horario extendido",
+   "texto": "Más horas abiertas, más luz y más turnos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Servicios normales",
+      "$350.000"
+     ],
+     [
+      "Con horario extendido",
+      "$520.000",
+      "rojo"
+     ],
+     [
+      "Diferencia",
+      "$170.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "dato",
+   "tema": "navy",
+   "titulo": "Lo que sale primero",
+   "filas": [
+    {
+     "label": "Bono",
+     "valor": "−$1.500.000",
+     "color": "rojo"
+    },
+    {
+     "label": "Mercancía",
+     "valor": "−$2.400.000",
+     "color": "rojo"
+    },
+    {
+     "label": "Total",
+     "valor": "−$4.730.000",
+     "color": "rojo",
+     "grande": true,
+     "nota": "Con pauta, envíos y servicios"
+    }
+   ],
+   "cierre": "Apártalo en noviembre."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Ve diciembre antes de que llegue",
+   "items": [
+    "Gastos por categoría",
+    "Alertas antes de pasarte",
+    "Ganancia real del mes"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

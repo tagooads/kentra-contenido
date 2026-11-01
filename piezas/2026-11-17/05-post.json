@@ -1,0 +1,27 @@
+{
+ "layout": "oferta",
+ "formato": "post",
+ "tema": "black",
+ "cuenta": "Quedan 14 días",
+ "titulo": "Pro a precio normal: US$240 al año. **Anual de noviembre: US$119**",
+ "planes": [
+  {
+   "plan": "Mes a mes",
+   "precio": "US$240",
+   "periodo": "/año",
+   "nota": "12 meses de US$20"
+  },
+  {
+   "plan": "Anual",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "nota": "Priority de regalo",
+   "destacado": true
+  }
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "layout": "cita",
+ "formato": "post",
+ "tema": "noche",
+ "kicker": "Para dueños de negocio",
+ "titulo": "Si vendes más de $5 millones al mes y no sabes cuánto te queda",
+ "sub": "Esto es para ti: vender mucho no garantiza que te quede algo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

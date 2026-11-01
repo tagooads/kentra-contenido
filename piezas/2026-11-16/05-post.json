@@ -1,0 +1,35 @@
+{
+ "layout": "split",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "POV",
+ "arriba": {
+  "kicker": "Lo que crees",
+  "texto": "«Cobré $85.000. Gané $85.000.»",
+  "tam": 64
+ },
+ "abajo": {
+  "kicker": "Lo que pasó",
+  "filas": [
+   [
+    "Cobraste",
+    "$85.000"
+   ],
+   [
+    "Costo del pedido",
+    "−$52.000",
+    "rojo"
+   ],
+   [
+    "Te quedó (39 %)",
+    "$33.000",
+    "res"
+   ]
+  ]
+ },
+ "nota": "De cada $85.000, $33.000 son tuyos.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

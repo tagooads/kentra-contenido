@@ -1,0 +1,23 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 13 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Tu socio y tú, mismos números, **40 % menos**",
+ "kicker": "Para negocios con equipo",
+ "planes": [
+  {
+   "plan": "Business",
+   "antes": "US$30",
+   "precio": "US$18",
+   "periodo": "/mes",
+   "nota": "2 primeros meses",
+   "destacado": true
+  }
+ ],
+ "nota": "Negocios ilimitados y cada quien registra con su propio rol."
+}

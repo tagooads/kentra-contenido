@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 15 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Kentra Pro por **US$0,33 al día**",
+ "planes": [
+  {
+   "plan": "Pro anual",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "nota": "Priority de regalo",
+   "destacado": true
+  }
+ ],
+ "nota": "Todo el año por menos que un café al día. Kentra Priority de regalo el primer año."
+}

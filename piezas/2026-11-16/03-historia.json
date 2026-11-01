@@ -1,0 +1,17 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Pregunta de lunes",
+ "titulo": "¿Anotas cada venta o confías en la memoria?",
+ "opciones": [
+  "La anoto apenas cobro",
+  "La anoto al final del día",
+  "Confío en la memoria"
+ ],
+ "nota": "Si confías en la memoria: 3 ventas de $20.000 olvidadas por semana son $240.000 al mes.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

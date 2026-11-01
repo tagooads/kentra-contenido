@@ -1,0 +1,153 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Black November",
+   "titulo": "¿Qué plan te sirve? Depende de cuántos negocios llevas",
+   "sub": "Con 40 % menos los 2 primeros meses.",
+   "visual": "mascota-telefono"
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "kicker": "Un negocio",
+   "titulo": "Básico: US$9/mes",
+   "texto": "Para una tienda, un salón o un servicio: ingresos, gastos, ganancia real, KentrAI y comprobantes PDF.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Negocios",
+      "1"
+     ],
+     [
+      "Black November",
+      "US$9/mes",
+      "verde"
+     ],
+     [
+      "Desde el mes 3",
+      "US$15/mes"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "kicker": "Dos negocios",
+   "titulo": "Pro: US$12/mes",
+   "texto": "Hasta 2 negocios con su propia moneda, 1 usuario extra, importación con IA e inventario.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Negocios",
+      "Hasta 2"
+     ],
+     [
+      "Black November",
+      "US$12/mes",
+      "verde"
+     ],
+     [
+      "Desde el mes 3",
+      "US$20/mes"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "kicker": "Con equipo",
+   "titulo": "Business: US$18/mes",
+   "texto": "Negocios ilimitados y tu equipo con roles: cada quien registra lo suyo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Negocios",
+      "Ilimitados"
+     ],
+     [
+      "Black November",
+      "US$18/mes",
+      "verde"
+     ],
+     [
+      "Desde el mes 3",
+      "US$30/mes"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "titulo": "O paga el año y llévate **Priority**",
+   "planes": [
+    {
+     "plan": "Básico",
+     "antes": "US$99",
+     "precio": "US$79",
+     "periodo": "/año"
+    },
+    {
+     "plan": "Pro",
+     "antes": "US$149",
+     "precio": "US$119",
+     "periodo": "/año",
+     "destacado": true
+    },
+    {
+     "plan": "Business",
+     "antes": "US$199",
+     "precio": "US$159",
+     "periodo": "/año"
+    }
+   ],
+   "nota": "Kentra Priority de regalo el primer año."
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "kicker": "Cómo elegir",
+   "titulo": "Una pregunta decide",
+   "texto": "¿Cuántos negocios llevas y quién más registra?",
+   "ejemplo": {
+    "filas": [
+     [
+      "1 negocio, solo tú",
+      "Básico"
+     ],
+     [
+      "2 negocios o un ayudante",
+      "Pro",
+      "verde"
+     ],
+     [
+      "Equipo o 3+ negocios",
+      "Business"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Elige y empieza hoy",
+   "items": [
+    "40 % menos 2 meses",
+    "Anual desde US$79",
+    "Hasta el 30 de noviembre"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

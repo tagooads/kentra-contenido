@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Ojo con diciembre",
+ "texto": "«Diciembre trae bono del equipo, mercancía y arriendo en el mismo mes. ¿Ya separaste el dinero?»",
+ "pie": "Una nómina de $3.000.000 se vuelve $4.500.000 con el bono.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 78
+}
