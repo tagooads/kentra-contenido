@@ -3950,7 +3950,7 @@
       "imagenes": [
         "piezas/2026-11-02/04-post.jpg"
       ],
-      "caption": "Pagar hoy o en 30 días: la diferencia son $60.000.\n\nUna compra de $2.000.000 con 3 % de descuento por pronto pago cuesta $1.940.000 si pagas hoy. Conviene solo si ese dinero no lo necesitas esta semana para otros gastos.\n\nKentra te muestra cuánto entró, cuánto salió y cuánto te queda antes de decidir. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Proveedores #Pymes",
+      "caption": "Pagar hoy o en 30 días: la diferencia son $60.000.\n\nUna compra de $2.000.000 con 3 % de descuento por pronto pago cuesta $1.940.000 si pagas hoy. Conviene solo si ese dinero no lo necesitas esta semana para otros gastos.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nKentra te muestra cuánto entró, cuánto salió y cuánto te queda antes de decidir. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Proveedores #Pymes",
       "pilar": "educacion",
       "layout": "pizarra",
       "destinos": [
@@ -3970,7 +3970,10 @@
       },
       "carpeta": "2026-11-02",
       "archivo": "04-post",
-      "qa_ticket": "b4b24321-609a-432e-9b89-aca9f56c8a96"
+      "qa_ticket": "b4b24321-609a-432e-9b89-aca9f56c8a96",
+      "caption_previo": "Pagar hoy o en 30 días: la diferencia son $60.000.\n\nUna compra de $2.000.000 con 3 % de descuento por pronto pago cuesta $1.940.000 si pagas hoy. Conviene solo si ese dinero no lo necesitas esta semana para otros gastos.\n\nKentra te muestra cuánto entró, cuánto salió y cuánto te queda antes de decidir. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Proveedores #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-02-02-carrusel",
@@ -3986,7 +3989,7 @@
         "piezas/2026-11-02/02-carrusel-7.jpg",
         "piezas/2026-11-02/02-carrusel-8.jpg"
       ],
-      "caption": "Te llega una transferencia y no sabes de quién.\n\nEn 8 slides: compara con tus ventas, busca quién la mandó, no la gastes si no coincide, anótala en el pedido del cliente y registra siempre de quién y de qué. El ejemplo: una papelería con $70.000 que aparecen de más.\n\nKentra te muestra cada ingreso con categoría, fecha y nota. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "Te llega una transferencia y no sabes de quién.\n\nEn 8 slides: compara con tus ventas, busca quién la mandó, no la gastes si no coincide, anótala en el pedido del cliente y registra siempre de quién y de qué. El ejemplo: una papelería con $70.000 que aparecen de más.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nKentra te muestra cada ingreso con categoría, fecha y nota. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "educacion",
       "layout": "carrusel",
       "destinos": [
@@ -4006,7 +4009,10 @@
       },
       "carpeta": "2026-11-02",
       "archivo": "02-carrusel",
-      "qa_ticket": "3c0d58f4-144d-43ac-8ea3-531758348312"
+      "qa_ticket": "3c0d58f4-144d-43ac-8ea3-531758348312",
+      "caption_previo": "Te llega una transferencia y no sabes de quién.\n\nEn 8 slides: compara con tus ventas, busca quién la mandó, no la gastes si no coincide, anótala en el pedido del cliente y registra siempre de quién y de qué. El ejemplo: una papelería con $70.000 que aparecen de más.\n\nKentra te muestra cada ingreso con categoría, fecha y nota. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-02-05-post",
@@ -4015,7 +4021,7 @@
       "imagenes": [
         "piezas/2026-11-02/05-post.jpg"
       ],
-      "caption": "Tres tamaños, tres precios: elige el que cabe en tu negocio.\n\nBásico $15/mes (1 negocio), Pro $20/mes (hasta 2 negocios, el más elegido) y Business $30/mes (negocios ilimitados). Todos con dashboard, KentrAI ilimitado y comprobantes PDF; sin permanencia y con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "caption": "Tres tamaños, tres precios: elige el que cabe en tu negocio.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nBásico $15/mes (1 negocio), Pro $20/mes (hasta 2 negocios, el más elegido) y Business $30/mes (negocios ilimitados). Todos con dashboard, KentrAI ilimitado y comprobantes PDF; sin permanencia y con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
       "pilar": "precio-valor",
       "layout": "lista",
       "destinos": [
@@ -4035,7 +4041,10 @@
       },
       "carpeta": "2026-11-02",
       "archivo": "05-post",
-      "qa_ticket": "59aa2185-bc6b-4c28-aa14-580a95693d56"
+      "qa_ticket": "59aa2185-bc6b-4c28-aa14-580a95693d56",
+      "caption_previo": "Tres tamaños, tres precios: elige el que cabe en tu negocio.\n\nBásico $15/mes (1 negocio), Pro $20/mes (hasta 2 negocios, el más elegido) y Business $30/mes (negocios ilimitados). Todos con dashboard, KentrAI ilimitado y comprobantes PDF; sin permanencia y con acceso inmediato. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-02-03-historia",
@@ -4102,7 +4111,7 @@
       "imagenes": [
         "piezas/2026-11-03/04-post.jpg"
       ],
-      "caption": "Vendes una camiseta en $35.000. ¿Cuánto es tuyo?\n\nEl tiquete de una tienda online: producción (camiseta y estampado) $18.000, empaque y envío $7.000 y comisión de pago $1.050. Te quedan $8.950: 26 % de margen, antes de publicidad.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
+      "caption": "Vendes una camiseta en $35.000. ¿Cuánto es tuyo?\n\nEl tiquete de una tienda online: producción (camiseta y estampado) $18.000, empaque y envío $7.000 y comisión de pago $1.050. Te quedan $8.950: 26 % de margen, antes de publicidad.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
       "pilar": "verticales",
       "layout": "recibo",
       "destinos": [
@@ -4122,7 +4131,10 @@
       },
       "carpeta": "2026-11-03",
       "archivo": "04-post",
-      "qa_ticket": "0a50c13d-c6eb-46dc-80db-e4bf3899687c"
+      "qa_ticket": "0a50c13d-c6eb-46dc-80db-e4bf3899687c",
+      "caption_previo": "Vendes una camiseta en $35.000. ¿Cuánto es tuyo?\n\nEl tiquete de una tienda online: producción (camiseta y estampado) $18.000, empaque y envío $7.000 y comisión de pago $1.050. Te quedan $8.950: 26 % de margen, antes de publicidad.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-03-02-carrusel",
@@ -4137,7 +4149,7 @@
         "piezas/2026-11-03/02-carrusel-6.jpg",
         "piezas/2026-11-03/02-carrusel-7.jpg"
       ],
-      "caption": "Buen Fin: el 20 % de descuento sale completo de tu ganancia.\n\nCon un producto de $1,000 pesos mexicanos comparamos qué te deja un 20 % de descuento ($180) y qué te deja el envío incluido ($260), frente a $380 sin promo, y cuántas ventas extra necesitas en cada caso.\n\nLleva la cuenta de tu promo en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
+      "caption": "Buen Fin: el 20 % de descuento sale completo de tu ganancia.\n\nCon un producto de $1,000 pesos mexicanos comparamos qué te deja un 20 % de descuento ($180) y qué te deja el envío incluido ($260), frente a $380 sin promo, y cuántas ventas extra necesitas en cada caso.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nLleva la cuenta de tu promo en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
       "pilar": "ganancia-real",
       "layout": "carrusel/portada",
       "destinos": [
@@ -4157,7 +4169,10 @@
       },
       "carpeta": "2026-11-03",
       "archivo": "02-carrusel",
-      "qa_ticket": "0899bb07-d0ec-4e73-bd32-4ee098b35279"
+      "qa_ticket": "0899bb07-d0ec-4e73-bd32-4ee098b35279",
+      "caption_previo": "Buen Fin: el 20 % de descuento sale completo de tu ganancia.\n\nCon un producto de $1,000 pesos mexicanos comparamos qué te deja un 20 % de descuento ($180) y qué te deja el envío incluido ($260), frente a $380 sin promo, y cuántas ventas extra necesitas en cada caso.\n\nLleva la cuenta de tu promo en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-03-05-post",
@@ -4166,7 +4181,7 @@
       "imagenes": [
         "piezas/2026-11-03/05-post.jpg"
       ],
-      "caption": "Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.\n\nAntes: revisas el banco, sumas lo que recuerdas y adivinas lo que sobró. Después: anotas cada venta el mismo día, ves tu ganancia real del mes y decides con números.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #CierreDeMes",
+      "caption": "Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.\n\nAntes: revisas el banco, sumas lo que recuerdas y adivinas lo que sobró. Después: anotas cada venta el mismo día, ves tu ganancia real del mes y decides con números.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #CierreDeMes",
       "pilar": "ganancia-real",
       "layout": "antes",
       "destinos": [
@@ -4186,7 +4201,10 @@
       },
       "carpeta": "2026-11-03",
       "archivo": "05-post",
-      "qa_ticket": "a424f7ad-8538-471f-8663-7f79e54ab956"
+      "qa_ticket": "a424f7ad-8538-471f-8663-7f79e54ab956",
+      "caption_previo": "Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.\n\nAntes: revisas el banco, sumas lo que recuerdas y adivinas lo que sobró. Después: anotas cada venta el mismo día, ves tu ganancia real del mes y decides con números.\n\nKentra te muestra lo que entró, lo que salió y lo que te quedó. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #CierreDeMes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-03-03-historia",
@@ -4253,7 +4271,7 @@
       "imagenes": [
         "piezas/2026-11-04/04-post.jpg"
       ],
-      "caption": "Entraron $2.400.000 y te pagaste $288.000. ¿Te suena?\nAsí se reparte una semana en un comercio pequeño: 40 % insumos, 25 % nómina, 15 % arriendo y servicios, 8 % apartado para impuestos y 12 % para el dueño.\nVer el reparto cada semana es lo que evita gastarte lo que no es tuyo.\nMira el reparto de tu dinero en una pantalla. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "caption": "Entraron $2.400.000 y te pagaste $288.000. ¿Te suena?\nAsí se reparte una semana en un comercio pequeño: 40 % insumos, 25 % nómina, 15 % arriendo y servicios, 8 % apartado para impuestos y 12 % para el dueño.\nVer el reparto cada semana es lo que evita gastarte lo que no es tuyo.\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nMira el reparto de tu dinero en una pantalla. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
       "pilar": "ganancia-real",
       "layout": "reparto",
       "destinos": [
@@ -4273,7 +4291,10 @@
       },
       "carpeta": "2026-11-04",
       "archivo": "04-post",
-      "qa_ticket": "256ecccc-311a-40b4-8f95-bf61c268f137"
+      "qa_ticket": "256ecccc-311a-40b4-8f95-bf61c268f137",
+      "caption_previo": "Entraron $2.400.000 y te pagaste $288.000. ¿Te suena?\nAsí se reparte una semana en un comercio pequeño: 40 % insumos, 25 % nómina, 15 % arriendo y servicios, 8 % apartado para impuestos y 12 % para el dueño.\nVer el reparto cada semana es lo que evita gastarte lo que no es tuyo.\nMira el reparto de tu dinero en una pantalla. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-04-02-carrusel",
@@ -4289,7 +4310,7 @@
         "piezas/2026-11-04/02-carrusel-7.jpg",
         "piezas/2026-11-04/02-carrusel-8.jpg"
       ],
-      "caption": "Cobrar incomoda más que vender. Estas 5 frases lo arreglan.\nPara cuando se pasó la fecha, cuando dicen «la próxima semana», cuando piden plazo, cuando se ofenden y antes de entregar. Guárdalo para el próximo cobro difícil.\nLleva tus cuentas por cobrar con alerta en Kentra. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes",
+      "caption": "Cobrar incomoda más que vender. Estas 5 frases lo arreglan.\nPara cuando se pasó la fecha, cuando dicen «la próxima semana», cuando piden plazo, cuando se ofenden y antes de entregar. Guárdalo para el próximo cobro difícil.\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nLleva tus cuentas por cobrar con alerta en Kentra. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes",
       "pilar": "educacion",
       "layout": "carrusel/portada",
       "destinos": [
@@ -4309,7 +4330,10 @@
       },
       "carpeta": "2026-11-04",
       "archivo": "02-carrusel",
-      "qa_ticket": "bb9be073-616c-4323-aade-4d440b5e8cfe"
+      "qa_ticket": "bb9be073-616c-4323-aade-4d440b5e8cfe",
+      "caption_previo": "Cobrar incomoda más que vender. Estas 5 frases lo arreglan.\nPara cuando se pasó la fecha, cuando dicen «la próxima semana», cuando piden plazo, cuando se ofenden y antes de entregar. Guárdalo para el próximo cobro difícil.\nLleva tus cuentas por cobrar con alerta en Kentra. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-04-05-post",
@@ -4318,7 +4342,7 @@
       "imagenes": [
         "piezas/2026-11-04/05-post.jpg"
       ],
-      "caption": "«Como $5.000… creo» es la frase más cara de un negocio.\n\nLa vela a $8.000 cuesta $6.400 entre cera, mecha, frasco, etiqueta y tu hora: quedan $1.600. A $11.000 quedan $4.600.\n\nEl precio a ojo no es un precio, es una apuesta.\n\nHaz la cuenta de cada producto en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Creativos #NegocioPropio",
+      "caption": "«Como $5.000… creo» es la frase más cara de un negocio.\n\nLa vela a $8.000 cuesta $6.400 entre cera, mecha, frasco, etiqueta y tu hora: quedan $1.600. A $11.000 quedan $4.600.\n\nEl precio a ojo no es un precio, es una apuesta.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nHaz la cuenta de cada producto en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Creativos #NegocioPropio",
       "pilar": "ganancia-real",
       "layout": "skit",
       "destinos": [
@@ -4338,7 +4362,10 @@
       },
       "carpeta": "2026-11-04",
       "archivo": "05-post",
-      "qa_ticket": "c43c0b26-8337-4011-8c61-f49fa4858998"
+      "qa_ticket": "c43c0b26-8337-4011-8c61-f49fa4858998",
+      "caption_previo": "«Como $5.000… creo» es la frase más cara de un negocio.\n\nLa vela a $8.000 cuesta $6.400 entre cera, mecha, frasco, etiqueta y tu hora: quedan $1.600. A $11.000 quedan $4.600.\n\nEl precio a ojo no es un precio, es una apuesta.\n\nHaz la cuenta de cada producto en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Creativos #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-04-03-historia",
@@ -4405,7 +4432,7 @@
       "imagenes": [
         "piezas/2026-11-05/04-post.jpg"
       ],
-      "caption": "«Facturamos $50 millones al mes.» ¿Y cuánto le queda?\n\nCuando un emprendedor presenta su negocio casi siempre dice cuánto vende. Casi nunca cuánto le queda. En este ejemplo: $1.200.000, el 2,4 %.\n\nFacturar no es ganar. Crecer tampoco, si el margen no alcanza.\n\n¿Cuánto te queda a ti? Mira tu margen real en minutos. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "«Facturamos $50 millones al mes.» ¿Y cuánto le queda?\n\nCuando un emprendedor presenta su negocio casi siempre dice cuánto vende. Casi nunca cuánto le queda. En este ejemplo: $1.200.000, el 2,4 %.\n\nFacturar no es ganar. Crecer tampoco, si el margen no alcanza.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\n¿Cuánto te queda a ti? Mira tu margen real en minutos. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "ganancia-real",
       "layout": "split",
       "destinos": [
@@ -4425,7 +4452,10 @@
       },
       "carpeta": "2026-11-05",
       "archivo": "04-post",
-      "qa_ticket": "a4ba9613-236d-4141-971d-3ede6431cd27"
+      "qa_ticket": "a4ba9613-236d-4141-971d-3ede6431cd27",
+      "caption_previo": "«Facturamos $50 millones al mes.» ¿Y cuánto le queda?\n\nCuando un emprendedor presenta su negocio casi siempre dice cuánto vende. Casi nunca cuánto le queda. En este ejemplo: $1.200.000, el 2,4 %.\n\nFacturar no es ganar. Crecer tampoco, si el margen no alcanza.\n\n¿Cuánto te queda a ti? Mira tu margen real en minutos. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-05-02-carrusel",
@@ -4441,7 +4471,7 @@
         "piezas/2026-11-05/02-carrusel-7.jpg",
         "piezas/2026-11-05/02-carrusel-8.jpg"
       ],
-      "caption": "¿Cuánto te cuesta un cliente nuevo?\n\nUn caso: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.\n\nLleva la publicidad como una categoría y mira tu ganancia real en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes",
+      "caption": "¿Cuánto te cuesta un cliente nuevo?\n\nUn caso: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nLleva la publicidad como una categoría y mira tu ganancia real en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes",
       "pilar": "educacion",
       "layout": "carrusel",
       "destinos": [
@@ -4461,7 +4491,10 @@
       },
       "carpeta": "2026-11-05",
       "archivo": "02-carrusel",
-      "qa_ticket": "cfadc62c-0372-45ee-922f-0966818ea13d"
+      "qa_ticket": "cfadc62c-0372-45ee-922f-0966818ea13d",
+      "caption_previo": "¿Cuánto te cuesta un cliente nuevo?\n\nUn caso: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.\n\nLleva la publicidad como una categoría y mira tu ganancia real en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-05-05-post",
@@ -4470,7 +4503,7 @@
       "imagenes": [
         "piezas/2026-11-05/05-post.jpg"
       ],
-      "caption": "Lo que vence no avisa, pero se puede anotar.\n\nLos pagos a proveedores y las deudas tienen fecha. Si los anotas con su día, el lunes ya sabes qué viene.\n\nEn Kentra puedes guardar recordatorios con fecha límite y recibir avisos antes de que venzan. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "Lo que vence no avisa, pero se puede anotar.\n\nLos pagos a proveedores y las deudas tienen fecha. Si los anotas con su día, el lunes ya sabes qué viene.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nEn Kentra puedes guardar recordatorios con fecha límite y recibir avisos antes de que venzan. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "educacion",
       "layout": "cita",
       "destinos": [
@@ -4490,7 +4523,10 @@
       },
       "carpeta": "2026-11-05",
       "archivo": "05-post",
-      "qa_ticket": "8a82b706-7c03-45af-b81b-3b20b97bf36a"
+      "qa_ticket": "8a82b706-7c03-45af-b81b-3b20b97bf36a",
+      "caption_previo": "Lo que vence no avisa, pero se puede anotar.\n\nLos pagos a proveedores y las deudas tienen fecha. Si los anotas con su día, el lunes ya sabes qué viene.\n\nEn Kentra puedes guardar recordatorios con fecha límite y recibir avisos antes de que venzan. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-05-03-historia",
@@ -4557,7 +4593,7 @@
       "imagenes": [
         "piezas/2026-11-06/04-post.jpg"
       ],
-      "caption": "Lo que se pierde también se paga.\n\nUn restaurante: compró $4.000.000 en insumos y desperdició el 6 %, es decir $240.000. Lo que sí usó fueron $3.760.000.\n\nKentra te ayuda a ver en qué categoría se va tu dinero cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "caption": "Lo que se pierde también se paga.\n\nUn restaurante: compró $4.000.000 en insumos y desperdició el 6 %, es decir $240.000. Lo que sí usó fueron $3.760.000.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nKentra te ayuda a ver en qué categoría se va tu dinero cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
       "pilar": "verticales",
       "layout": "dato",
       "destinos": [
@@ -4577,7 +4613,10 @@
       },
       "carpeta": "2026-11-06",
       "archivo": "04-post",
-      "qa_ticket": "f7aeb040-0b55-4040-8b0b-7b6c29f2c20b"
+      "qa_ticket": "f7aeb040-0b55-4040-8b0b-7b6c29f2c20b",
+      "caption_previo": "Lo que se pierde también se paga.\n\nUn restaurante: compró $4.000.000 en insumos y desperdició el 6 %, es decir $240.000. Lo que sí usó fueron $3.760.000.\n\nKentra te ayuda a ver en qué categoría se va tu dinero cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-06-02-carrusel",
@@ -4592,7 +4631,7 @@
         "piezas/2026-11-06/02-carrusel-6.jpg",
         "piezas/2026-11-06/02-carrusel-7.jpg"
       ],
-      "caption": "Si gastaste el impuesto de tus ventas, no te fue bien: te prestaron.\n\nPor qué el impuesto que cobras no es ingreso, cómo separarlo cada semana junto con comisiones y cuotas, y cuánto queda disponible de verdad en un mes de $8.000.000 (IVA incluido).\n\nGuárdalo antes del próximo pago de impuestos.\n\nSepara cada peso en su categoría con Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "Si gastaste el impuesto de tus ventas, no te fue bien: te prestaron.\n\nPor qué el impuesto que cobras no es ingreso, cómo separarlo cada semana junto con comisiones y cuotas, y cuánto queda disponible de verdad en un mes de $8.000.000 (IVA incluido).\n\nGuárdalo antes del próximo pago de impuestos.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nSepara cada peso en su categoría con Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "educacion",
       "layout": "carrusel/portada",
       "destinos": [
@@ -4612,7 +4651,10 @@
       },
       "carpeta": "2026-11-06",
       "archivo": "02-carrusel",
-      "qa_ticket": "c35aba2f-5d17-47e2-8b3f-f26e7f2b0f1a"
+      "qa_ticket": "c35aba2f-5d17-47e2-8b3f-f26e7f2b0f1a",
+      "caption_previo": "Si gastaste el impuesto de tus ventas, no te fue bien: te prestaron.\n\nPor qué el impuesto que cobras no es ingreso, cómo separarlo cada semana junto con comisiones y cuotas, y cuánto queda disponible de verdad en un mes de $8.000.000 (IVA incluido).\n\nGuárdalo antes del próximo pago de impuestos.\n\nSepara cada peso en su categoría con Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-06-05-post",
@@ -4621,7 +4663,7 @@
       "imagenes": [
         "piezas/2026-11-06/05-post.jpg"
       ],
-      "caption": "POV: tienes una tienda y te llegan 80 movimientos del banco.\n\nAntes: digitas movimiento por movimiento. Después: subes tu extracto (CSV o Excel) o tus facturas y Kentra los registra con IA; tú solo revisas. Disponible en los planes Pro y Business.\n\nPro desde $20/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline",
+      "caption": "POV: tienes una tienda y te llegan 80 movimientos del banco.\n\nAntes: digitas movimiento por movimiento. Después: subes tu extracto (CSV o Excel) o tus facturas y Kentra los registra con IA; tú solo revisas. Disponible en los planes Pro y Business.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nPro desde $20/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline",
       "pilar": "funcionalidades",
       "layout": "mascota",
       "destinos": [
@@ -4641,7 +4683,10 @@
       },
       "carpeta": "2026-11-06",
       "archivo": "05-post",
-      "qa_ticket": "ab05eee9-aee9-4aff-ad64-b839f369db60"
+      "qa_ticket": "ab05eee9-aee9-4aff-ad64-b839f369db60",
+      "caption_previo": "POV: tienes una tienda y te llegan 80 movimientos del banco.\n\nAntes: digitas movimiento por movimiento. Después: subes tu extracto (CSV o Excel) o tus facturas y Kentra los registra con IA; tú solo revisas. Disponible en los planes Pro y Business.\n\nPro desde $20/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-06-03-historia",
@@ -4708,7 +4753,7 @@
       "imagenes": [
         "piezas/2026-11-07/04-post.jpg"
       ],
-      "caption": "¿Cuánto ganas si vendes 50 combos a $12.000?\n\nCada combo te cuesta $8.500. Primero calcula lo que te queda por combo y luego multiplícalo por 50. Cuéntanos tu resultado en los comentarios.\n\nKentra te muestra cuánto te queda cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "caption": "¿Cuánto ganas si vendes 50 combos a $12.000?\n\nCada combo te cuesta $8.500. Primero calcula lo que te queda por combo y luego multiplícalo por 50. Cuéntanos tu resultado en los comentarios.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nKentra te muestra cuánto te queda cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
       "pilar": "educacion",
       "layout": "reto",
       "destinos": [
@@ -4728,7 +4773,10 @@
       },
       "carpeta": "2026-11-07",
       "archivo": "04-post",
-      "qa_ticket": "d5be1bc9-834b-4c96-9368-180d503adb67"
+      "qa_ticket": "d5be1bc9-834b-4c96-9368-180d503adb67",
+      "caption_previo": "¿Cuánto ganas si vendes 50 combos a $12.000?\n\nCada combo te cuesta $8.500. Primero calcula lo que te queda por combo y luego multiplícalo por 50. Cuéntanos tu resultado en los comentarios.\n\nKentra te muestra cuánto te queda cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-07-02-carrusel",
@@ -4744,7 +4792,7 @@
         "piezas/2026-11-07/02-carrusel-7.jpg",
         "piezas/2026-11-07/02-carrusel-8.jpg"
       ],
-      "caption": "Una cita perdida no es solo una hora vacía.\n\nEn un salón: una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Cobrar un anticipo del 30 % incomoda, pero te protege.\n\nAnota cada anticipo y cada recordatorio en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes",
+      "caption": "Una cita perdida no es solo una hora vacía.\n\nEn un salón: una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Cobrar un anticipo del 30 % incomoda, pero te protege.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nAnota cada anticipo y cada recordatorio en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes",
       "pilar": "verticales",
       "layout": "carrusel/portada",
       "destinos": [
@@ -4764,7 +4812,10 @@
       },
       "carpeta": "2026-11-07",
       "archivo": "02-carrusel",
-      "qa_ticket": "d91bd135-deb9-404e-9e30-f762bf870f0c"
+      "qa_ticket": "d91bd135-deb9-404e-9e30-f762bf870f0c",
+      "caption_previo": "Una cita perdida no es solo una hora vacía.\n\nEn un salón: una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Cobrar un anticipo del 30 % incomoda, pero te protege.\n\nAnota cada anticipo y cada recordatorio en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-07-05-post",
@@ -4773,7 +4824,7 @@
       "imagenes": [
         "piezas/2026-11-07/05-post.jpg"
       ],
-      "caption": "Cuando ya no eres el único que registra, necesitas roles.\n\nBusiness, USD 30/mes: negocios ilimitados y equipo con roles. El colaborador registra y sube facturas; el administrador ve todo menos la suscripción y el equipo. Incluye importación con IA, reglas automáticas, inventario y créditos.\n\nAcceso inmediato, sin permanencia. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo",
+      "caption": "Cuando ya no eres el único que registra, necesitas roles.\n\nBusiness, USD 30/mes: negocios ilimitados y equipo con roles. El colaborador registra y sube facturas; el administrador ve todo menos la suscripción y el equipo. Incluye importación con IA, reglas automáticas, inventario y créditos.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nAcceso inmediato, sin permanencia. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo",
       "pilar": "precio",
       "layout": "precio",
       "destinos": [
@@ -4793,7 +4844,10 @@
       },
       "carpeta": "2026-11-07",
       "archivo": "05-post",
-      "qa_ticket": "489d1379-0786-465d-a19b-c0f35c770df4"
+      "qa_ticket": "489d1379-0786-465d-a19b-c0f35c770df4",
+      "caption_previo": "Cuando ya no eres el único que registra, necesitas roles.\n\nBusiness, USD 30/mes: negocios ilimitados y equipo con roles. El colaborador registra y sube facturas; el administrador ve todo menos la suscripción y el equipo. Incluye importación con IA, reglas automáticas, inventario y créditos.\n\nAcceso inmediato, sin permanencia. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-07-03-historia",
@@ -4860,7 +4914,7 @@
       "imagenes": [
         "piezas/2026-11-08/04-post.jpg"
       ],
-      "caption": "Vendí $3.000.000 en un mes y no tenía para pagar al proveedor.\n\nUna historia de dueño: vender mucho no es tener dinero disponible, porque parte de lo que entró ya tenía dueño. Anota cada semana lo que entra y lo que ya debes.\n\nMira lo que te queda de verdad en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "Vendí $3.000.000 en un mes y no tenía para pagar al proveedor.\n\nUna historia de dueño: vender mucho no es tener dinero disponible, porque parte de lo que entró ya tenía dueño. Anota cada semana lo que entra y lo que ya debes.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nMira lo que te queda de verdad en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "objeciones",
       "layout": "frase",
       "destinos": [
@@ -4880,7 +4934,10 @@
       },
       "carpeta": "2026-11-08",
       "archivo": "04-post",
-      "qa_ticket": "e06450da-d159-4a5c-9af5-2117ea803d39"
+      "qa_ticket": "e06450da-d159-4a5c-9af5-2117ea803d39",
+      "caption_previo": "Vendí $3.000.000 en un mes y no tenía para pagar al proveedor.\n\nUna historia de dueño: vender mucho no es tener dinero disponible, porque parte de lo que entró ya tenía dueño. Anota cada semana lo que entra y lo que ya debes.\n\nMira lo que te queda de verdad en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-08-02-carrusel",
@@ -4897,7 +4954,7 @@
         "piezas/2026-11-08/02-carrusel-8.jpg",
         "piezas/2026-11-08/02-carrusel-9.jpg"
       ],
-      "caption": "3 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?\n\nMargen de un producto, margen neto del mes y cuánto cubres al día de alquiler. Cada respuesta está en la slide siguiente.\n\nSi prefieres que Kentra te haga estas cuentas: {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "3 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?\n\nMargen de un producto, margen neto del mes y cuánto cubres al día de alquiler. Cada respuesta está en la slide siguiente.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nSi prefieres que Kentra te haga estas cuentas: {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "ganancia-real",
       "layout": "carrusel/portada",
       "destinos": [
@@ -4917,7 +4974,10 @@
       },
       "carpeta": "2026-11-08",
       "archivo": "02-carrusel",
-      "qa_ticket": "2ecabb79-2f7a-43d5-bb73-da4cf3f8c3cd"
+      "qa_ticket": "2ecabb79-2f7a-43d5-bb73-da4cf3f8c3cd",
+      "caption_previo": "3 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?\n\nMargen de un producto, margen neto del mes y cuánto cubres al día de alquiler. Cada respuesta está en la slide siguiente.\n\nSi prefieres que Kentra te haga estas cuentas: {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-08-05-post",
@@ -4926,7 +4986,7 @@
       "imagenes": [
         "piezas/2026-11-08/05-post.jpg"
       ],
-      "caption": "Cerrar el mes en Excel vs en Kentra.\n\nEn Excel: buscar el archivo del mes, copiar y pegar cifras y rezar para que cuadre. En Kentra: ganancia real a la vista, gastos por categoría y reporte listo en segundos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ExcelVsKentra",
+      "caption": "Cerrar el mes en Excel vs en Kentra.\n\nEn Excel: buscar el archivo del mes, copiar y pegar cifras y rezar para que cuadre. En Kentra: ganancia real a la vista, gastos por categoría y reporte listo en segundos.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ExcelVsKentra",
       "pilar": "kentra-vs-excel",
       "layout": "versus",
       "destinos": [
@@ -4946,7 +5006,10 @@
       },
       "carpeta": "2026-11-08",
       "archivo": "05-post",
-      "qa_ticket": "4efd6d78-3be7-479a-9cf3-d4bfeb4c39ea"
+      "qa_ticket": "4efd6d78-3be7-479a-9cf3-d4bfeb4c39ea",
+      "caption_previo": "Cerrar el mes en Excel vs en Kentra.\n\nEn Excel: buscar el archivo del mes, copiar y pegar cifras y rezar para que cuadre. En Kentra: ganancia real a la vista, gastos por categoría y reporte listo en segundos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ExcelVsKentra",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-08-03-historia",
@@ -5012,7 +5075,7 @@
       "imagenes": [
         "piezas/2026-11-09/04-post.jpg"
       ],
-      "caption": "El cliente del Buen Fin siempre pide el envío incluido.\n\nEl producto cuesta $520, el envío $110 y la comisión $35. Suman $665, así que a $700 te quedan $35 de ganancia. Con la cuenta hecha respondes sin miedo.\n\nLleva tus ganancias claras desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline #BuenFin",
+      "caption": "El cliente del Buen Fin siempre pide el envío incluido.\n\nEl producto cuesta $520, el envío $110 y la comisión $35. Suman $665, así que a $700 te quedan $35 de ganancia. Con la cuenta hecha respondes sin miedo.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nLleva tus ganancias claras desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline #BuenFin",
       "pilar": "objeciones",
       "layout": "chat",
       "destinos": [
@@ -5033,7 +5096,10 @@
       "carpeta": "2026-11-09",
       "archivo": "04-post",
       "fecha": "2026-11-09T10:00:00-05:00",
-      "qa_ticket": "099c4c54-77f7-4a2c-aadb-e1dae0bd41e2"
+      "qa_ticket": "099c4c54-77f7-4a2c-aadb-e1dae0bd41e2",
+      "caption_previo": "El cliente del Buen Fin siempre pide el envío incluido.\n\nEl producto cuesta $520, el envío $110 y la comisión $35. Suman $665, así que a $700 te quedan $35 de ganancia. Con la cuenta hecha respondes sin miedo.\n\nLleva tus ganancias claras desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline #BuenFin",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-09-02-carrusel",
@@ -5047,7 +5113,7 @@
         "piezas/2026-11-09/02-carrusel-6.jpg",
         "piezas/2026-11-09/02-carrusel-7.jpg"
       ],
-      "caption": "Vender 90 piezas no es lo mismo que ganar por 90 piezas.\n\nCuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.\n\nHaz estas cuentas en un solo lugar. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline",
+      "caption": "Vender 90 piezas no es lo mismo que ganar por 90 piezas.\n\nCuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nHaz estas cuentas en un solo lugar. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline",
       "pilar": "ganancia-real",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5068,7 +5134,10 @@
       "carpeta": "2026-11-09",
       "archivo": "02-carrusel",
       "fecha": "2026-11-09T12:00:00-05:00",
-      "qa_ticket": "f62762ef-c22b-429e-bf63-cf97b52f5c4e"
+      "qa_ticket": "f62762ef-c22b-429e-bf63-cf97b52f5c4e",
+      "caption_previo": "Vender 90 piezas no es lo mismo que ganar por 90 piezas.\n\nCuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.\n\nHaz estas cuentas en un solo lugar. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-09-05-post",
@@ -5076,7 +5145,7 @@
       "imagenes": [
         "piezas/2026-11-09/05-post.jpg"
       ],
-      "caption": "Vendido no es lo mismo que cobrado.\n\nUna venta pendiente sirve para tu ánimo, no para pagar a tu proveedor. Anota quién te debe, cuánto y para cuándo, y revísalo cada semana. Kentra te avisa lo que vence.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio",
+      "caption": "Vendido no es lo mismo que cobrado.\n\nUna venta pendiente sirve para tu ánimo, no para pagar a tu proveedor. Anota quién te debe, cuánto y para cuándo, y revísalo cada semana. Kentra te avisa lo que vence.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio",
       "pilar": "educacion",
       "layout": "cita",
       "destinos": [
@@ -5097,7 +5166,10 @@
       "carpeta": "2026-11-09",
       "archivo": "05-post",
       "fecha": "2026-11-09T18:00:00-05:00",
-      "qa_ticket": "ac4de786-7a3d-4cea-b597-64e990409803"
+      "qa_ticket": "ac4de786-7a3d-4cea-b597-64e990409803",
+      "caption_previo": "Vendido no es lo mismo que cobrado.\n\nUna venta pendiente sirve para tu ánimo, no para pagar a tu proveedor. Anota quién te debe, cuánto y para cuándo, y revísalo cada semana. Kentra te avisa lo que vence.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-09-03-historia",
@@ -5163,7 +5235,7 @@
       "imagenes": [
         "piezas/2026-11-10/04-post.jpg"
       ],
-      "caption": "Un pedido de $450 y te quedan $99.\n\nProducto $230, empaque $25, envío $80 y comisión de pago $16: lo que queda es el 22 % del precio.\n\nTu ganancia real a la vista desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia",
+      "caption": "Un pedido de $450 y te quedan $99.\n\nProducto $230, empaque $25, envío $80 y comisión de pago $16: lo que queda es el 22 % del precio.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nTu ganancia real a la vista desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia",
       "pilar": "verticales",
       "layout": "recibo",
       "destinos": [
@@ -5184,7 +5256,10 @@
       "carpeta": "2026-11-10",
       "archivo": "04-post",
       "fecha": "2026-11-10T10:00:00-05:00",
-      "qa_ticket": "db165b29-d054-4074-89e0-0bb491712307"
+      "qa_ticket": "db165b29-d054-4074-89e0-0bb491712307",
+      "caption_previo": "Un pedido de $450 y te quedan $99.\n\nProducto $230, empaque $25, envío $80 y comisión de pago $16: lo que queda es el 22 % del precio.\n\nTu ganancia real a la vista desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-10-02-carrusel",
@@ -5199,7 +5274,7 @@
         "piezas/2026-11-10/02-carrusel-7.jpg",
         "piezas/2026-11-10/02-carrusel-8.jpg"
       ],
-      "caption": "Tu tienda vende $100,000 MXN y el 11.6 % se va en costos que casi no se ven.\n\nEmpaque ($5,000), comisión de pago ($3,500), cambios ($1,080) y tu tiempo ($2,000): suman $11,580. Desliza para ver cada cuenta.\n\nOrdena estos gastos por categoría desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia",
+      "caption": "Tu tienda vende $100,000 MXN y el 11.6 % se va en costos que casi no se ven.\n\nEmpaque ($5,000), comisión de pago ($3,500), cambios ($1,080) y tu tiempo ($2,000): suman $11,580. Desliza para ver cada cuenta.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nOrdena estos gastos por categoría desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia",
       "pilar": "educacion",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5220,7 +5295,10 @@
       "carpeta": "2026-11-10",
       "archivo": "02-carrusel",
       "fecha": "2026-11-10T12:00:00-05:00",
-      "qa_ticket": "f5abb8f2-facc-4d15-a3fb-fe02c4dc7572"
+      "qa_ticket": "f5abb8f2-facc-4d15-a3fb-fe02c4dc7572",
+      "caption_previo": "Tu tienda vende $100,000 MXN y el 11.6 % se va en costos que casi no se ven.\n\nEmpaque ($5,000), comisión de pago ($3,500), cambios ($1,080) y tu tiempo ($2,000): suman $11,580. Desliza para ver cada cuenta.\n\nOrdena estos gastos por categoría desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-10-05-post",
@@ -5228,7 +5306,7 @@
       "imagenes": [
         "piezas/2026-11-10/05-post.jpg"
       ],
-      "caption": "Cerrar el día con un número cambia cómo duermes.\n\nAntes: cuentas billetes y transferencias a ojo, anotas en un papel que se pierde y sumas todo el viernes. Después: anotas cada venta al momento y cierras el día con entró, salió y quedó.\n\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado",
+      "caption": "Cerrar el día con un número cambia cómo duermes.\n\nAntes: cuentas billetes y transferencias a ojo, anotas en un papel que se pierde y sumas todo el viernes. Después: anotas cada venta al momento y cierras el día con entró, salió y quedó.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado",
       "pilar": "funcionalidades",
       "layout": "antes",
       "destinos": [
@@ -5249,7 +5327,10 @@
       "carpeta": "2026-11-10",
       "archivo": "05-post",
       "fecha": "2026-11-10T18:00:00-05:00",
-      "qa_ticket": "d788baf8-ea70-4411-95dd-b7aced5fdc7b"
+      "qa_ticket": "d788baf8-ea70-4411-95dd-b7aced5fdc7b",
+      "caption_previo": "Cerrar el día con un número cambia cómo duermes.\n\nAntes: cuentas billetes y transferencias a ojo, anotas en un papel que se pierde y sumas todo el viernes. Después: anotas cada venta al momento y cierras el día con entró, salió y quedó.\n\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-10-03-historia",
@@ -5315,7 +5396,7 @@
       "imagenes": [
         "piezas/2026-11-11/04-post.jpg"
       ],
-      "caption": "Un ayudante se paga con pedidos, no con ganas.\n\nSi le pagas $6,000 MXN al mes y cada pedido te deja $60 MXN, necesitas 100 pedidos solo para cubrirlo. Del 101 en adelante, la ganancia es tuya.\n\nCuenta cada pedido desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #Equipo",
+      "caption": "Un ayudante se paga con pedidos, no con ganas.\n\nSi le pagas $6,000 MXN al mes y cada pedido te deja $60 MXN, necesitas 100 pedidos solo para cubrirlo. Del 101 en adelante, la ganancia es tuya.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nCuenta cada pedido desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #Equipo",
       "pilar": "ganancia-real",
       "layout": "pizarra",
       "destinos": [
@@ -5336,7 +5417,10 @@
       "carpeta": "2026-11-11",
       "archivo": "04-post",
       "fecha": "2026-11-11T10:00:00-05:00",
-      "qa_ticket": "9f4b5211-d88c-4b83-819b-661679d74573"
+      "qa_ticket": "9f4b5211-d88c-4b83-819b-661679d74573",
+      "caption_previo": "Un ayudante se paga con pedidos, no con ganas.\n\nSi le pagas $6,000 MXN al mes y cada pedido te deja $60 MXN, necesitas 100 pedidos solo para cubrirlo. Del 101 en adelante, la ganancia es tuya.\n\nCuenta cada pedido desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #Equipo",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-11-02-carrusel",
@@ -5350,7 +5434,7 @@
         "piezas/2026-11-11/02-carrusel-6.jpg",
         "piezas/2026-11-11/02-carrusel-7.jpg"
       ],
-      "caption": "¿Valió la pena el Buen Fin? Se responde con dos números.\n\nEjemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 veces más, ganas 31 % más y trabajas 3 veces más. Desliza para ver cada cuenta.\n\nCompara tus fines de semana desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "caption": "¿Valió la pena el Buen Fin? Se responde con dos números.\n\nEjemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 veces más, ganas 31 % más y trabajas 3 veces más. Desliza para ver cada cuenta.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nCompara tus fines de semana desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
       "pilar": "ganancia-real",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5371,7 +5455,10 @@
       "carpeta": "2026-11-11",
       "archivo": "02-carrusel",
       "fecha": "2026-11-11T12:00:00-05:00",
-      "qa_ticket": "568e0ad3-7567-42c8-9448-2ba8de86f9ae"
+      "qa_ticket": "568e0ad3-7567-42c8-9448-2ba8de86f9ae",
+      "caption_previo": "¿Valió la pena el Buen Fin? Se responde con dos números.\n\nEjemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 veces más, ganas 31 % más y trabajas 3 veces más. Desliza para ver cada cuenta.\n\nCompara tus fines de semana desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-11-05-post",
@@ -5379,7 +5466,7 @@
       "imagenes": [
         "piezas/2026-11-11/05-post.jpg"
       ],
-      "caption": "Después del Buen Fin, contar no debería tomar el lunes entero.\n\nEn Excel pegas las ventas de tres días, sumas dos veces y no ves el costo real. En Kentra ves entró, salió y quedó, con gastos por categoría y reportes en segundos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Excel",
+      "caption": "Después del Buen Fin, contar no debería tomar el lunes entero.\n\nEn Excel pegas las ventas de tres días, sumas dos veces y no ves el costo real. En Kentra ves entró, salió y quedó, con gastos por categoría y reportes en segundos.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Excel",
       "pilar": "kentra-vs-excel",
       "layout": "versus",
       "destinos": [
@@ -5400,7 +5487,10 @@
       "carpeta": "2026-11-11",
       "archivo": "05-post",
       "fecha": "2026-11-11T18:00:00-05:00",
-      "qa_ticket": "44ae658d-9e45-4cf0-a328-997de50ae8e2"
+      "qa_ticket": "44ae658d-9e45-4cf0-a328-997de50ae8e2",
+      "caption_previo": "Después del Buen Fin, contar no debería tomar el lunes entero.\n\nEn Excel pegas las ventas de tres días, sumas dos veces y no ves el costo real. En Kentra ves entró, salió y quedó, con gastos por categoría y reportes en segundos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Excel",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-11-03-historia",
@@ -5466,7 +5556,7 @@
       "imagenes": [
         "piezas/2026-11-12/04-post.jpg"
       ],
-      "caption": "Un día de Buen Fin: $10,000 MXN vendidos.\n\nDe ese día, mercancía $4,500, envíos y empaque $1,500, publicidad $1,000, comisiones $400 e impuestos y otros $1,100. Te quedan $1,500, el 15 %.\n\nMira tu reparto real desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "caption": "Un día de Buen Fin: $10,000 MXN vendidos.\n\nDe ese día, mercancía $4,500, envíos y empaque $1,500, publicidad $1,000, comisiones $400 e impuestos y otros $1,100. Te quedan $1,500, el 15 %.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nMira tu reparto real desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
       "pilar": "ganancia-real",
       "layout": "reparto",
       "destinos": [
@@ -5487,7 +5577,10 @@
       "carpeta": "2026-11-12",
       "archivo": "04-post",
       "fecha": "2026-11-12T10:00:00-05:00",
-      "qa_ticket": "d7e7207e-029d-4109-9bec-f2e52f6efee4"
+      "qa_ticket": "d7e7207e-029d-4109-9bec-f2e52f6efee4",
+      "caption_previo": "Un día de Buen Fin: $10,000 MXN vendidos.\n\nDe ese día, mercancía $4,500, envíos y empaque $1,500, publicidad $1,000, comisiones $400 e impuestos y otros $1,100. Te quedan $1,500, el 15 %.\n\nMira tu reparto real desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-12-02-carrusel",
@@ -5500,7 +5593,7 @@
         "piezas/2026-11-12/02-carrusel-5.jpg",
         "piezas/2026-11-12/02-carrusel-6.jpg"
       ],
-      "caption": "Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.\n\nTres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).\n\nControla tus pagos con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja",
+      "caption": "Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.\n\nTres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nControla tus pagos con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja",
       "pilar": "educacion",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5521,7 +5614,10 @@
       "carpeta": "2026-11-12",
       "archivo": "02-carrusel",
       "fecha": "2026-11-12T12:00:00-05:00",
-      "qa_ticket": "488bb542-95ec-4a00-8dc2-7bfa8cdb286a"
+      "qa_ticket": "488bb542-95ec-4a00-8dc2-7bfa8cdb286a",
+      "caption_previo": "Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.\n\nTres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).\n\nControla tus pagos con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-12-05-post",
@@ -5529,7 +5625,7 @@
       "imagenes": [
         "piezas/2026-11-12/05-post.jpg"
       ],
-      "caption": "Primero ordenas el Buen Fin; después decides cuánto control quieres.\n\nEl plan Pro incluye hasta 2 negocios, un usuario extra, importación con IA, reglas de categorización y créditos y cuotas. Sin permanencia y con acceso inmediato.\n\nDesde $15/mes el Básico; $20/mes el Pro. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Precio",
+      "caption": "Primero ordenas el Buen Fin; después decides cuánto control quieres.\n\nEl plan Pro incluye hasta 2 negocios, un usuario extra, importación con IA, reglas de categorización y créditos y cuotas. Sin permanencia y con acceso inmediato.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nDesde $15/mes el Básico; $20/mes el Pro. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Precio",
       "pilar": "precio-valor",
       "layout": "precio",
       "destinos": [
@@ -5550,7 +5646,10 @@
       "carpeta": "2026-11-12",
       "archivo": "05-post",
       "fecha": "2026-11-12T18:00:00-05:00",
-      "qa_ticket": "1db54667-4a21-4d47-823f-7560b7cdd757"
+      "qa_ticket": "1db54667-4a21-4d47-823f-7560b7cdd757",
+      "caption_previo": "Primero ordenas el Buen Fin; después decides cuánto control quieres.\n\nEl plan Pro incluye hasta 2 negocios, un usuario extra, importación con IA, reglas de categorización y créditos y cuotas. Sin permanencia y con acceso inmediato.\n\nDesde $15/mes el Básico; $20/mes el Pro. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Precio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-12-03-historia",
@@ -5616,7 +5715,7 @@
       "imagenes": [
         "piezas/2026-11-13/04-post.jpg"
       ],
-      "caption": "«Vende 5 veces más en el Buen Fin.» Sí, pero ¿y la cuenta?\n\nVentas $100,000, costos y envíos $82,000, publicidad $14,000. Te quedan $4,000, el 4 %.\n\nHaz la cuenta completa desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "caption": "«Vende 5 veces más en el Buen Fin.» Sí, pero ¿y la cuenta?\n\nVentas $100,000, costos y envíos $82,000, publicidad $14,000. Te quedan $4,000, el 4 %.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nHaz la cuenta completa desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
       "pilar": "ganancia-real",
       "layout": "split",
       "destinos": [
@@ -5637,7 +5736,10 @@
       "carpeta": "2026-11-13",
       "archivo": "04-post",
       "fecha": "2026-11-13T10:00:00-05:00",
-      "qa_ticket": "b291a725-5fc7-4540-b706-b0699618b067"
+      "qa_ticket": "b291a725-5fc7-4540-b706-b0699618b067",
+      "caption_previo": "«Vende 5 veces más en el Buen Fin.» Sí, pero ¿y la cuenta?\n\nVentas $100,000, costos y envíos $82,000, publicidad $14,000. Te quedan $4,000, el 4 %.\n\nHaz la cuenta completa desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-13-02-carrusel",
@@ -5651,7 +5753,7 @@
         "piezas/2026-11-13/02-carrusel-6.jpg",
         "piezas/2026-11-13/02-carrusel-7.jpg"
       ],
-      "caption": "Un reto simple: $50.000 apartados en 10 semanas.\n\nEliges la meta y el plazo, apartas 5 % de cada semana de ventas ($5.000 si vendes $100.000), lo guardas aparte y marcas cada semana. Desliza para ver cómo avanza.\n\nSigue tu reto con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ahorro #NegocioPropio",
+      "caption": "Un reto simple: $50.000 apartados en 10 semanas.\n\nEliges la meta y el plazo, apartas 5 % de cada semana de ventas ($5.000 si vendes $100.000), lo guardas aparte y marcas cada semana. Desliza para ver cómo avanza.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nSigue tu reto con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ahorro #NegocioPropio",
       "pilar": "educacion",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5672,7 +5774,10 @@
       "carpeta": "2026-11-13",
       "archivo": "02-carrusel",
       "fecha": "2026-11-13T12:00:00-05:00",
-      "qa_ticket": "898c1899-33ff-4001-b9e0-3bc38e0b4786"
+      "qa_ticket": "898c1899-33ff-4001-b9e0-3bc38e0b4786",
+      "caption_previo": "Un reto simple: $50.000 apartados en 10 semanas.\n\nEliges la meta y el plazo, apartas 5 % de cada semana de ventas ($5.000 si vendes $100.000), lo guardas aparte y marcas cada semana. Desliza para ver cómo avanza.\n\nSigue tu reto con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ahorro #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-13-05-post",
@@ -5680,7 +5785,7 @@
       "imagenes": [
         "piezas/2026-11-13/05-post.jpg"
       ],
-      "caption": "El viernes se vende; el lunes se sabe si ganaste.\n\nDespués del Buen Fin, suma lo que entró, resta lo que salió y mira lo que te quedó. Esa es la medida de si valió la pena.\n\nHazlo en minutos desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "caption": "El viernes se vende; el lunes se sabe si ganaste.\n\nDespués del Buen Fin, suma lo que entró, resta lo que salió y mira lo que te quedó. Esa es la medida de si valió la pena.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nHazlo en minutos desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
       "pilar": "ganancia-real",
       "layout": "tweet",
       "destinos": [
@@ -5701,7 +5806,10 @@
       "carpeta": "2026-11-13",
       "archivo": "05-post",
       "fecha": "2026-11-13T18:00:00-05:00",
-      "qa_ticket": "8a0210b7-38b5-4e34-b385-433c656186d4"
+      "qa_ticket": "8a0210b7-38b5-4e34-b385-433c656186d4",
+      "caption_previo": "El viernes se vende; el lunes se sabe si ganaste.\n\nDespués del Buen Fin, suma lo que entró, resta lo que salió y mira lo que te quedó. Esa es la medida de si valió la pena.\n\nHazlo en minutos desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-13-03-historia",
@@ -5767,7 +5875,7 @@
       "imagenes": [
         "piezas/2026-11-14/04-post.jpg"
       ],
-      "caption": "Cuatro cargos pequeños y $732 al año.\n\nMúsica del local ($12), programa de diseño ($25), dominio y correo ($9) y una app que ya no usas ($15) suman $61 al mes. Revisa tus cargos y cancela el que sobra.\n\nAnótalos por categoría desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Gastos #NegocioPropio",
+      "caption": "Cuatro cargos pequeños y $732 al año.\n\nMúsica del local ($12), programa de diseño ($25), dominio y correo ($9) y una app que ya no usas ($15) suman $61 al mes. Revisa tus cargos y cancela el que sobra.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nAnótalos por categoría desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Gastos #NegocioPropio",
       "pilar": "educacion",
       "layout": "lista",
       "destinos": [
@@ -5788,7 +5896,10 @@
       "carpeta": "2026-11-14",
       "archivo": "04-post",
       "fecha": "2026-11-14T10:00:00-05:00",
-      "qa_ticket": "fbfbb35b-3815-4ebe-a2a9-32b84cd1a1c9"
+      "qa_ticket": "fbfbb35b-3815-4ebe-a2a9-32b84cd1a1c9",
+      "caption_previo": "Cuatro cargos pequeños y $732 al año.\n\nMúsica del local ($12), programa de diseño ($25), dominio y correo ($9) y una app que ya no usas ($15) suman $61 al mes. Revisa tus cargos y cancela el que sobra.\n\nAnótalos por categoría desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Gastos #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-14-02-carrusel",
@@ -5801,7 +5912,7 @@
         "piezas/2026-11-14/02-carrusel-5.jpg",
         "piezas/2026-11-14/02-carrusel-6.jpg"
       ],
-      "caption": "Un plan de cuatro días para el Buen Fin.\n\nViernes: anota cada venta. Sábado: revisa gastos y alertas. Domingo: manda comprobantes PDF con tu logo. Lunes: cierra con entró, salió y quedó.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes",
+      "caption": "Un plan de cuatro días para el Buen Fin.\n\nViernes: anota cada venta. Sábado: revisa gastos y alertas. Domingo: manda comprobantes PDF con tu logo. Lunes: cierra con entró, salió y quedó.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes",
       "pilar": "funcionalidades",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5822,7 +5933,10 @@
       "carpeta": "2026-11-14",
       "archivo": "02-carrusel",
       "fecha": "2026-11-14T12:00:00-05:00",
-      "qa_ticket": "e2d1087f-bc93-4bdc-b106-94d9a04b9664"
+      "qa_ticket": "e2d1087f-bc93-4bdc-b106-94d9a04b9664",
+      "caption_previo": "Un plan de cuatro días para el Buen Fin.\n\nViernes: anota cada venta. Sábado: revisa gastos y alertas. Domingo: manda comprobantes PDF con tu logo. Lunes: cierra con entró, salió y quedó.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-14-05-post",
@@ -5830,7 +5944,7 @@
       "imagenes": [
         "piezas/2026-11-14/05-post.jpg"
       ],
-      "caption": "«Ya te transferí» no es lo mismo que «ya me llegó».\n\nEl cliente dice que pagó, tú aún no ves el dinero: anótalo como pendiente hasta confirmarlo. Así tus cuentas no mienten.\n\nRegistra cada cobro desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio",
+      "caption": "«Ya te transferí» no es lo mismo que «ya me llegó».\n\nEl cliente dice que pagó, tú aún no ves el dinero: anótalo como pendiente hasta confirmarlo. Así tus cuentas no mienten.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nRegistra cada cobro desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio",
       "pilar": "objeciones",
       "layout": "chat",
       "destinos": [
@@ -5851,7 +5965,10 @@
       "carpeta": "2026-11-14",
       "archivo": "05-post",
       "fecha": "2026-11-14T18:00:00-05:00",
-      "qa_ticket": "5f2b6de6-2b08-4416-af39-20b4049b6a50"
+      "qa_ticket": "5f2b6de6-2b08-4416-af39-20b4049b6a50",
+      "caption_previo": "«Ya te transferí» no es lo mismo que «ya me llegó».\n\nEl cliente dice que pagó, tú aún no ves el dinero: anótalo como pendiente hasta confirmarlo. Así tus cuentas no mienten.\n\nRegistra cada cobro desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-14-03-historia",
@@ -5917,7 +6034,7 @@
       "imagenes": [
         "piezas/2026-11-15/04-post.jpg"
       ],
-      "caption": "Vendiste $30.000 y gastaste $26.400: ¿qué porcentaje ganaste?\n\nTe quedan $3.600, que son el 12 % de lo que vendiste. Divide siempre la ganancia entre las ventas.\n\nCalcúlalo solo desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ganancia #NegocioPropio",
+      "caption": "Vendiste $30.000 y gastaste $26.400: ¿qué porcentaje ganaste?\n\nTe quedan $3.600, que son el 12 % de lo que vendiste. Divide siempre la ganancia entre las ventas.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nCalcúlalo solo desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ganancia #NegocioPropio",
       "pilar": "ganancia-real",
       "layout": "dato",
       "destinos": [
@@ -5938,7 +6055,10 @@
       "carpeta": "2026-11-15",
       "archivo": "04-post",
       "fecha": "2026-11-15T10:00:00-05:00",
-      "qa_ticket": "302e1280-6fc5-44ae-83c0-c529b5ba5de0"
+      "qa_ticket": "302e1280-6fc5-44ae-83c0-c529b5ba5de0",
+      "caption_previo": "Vendiste $30.000 y gastaste $26.400: ¿qué porcentaje ganaste?\n\nTe quedan $3.600, que son el 12 % de lo que vendiste. Divide siempre la ganancia entre las ventas.\n\nCalcúlalo solo desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ganancia #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-15-02-carrusel",
@@ -5952,7 +6072,7 @@
         "piezas/2026-11-15/02-carrusel-6.jpg",
         "piezas/2026-11-15/02-carrusel-7.jpg"
       ],
-      "caption": "De cero a tu primera ganancia real, paso a paso.\n\nCrea tu cuenta, configura el negocio (nombre, moneda y categorías), registra un ingreso y un gasto, y mira lo que entró, salió y te quedó.\n\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "De cero a tu primera ganancia real, paso a paso.\n\nCrea tu cuenta, configura el negocio (nombre, moneda y categorías), registra un ingreso y un gasto, y mira lo que entró, salió y te quedó.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "funcionalidades",
       "layout": "carrusel/portada",
       "destinos": [
@@ -5973,7 +6093,10 @@
       "carpeta": "2026-11-15",
       "archivo": "02-carrusel",
       "fecha": "2026-11-15T12:00:00-05:00",
-      "qa_ticket": "89a17c4b-0036-4cdf-96b5-b3105a1047e8"
+      "qa_ticket": "89a17c4b-0036-4cdf-96b5-b3105a1047e8",
+      "caption_previo": "De cero a tu primera ganancia real, paso a paso.\n\nCrea tu cuenta, configura el negocio (nombre, moneda y categorías), registra un ingreso y un gasto, y mira lo que entró, salió y te quedó.\n\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-15-05-post",
@@ -5981,7 +6104,7 @@
       "imagenes": [
         "piezas/2026-11-15/05-post.jpg"
       ],
-      "caption": "Cuadrar la semana no debería tomarte el domingo.\n\nAntes: fotos, notas y chats para sumar con calculadora. Después: todo anotado durante la semana y el cierre en minutos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado",
+      "caption": "Cuadrar la semana no debería tomarte el domingo.\n\nAntes: fotos, notas y chats para sumar con calculadora. Después: todo anotado durante la semana y el cierre en minutos.\n\nBlack November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado",
       "pilar": "funcionalidades",
       "layout": "antes",
       "destinos": [
@@ -6002,7 +6125,10 @@
       "carpeta": "2026-11-15",
       "archivo": "05-post",
       "fecha": "2026-11-15T18:00:00-05:00",
-      "qa_ticket": "cb7b500d-4e3a-4092-a4aa-9ea80cb33850"
+      "qa_ticket": "cb7b500d-4e3a-4092-a4aa-9ea80cb33850",
+      "caption_previo": "Cuadrar la semana no debería tomarte el domingo.\n\nAntes: fotos, notas y chats para sumar con calculadora. Después: todo anotado durante la semana y el cierre en minutos.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado",
+      "black_november": "linea en caption, lote QA Karol",
+      "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
       "id": "2026-11-15-03-historia",

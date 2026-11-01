@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 26 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "El plan Básico a **US$9** este mes",
+ "planes": [
+  {
+   "plan": "Básico",
+   "antes": "US$15",
+   "precio": "US$9",
+   "periodo": "/mes",
+   "nota": "2 primeros meses, luego US$15. 1 negocio",
+   "destacado": true
+  }
+ ],
+ "nota": "Menos de lo que cuesta un domicilio a la semana."
+}

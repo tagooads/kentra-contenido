@@ -1,0 +1,14 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 20 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "kicker": "Invita y gana",
+ "titulo": "3 amigos que paguen = **3 meses sin costo**",
+ "grande": "3 = 3",
+ "nota": "Sin límite: cada referido que pague suma 1 mes."
+}

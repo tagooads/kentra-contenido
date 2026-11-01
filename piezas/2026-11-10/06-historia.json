@@ -1,0 +1,30 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 21 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "¿Mes a mes o todo el año?",
+ "planes": [
+  {
+   "plan": "Pro",
+   "antes": "US$20",
+   "precio": "US$12",
+   "periodo": "/mes",
+   "nota": "Pagas US$12 x 2 meses",
+   "destacado": false
+  },
+  {
+   "plan": "Pro anual",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "nota": "Pagas una vez + Priority",
+   "destacado": true
+  }
+ ],
+ "nota": "Las dos opciones solo están en noviembre."
+}

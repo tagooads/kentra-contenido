@@ -1,0 +1,26 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 16 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Lo que te llevas con el plan anual",
+ "items": [
+  "Precio Black November todo el año",
+  "Kentra Priority de regalo el primer año",
+  "Acceso inmediato después del pago"
+ ],
+ "planes": [
+  {
+   "plan": "Pro anual",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "nota": "El más elegido",
+   "destacado": true
+  }
+ ]
+}

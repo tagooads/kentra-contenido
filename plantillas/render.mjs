@@ -30,6 +30,8 @@ const TEMAS = {
   noche:       { bg: "linear-gradient(170deg,#0B1220 0%,#101B33 60%,#14213D 100%)", fg: "#FFFFFF", muted: "rgba(255,255,255,.66)", acc: "#47C08B", card: "rgba(255,255,255,.07)", logo: "logo-blanco.png", iso: "isotipo-blanco.svg", wm: "rgba(71,192,139,.10)", dark: true, onAcc: "#0F1E38" },
   menta:       { bg: "linear-gradient(160deg,#E4F6EC 0%,#CFEEDD 100%)", fg: "#14213D", muted: "#3F5A4C", acc: "#1E8A5E", card: "#FFFFFF", logo: "logo.png", iso: "isotipo.svg", wm: "rgba(30,45,79,.06)", dark: false, onAcc: "#FFFFFF" },
   marfil:      { bg: "linear-gradient(160deg,#FBF7EF 0%,#F3ECDD 100%)", fg: "#1E2D4F", muted: "#6B6456", acc: "#2FA173", card: "#FFFFFF", logo: "logo.png", iso: "isotipo.svg", wm: "rgba(30,45,79,.05)", dark: false, onAcc: "#FFFFFF" },
+  // Black November (Gato, 1 nov 2026): fondo oscuro con el acento de Kentra; se usa del 1 al 30 nov
+  black:       { bg: "radial-gradient(120% 70% at 85% 0%,rgba(71,192,139,.22) 0%,rgba(71,192,139,0) 55%),linear-gradient(175deg,#05070C 0%,#0A0F1A 60%,#0B1220 100%)", fg: "#FFFFFF", muted: "rgba(255,255,255,.70)", acc: "#47C08B", card: "rgba(255,255,255,.07)", logo: "logo-blanco.png", iso: "isotipo-blanco.svg", wm: "rgba(71,192,139,.07)", dark: true, onAcc: "#05070C" },
   verdeoscuro: { bg: "linear-gradient(160deg,#1F6B4D 0%,#175A40 55%,#0F4530 100%)", fg: "#FFFFFF", muted: "rgba(255,255,255,.74)", acc: "#9BE7C4", card: "rgba(255,255,255,.10)", logo: "logo-blanco.png", iso: "isotipo-blanco.svg", wm: "rgba(255,255,255,.08)", dark: true, onAcc: "#0F1E38" },
 };
 TEMAS.navy.dark = true; TEMAS.navy.onAcc = "#0F1E38";
@@ -358,6 +360,35 @@ L.skit = (p, t, hist) => {
       : `<div style="display:flex;flex-direction:column;align-items:flex-start;gap:6px"><div class="muted" style="font-weight:800;font-size:48px">${esc(a.nombre)}</div><div class="burbuja" style="background:${t.card};border-bottom-left-radius:8px;${t.dark ? "" : "box-shadow:0 10px 30px rgba(0,0,0,.08)"}">${rich(texto)}</div></div>`).join("")}
   </div>
   ${p.cierre ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.cierre)}</div>` : ""}
+  ${pieFooter(t, p.cta, hist)}`;
+};
+
+// oferta: Black November (1–30 nov 2026). Sello BLACK NOVEMBER + cuenta regresiva + tarjetas de plan con precio tachado
+L.oferta = (p, t, hist) => {
+  const planes = p.planes || [];
+  const tarjeta = (x) => `<div style="border-radius:36px;padding:${hist ? "30px 38px" : "26px 34px"};display:flex;align-items:center;justify-content:space-between;gap:24px;${x.destacado ? "background:linear-gradient(180deg,#47C08B,#2FA173);color:#05070C" : "background:rgba(255,255,255,.07);border:3px solid rgba(255,255,255,.16)"}">
+      <div style="display:flex;flex-direction:column;gap:6px;min-width:0">
+        <div style="font-weight:800;font-size:54px;letter-spacing:.04em;text-transform:uppercase">${esc(x.plan)}</div>
+        ${x.nota ? `<div style="font-weight:600;font-size:48px;line-height:1.15;${x.destacado ? "color:#0F1E38" : `color:${t.muted}`}">${rich(x.nota)}</div>` : ""}
+      </div>
+      <div style="display:flex;flex-direction:column;align-items:flex-end;flex:none">
+        ${x.antes ? `<div style="font-weight:700;font-size:48px;text-decoration:line-through;text-decoration-thickness:5px;${x.destacado ? "color:rgba(5,7,12,.6)" : "color:rgba(255,255,255,.55)"}">${esc(x.antes)}</div>` : ""}
+        <div style="font-weight:800;font-size:${planes.length > 2 ? (hist ? 96 : 84) : (hist ? 124 : 110)}px;line-height:1;letter-spacing:-.03em">${esc(x.precio)}<span style="font-size:48px;font-weight:700;letter-spacing:0">${esc(x.periodo || "")}</span></div>
+      </div>
+    </div>`;
+  return `
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:20px">
+    <div style="font-weight:800;font-size:${hist ? 66 : 58}px;letter-spacing:.16em;line-height:1">BLACK <span class="acc">NOVEMBER</span></div>
+    ${p.cuenta ? `<div style="flex:none;background:#47C08B;color:#05070C;font-weight:800;font-size:50px;padding:14px 28px;border-radius:999px">${esc(p.cuenta)}</div>` : ""}
+  </div>
+  <div style="height:6px;width:180px;background:#47C08B;border-radius:6px"></div>
+  ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
+  <h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 420 : 300}px">${rich(p.titulo)}</h1>
+  ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
+  ${p.grande ? `<div style="font-weight:800;font-size:${hist ? 260 : 210}px;line-height:1.15;letter-spacing:-.04em;color:#47C08B">${esc(p.grande)}</div>` : ""}
+  ${planes.length ? `<div style="display:flex;flex-direction:column;gap:20px">${planes.map(tarjeta).join("")}</div>` : ""}
+  ${p.items?.length ? `<div class="lista">${p.items.map(i => `<div class="item"><span class="ic">✓</span><span>${rich(i)}</span></div>`).join("")}</div>` : ""}
+  ${p.nota ? `<div class="sub" style="font-weight:700;color:inherit">${rich(p.nota)}</div>` : ""}
   ${pieFooter(t, p.cta, hist)}`;
 };
 

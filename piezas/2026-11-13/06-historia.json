@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 18 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Viernes 13: la mala suerte no está en tus números",
+ "planes": [
+  {
+   "plan": "Pro",
+   "antes": "US$20",
+   "precio": "US$12",
+   "periodo": "/mes",
+   "nota": "2 primeros meses, luego US$20",
+   "destacado": true
+  }
+ ],
+ "nota": "Lo que entra, lo que sale y lo que te queda, claro."
+}

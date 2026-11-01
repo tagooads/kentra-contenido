@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 29 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Empieza noviembre con **40 % menos**",
+ "planes": [
+  {
+   "plan": "Pro",
+   "antes": "US$20",
+   "precio": "US$12",
+   "periodo": "/mes",
+   "nota": "2 primeros meses, luego US$20",
+   "destacado": true
+  }
+ ],
+ "nota": "Ves cuánto ganas de verdad desde el primer día."
+}

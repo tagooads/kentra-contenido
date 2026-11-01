@@ -1,0 +1,17 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 27 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "kicker": "Invita y gana",
+ "titulo": "Cada amigo que pague te da **1 mes sin costo**",
+ "items": [
+  "Comparte Kentra con otro dueño de negocio",
+  "Tu amigo se suscribe y paga",
+  "Tú sumas 1 mes sin costo por cada uno"
+ ]
+}

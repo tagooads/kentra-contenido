@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 28 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Paga un año y llévate **Priority** de regalo",
+ "planes": [
+  {
+   "plan": "Pro anual",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "nota": "Kentra Priority de regalo",
+   "destacado": true
+  }
+ ],
+ "nota": "Precio Black November solo hasta el 30 de noviembre."
+}

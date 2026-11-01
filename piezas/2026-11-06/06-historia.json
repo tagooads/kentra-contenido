@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 25 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Varios negocios, **un solo precio** al año",
+ "planes": [
+  {
+   "plan": "Business anual",
+   "antes": "US$199",
+   "precio": "US$159",
+   "periodo": "/año",
+   "nota": "Negocios ilimitados + Priority",
+   "destacado": true
+  }
+ ],
+ "nota": "Cada negocio con su propia moneda."
+}

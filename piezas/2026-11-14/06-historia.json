@@ -1,0 +1,30 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 17 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Vamos a mitad de mes y la oferta sigue",
+ "planes": [
+  {
+   "plan": "Pro",
+   "antes": "US$20",
+   "precio": "US$12",
+   "periodo": "/mes",
+   "nota": "Mensual: 2 meses a US$12",
+   "destacado": false
+  },
+  {
+   "plan": "Pro anual",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "nota": "Kentra Priority de regalo",
+   "destacado": true
+  }
+ ],
+ "nota": "Elige cómo empezar antes del 30."
+}

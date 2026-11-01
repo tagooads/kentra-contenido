@@ -1,0 +1,38 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 24 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Elige tu plan con **40 % menos**",
+ "planes": [
+  {
+   "plan": "Básico",
+   "antes": "US$15",
+   "precio": "US$9",
+   "periodo": "/mes",
+   "nota": "1 negocio",
+   "destacado": false
+  },
+  {
+   "plan": "Pro",
+   "antes": "US$20",
+   "precio": "US$12",
+   "periodo": "/mes",
+   "nota": "Hasta 2 negocios",
+   "destacado": true
+  },
+  {
+   "plan": "Business",
+   "antes": "US$30",
+   "precio": "US$18",
+   "periodo": "/mes",
+   "nota": "Negocios ilimitados",
+   "destacado": false
+  }
+ ],
+ "nota": "Precio de los 2 primeros meses."
+}

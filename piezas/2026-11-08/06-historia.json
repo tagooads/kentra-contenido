@@ -1,0 +1,22 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 23 días",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "titulo": "Un año de Kentra por **US$79**",
+ "planes": [
+  {
+   "plan": "Básico anual",
+   "antes": "US$99",
+   "precio": "US$79",
+   "periodo": "/año",
+   "nota": "Kentra Priority de regalo",
+   "destacado": true
+  }
+ ],
+ "nota": "Menos de US$7 al mes para saber si ganas o pierdes."
+}
