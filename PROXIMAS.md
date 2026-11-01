@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 85 piezas agendadas.
 
 
 ## Domingo 1/11
-
-**18:00 — Post** · ganancia-real · `2026-11-01-05-post`
-
-<img src="piezas/2026-11-01/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El cliente ve $2.000.000. Ella ve otra cosa.
-
-Una floristería cobró $2.000.000 por las flores de un evento: $900.000 en flores y materiales, $300.000 de ayudante, $160.000 de transporte y $240.000 de la cuota del local. Le quedaron $400.000, el 20 %.
-
-Saber cuánto queda de cada pedido te dice si el precio alcanza. Kentra te muestra la ganancia real de cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-11-01-03-historia`
 
@@ -951,9 +935,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- domingo 1/11 · 18:00 · Post `2026-11-01-05-post` · IG ✓ · FB ✓
 - domingo 1/11 · 12:00 · Carrusel `2026-11-01-02-carrusel` · IG ✓ · FB ✓
 - domingo 1/11 · 10:00 · Post `2026-11-01-04-post` · IG ✓ · FB ✓
 - domingo 1/11 · 08:00 · Historia `2026-11-01-01-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 19:00 · Historia `reserva-2026-11-02-02-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 19:00 · Historia `2026-10-31-03-historia` · IG ✓ · FB ✓
-- sábado 31/10 · 18:00 · Post `2026-10-31-05-post` · IG ✓ · FB ✓
