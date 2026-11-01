@@ -402,7 +402,8 @@
         "que_tomo": "precio anual (US$119) traducido a algo diario (US$0,33)"
       },
       "carpeta": "2026-11-16",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "8fe3396c-c689-491c-b483-f34ad034fd20"
     },
     {
       "id": "2026-11-17-01-historia",
@@ -430,7 +431,8 @@
         "que_tomo": "reto con una cifra meta (6 meses) que se puede alcanzar"
       },
       "carpeta": "2026-11-17",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "1a5a1829-37ac-4da9-8575-2ed9b11fca98"
     },
     {
       "id": "2026-11-18-01-historia",
@@ -458,7 +460,8 @@
         "que_tomo": "pareja de dueños que comparten el negocio: se etiqueta al socio"
       },
       "carpeta": "2026-11-18",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "b98fd2f8-c309-411b-bea4-773e8e1feefa"
     },
     {
       "id": "2026-11-19-01-historia",
@@ -486,7 +489,8 @@
         "que_tomo": "cifra con plazo: US$79 al año = US$6,58 al mes"
       },
       "carpeta": "2026-11-19",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "d8f0346d-0913-4f2e-a28d-e8c6b407099d"
     },
     {
       "id": "2026-11-20-01-historia",
@@ -514,7 +518,8 @@
         "que_tomo": "dos opciones lado a lado con la recomendada destacada"
       },
       "carpeta": "2026-11-20",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "3b2535bf-4cf0-48b7-a493-b16234ee4293"
     },
     {
       "id": "2026-11-21-01-historia",
@@ -542,7 +547,8 @@
         "que_tomo": "pedir que piensen en una persona concreta y se la etiqueten"
       },
       "carpeta": "2026-11-21",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "1d6d40af-805c-4769-bc45-5060e3e303e5"
     },
     {
       "id": "2026-11-22-01-historia",
@@ -570,7 +576,8 @@
         "que_tomo": "conteo de días como serie: el número es el protagonista"
       },
       "carpeta": "2026-11-22",
-      "archivo": "01-historia"
+      "archivo": "01-historia",
+      "qa_ticket": "5356c660-fad1-4aa6-bbfa-03cabbdfc353"
     },
     {
       "id": "2026-11-16-04-post",
@@ -598,7 +605,8 @@
         "que_tomo": "filtro de facturación en la primera línea para que el dueño se reconozca"
       },
       "carpeta": "2026-11-16",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "a88796f0-c81e-41f5-92c3-c924dbbd18e3"
     },
     {
       "id": "2026-11-16-02-carrusel",
@@ -632,7 +640,8 @@
         "que_tomo": "tres opciones con la del medio destacada y una regla simple para elegir"
       },
       "carpeta": "2026-11-16",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "d31bdb9d-b604-4d1d-95f9-b771bd92dd7b"
     },
     {
       "id": "2026-11-16-05-post",
@@ -660,7 +669,8 @@
         "que_tomo": "POV de una transacción real con el precio y lo que queda"
       },
       "carpeta": "2026-11-16",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "8c59154a-8542-42e6-8093-1d7069c62081"
     },
     {
       "id": "2026-11-16-03-historia",
@@ -688,7 +698,8 @@
         "que_tomo": "pregunta de identidad del dueño: cada quien se reconoce en una opción"
       },
       "carpeta": "2026-11-16",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "35e10f04-b695-41c9-8cd8-f738e211150d"
     },
     {
       "id": "2026-11-17-04-post",
@@ -716,7 +727,8 @@
         "que_tomo": "la noticia que afecta al comerciante dicha en la primera línea, con su consecuencia"
       },
       "carpeta": "2026-11-17",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "1ac83e18-9856-436d-bbdf-5fadd5b71aea"
     },
     {
       "id": "2026-11-17-02-carrusel",
@@ -751,7 +763,8 @@
         "que_tomo": "alerta primero y luego el desglose número por número"
       },
       "carpeta": "2026-11-17",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "92b6e4d8-f61f-4929-9118-b3cf8677c82d"
     },
     {
       "id": "2026-11-17-05-post",
@@ -779,7 +792,8 @@
         "que_tomo": "precio visible y comparado desde la primera línea"
       },
       "carpeta": "2026-11-17",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "c8e228c9-db51-40cf-8c2c-04f98a32c015"
     },
     {
       "id": "2026-11-17-03-historia",
@@ -807,7 +821,8 @@
         "que_tomo": "una función (alertas por categoría) mostrada con un caso concreto"
       },
       "carpeta": "2026-11-17",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "621ca4b0-4a2f-4d84-a908-47f0a00dfa04"
     }
   ]
 }
