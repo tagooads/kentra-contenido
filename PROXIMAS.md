@@ -42,6 +42,7 @@ Pagar hoy o en 30 días: la diferencia son $60.000.
 
 Una compra de $2.000.000 con 3 % de descuento por pronto pago cuesta $1.940.000 si pagas hoy. Conviene solo si ese dinero no lo necesitas esta semana para otros gastos.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Kentra te muestra cuánto entró, cuánto salió y cuánto te queda antes de decidir. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Proveedores #Pymes
@@ -58,6 +59,7 @@ Te llega una transferencia y no sabes de quién.
 
 En 8 slides: compara con tus ventas, busca quién la mandó, no la gastes si no coincide, anótala en el pedido del cliente y registra siempre de quién y de qué. El ejemplo: una papelería con $70.000 que aparecen de más.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Kentra te muestra cada ingreso con categoría, fecha y nota. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -72,6 +74,7 @@ Kentra te muestra cada ingreso con categoría, fecha y nota. 👉 [link de la bi
 
 Tres tamaños, tres precios: elige el que cabe en tu negocio.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Básico $15/mes (1 negocio), Pro $20/mes (hasta 2 negocios, el más elegido) y Business $30/mes (negocios ilimitados). Todos con dashboard, KentrAI ilimitado y comprobantes PDF; sin permanencia y con acceso inmediato. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes
@@ -99,6 +102,7 @@ Vendes una camiseta en $35.000. ¿Cuánto es tuyo?
 
 El tiquete de una tienda online: producción (camiseta y estampado) $18.000, empaque y envío $7.000 y comisión de pago $1.050. Te quedan $8.950: 26 % de margen, antes de publicidad.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Kentra te muestra lo que entró, lo que salió y lo que te quedó. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes
@@ -115,6 +119,7 @@ Buen Fin: el 20 % de descuento sale completo de tu ganancia.
 
 Con un producto de $1,000 pesos mexicanos comparamos qué te deja un 20 % de descuento ($180) y qué te deja el envío incluido ($260), frente a $380 sin promo, y cuántas ventas extra necesitas en cada caso.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Lleva la cuenta de tu promo en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline
@@ -131,6 +136,7 @@ Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.
 
 Antes: revisas el banco, sumas lo que recuerdas y adivinas lo que sobró. Después: anotas cada venta el mismo día, ves tu ganancia real del mes y decides con números.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Kentra te muestra lo que entró, lo que salió y lo que te quedó. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #CierreDeMes
@@ -157,6 +163,7 @@ Kentra te muestra lo que entró, lo que salió y lo que te quedó. 👉 [link de
 Entraron $2.400.000 y te pagaste $288.000. ¿Te suena?
 Así se reparte una semana en un comercio pequeño: 40 % insumos, 25 % nómina, 15 % arriendo y servicios, 8 % apartado para impuestos y 12 % para el dueño.
 Ver el reparto cada semana es lo que evita gastarte lo que no es tuyo.
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Mira el reparto de tu dinero en una pantalla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
 
@@ -170,6 +177,7 @@ Mira el reparto de tu dinero en una pantalla. 👉 [link de la bio en Instagram 
 
 Cobrar incomoda más que vender. Estas 5 frases lo arreglan.
 Para cuando se pasó la fecha, cuando dicen «la próxima semana», cuando piden plazo, cuando se ofenden y antes de entregar. Guárdalo para el próximo cobro difícil.
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Lleva tus cuentas por cobrar con alerta en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes
 
@@ -187,6 +195,7 @@ La vela a $8.000 cuesta $6.400 entre cera, mecha, frasco, etiqueta y tu hora: qu
 
 El precio a ojo no es un precio, es una apuesta.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Haz la cuenta de cada producto en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Creativos #NegocioPropio
@@ -216,6 +225,7 @@ Cuando un emprendedor presenta su negocio casi siempre dice cuánto vende. Casi 
 
 Facturar no es ganar. Crecer tampoco, si el margen no alcanza.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 ¿Cuánto te queda a ti? Mira tu margen real en minutos. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -232,6 +242,7 @@ Facturar no es ganar. Crecer tampoco, si el margen no alcanza.
 
 Un caso: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Lleva la publicidad como una categoría y mira tu ganancia real en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes
@@ -248,6 +259,7 @@ Lo que vence no avisa, pero se puede anotar.
 
 Los pagos a proveedores y las deudas tienen fecha. Si los anotas con su día, el lunes ya sabes qué viene.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 En Kentra puedes guardar recordatorios con fecha límite y recibir avisos antes de que venzan. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -275,6 +287,7 @@ Lo que se pierde también se paga.
 
 Un restaurante: compró $4.000.000 en insumos y desperdició el 6 %, es decir $240.000. Lo que sí usó fueron $3.760.000.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Kentra te ayuda a ver en qué categoría se va tu dinero cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes
@@ -293,6 +306,7 @@ Por qué el impuesto que cobras no es ingreso, cómo separarlo cada semana junto
 
 Guárdalo antes del próximo pago de impuestos.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Separa cada peso en su categoría con Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -309,6 +323,7 @@ POV: tienes una tienda y te llegan 80 movimientos del banco.
 
 Antes: digitas movimiento por movimiento. Después: subes tu extracto (CSV o Excel) o tus facturas y Kentra los registra con IA; tú solo revisas. Disponible en los planes Pro y Business.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Pro desde $20/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline
@@ -336,6 +351,7 @@ Pro desde $20/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 Cada combo te cuesta $8.500. Primero calcula lo que te queda por combo y luego multiplícalo por 50. Cuéntanos tu resultado en los comentarios.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Kentra te muestra cuánto te queda cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes
@@ -352,6 +368,7 @@ Una cita perdida no es solo una hora vacía.
 
 En un salón: una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Cobrar un anticipo del 30 % incomoda, pero te protege.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Anota cada anticipo y cada recordatorio en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes
@@ -368,6 +385,7 @@ Cuando ya no eres el único que registra, necesitas roles.
 
 Business, USD 30/mes: negocios ilimitados y equipo con roles. El colaborador registra y sube facturas; el administrador ve todo menos la suscripción y el equipo. Incluye importación con IA, reglas automáticas, inventario y créditos.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Acceso inmediato, sin permanencia. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo
@@ -395,6 +413,7 @@ Vendí $3.000.000 en un mes y no tenía para pagar al proveedor.
 
 Una historia de dueño: vender mucho no es tener dinero disponible, porque parte de lo que entró ya tenía dueño. Anota cada semana lo que entra y lo que ya debes.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Mira lo que te queda de verdad en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -411,6 +430,7 @@ Mira lo que te queda de verdad en Kentra. 👉 [link de la bio en Instagram / li
 
 Margen de un producto, margen neto del mes y cuánto cubres al día de alquiler. Cada respuesta está en la slide siguiente.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Si prefieres que Kentra te haga estas cuentas: 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -427,6 +447,7 @@ Cerrar el mes en Excel vs en Kentra.
 
 En Excel: buscar el archivo del mes, copiar y pegar cifras y rezar para que cuadre. En Kentra: ganancia real a la vista, gastos por categoría y reporte listo en segundos.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #ExcelVsKentra
@@ -454,6 +475,7 @@ El cliente del Buen Fin siempre pide el envío incluido.
 
 El producto cuesta $520, el envío $110 y la comisión $35. Suman $665, así que a $700 te quedan $35 de ganancia. Con la cuenta hecha respondes sin miedo.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Lleva tus ganancias claras desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline #BuenFin
@@ -470,6 +492,7 @@ Vender 90 piezas no es lo mismo que ganar por 90 piezas.
 
 Cuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Haz estas cuentas en un solo lugar. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline
@@ -486,6 +509,7 @@ Vendido no es lo mismo que cobrado.
 
 Una venta pendiente sirve para tu ánimo, no para pagar a tu proveedor. Anota quién te debe, cuánto y para cuándo, y revísalo cada semana. Kentra te avisa lo que vence.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio
@@ -513,6 +537,7 @@ Un pedido de $450 y te quedan $99.
 
 Producto $230, empaque $25, envío $80 y comisión de pago $16: lo que queda es el 22 % del precio.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Tu ganancia real a la vista desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia
@@ -529,6 +554,7 @@ Tu tienda vende $100,000 MXN y el 11.6 % se va en costos que casi no se ven.
 
 Empaque ($5,000), comisión de pago ($3,500), cambios ($1,080) y tu tiempo ($2,000): suman $11,580. Desliza para ver cada cuenta.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Ordena estos gastos por categoría desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia
@@ -545,6 +571,7 @@ Cerrar el día con un número cambia cómo duermes.
 
 Antes: cuentas billetes y transferencias a ojo, anotas en un papel que se pierde y sumas todo el viernes. Después: anotas cada venta al momento y cierras el día con entró, salió y quedó.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Empieza hoy desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado
@@ -572,6 +599,7 @@ Un ayudante se paga con pedidos, no con ganas.
 
 Si le pagas $6,000 MXN al mes y cada pedido te deja $60 MXN, necesitas 100 pedidos solo para cubrirlo. Del 101 en adelante, la ganancia es tuya.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Cuenta cada pedido desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #Equipo
@@ -588,6 +616,7 @@ Cuenta cada pedido desde $15/mes. 👉 [link de la bio en Instagram / link con U
 
 Ejemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 veces más, ganas 31 % más y trabajas 3 veces más. Desliza para ver cada cuenta.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Compara tus fines de semana desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
@@ -604,6 +633,7 @@ Después del Buen Fin, contar no debería tomar el lunes entero.
 
 En Excel pegas las ventas de tres días, sumas dos veces y no ves el costo real. En Kentra ves entró, salió y quedó, con gastos por categoría y reportes en segundos.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Excel
@@ -631,6 +661,7 @@ Un día de Buen Fin: $10,000 MXN vendidos.
 
 De ese día, mercancía $4,500, envíos y empaque $1,500, publicidad $1,000, comisiones $400 e impuestos y otros $1,100. Te quedan $1,500, el 15 %.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Mira tu reparto real desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
@@ -647,6 +678,7 @@ Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.
 
 Tres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Controla tus pagos con alertas desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja
@@ -663,6 +695,7 @@ Primero ordenas el Buen Fin; después decides cuánto control quieres.
 
 El plan Pro incluye hasta 2 negocios, un usuario extra, importación con IA, reglas de categorización y créditos y cuotas. Sin permanencia y con acceso inmediato.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Desde $15/mes el Básico; $20/mes el Pro. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Precio
@@ -690,6 +723,7 @@ Desde $15/mes el Básico; $20/mes el Pro. 👉 [link de la bio en Instagram / li
 
 Ventas $100,000, costos y envíos $82,000, publicidad $14,000. Te quedan $4,000, el 4 %.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Haz la cuenta completa desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
@@ -706,6 +740,7 @@ Un reto simple: $50.000 apartados en 10 semanas.
 
 Eliges la meta y el plazo, apartas 5 % de cada semana de ventas ($5.000 si vendes $100.000), lo guardas aparte y marcas cada semana. Desliza para ver cómo avanza.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Sigue tu reto con alertas desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ahorro #NegocioPropio
@@ -722,6 +757,7 @@ El viernes se vende; el lunes se sabe si ganaste.
 
 Después del Buen Fin, suma lo que entró, resta lo que salió y mira lo que te quedó. Esa es la medida de si valió la pena.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Hazlo en minutos desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
@@ -749,6 +785,7 @@ Cuatro cargos pequeños y $732 al año.
 
 Música del local ($12), programa de diseño ($25), dominio y correo ($9) y una app que ya no usas ($15) suman $61 al mes. Revisa tus cargos y cancela el que sobra.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Anótalos por categoría desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Gastos #NegocioPropio
@@ -765,6 +802,7 @@ Un plan de cuatro días para el Buen Fin.
 
 Viernes: anota cada venta. Sábado: revisa gastos y alertas. Domingo: manda comprobantes PDF con tu logo. Lunes: cierra con entró, salió y quedó.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes
@@ -781,6 +819,7 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 El cliente dice que pagó, tú aún no ves el dinero: anótalo como pendiente hasta confirmarlo. Así tus cuentas no mienten.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Registra cada cobro desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio
@@ -808,6 +847,7 @@ Vendiste $30.000 y gastaste $26.400: ¿qué porcentaje ganaste?
 
 Te quedan $3.600, que son el 12 % de lo que vendiste. Divide siempre la ganancia entre las ventas.
 
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
 Calcúlalo solo desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ganancia #NegocioPropio
@@ -824,6 +864,7 @@ De cero a tu primera ganancia real, paso a paso.
 
 Crea tu cuenta, configura el negocio (nombre, moneda y categorías), registra un ingreso y un gasto, y mira lo que entró, salió y te quedó.
 
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
 Empieza hoy desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
@@ -840,6 +881,7 @@ Cuadrar la semana no debería tomarte el domingo.
 
 Antes: fotos, notas y chats para sumar con calculadora. Después: todo anotado durante la semana y el cierre en minutos.
 
+Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
 Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado
