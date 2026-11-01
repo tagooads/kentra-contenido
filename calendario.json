@@ -4015,6 +4015,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-02-06-historia",
+      "fecha": "2026-11-02T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-02/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: oferta mensual Pro 40 %",
+      "gancho": "Empieza noviembre con 40 % menos",
+      "primera_linea": "Empieza noviembre con 40 % menos",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Vulcano (precio visible desde el anuncio)",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=816593744876877&country=ALL",
+        "que_tomo": "mostrar el precio en grande desde la primera pantalla"
+      },
+      "black_november": true,
+      "qa_ticket": "95ea79ed-95ea-411a-94e3-1f99f0954cd0"
+    },
+    {
       "id": "2026-11-02-05-post",
       "fecha": "2026-11-02T18:00:00-05:00",
       "tipo": "post",
@@ -4173,6 +4201,34 @@
       "caption_previo": "Buen Fin: el 20 % de descuento sale completo de tu ganancia.\n\nCon un producto de $1,000 pesos mexicanos comparamos qué te deja un 20 % de descuento ($180) y qué te deja el envío incluido ($260), frente a $380 sin promo, y cuántas ventas extra necesitas en cada caso.\n\nLleva la cuenta de tu promo en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #TiendaOnline",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-03-06-historia",
+      "fecha": "2026-11-03T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-03/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: oferta anual Pro",
+      "gancho": "Paga un año y llévate Priority de regalo",
+      "primera_linea": "Paga un año y llévate Priority de regalo",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Vulcano (precio visible desde el anuncio)",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=816593744876877&country=ALL",
+        "que_tomo": "precio tachado contra precio nuevo en la misma tarjeta"
+      },
+      "black_november": true,
+      "qa_ticket": "44d1ae0d-8767-4e9d-8d9c-69326ca15c1a"
     },
     {
       "id": "2026-11-03-05-post",
@@ -4336,6 +4392,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-04-06-historia",
+      "fecha": "2026-11-04T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-04/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: referidos Invita y gana (pasos)",
+      "gancho": "Cada amigo que pague te da 1 mes sin costo",
+      "primera_linea": "Cada amigo que pague te da 1 mes sin costo",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "@thepartybox.usa (se etiqueta al socio)",
+        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
+        "que_tomo": "pieza pensada para etiquetar a otro dueño"
+      },
+      "black_november": true,
+      "qa_ticket": "122d7829-ebcb-4880-85c1-8c7ad829b1c4"
+    },
+    {
       "id": "2026-11-04-05-post",
       "fecha": "2026-11-04T18:00:00-05:00",
       "tipo": "post",
@@ -4495,6 +4579,34 @@
       "caption_previo": "¿Cuánto te cuesta un cliente nuevo?\n\nUn caso: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.\n\nLleva la publicidad como una categoría y mira tu ganancia real en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-05-06-historia",
+      "fecha": "2026-11-05T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-05/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: oferta mensual Básico",
+      "gancho": "El plan Básico a US$9 este mes",
+      "primera_linea": "El plan Básico a US$9 este mes",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Dato de precio con psicología (@benjamin.negocia)",
+        "url": "https://www.instagram.com/reel/De15o0eivCE",
+        "que_tomo": "precio no redondo y comparado con un gasto cotidiano"
+      },
+      "black_november": true,
+      "qa_ticket": "d4aa285a-8684-47fb-aa53-b539f117ea16"
     },
     {
       "id": "2026-11-05-05-post",
@@ -4657,6 +4769,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-06-06-historia",
+      "fecha": "2026-11-06T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-06/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: oferta anual Business",
+      "gancho": "Varios negocios, un solo precio al año",
+      "primera_linea": "Varios negocios, un solo precio al año",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "@thepartybox.usa (identidad del dueño)",
+        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
+        "que_tomo": "gancho de identidad para quien ya tiene más de un negocio"
+      },
+      "black_november": true,
+      "qa_ticket": "e63c6393-55c8-4553-ba65-b64991a24609"
+    },
+    {
       "id": "2026-11-06-05-post",
       "fecha": "2026-11-06T18:00:00-05:00",
       "tipo": "post",
@@ -4816,6 +4956,34 @@
       "caption_previo": "Una cita perdida no es solo una hora vacía.\n\nEn un salón: una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Cobrar un anticipo del 30 % incomoda, pero te protege.\n\nAnota cada anticipo y cada recordatorio en Kentra. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-07-06-historia",
+      "fecha": "2026-11-07T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-07/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: comparativa de 3 planes (señuelo)",
+      "gancho": "Elige tu plan con 40 % menos",
+      "primera_linea": "Elige tu plan con 40 % menos",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Efecto señuelo de tres tamaños (@nayperozzi)",
+        "url": "https://www.instagram.com/reel/De5OzbjIoa3",
+        "que_tomo": "tres opciones con la del medio destacada"
+      },
+      "black_november": true,
+      "qa_ticket": "5cc32181-a9b3-433c-9e8f-65ffb4936e59"
     },
     {
       "id": "2026-11-07-05-post",
@@ -4980,6 +5148,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-08-06-historia",
+      "fecha": "2026-11-08T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-08/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: oferta anual Básico",
+      "gancho": "Un año de Kentra por US$79",
+      "primera_linea": "Un año de Kentra por US$79",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Reto con cifra y plazo (@lourdescampooficial)",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "cifra grande con plazo de 12 meses"
+      },
+      "black_november": true,
+      "qa_ticket": "cefe34f0-126f-4fcb-8d7d-079e4b8747e1"
+    },
+    {
       "id": "2026-11-08-05-post",
       "fecha": "2026-11-08T18:00:00-05:00",
       "tipo": "post",
@@ -5138,6 +5334,34 @@
       "caption_previo": "Vender 90 piezas no es lo mismo que ganar por 90 piezas.\n\nCuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.\n\nHaz estas cuentas en un solo lugar. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-09-06-historia",
+      "fecha": "2026-11-09T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-09/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: cuenta de ahorro anual",
+      "gancho": "Pro mes a mes: US$240 al año",
+      "primera_linea": "Pro mes a mes: US$240 al año. Black November:",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Gancho con cifra de inversión a resultado (desglose)",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "la cuenta hecha a la vista en una sola cifra"
+      },
+      "black_november": true,
+      "qa_ticket": "94500c61-e3b7-4f3b-a05c-e080fb3c6310"
     },
     {
       "id": "2026-11-09-05-post",
@@ -5301,6 +5525,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-10-06-historia",
+      "fecha": "2026-11-10T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-10/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: pregunta de dos opciones",
+      "gancho": "¿Mes a mes o todo el año?",
+      "primera_linea": "¿Mes a mes o todo el año?",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Comparativa novato vs pro, dos formas de hacer lo mismo",
+        "url": "https://www.instagram.com/reel/De3B_WRt0dl",
+        "que_tomo": "dos caminos lado a lado para elegir"
+      },
+      "black_november": true,
+      "qa_ticket": "a8621ccf-07ed-4b07-b24c-ef2dfcb1e69a"
+    },
+    {
       "id": "2026-11-10-05-post",
       "tipo": "post",
       "imagenes": [
@@ -5461,6 +5713,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-11-06-historia",
+      "fecha": "2026-11-11T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-11/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: referidos con cifra",
+      "gancho": "3 amigos que paguen = 3 meses sin costo",
+      "primera_linea": "3 amigos que paguen = 3 meses sin costo",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Reto con cifra y plazo (@lourdescampooficial)",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "la cuenta del reto en una sola línea grande"
+      },
+      "black_november": true,
+      "qa_ticket": "af278596-fa59-4608-a382-b073c91d220a"
+    },
+    {
       "id": "2026-11-11-05-post",
       "tipo": "post",
       "imagenes": [
@@ -5618,6 +5898,34 @@
       "caption_previo": "Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.\n\nTres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).\n\nControla tus pagos con alertas desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-12-06-historia",
+      "fecha": "2026-11-12T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-12/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: oferta mensual Business",
+      "gancho": "Tu equipo y tus negocios, 40 % menos",
+      "primera_linea": "Tu equipo y tus negocios, 40 % menos",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "@thepartybox.usa (reparto de roles)",
+        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
+        "que_tomo": "reparto de roles del negocio con equipo"
+      },
+      "black_november": true,
+      "qa_ticket": "9e3d021e-771e-4050-bcfd-d40e2462ff88"
     },
     {
       "id": "2026-11-12-05-post",
@@ -5780,6 +6088,34 @@
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
     },
     {
+      "id": "2026-11-13-06-historia",
+      "fecha": "2026-11-13T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-13/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: fecha del calendario + oferta",
+      "gancho": "Viernes 13: la mala suerte no está en tus números",
+      "primera_linea": "Viernes 13: la mala suerte no está en tus números",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Humor con fecha y personaje conocido (patrón de Sky)",
+        "url": "https://www.instagram.com/reel/De3B_WRt0dl",
+        "que_tomo": "usar el día del calendario como gancho de humor"
+      },
+      "black_november": true,
+      "qa_ticket": "1da6ff51-be6a-4376-ae38-c43c28c37d40"
+    },
+    {
       "id": "2026-11-13-05-post",
       "tipo": "post",
       "imagenes": [
@@ -5937,6 +6273,34 @@
       "caption_previo": "Un plan de cuatro días para el Buen Fin.\n\nViernes: anota cada venta. Sábado: revisa gastos y alertas. Domingo: manda comprobantes PDF con tu logo. Lunes: cierra con entró, salió y quedó.\n\nDesde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-14-06-historia",
+      "fecha": "2026-11-14T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-14/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: recordatorio de mitad de mes",
+      "gancho": "Vamos a mitad de mes y la oferta sigue",
+      "primera_linea": "Vamos a mitad de mes y la oferta sigue",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Serie Día N del emprendedor (@elpiky___)",
+        "url": "https://www.instagram.com/reel/De0dgf9O1C-",
+        "que_tomo": "serie numerada con la cuenta de días"
+      },
+      "black_november": true,
+      "qa_ticket": "232e8d76-b87b-4a47-8d28-ab37d1759fdc"
     },
     {
       "id": "2026-11-14-05-post",
@@ -6097,6 +6461,34 @@
       "caption_previo": "De cero a tu primera ganancia real, paso a paso.\n\nCrea tu cuenta, configura el negocio (nombre, moneda y categorías), registra un ingreso y un gasto, y mira lo que entró, salió y te quedó.\n\nEmpieza hoy desde $15/mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "black_november": "linea en caption, lote QA Karol",
       "black_november_qa_ticket": "882be333-ee2e-4113-b7c4-142d8a250c80"
+    },
+    {
+      "id": "2026-11-15-06-historia",
+      "fecha": "2026-11-15T15:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-15/06-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio-valor",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "historia Black November: lista de lo que incluye",
+      "gancho": "Lo que te llevas con el plan anual",
+      "primera_linea": "Lo que te llevas con el plan anual",
+      "estilo": "oferta Black November, paleta black, sello + cuenta regresiva + tarjeta de plan",
+      "modela": {
+        "referencia": "Lista en papel que se guarda (@lourdescampooficial)",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "checklist corto de lo que recibes"
+      },
+      "black_november": true,
+      "qa_ticket": "aaf8be6c-bccb-4ae9-8082-12e4e7817267"
     },
     {
       "id": "2026-11-15-05-post",

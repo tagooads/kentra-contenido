@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
 
 
 ## Domingo 1/11
@@ -66,6 +66,10 @@ Kentra te muestra cada ingreso con categoría, fecha y nota. 👉 [link de la bi
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-02-06-historia`
+
+<img src="piezas/2026-11-02/06-historia.jpg" width="160">
+
 **18:00 — Post** · precio-valor · `2026-11-02-05-post`
 
 <img src="piezas/2026-11-02/05-post.jpg" width="220">
@@ -126,6 +130,10 @@ Lleva la cuenta de tu promo en Kentra. 👉 [link de la bio en Instagram / link 
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-03-06-historia`
+
+<img src="piezas/2026-11-03/06-historia.jpg" width="160">
+
 **18:00 — Post** · ganancia-real · `2026-11-03-05-post`
 
 <img src="piezas/2026-11-03/05-post.jpg" width="220">
@@ -182,6 +190,10 @@ Lleva tus cuentas por cobrar con alerta en Kentra. 👉 [link de la bio en Insta
 #Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes
 
 </details>
+
+**15:00 — Historia** · precio-valor · `2026-11-04-06-historia`
+
+<img src="piezas/2026-11-04/06-historia.jpg" width="160">
 
 **18:00 — Post** · ganancia-real · `2026-11-04-05-post`
 
@@ -249,6 +261,10 @@ Lleva la publicidad como una categoría y mira tu ganancia real en Kentra. 👉 
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-05-06-historia`
+
+<img src="piezas/2026-11-05/06-historia.jpg" width="160">
+
 **18:00 — Post** · educacion · `2026-11-05-05-post`
 
 <img src="piezas/2026-11-05/05-post.jpg" width="220">
@@ -313,6 +329,10 @@ Separa cada peso en su categoría con Kentra. 👉 [link de la bio en Instagram 
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-06-06-historia`
+
+<img src="piezas/2026-11-06/06-historia.jpg" width="160">
+
 **18:00 — Post** · funcionalidades · `2026-11-06-05-post`
 
 <img src="piezas/2026-11-06/05-post.jpg" width="220">
@@ -374,6 +394,10 @@ Anota cada anticipo y cada recordatorio en Kentra. 👉 [link de la bio en Insta
 #Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes
 
 </details>
+
+**15:00 — Historia** · precio-valor · `2026-11-07-06-historia`
+
+<img src="piezas/2026-11-07/06-historia.jpg" width="160">
 
 **18:00 — Post** · precio · `2026-11-07-05-post`
 
@@ -437,6 +461,10 @@ Si prefieres que Kentra te haga estas cuentas: 👉 [link de la bio en Instagram
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-08-06-historia`
+
+<img src="piezas/2026-11-08/06-historia.jpg" width="160">
+
 **18:00 — Post** · kentra-vs-excel · `2026-11-08-05-post`
 
 <img src="piezas/2026-11-08/05-post.jpg" width="220">
@@ -498,6 +526,10 @@ Haz estas cuentas en un solo lugar. 👉 [link de la bio en Instagram / link con
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline
 
 </details>
+
+**15:00 — Historia** · precio-valor · `2026-11-09-06-historia`
+
+<img src="piezas/2026-11-09/06-historia.jpg" width="160">
 
 **18:00 — Post** · educacion · `2026-11-09-05-post`
 
@@ -561,6 +593,10 @@ Ordena estos gastos por categoría desde $15/mes. 👉 [link de la bio en Instag
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-10-06-historia`
+
+<img src="piezas/2026-11-10/06-historia.jpg" width="160">
+
 **18:00 — Post** · funcionalidades · `2026-11-10-05-post`
 
 <img src="piezas/2026-11-10/05-post.jpg" width="220">
@@ -622,6 +658,10 @@ Compara tus fines de semana desde $15/mes. 👉 [link de la bio en Instagram / l
 #Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
 
 </details>
+
+**15:00 — Historia** · precio-valor · `2026-11-11-06-historia`
+
+<img src="piezas/2026-11-11/06-historia.jpg" width="160">
 
 **18:00 — Post** · kentra-vs-excel · `2026-11-11-05-post`
 
@@ -685,6 +725,10 @@ Controla tus pagos con alertas desde $15/mes. 👉 [link de la bio en Instagram 
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-12-06-historia`
+
+<img src="piezas/2026-11-12/06-historia.jpg" width="160">
+
 **18:00 — Post** · precio-valor · `2026-11-12-05-post`
 
 <img src="piezas/2026-11-12/05-post.jpg" width="220">
@@ -746,6 +790,10 @@ Sigue tu reto con alertas desde $15/mes. 👉 [link de la bio en Instagram / lin
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Ahorro #NegocioPropio
 
 </details>
+
+**15:00 — Historia** · precio-valor · `2026-11-13-06-historia`
+
+<img src="piezas/2026-11-13/06-historia.jpg" width="160">
 
 **18:00 — Post** · ganancia-real · `2026-11-13-05-post`
 
@@ -809,6 +857,10 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 </details>
 
+**15:00 — Historia** · precio-valor · `2026-11-14-06-historia`
+
+<img src="piezas/2026-11-14/06-historia.jpg" width="160">
+
 **18:00 — Post** · objeciones · `2026-11-14-05-post`
 
 <img src="piezas/2026-11-14/05-post.jpg" width="220">
@@ -870,6 +922,10 @@ Empieza hoy desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en F
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
 
 </details>
+
+**15:00 — Historia** · precio-valor · `2026-11-15-06-historia`
+
+<img src="piezas/2026-11-15/06-historia.jpg" width="160">
 
 **18:00 — Post** · funcionalidades · `2026-11-15-05-post`
 
