@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 74 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
 
 
 ## Domingo 1/11
-
-**10:00 — Post** · verticales · `2026-11-01-04-post`
-
-<img src="piezas/2026-11-01/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vendiste $5.000.000, pero no todo se queda.
-
-En una tienda online: si devuelven 8 % de los pedidos, salen $400.000 y la venta real es de $4.600.000.
-
-Kentra te muestra lo que entró, lo que salió y lo que te quedó en una sola pantalla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-01-02-carrusel`
 
@@ -885,9 +869,9 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 ## Últimas publicadas
 
+- domingo 1/11 · 10:00 · Post `2026-11-01-04-post` · IG ✓ · FB ✓
 - domingo 1/11 · 08:00 · Historia `2026-11-01-01-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 19:00 · Historia `reserva-2026-11-02-02-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 19:00 · Historia `2026-10-31-03-historia` · IG ✓ · FB ✓
 - sábado 31/10 · 18:00 · Post `2026-10-31-05-post` · IG ✓ · FB ✓
 - sábado 31/10 · 12:00 · Carrusel `2026-10-31-02-carrusel` · IG ✓ · FB ✓
-- sábado 31/10 · 10:00 · Post `2026-10-31-04-post` · IG ✓ · FB ✓
