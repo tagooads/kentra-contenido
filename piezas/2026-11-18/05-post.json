@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Invita y gana",
+ "texto": "«Recomendar Kentra a otro dueño de negocio te paga un mes.»",
+ "pie": "Por cada referido que se suscriba y pague, sumas 1 mes sin costo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 84
+}

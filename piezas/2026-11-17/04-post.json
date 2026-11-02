@@ -2,12 +2,12 @@
  "layout": "tweet",
  "formato": "post",
  "tema": "blanco",
- "kicker": "Ojo con diciembre",
- "texto": "«Diciembre trae bono del equipo, mercancía y arriendo en el mismo mes. ¿Ya separaste el dinero?»",
- "pie": "Una nómina de $3.000.000 se vuelve $4.500.000 con el bono.",
+ "kicker": "Ojo con la temporada",
+ "texto": "«En temporada más clientes pagan con tarjeta. Cada venta te deja menos de lo que marca la caja.»",
+ "pie": "$6.000.000 vendidos con tarjeta al 3,5 % son $210.000 que no llegan.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false
  },
- "tamTexto": 78
+ "tamTexto": 74
 }

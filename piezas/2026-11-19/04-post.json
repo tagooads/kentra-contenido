@@ -1,0 +1,18 @@
+{
+ "layout": "tip",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Día 19 de noviembre",
+ "titulo": "La cuenta de hoy decide tu diciembre",
+ "items": [
+  "Suma lo que entró en noviembre",
+  "Resta lo que ya salió",
+  "Aparta lo que viene en diciembre",
+  "Lo que queda es lo que puedes gastar"
+ ],
+ "cierre": "Quedan 11 días de mes: todavía estás a tiempo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

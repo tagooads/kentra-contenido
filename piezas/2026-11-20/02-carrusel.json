@@ -1,0 +1,159 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "blanco",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Cierre de noviembre",
+   "titulo": "Cerrar el mes con libreta o con números claros",
+   "sub": "El mismo negocio, dos cierres.",
+   "visual": "excel",
+   "sinPildora": true
+  },
+  {
+   "layout": "antes",
+   "tema": "claro",
+   "titulo": "El 30 de noviembre",
+   "antes": {
+    "titulo": "Con libreta",
+    "items": [
+     "Sumas a mano",
+     "Faltan gastos",
+     "«Creo que me fue bien»"
+    ]
+   },
+   "despues": {
+    "titulo": "Con números claros",
+    "items": [
+     "Todo anotado",
+     "Nada se escapa",
+     "Sabes cuánto quedó"
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Lo que entró",
+   "texto": "Ventas del mes: $9.800.000 entre efectivo, transferencia y tarjeta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Efectivo",
+      "$3.900.000"
+     ],
+     [
+      "Transferencia",
+      "$3.700.000"
+     ],
+     [
+      "Tarjeta",
+      "$2.200.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Lo que salió",
+   "texto": "$7.350.000. Lo que la libreta olvida: comisiones, domicilios y servicios.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Mercancía",
+      "$4.900.000"
+     ],
+     [
+      "Arriendo",
+      "$1.650.000"
+     ],
+     [
+      "Comisiones",
+      "$800.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "dato",
+   "tema": "navy",
+   "titulo": "Lo que te quedó",
+   "filas": [
+    {
+     "label": "Entró",
+     "valor": "$9.800.000",
+     "color": "gris"
+    },
+    {
+     "label": "Salió",
+     "valor": "−$7.350.000",
+     "color": "rojo"
+    },
+    {
+     "label": "Quedó",
+     "valor": "$2.450.000",
+     "color": "verde",
+     "grande": true,
+     "nota": "25 % de lo que vendiste"
+    }
+   ],
+   "cierre": "Ese es el número que decide diciembre."
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Decide con el número",
+   "texto": "Con $2.450.000 claros repartes antes de gastar.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Tu sueldo",
+      "$1.200.000"
+     ],
+     [
+      "Mercancía",
+      "$1.000.000"
+     ],
+     [
+      "Colchón",
+      "$250.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Cada venta y gasto en su categoría",
+    "Entró, salió y quedó en una vista",
+    "Reportes listos en segundos"
+   ],
+   "cierre": "Y cierras el mes en minutos."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Cierra noviembre con números claros",
+   "items": [
+    "Ganancia real del mes",
+    "Reportes listos",
+    "Oferta hasta el 30"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

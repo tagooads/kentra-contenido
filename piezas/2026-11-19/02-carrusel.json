@@ -1,0 +1,158 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Black November",
+   "titulo": "Tu primera semana con Kentra, día por día",
+   "sub": "Lo que haces y lo que ves.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "kicker": "Día 1",
+   "titulo": "Creas tu negocio",
+   "texto": "Nombre, moneda y categorías. Las categorías se pueden editar cuando quieras.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Negocio",
+      "Café La Esquina"
+     ],
+     [
+      "Moneda",
+      "COP"
+     ],
+     [
+      "Categorías",
+      "Las editas tú"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "kicker": "Día 2",
+   "titulo": "Registras ventas y gastos",
+   "texto": "Desde el celular o el computador: monto, categoría, fecha y una nota.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Venta mostrador",
+      "$85.000",
+      "verde"
+     ],
+     [
+      "Insumos",
+      "−$32.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "kicker": "Día 3",
+   "titulo": "Mandas un comprobante",
+   "texto": "Un PDF con tu logo para el cliente que te pagó o que te debe.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Cliente",
+      "Pedido de 20 cafés"
+     ],
+     [
+      "Valor",
+      "$250.000"
+     ],
+     [
+      "Envío",
+      "PDF con tu logo",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "kicker": "Día 5",
+   "titulo": "Le preguntas a KentrAI",
+   "texto": "«¿En qué gasté más esta semana?» Te responde con tus propios movimientos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Insumos",
+      "$1.240.000",
+      "rojo"
+     ],
+     [
+      "Arriendo",
+      "$900.000"
+     ],
+     [
+      "Domicilios",
+      "$310.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "claro",
+   "kicker": "Día 7",
+   "titulo": "Ves si estás ganando",
+   "captura": "movil-resultados.png",
+   "nota": "Entró, salió y te quedó"
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "titulo": "Empieza en noviembre y paga menos",
+   "planes": [
+    {
+     "plan": "Básico",
+     "antes": "US$99",
+     "precio": "US$79",
+     "periodo": "/año"
+    },
+    {
+     "plan": "Pro",
+     "antes": "US$149",
+     "precio": "US$119",
+     "periodo": "/año",
+     "destacado": true
+    },
+    {
+     "plan": "Business",
+     "antes": "US$199",
+     "precio": "US$159",
+     "periodo": "/año"
+    }
+   ],
+   "nota": "Kentra Priority de regalo el primer año."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Tu primera semana empieza hoy",
+   "items": [
+    "Acceso inmediato",
+    "Sin permanencia",
+    "Hasta el 30 de noviembre"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

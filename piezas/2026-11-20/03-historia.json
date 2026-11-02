@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "noche",
+ "titulo": "¿Te pagas un sueldo o te llevas lo que sobra?",
+ "sub": "En un mes flojo, «lo que sobra» puede ser $0. Un sueldo fijo se aparta primero.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

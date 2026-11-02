@@ -6562,6 +6562,396 @@
       "archivo": "03-historia",
       "fecha": "2026-11-15T19:00:00-05:00",
       "qa_ticket": "d00a63f1-57ee-4a34-94e7-513e390ee844"
+    },
+    {
+      "id": "2026-11-16-01-historia",
+      "fecha": "2026-11-16T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-16/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: precio anual traducido a precio por día",
+      "gancho": "Kentra Pro por US$0,33 al día",
+      "primera_linea": "Kentra Pro por US$0,33 al día",
+      "estilo": "oferta, black, tarjeta única con precio diario en el título",
+      "modela": {
+        "referencia": "@benjamin.negocia, precio no redondo traducido a algo diario",
+        "url": "https://www.instagram.com/reel/De15o0eivCE",
+        "que_tomo": "precio anual (US$119) traducido a algo diario (US$0,33)"
+      },
+      "carpeta": "2026-11-16",
+      "archivo": "01-historia",
+      "qa_ticket": "8fe3396c-c689-491c-b483-f34ad034fd20"
+    },
+    {
+      "id": "2026-11-16-04-post",
+      "fecha": "2026-11-16T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-16/04-post.jpg"
+      ],
+      "caption": "Si vendes más de $5 millones al mes y no sabes cuánto te queda, esto es para ti.\n\nCon esas ventas, una diferencia de 5 puntos en el margen son $250.000 al mes que no ves. Saber cuánto queda es lo que te deja decidir precios y gastos.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nVe tu ganancia real cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "filtro de público en la primera línea",
+      "gancho": "Si vendes más de $5 millones y no sabes cuánto te queda",
+      "primera_linea": "Si vendes más de $5 millones al mes…",
+      "estilo": "cita, noche, barra lateral sin mascota",
+      "modela": {
+        "referencia": "@soymanueldasilva, alerta o filtro de público en la primera línea",
+        "url": "https://www.tiktok.com/@soymanueldasilva/video/7699310514085678344",
+        "que_tomo": "filtro de facturación en la primera línea para que el dueño se reconozca"
+      },
+      "carpeta": "2026-11-16",
+      "archivo": "04-post",
+      "qa_ticket": "a88796f0-c81e-41f5-92c3-c924dbbd18e3"
+    },
+    {
+      "id": "2026-11-16-02-carrusel",
+      "fecha": "2026-11-16T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-16/02-carrusel-1.jpg",
+        "piezas/2026-11-16/02-carrusel-2.jpg",
+        "piezas/2026-11-16/02-carrusel-3.jpg",
+        "piezas/2026-11-16/02-carrusel-4.jpg",
+        "piezas/2026-11-16/02-carrusel-5.jpg",
+        "piezas/2026-11-16/02-carrusel-6.jpg",
+        "piezas/2026-11-16/02-carrusel-7.jpg"
+      ],
+      "caption": "¿Cuál plan es el tuyo? Depende de cuántos negocios llevas.\n\nBásico (1 negocio) a US$9/mes, Pro (hasta 2) a US$12/mes y Business (ilimitados, con equipo) a US$18/mes los 2 primeros meses. Si prefieres pagar el año: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año.\n\nBlack November hasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
+      "pilar": "precio",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "comparativa de 3 planes por tipo de negocio",
+      "gancho": "¿Qué plan te sirve? Depende de cuántos negocios llevas",
+      "primera_linea": "¿Qué plan te sirve?",
+      "estilo": "portada navy + valor alternando claro/navy + oferta black + cierre verde",
+      "modela": {
+        "referencia": "@nayperozzi, tres opciones con la del medio destacada",
+        "url": "https://www.instagram.com/reel/De5OzbjIoa3",
+        "que_tomo": "tres opciones con la del medio destacada y una regla simple para elegir"
+      },
+      "carpeta": "2026-11-16",
+      "archivo": "02-carrusel",
+      "qa_ticket": "d31bdb9d-b604-4d1d-95f9-b771bd92dd7b"
+    },
+    {
+      "id": "2026-11-16-05-post",
+      "fecha": "2026-11-16T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-16/05-post.jpg"
+      ],
+      "caption": "POV: cobras $85.000 y sientes que ganaste $85.000.\n\nEse pedido costó $52.000 entre material, empaque y envío. Lo tuyo fueron $33.000, el 39 %. Si no restas el costo, gastas dinero que no es ganancia.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nMira lo que te deja cada venta. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Ventas",
+      "pilar": "ganancia-real",
+      "layout": "split",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "POV de una venta con su costo",
+      "gancho": "POV: cobras $85.000 y crees que ganaste $85.000",
+      "primera_linea": "POV: cobras $85.000…",
+      "estilo": "split, marfil, frase arriba y cuenta abajo",
+      "modela": {
+        "referencia": "@metales_jorge, POV de una transacción completa con el precio",
+        "url": "https://www.instagram.com/reel/De4kNzLR2PF",
+        "que_tomo": "POV de una transacción real con el precio y lo que queda"
+      },
+      "carpeta": "2026-11-16",
+      "archivo": "05-post",
+      "qa_ticket": "8c59154a-8542-42e6-8093-1d7069c62081"
+    },
+    {
+      "id": "2026-11-16-03-historia",
+      "fecha": "2026-11-16T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-16/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "encuesta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "encuesta de identidad con cifra resuelta",
+      "gancho": "¿Anotas cada venta o confías en la memoria?",
+      "primera_linea": "¿Anotas cada venta o confías en la memoria?",
+      "estilo": "encuesta, claro, tres opciones",
+      "modela": {
+        "referencia": "@thepartybox.usa, identidad del dueño y etiquetar al socio",
+        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
+        "que_tomo": "pregunta de identidad del dueño: cada quien se reconoce en una opción"
+      },
+      "carpeta": "2026-11-16",
+      "archivo": "03-historia",
+      "qa_ticket": "35e10f04-b695-41c9-8cd8-f738e211150d"
+    },
+    {
+      "id": "2026-11-17-01-historia",
+      "fecha": "2026-11-17T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-17/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: Invita y gana con meta de 6 meses",
+      "gancho": "Medio año sin costo con 6 referidos",
+      "primera_linea": "Medio año sin costo con 6 referidos",
+      "estilo": "oferta, black, número gigante «6»",
+      "modela": {
+        "referencia": "@lourdescampooficial, reto con cifra y plazo",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "reto con una cifra meta (6 meses) que se puede alcanzar"
+      },
+      "carpeta": "2026-11-17",
+      "archivo": "01-historia",
+      "qa_ticket": "1a5a1829-37ac-4da9-8575-2ed9b11fca98"
+    },
+    {
+      "id": "2026-11-17-02-carrusel",
+      "fecha": "2026-11-17T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-17/02-carrusel-1.jpg",
+        "piezas/2026-11-17/02-carrusel-2.jpg",
+        "piezas/2026-11-17/02-carrusel-3.jpg",
+        "piezas/2026-11-17/02-carrusel-4.jpg",
+        "piezas/2026-11-17/02-carrusel-5.jpg",
+        "piezas/2026-11-17/02-carrusel-6.jpg",
+        "piezas/2026-11-17/02-carrusel-7.jpg",
+        "piezas/2026-11-17/02-carrusel-8.jpg"
+      ],
+      "caption": "Diciembre se paga en noviembre.\n\nBono del equipo, mercancía de temporada, pauta más cara, empaques y servicios: en un negocio pequeño pueden sumar $4.730.000 antes de que entre la venta fuerte. Haz tu propia cuenta con estos 5.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nLleva cada gasto en su categoría. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "lista de gastos con cifras",
+      "gancho": "5 gastos de diciembre que se comen la ganancia de noviembre",
+      "primera_linea": "5 gastos de diciembre…",
+      "estilo": "portada claro sin visual + valor numerado blanco/navy + dato navy + cierre verde",
+      "modela": {
+        "referencia": "@soymanueldasilva, alerta o filtro de público en la primera línea",
+        "url": "https://www.tiktok.com/@soymanueldasilva/video/7699310514085678344",
+        "que_tomo": "alerta primero y luego el desglose número por número"
+      },
+      "carpeta": "2026-11-17",
+      "archivo": "02-carrusel",
+      "qa_ticket": "92b6e4d8-f61f-4929-9118-b3cf8677c82d"
+    },
+    {
+      "id": "2026-11-17-05-post",
+      "fecha": "2026-11-17T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-17/05-post.jpg"
+      ],
+      "caption": "El Pro mes a mes a precio normal son US$240 al año.\n\nCon el anual Black November pagas US$119 por todo el año y te llevas Kentra Priority de regalo el primer año. Si prefieres mensual, los 2 primeros meses van con 40 % menos.\n\nHasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "comparativa anual vs mes a mes",
+      "gancho": "Pro a precio normal: US$240 al año",
+      "primera_linea": "Pro a precio normal: US$240 al año…",
+      "estilo": "oferta, black, dos tarjetas comparadas",
+      "modela": {
+        "referencia": "Vulcano (Biblioteca de Meta), precio visible desde el anuncio",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=816593744876877&country=ALL",
+        "que_tomo": "precio visible y comparado desde la primera línea"
+      },
+      "carpeta": "2026-11-17",
+      "archivo": "05-post",
+      "qa_ticket": "c8e228c9-db51-40cf-8c2c-04f98a32c015"
+    },
+    {
+      "id": "2026-11-17-03-historia",
+      "fecha": "2026-11-17T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-17/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "dato de alerta de presupuesto",
+      "gancho": "Te avisa antes de pasarte del presupuesto",
+      "primera_linea": "Publicidad: llevas $400.000 de $500.000",
+      "estilo": "dato, blanco, tres filas con cifra verde grande",
+      "modela": {
+        "referencia": "Conta Azul (Biblioteca de Meta), una función mostrada con un caso concreto",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=147329588640310",
+        "que_tomo": "una función (alertas por categoría) mostrada con un caso concreto"
+      },
+      "carpeta": "2026-11-17",
+      "archivo": "03-historia",
+      "qa_ticket": "621ca4b0-4a2f-4d84-a908-47f0a00dfa04"
+    },
+    {
+      "id": "2026-11-18-01-historia",
+      "fecha": "2026-11-18T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-18/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: Business mensual para socios",
+      "gancho": "Tu socio y tú, mismos números",
+      "primera_linea": "Tu socio y tú, mismos números, 40 % menos",
+      "estilo": "oferta, black, kicker + tarjeta Business",
+      "modela": {
+        "referencia": "@thepartybox.usa, identidad del dueño y etiquetar al socio",
+        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
+        "que_tomo": "pareja de dueños que comparten el negocio: se etiqueta al socio"
+      },
+      "carpeta": "2026-11-18",
+      "archivo": "01-historia",
+      "qa_ticket": "b98fd2f8-c309-411b-bea4-773e8e1feefa"
+    },
+    {
+      "id": "2026-11-19-01-historia",
+      "fecha": "2026-11-19T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-19/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: Básico anual expresado por mes",
+      "gancho": "Menos de US$7 al mes, todo el año",
+      "primera_linea": "Menos de US$7 al mes, todo el año",
+      "estilo": "oferta, black, tarjeta Básico con precio mensual en la nota",
+      "modela": {
+        "referencia": "@lourdescampooficial, reto con cifra y plazo",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "cifra con plazo: US$79 al año = US$6,58 al mes"
+      },
+      "carpeta": "2026-11-19",
+      "archivo": "01-historia",
+      "qa_ticket": "d8f0346d-0913-4f2e-a28d-e8c6b407099d"
+    },
+    {
+      "id": "2026-11-20-01-historia",
+      "fecha": "2026-11-20T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-20/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: dos caminos, mensual o anual",
+      "gancho": "Once días para elegir cómo empezar",
+      "primera_linea": "Once días para elegir cómo empezar",
+      "estilo": "oferta, black, dos tarjetas apiladas",
+      "modela": {
+        "referencia": "@nayperozzi, tres opciones con la del medio destacada",
+        "url": "https://www.instagram.com/reel/De5OzbjIoa3",
+        "que_tomo": "dos opciones lado a lado con la recomendada destacada"
+      },
+      "carpeta": "2026-11-20",
+      "archivo": "01-historia",
+      "qa_ticket": "3b2535bf-4cf0-48b7-a493-b16234ee4293"
+    },
+    {
+      "id": "2026-11-22-01-historia",
+      "fecha": "2026-11-22T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-22/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: cuenta regresiva con número gigante",
+      "gancho": "Quedan 9 días de Black November",
+      "primera_linea": "Quedan 9 días de Black November",
+      "estilo": "oferta, black, número gigante «9»",
+      "modela": {
+        "referencia": "@elpiky___, serie numerada con conteo de días",
+        "url": "https://www.instagram.com/reel/De0dgf9O1C-",
+        "que_tomo": "conteo de días como serie: el número es el protagonista"
+      },
+      "carpeta": "2026-11-22",
+      "archivo": "01-historia",
+      "qa_ticket": "5356c660-fad1-4aa6-bbfa-03cabbdfc353"
     }
   ]
 }

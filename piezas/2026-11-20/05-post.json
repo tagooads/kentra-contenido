@@ -1,0 +1,20 @@
+{
+ "layout": "precio",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Black November",
+ "titulo": "¿Llevas 2 negocios? Este es tu plan",
+ "plan": "Pro",
+ "precio": "US$12",
+ "periodo": "/mes",
+ "nota": "40 % menos los 2 primeros meses. Luego US$20/mes.",
+ "items": [
+  "Hasta 2 negocios, cada uno con su moneda",
+  "1 usuario extra",
+  "Importación con IA e inventario"
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

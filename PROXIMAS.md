@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 97 piezas agendadas.
 
 
 ## Lunes 2/11
@@ -924,6 +924,139 @@ Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 **19:00 — Historia** · ganancia-real · `2026-11-15-03-historia`
 
 <img src="piezas/2026-11-15/03-historia.jpg" width="160">
+
+
+## Lunes 16/11
+
+**08:00 — Historia** · precio · `2026-11-16-01-historia`
+
+<img src="piezas/2026-11-16/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-11-16-04-post`
+
+<img src="piezas/2026-11-16/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Si vendes más de $5 millones al mes y no sabes cuánto te queda, esto es para ti.
+
+Con esas ventas, una diferencia de 5 puntos en el margen son $250.000 al mes que no ves. Saber cuánto queda es lo que te deja decidir precios y gastos.
+
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
+Ve tu ganancia real cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
+
+</details>
+
+**12:00 — Carrusel** · precio · `2026-11-16-02-carrusel`
+
+<img src="piezas/2026-11-16/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Cuál plan es el tuyo? Depende de cuántos negocios llevas.
+
+Básico (1 negocio) a US$9/mes, Pro (hasta 2) a US$12/mes y Business (ilimitados, con equipo) a US$18/mes los 2 primeros meses. Si prefieres pagar el año: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año.
+
+Black November hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
+
+</details>
+
+**18:00 — Post** · ganancia-real · `2026-11-16-05-post`
+
+<img src="piezas/2026-11-16/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+POV: cobras $85.000 y sientes que ganaste $85.000.
+
+Ese pedido costó $52.000 entre material, empaque y envío. Lo tuyo fueron $33.000, el 39 %. Si no restas el costo, gastas dinero que no es ganancia.
+
+Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
+Mira lo que te deja cada venta. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Ventas
+
+</details>
+
+**19:00 — Historia** · objeciones · `2026-11-16-03-historia`
+
+<img src="piezas/2026-11-16/03-historia.jpg" width="160">
+
+
+## Martes 17/11
+
+**08:00 — Historia** · precio · `2026-11-17-01-historia`
+
+<img src="piezas/2026-11-17/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · educacion · `2026-11-17-02-carrusel`
+
+<img src="piezas/2026-11-17/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Diciembre se paga en noviembre.
+
+Bono del equipo, mercancía de temporada, pauta más cara, empaques y servicios: en un negocio pequeño pueden sumar $4.730.000 antes de que entre la venta fuerte. Haz tu propia cuenta con estos 5.
+
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
+Lleva cada gasto en su categoría. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-17-05-post`
+
+<img src="piezas/2026-11-17/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El Pro mes a mes a precio normal son US$240 al año.
+
+Con el anual Black November pagas US$119 por todo el año y te llevas Kentra Priority de regalo el primer año. Si prefieres mensual, los 2 primeros meses van con 40 % menos.
+
+Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
+
+</details>
+
+**19:00 — Historia** · funcionalidades · `2026-11-17-03-historia`
+
+<img src="piezas/2026-11-17/03-historia.jpg" width="160">
+
+
+## Miércoles 18/11
+
+**08:00 — Historia** · precio · `2026-11-18-01-historia`
+
+<img src="piezas/2026-11-18/01-historia.jpg" width="160">
+
+
+## Jueves 19/11
+
+**08:00 — Historia** · precio · `2026-11-19-01-historia`
+
+<img src="piezas/2026-11-19/01-historia.jpg" width="160">
+
+
+## Viernes 20/11
+
+**08:00 — Historia** · precio · `2026-11-20-01-historia`
+
+<img src="piezas/2026-11-20/01-historia.jpg" width="160">
+
+
+## Domingo 22/11
+
+**08:00 — Historia** · precio · `2026-11-22-01-historia`
+
+<img src="piezas/2026-11-22/01-historia.jpg" width="160">
 
 
 ## Últimas publicadas

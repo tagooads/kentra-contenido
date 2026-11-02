@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "verdeoscuro",
+ "kicker": "Ojo",
+ "titulo": "El saldo del banco no es tu ganancia",
+ "filas": [
+  {
+   "label": "Saldo",
+   "valor": "$6.200.000",
+   "color": "gris"
+  },
+  {
+   "label": "Por pagar",
+   "valor": "−$4.100.000",
+   "color": "rojo"
+  },
+  {
+   "label": "Es tuyo",
+   "valor": "$2.100.000",
+   "color": "verde",
+   "grande": true,
+   "nota": "una tercera parte del saldo"
+  }
+ ],
+ "cierre": "Antes de gastar, resta lo que ya tiene dueño.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

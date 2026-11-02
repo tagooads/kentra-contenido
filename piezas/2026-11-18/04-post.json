@@ -1,0 +1,31 @@
+{
+ "layout": "chat",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Llega diciembre",
+ "titulo": "La pregunta de cada diciembre",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "¿Me lo dejas fiado hasta diciembre?"
+  ],
+  [
+   "yo",
+   "Son $180.000. ¿Qué fecha te queda bien?"
+  ],
+  [
+   "cliente",
+   "Cuando me paguen la prima."
+  ],
+  [
+   "yo",
+   "Te lo anoto para el 15 de diciembre."
+  ]
+ ],
+ "cierre": "Fiado con fecha se cobra. Sin fecha, se olvida.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

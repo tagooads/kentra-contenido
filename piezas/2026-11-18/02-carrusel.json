@@ -1,0 +1,141 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verde",
+ "slides": [
+  {
+   "layout": "portada",
+   "kicker": "Precios de temporada",
+   "titulo": "Cómo subir precios en diciembre sin perder clientes",
+   "sub": "Con la cuenta hecha, no a ojo.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "Mira cuánto subió tu costo",
+   "texto": "Antes de tocar el precio, compara lo que te cuesta hoy con lo que te costaba.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Costo en octubre",
+      "$20.000"
+     ],
+     [
+      "Costo en noviembre",
+      "$22.400",
+      "rojo"
+     ],
+     [
+      "Subió",
+      "12 %"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Mira cuánto te queda hoy",
+   "texto": "Si vendes a $35.000 con el costo nuevo, tu margen ya bajó.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Antes te quedaba",
+      "$15.000"
+     ],
+     [
+      "Hoy te queda",
+      "$12.600",
+      "rojo"
+     ],
+     [
+      "Perdiste por unidad",
+      "$2.400"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Sube lo justo, no redondo",
+   "texto": "Un 8 % recupera tu margen y se nota menos que saltar a $40.000.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Precio nuevo",
+      "$37.800"
+     ],
+     [
+      "Costo",
+      "$22.400"
+     ],
+     [
+      "Te queda",
+      "$15.400",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Avisa antes y con fecha",
+   "texto": "«Desde el 1 de diciembre el precio es $37.800.» Quien quiera comprar antes, compra antes."
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 5,
+   "titulo": "Mide si te compran igual",
+   "texto": "Lo que te queda, no lo que vendes. Aunque vendas un poco menos, puedes ganar más.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Antes: 50 ventas",
+      "$630.000"
+     ],
+     [
+      "Después: 47 ventas",
+      "$723.800",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "titulo": "Así lo ordenas en Kentra",
+   "items": [
+    "Gastos por categoría, mes a mes",
+    "Ves si el costo subió",
+    "Ganancia real antes y después"
+   ],
+   "cierre": "Y sabes cuánto te deja cada precio."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Pon precio con números",
+   "items": [
+    "Costos al día",
+    "Ganancia real del mes",
+    "Anual desde US$79 en noviembre"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

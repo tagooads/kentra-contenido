@@ -1,0 +1,17 @@
+{
+ "layout": "reto",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Reto de miércoles",
+ "titulo": "Vendiste 40 tortas a $35.000 y gastaste $910.000. ¿Cuánto ganaste?",
+ "opciones": [
+  "$490.000",
+  "$910.000",
+  "$1.400.000"
+ ],
+ "nota": "Respuesta: $490.000. Entró $1.400.000, salió $910.000.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "layout": "frase",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "«¿Cuánto te debo?»",
+ "frase": "«Te mando el comprobante: quedan $250.000 y vence el viernes.»",
+ "porque": "Un comprobante PDF con tu logo cierra la conversación. En Kentra sale en segundos.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

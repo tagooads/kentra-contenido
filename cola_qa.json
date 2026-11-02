@@ -377,151 +377,6 @@
       "reserva": true
     },
     {
-      "id": "2026-11-16-01-historia",
-      "fecha": "2026-11-16T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-16/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: precio anual traducido a precio por día",
-      "gancho": "Kentra Pro por US$0,33 al día",
-      "primera_linea": "Kentra Pro por US$0,33 al día",
-      "estilo": "oferta, black, tarjeta única con precio diario en el título",
-      "modela": {
-        "referencia": "@benjamin.negocia, precio no redondo traducido a algo diario",
-        "url": "https://www.instagram.com/reel/De15o0eivCE",
-        "que_tomo": "precio anual (US$119) traducido a algo diario (US$0,33)"
-      },
-      "carpeta": "2026-11-16",
-      "archivo": "01-historia",
-      "qa_ticket": "8fe3396c-c689-491c-b483-f34ad034fd20"
-    },
-    {
-      "id": "2026-11-17-01-historia",
-      "fecha": "2026-11-17T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-17/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: Invita y gana con meta de 6 meses",
-      "gancho": "Medio año sin costo con 6 referidos",
-      "primera_linea": "Medio año sin costo con 6 referidos",
-      "estilo": "oferta, black, número gigante «6»",
-      "modela": {
-        "referencia": "@lourdescampooficial, reto con cifra y plazo",
-        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
-        "que_tomo": "reto con una cifra meta (6 meses) que se puede alcanzar"
-      },
-      "carpeta": "2026-11-17",
-      "archivo": "01-historia",
-      "qa_ticket": "1a5a1829-37ac-4da9-8575-2ed9b11fca98"
-    },
-    {
-      "id": "2026-11-18-01-historia",
-      "fecha": "2026-11-18T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-18/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: Business mensual para socios",
-      "gancho": "Tu socio y tú, mismos números",
-      "primera_linea": "Tu socio y tú, mismos números, 40 % menos",
-      "estilo": "oferta, black, kicker + tarjeta Business",
-      "modela": {
-        "referencia": "@thepartybox.usa, identidad del dueño y etiquetar al socio",
-        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
-        "que_tomo": "pareja de dueños que comparten el negocio: se etiqueta al socio"
-      },
-      "carpeta": "2026-11-18",
-      "archivo": "01-historia",
-      "qa_ticket": "b98fd2f8-c309-411b-bea4-773e8e1feefa"
-    },
-    {
-      "id": "2026-11-19-01-historia",
-      "fecha": "2026-11-19T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-19/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: Básico anual expresado por mes",
-      "gancho": "Menos de US$7 al mes, todo el año",
-      "primera_linea": "Menos de US$7 al mes, todo el año",
-      "estilo": "oferta, black, tarjeta Básico con precio mensual en la nota",
-      "modela": {
-        "referencia": "@lourdescampooficial, reto con cifra y plazo",
-        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
-        "que_tomo": "cifra con plazo: US$79 al año = US$6,58 al mes"
-      },
-      "carpeta": "2026-11-19",
-      "archivo": "01-historia",
-      "qa_ticket": "d8f0346d-0913-4f2e-a28d-e8c6b407099d"
-    },
-    {
-      "id": "2026-11-20-01-historia",
-      "fecha": "2026-11-20T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-20/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: dos caminos, mensual o anual",
-      "gancho": "Once días para elegir cómo empezar",
-      "primera_linea": "Once días para elegir cómo empezar",
-      "estilo": "oferta, black, dos tarjetas apiladas",
-      "modela": {
-        "referencia": "@nayperozzi, tres opciones con la del medio destacada",
-        "url": "https://www.instagram.com/reel/De5OzbjIoa3",
-        "que_tomo": "dos opciones lado a lado con la recomendada destacada"
-      },
-      "carpeta": "2026-11-20",
-      "archivo": "01-historia",
-      "qa_ticket": "3b2535bf-4cf0-48b7-a493-b16234ee4293"
-    },
-    {
       "id": "2026-11-21-01-historia",
       "fecha": "2026-11-21T08:00:00-05:00",
       "tipo": "historia",
@@ -536,7 +391,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "BN: referidos, piensa en alguien",
       "gancho": "Piensa en el dueño que todavía anota en una libreta",
       "primera_linea": "Piensa en el dueño que todavía anota en una libreta",
@@ -548,158 +403,7 @@
       },
       "carpeta": "2026-11-21",
       "archivo": "01-historia",
-      "qa_ticket": "1d6d40af-805c-4769-bc45-5060e3e303e5"
-    },
-    {
-      "id": "2026-11-22-01-historia",
-      "fecha": "2026-11-22T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-22/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: cuenta regresiva con número gigante",
-      "gancho": "Quedan 9 días de Black November",
-      "primera_linea": "Quedan 9 días de Black November",
-      "estilo": "oferta, black, número gigante «9»",
-      "modela": {
-        "referencia": "@elpiky___, serie numerada con conteo de días",
-        "url": "https://www.instagram.com/reel/De0dgf9O1C-",
-        "que_tomo": "conteo de días como serie: el número es el protagonista"
-      },
-      "carpeta": "2026-11-22",
-      "archivo": "01-historia",
-      "qa_ticket": "5356c660-fad1-4aa6-bbfa-03cabbdfc353"
-    },
-    {
-      "id": "2026-11-16-04-post",
-      "fecha": "2026-11-16T10:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-11-16/04-post.jpg"
-      ],
-      "caption": "Si vendes más de $5 millones al mes y no sabes cuánto te queda, esto es para ti.\n\nCon esas ventas, una diferencia de 5 puntos en el margen son $250.000 al mes que no ves. Saber cuánto queda es lo que te deja decidir precios y gastos.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nVe tu ganancia real cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "ganancia-real",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "filtro de público en la primera línea",
-      "gancho": "Si vendes más de $5 millones y no sabes cuánto te queda",
-      "primera_linea": "Si vendes más de $5 millones al mes…",
-      "estilo": "cita, noche, barra lateral sin mascota",
-      "modela": {
-        "referencia": "@soymanueldasilva, alerta o filtro de público en la primera línea",
-        "url": "https://www.tiktok.com/@soymanueldasilva/video/7699310514085678344",
-        "que_tomo": "filtro de facturación en la primera línea para que el dueño se reconozca"
-      },
-      "carpeta": "2026-11-16",
-      "archivo": "04-post",
-      "qa_ticket": "a88796f0-c81e-41f5-92c3-c924dbbd18e3"
-    },
-    {
-      "id": "2026-11-16-02-carrusel",
-      "fecha": "2026-11-16T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-11-16/02-carrusel-1.jpg",
-        "piezas/2026-11-16/02-carrusel-2.jpg",
-        "piezas/2026-11-16/02-carrusel-3.jpg",
-        "piezas/2026-11-16/02-carrusel-4.jpg",
-        "piezas/2026-11-16/02-carrusel-5.jpg",
-        "piezas/2026-11-16/02-carrusel-6.jpg",
-        "piezas/2026-11-16/02-carrusel-7.jpg"
-      ],
-      "caption": "¿Cuál plan es el tuyo? Depende de cuántos negocios llevas.\n\nBásico (1 negocio) a US$9/mes, Pro (hasta 2) a US$12/mes y Business (ilimitados, con equipo) a US$18/mes los 2 primeros meses. Si prefieres pagar el año: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año.\n\nBlack November hasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
-      "pilar": "precio",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "comparativa de 3 planes por tipo de negocio",
-      "gancho": "¿Qué plan te sirve? Depende de cuántos negocios llevas",
-      "primera_linea": "¿Qué plan te sirve?",
-      "estilo": "portada navy + valor alternando claro/navy + oferta black + cierre verde",
-      "modela": {
-        "referencia": "@nayperozzi, tres opciones con la del medio destacada",
-        "url": "https://www.instagram.com/reel/De5OzbjIoa3",
-        "que_tomo": "tres opciones con la del medio destacada y una regla simple para elegir"
-      },
-      "carpeta": "2026-11-16",
-      "archivo": "02-carrusel",
-      "qa_ticket": "d31bdb9d-b604-4d1d-95f9-b771bd92dd7b"
-    },
-    {
-      "id": "2026-11-16-05-post",
-      "fecha": "2026-11-16T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-11-16/05-post.jpg"
-      ],
-      "caption": "POV: cobras $85.000 y sientes que ganaste $85.000.\n\nEse pedido costó $52.000 entre material, empaque y envío. Lo tuyo fueron $33.000, el 39 %. Si no restas el costo, gastas dinero que no es ganancia.\n\nBlack November: 40 % menos los 2 primeros meses o el plan anual desde US$79.\nMira lo que te deja cada venta. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Ventas",
-      "pilar": "ganancia-real",
-      "layout": "split",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "POV de una venta con su costo",
-      "gancho": "POV: cobras $85.000 y crees que ganaste $85.000",
-      "primera_linea": "POV: cobras $85.000…",
-      "estilo": "split, marfil, frase arriba y cuenta abajo",
-      "modela": {
-        "referencia": "@metales_jorge, POV de una transacción completa con el precio",
-        "url": "https://www.instagram.com/reel/De4kNzLR2PF",
-        "que_tomo": "POV de una transacción real con el precio y lo que queda"
-      },
-      "carpeta": "2026-11-16",
-      "archivo": "05-post",
-      "qa_ticket": "8c59154a-8542-42e6-8093-1d7069c62081"
-    },
-    {
-      "id": "2026-11-16-03-historia",
-      "fecha": "2026-11-16T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-16/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "encuesta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "encuesta de identidad con cifra resuelta",
-      "gancho": "¿Anotas cada venta o confías en la memoria?",
-      "primera_linea": "¿Anotas cada venta o confías en la memoria?",
-      "estilo": "encuesta, claro, tres opciones",
-      "modela": {
-        "referencia": "@thepartybox.usa, identidad del dueño y etiquetar al socio",
-        "url": "https://www.instagram.com/reel/De0F2YWi-dY",
-        "que_tomo": "pregunta de identidad del dueño: cada quien se reconoce en una opción"
-      },
-      "carpeta": "2026-11-16",
-      "archivo": "03-historia",
-      "qa_ticket": "35e10f04-b695-41c9-8cd8-f738e211150d"
+      "qa_ticket": "bb68532a-17cc-4678-a428-c9235e6bc27f"
     },
     {
       "id": "2026-11-17-04-post",
@@ -708,7 +412,7 @@
       "imagenes": [
         "piezas/2026-11-17/04-post.jpg"
       ],
-      "caption": "Diciembre trae bono del equipo, mercancía y arriendo en el mismo mes.\n\nCon 2 personas de $1.500.000, el medio sueldo de bono suma $1.500.000 a una nómina de $3.000.000. Si lo apartas desde noviembre, diciembre no te vacía la caja.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nPlanea diciembre con números claros. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "caption": "En temporada más clientes pagan con tarjeta, y cada venta te deja menos de lo que marca la caja.\n\nSi vendes $6.000.000 con tarjeta y la comisión es del 3,5 %, $210.000 no llegan a tu cuenta. Anótalos como gasto para ver tu ganancia real.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nCuenta también lo que se queda en el camino. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
       "pilar": "educacion",
       "layout": "tweet",
       "destinos": [
@@ -716,36 +420,65 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "alerta de temporada (cambio que afecta al comerciante)",
-      "gancho": "Diciembre trae bono, mercancía y arriendo en el mismo mes",
-      "primera_linea": "Diciembre trae bono del equipo…",
+      "gancho": "En temporada más clientes pagan con tarjeta y cada venta deja menos",
+      "primera_linea": "«En temporada más clientes pagan con tarjeta…",
       "estilo": "tweet, blanco, frase grande con pie",
       "modela": {
         "referencia": "@esmegarrcia, cambio que afecta al comerciante dicho en el primer segundo",
         "url": "https://www.tiktok.com/@esmegarrcia/video/7699295836114586900",
-        "que_tomo": "la noticia que afecta al comerciante dicha en la primera línea, con su consecuencia"
+        "que_tomo": "la noticia que afecta al comerciante en la primera línea, con su consecuencia en cifras"
       },
       "carpeta": "2026-11-17",
       "archivo": "04-post",
-      "qa_ticket": "1ac83e18-9856-436d-bbdf-5fadd5b71aea"
+      "qa_ticket": "1a0f4aae-86a9-4776-b808-f86bc1eadd46"
     },
     {
-      "id": "2026-11-17-02-carrusel",
-      "fecha": "2026-11-17T12:00:00-05:00",
+      "id": "2026-11-18-04-post",
+      "fecha": "2026-11-18T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-18/04-post.jpg"
+      ],
+      "caption": "En diciembre todos quieren llevar ahora y pagar después.\n\nUn fiado de $180.000 con fecha (15 de diciembre) se cobra. El mismo fiado sin fecha se queda en «cuando pueda».\n\nBlack November: Kentra Pro a US$12/mes los 2 primeros meses.\nAnota cada fiado con su fecha. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "pilar": "objeciones",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "chat con cliente que pide fiado",
+      "gancho": "«¿Me lo dejas fiado hasta diciembre?»",
+      "primera_linea": "«¿Me lo dejas fiado hasta diciembre?»",
+      "estilo": "chat, blanco, cuatro burbujas con cierre",
+      "modela": {
+        "referencia": "@floristeria_bel_fiori, captura de conversación con cliente y humor",
+        "url": "https://www.instagram.com/reel/De0Gr0WsZX9",
+        "que_tomo": "el formato de chat real con el cliente y el remate en una línea"
+      },
+      "carpeta": "2026-11-18",
+      "archivo": "04-post",
+      "qa_ticket": "dbdcca6e-a256-40c5-b8f0-a898c58d37e9"
+    },
+    {
+      "id": "2026-11-18-02-carrusel",
+      "fecha": "2026-11-18T12:00:00-05:00",
       "tipo": "carrusel",
       "imagenes": [
-        "piezas/2026-11-17/02-carrusel-1.jpg",
-        "piezas/2026-11-17/02-carrusel-2.jpg",
-        "piezas/2026-11-17/02-carrusel-3.jpg",
-        "piezas/2026-11-17/02-carrusel-4.jpg",
-        "piezas/2026-11-17/02-carrusel-5.jpg",
-        "piezas/2026-11-17/02-carrusel-6.jpg",
-        "piezas/2026-11-17/02-carrusel-7.jpg",
-        "piezas/2026-11-17/02-carrusel-8.jpg"
+        "piezas/2026-11-18/02-carrusel-1.jpg",
+        "piezas/2026-11-18/02-carrusel-2.jpg",
+        "piezas/2026-11-18/02-carrusel-3.jpg",
+        "piezas/2026-11-18/02-carrusel-4.jpg",
+        "piezas/2026-11-18/02-carrusel-5.jpg",
+        "piezas/2026-11-18/02-carrusel-6.jpg",
+        "piezas/2026-11-18/02-carrusel-7.jpg",
+        "piezas/2026-11-18/02-carrusel-8.jpg"
       ],
-      "caption": "Diciembre se paga en noviembre.\n\nBono del equipo, mercancía de temporada, pauta más cara, empaques y servicios: en un negocio pequeño pueden sumar $4.730.000 antes de que entre la venta fuerte. Haz tu propia cuenta con estos 5.\n\nSolo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.\nLleva cada gasto en su categoría. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
-      "pilar": "educacion",
+      "caption": "Subir el precio a ojo espanta clientes. Subirlo con la cuenta, no.\n\nPaso a paso: el costo pasa de $20.000 a $22.400, el margen baja de $15.000 a $12.600 y un precio de $37.800 lo recupera. Con 47 ventas en vez de 50 te quedan $723.800 en lugar de $630.000.\n\nEn noviembre, el plan anual de Kentra va desde US$79.\nGuarda este paso a paso. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes",
+      "pilar": "ganancia-real",
       "layout": "carrusel",
       "destinos": [
         "instagram",
@@ -753,57 +486,151 @@
       ],
       "qa": "pendiente",
       "version": 1,
-      "formato": "lista de gastos con cifras",
-      "gancho": "5 gastos de diciembre que se comen la ganancia de noviembre",
-      "primera_linea": "5 gastos de diciembre…",
-      "estilo": "portada claro sin visual + valor numerado blanco/navy + dato navy + cierre verde",
+      "formato": "tutorial con cuenta: precio de temporada",
+      "gancho": "Cómo subir precios en diciembre sin perder clientes",
+      "primera_linea": "Cómo subir precios en diciembre…",
+      "estilo": "portada verde con mascota sin píldora, valor claro/navy alternado, lista, cierre verde",
       "modela": {
-        "referencia": "@soymanueldasilva, alerta o filtro de público en la primera línea",
-        "url": "https://www.tiktok.com/@soymanueldasilva/video/7699310514085678344",
-        "que_tomo": "alerta primero y luego el desglose número por número"
+        "referencia": "@benjamin.negocia, precio no redondo calculado con la cuenta",
+        "url": "https://www.instagram.com/reel/De15o0eivCE",
+        "que_tomo": "el precio exacto que sale de la cuenta en vez de un número redondo"
       },
-      "carpeta": "2026-11-17",
+      "carpeta": "2026-11-18",
       "archivo": "02-carrusel",
-      "qa_ticket": "92b6e4d8-f61f-4929-9118-b3cf8677c82d"
+      "qa_ticket": "c4d903c6-d75e-4bfc-aa68-a2b9cd5906fc"
     },
     {
-      "id": "2026-11-17-05-post",
-      "fecha": "2026-11-17T18:00:00-05:00",
+      "id": "2026-11-18-05-post",
+      "fecha": "2026-11-18T18:00:00-05:00",
       "tipo": "post",
       "imagenes": [
-        "piezas/2026-11-17/05-post.jpg"
+        "piezas/2026-11-18/05-post.jpg"
       ],
-      "caption": "El Pro mes a mes a precio normal son US$240 al año.\n\nCon el anual Black November pagas US$119 por todo el año y te llevas Kentra Priority de regalo el primer año. Si prefieres mensual, los 2 primeros meses van con 40 % menos.\n\nHasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
+      "caption": "Tu recomendación tiene valor y en Kentra se nota.\n\nInvita y gana: por cada dueño de negocio que llegue por ti, se suscriba y pague, tú sumas 1 mes sin costo. Además, en Black November el anual va desde US$79 con Kentra Priority de regalo el primer año.\n\nPiensa en quién lo necesita y mándaselo. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #NegocioPropio",
       "pilar": "precio",
-      "layout": "oferta",
+      "layout": "tweet",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
       "version": 1,
-      "formato": "comparativa anual vs mes a mes",
-      "gancho": "Pro a precio normal: US$240 al año",
-      "primera_linea": "Pro a precio normal: US$240 al año…",
-      "estilo": "oferta, black, dos tarjetas comparadas",
+      "formato": "BN: referidos como postura",
+      "gancho": "Recomendar Kentra a otro dueño te paga un mes",
+      "primera_linea": "«Recomendar Kentra a otro dueño de negocio te paga un mes.»",
+      "estilo": "tweet, black, frase grande con pie",
       "modela": {
-        "referencia": "Vulcano (Biblioteca de Meta), precio visible desde el anuncio",
-        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=816593744876877&country=ALL",
-        "que_tomo": "precio visible y comparado desde la primera línea"
+        "referencia": "@jeiver_vega, postura dicha en el primer segundo",
+        "url": "https://www.tiktok.com/@jeiver_vega/video/7700294663227428129",
+        "que_tomo": "la postura clara en una sola frase"
       },
-      "carpeta": "2026-11-17",
+      "carpeta": "2026-11-18",
       "archivo": "05-post",
-      "qa_ticket": "c8e228c9-db51-40cf-8c2c-04f98a32c015"
+      "qa_ticket": "d89f0d4a-c703-450e-bf1f-78268049ffec"
     },
     {
-      "id": "2026-11-17-03-historia",
-      "fecha": "2026-11-17T19:00:00-05:00",
+      "id": "2026-11-18-03-historia",
+      "fecha": "2026-11-18T19:00:00-05:00",
       "tipo": "historia",
       "imagenes": [
-        "piezas/2026-11-17/03-historia.jpg"
+        "piezas/2026-11-18/03-historia.jpg"
       ],
       "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "reto",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "reto numérico con opciones",
+      "gancho": "Vendiste 40 tortas a $35.000 y gastaste $910.000",
+      "primera_linea": "Vendiste 40 tortas a $35.000…",
+      "estilo": "reto, navy, tres opciones con respuesta",
+      "modela": {
+        "referencia": "@mayoristasdeperfumesvzla, demostración de margen con la cuenta",
+        "url": "https://www.tiktok.com/@mayoristasdeperfumesvzla/video/7695092767923375380",
+        "que_tomo": "la cuenta de venta menos costo resuelta frente al público"
+      },
+      "carpeta": "2026-11-18",
+      "archivo": "03-historia",
+      "qa_ticket": "7fae70a4-f49d-4b3d-9d2e-2003e137a873"
+    },
+    {
+      "id": "2026-11-19-04-post",
+      "fecha": "2026-11-19T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-19/04-post.jpg"
+      ],
+      "caption": "Quedan 11 días de noviembre y todavía puedes corregir el mes.\n\nSuma lo que entró, resta lo que ya salió y aparta lo que viene en diciembre. Lo que queda es lo que puedes gastar sin miedo.\n\nBlack November: 40 % menos los 2 primeros meses en cualquier plan.\nHaz la cuenta hoy. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "educacion",
+      "layout": "tip",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "serie Día N con pasos",
+      "gancho": "Día 19 de noviembre: la cuenta de hoy decide tu diciembre",
+      "primera_linea": "Día 19 de noviembre",
+      "estilo": "tip, marfil, 4 pasos numerados",
+      "modela": {
+        "referencia": "@elpiky___, serie numerada por día",
+        "url": "https://www.instagram.com/reel/De0dgf9O1C-",
+        "que_tomo": "el «Día N» como serie que se sigue"
+      },
+      "carpeta": "2026-11-19",
+      "archivo": "04-post",
+      "qa_ticket": "c352c18d-b40f-41f1-9074-8451ec59747c"
+    },
+    {
+      "id": "2026-11-19-02-carrusel",
+      "fecha": "2026-11-19T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-19/02-carrusel-1.jpg",
+        "piezas/2026-11-19/02-carrusel-2.jpg",
+        "piezas/2026-11-19/02-carrusel-3.jpg",
+        "piezas/2026-11-19/02-carrusel-4.jpg",
+        "piezas/2026-11-19/02-carrusel-5.jpg",
+        "piezas/2026-11-19/02-carrusel-6.jpg",
+        "piezas/2026-11-19/02-carrusel-7.jpg",
+        "piezas/2026-11-19/02-carrusel-8.jpg"
+      ],
+      "caption": "¿Qué haces en Kentra la primera semana?\n\nDía 1 creas tu negocio, día 2 registras ventas y gastos, día 3 mandas un comprobante PDF con tu logo, día 5 le preguntas a KentrAI y el día 7 ves en Resultados si estás ganando.\n\nAnual de Black November: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
       "pilar": "funcionalidades",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "BN 100 % Kentra: primera semana día por día con captura real",
+      "gancho": "Tu primera semana con Kentra, día por día",
+      "primera_linea": "Tu primera semana con Kentra…",
+      "estilo": "portada navy con mascota sin píldora, días 1–7 en valor, captura real de Resultados, oferta black, cierre verde",
+      "modela": {
+        "referencia": "Alegra (Biblioteca de Meta), «pruébalo tú mismo» mostrando el uso",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=266934513428113",
+        "que_tomo": "mostrar el uso real del producto paso a paso"
+      },
+      "carpeta": "2026-11-19",
+      "archivo": "02-carrusel",
+      "qa_ticket": "a4202a41-7aad-4559-b248-5cad94ad3c65"
+    },
+    {
+      "id": "2026-11-19-05-post",
+      "fecha": "2026-11-19T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-19/05-post.jpg"
+      ],
+      "caption": "Ver $6.200.000 en el banco no significa que puedas gastarlos.\n\nSi debes $4.100.000 entre proveedores, arriendo y cuotas, lo tuyo son $2.100.000: una tercera parte.\n\nEste mes Kentra Pro está a US$12/mes los 2 primeros meses.\nSepara lo que ya tiene dueño. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "ganancia-real",
       "layout": "dato",
       "destinos": [
         "instagram",
@@ -811,18 +638,170 @@
       ],
       "qa": "pendiente",
       "version": 1,
-      "formato": "dato de alerta de presupuesto",
-      "gancho": "Te avisa antes de pasarte del presupuesto",
-      "primera_linea": "Publicidad: llevas $400.000 de $500.000",
-      "estilo": "dato, blanco, tres filas con cifra verde grande",
+      "formato": "dato de alerta con consecuencia",
+      "gancho": "El saldo del banco no es tu ganancia",
+      "primera_linea": "El saldo del banco no es tu ganancia",
+      "estilo": "dato, verde oscuro, tres filas con cifra verde grande",
       "modela": {
-        "referencia": "Conta Azul (Biblioteca de Meta), una función mostrada con un caso concreto",
-        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=147329588640310",
-        "que_tomo": "una función (alertas por categoría) mostrada con un caso concreto"
+        "referencia": "@soymanueldasilva, alerta primero y luego el desglose",
+        "url": "https://www.tiktok.com/@soymanueldasilva/video/7699310514085678344",
+        "que_tomo": "la alerta en el título y el número que la explica"
       },
-      "carpeta": "2026-11-17",
+      "carpeta": "2026-11-19",
+      "archivo": "05-post",
+      "qa_ticket": "17f83126-1ed9-4057-9ca5-9e4e1b3c2a4d"
+    },
+    {
+      "id": "2026-11-19-03-historia",
+      "fecha": "2026-11-19T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-19/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "frase lista para el cliente que debe",
+      "gancho": "«Te mando el comprobante: quedan $250.000»",
+      "primera_linea": "«Te mando el comprobante: quedan $250.000…»",
+      "estilo": "frase, claro, tarjeta de cita con explicación",
+      "modela": {
+        "referencia": "Invoice & Estimate Maker (Biblioteca de Meta), comprobante desde el celular",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=1331483000044269",
+        "que_tomo": "el comprobante como respuesta rápida al cliente"
+      },
+      "carpeta": "2026-11-19",
       "archivo": "03-historia",
-      "qa_ticket": "621ca4b0-4a2f-4d84-a908-47f0a00dfa04"
+      "qa_ticket": "f23c435f-cd86-48c0-9dcd-6e76b0257885"
+    },
+    {
+      "id": "2026-11-20-04-post",
+      "fecha": "2026-11-20T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-20/04-post.jpg"
+      ],
+      "caption": "Ese momento en que el arriendo te habla.\n\nLa venta del día no es dinero libre: una parte ya es del arriendo, otra de la mercancía y otra de los servicios. Saber cuánto le toca a cada cosa evita el susto del día 30.\n\nBlack November en Kentra hasta el 30 de noviembre.\nEtiqueta a quien le pasa. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "objeciones",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "meme con mascota",
+      "gancho": "Cuando ibas a gastar la venta del día y te acordaste del arriendo",
+      "primera_linea": "Cuando ibas a gastar la venta del día…",
+      "estilo": "meme, verde, mascota con globo",
+      "modela": {
+        "referencia": "@verovillamarin, metáfora de atajada con humor",
+        "url": "https://www.instagram.com/reel/De3B_WRt0dl",
+        "que_tomo": "el momento de atajarse a tiempo contado con humor"
+      },
+      "carpeta": "2026-11-20",
+      "archivo": "04-post",
+      "qa_ticket": "63ea96fb-48b8-4b06-a971-bae4d60846ad"
+    },
+    {
+      "id": "2026-11-20-02-carrusel",
+      "fecha": "2026-11-20T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-20/02-carrusel-1.jpg",
+        "piezas/2026-11-20/02-carrusel-2.jpg",
+        "piezas/2026-11-20/02-carrusel-3.jpg",
+        "piezas/2026-11-20/02-carrusel-4.jpg",
+        "piezas/2026-11-20/02-carrusel-5.jpg",
+        "piezas/2026-11-20/02-carrusel-6.jpg",
+        "piezas/2026-11-20/02-carrusel-7.jpg",
+        "piezas/2026-11-20/02-carrusel-8.jpg"
+      ],
+      "caption": "El 30 de noviembre llega igual para todos. La diferencia es con qué lo cierras.\n\nUn mes de $9.800.000 en ventas y $7.350.000 en gastos (mercancía, arriendo y $800.000 en comisiones que la libreta olvida) deja $2.450.000. Con ese número repartes sueldo, mercancía de diciembre y colchón.\n\nEn noviembre, 40 % menos los 2 primeros meses. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "kentra-vs-excel",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "antes/después de un cierre de mes",
+      "gancho": "Cerrar el mes con libreta o con números claros",
+      "primera_linea": "Cerrar el mes con libreta…",
+      "estilo": "portada blanca con Excel sin píldora, antes/después, valor, dato navy, lista, cierre verde",
+      "modela": {
+        "referencia": "Dropshipper Novato vs Pro (mercado de Sky), dos formas de hacer lo mismo",
+        "url": "https://www.instagram.com/reel/De0vIMIqitW",
+        "que_tomo": "el contraste novato contra pro en la misma situación"
+      },
+      "carpeta": "2026-11-20",
+      "archivo": "02-carrusel",
+      "qa_ticket": "4023a115-70fd-4eb3-86c3-8197ade50a42"
+    },
+    {
+      "id": "2026-11-20-05-post",
+      "fecha": "2026-11-20T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-20/05-post.jpg"
+      ],
+      "caption": "Si llevas dos negocios, cada uno merece sus propios números.\n\nKentra Pro: hasta 2 negocios, cada uno con su moneda, 1 usuario extra, importación con IA e inventario. En Black November cuesta US$12/mes los 2 primeros meses y luego US$20/mes.\n\nHasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
+      "pilar": "precio",
+      "layout": "precio",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "BN: Pro mensual con filtro de público",
+      "gancho": "¿Llevas 2 negocios? Este es tu plan",
+      "primera_linea": "¿Llevas 2 negocios? Este es tu plan",
+      "estilo": "precio, black, cifra grande con 3 ítems",
+      "modela": {
+        "referencia": "Anuncio con filtro de público en la primera línea (mercado de Sky)",
+        "url": "https://www.facebook.com/ads/library/?id=1486536403346893",
+        "que_tomo": "el filtro de quién es el cliente antes de la oferta"
+      },
+      "carpeta": "2026-11-20",
+      "archivo": "05-post",
+      "qa_ticket": "8389d3cf-9661-4ebb-a9c5-4cf2e7637210"
+    },
+    {
+      "id": "2026-11-20-03-historia",
+      "fecha": "2026-11-20T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-20/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "pregunta de identidad del dueño",
+      "gancho": "¿Te pagas un sueldo o te llevas lo que sobra?",
+      "primera_linea": "¿Te pagas un sueldo o te llevas…",
+      "estilo": "pregunta, noche, titular grande con respuesta corta",
+      "modela": {
+        "referencia": "@alrinconoficial, postura contra el atajo",
+        "url": "https://www.tiktok.com/@alrinconoficial/video/7699918929115843861",
+        "que_tomo": "la pregunta que obliga a tomar postura"
+      },
+      "carpeta": "2026-11-20",
+      "archivo": "03-historia",
+      "qa_ticket": "92acbd15-950f-4515-87a3-1877593449da"
     }
   ]
 }
