@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 95 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 94 piezas agendadas.
 
 
 ## Lunes 2/11
-
-**12:00 — Carrusel** · educacion · `2026-11-02-02-carrusel`
-
-<img src="piezas/2026-11-02/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-02/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Te llega una transferencia y no sabes de quién.
-
-En 8 slides: compara con tus ventas, busca quién la mandó, no la gastes si no coincide, anótala en el pedido del cliente y registra siempre de quién y de qué. El ejemplo: una papelería con $70.000 que aparecen de más.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Kentra te muestra cada ingreso con categoría, fecha y nota. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-02-06-historia`
 
@@ -1040,9 +1023,9 @@ Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Fa
 
 ## Últimas publicadas
 
+- lunes 2/11 · 12:00 · Carrusel `2026-11-02-02-carrusel` · IG ✓ · FB ✓
 - lunes 2/11 · 10:00 · Post `2026-11-02-04-post` · IG ✓ · FB ✓
 - lunes 2/11 · 08:00 · Historia `2026-11-02-01-historia` · IG ✓ · FB ✓
 - domingo 1/11 · 19:00 · Historia `2026-11-01-03-historia` · IG ✓ · FB ✓
 - domingo 1/11 · 18:00 · Post `2026-11-01-05-post` · IG ✓ · FB ✓
 - domingo 1/11 · 12:00 · Carrusel `2026-11-01-02-carrusel` · IG ✓ · FB ✓
-- domingo 1/11 · 10:00 · Post `2026-11-01-04-post` · IG ✓ · FB ✓
