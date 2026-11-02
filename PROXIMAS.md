@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 96 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 95 piezas agendadas.
 
 
 ## Lunes 2/11
-
-**10:00 — Post** · educacion · `2026-11-02-04-post`
-
-<img src="piezas/2026-11-02/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Pagar hoy o en 30 días: la diferencia son $60.000.
-
-Una compra de $2.000.000 con 3 % de descuento por pronto pago cuesta $1.940.000 si pagas hoy. Conviene solo si ese dinero no lo necesitas esta semana para otros gastos.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Kentra te muestra cuánto entró, cuánto salió y cuánto te queda antes de decidir. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Proveedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-02-02-carrusel`
 
@@ -1057,9 +1040,9 @@ Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Fa
 
 ## Últimas publicadas
 
+- lunes 2/11 · 10:00 · Post `2026-11-02-04-post` · IG ✓ · FB ✓
 - lunes 2/11 · 08:00 · Historia `2026-11-02-01-historia` · IG ✓ · FB ✓
 - domingo 1/11 · 19:00 · Historia `2026-11-01-03-historia` · IG ✓ · FB ✓
 - domingo 1/11 · 18:00 · Post `2026-11-01-05-post` · IG ✓ · FB ✓
 - domingo 1/11 · 12:00 · Carrusel `2026-11-01-02-carrusel` · IG ✓ · FB ✓
 - domingo 1/11 · 10:00 · Post `2026-11-01-04-post` · IG ✓ · FB ✓
-- domingo 1/11 · 08:00 · Historia `2026-11-01-01-historia` · IG ✓ · FB ✓
