@@ -1,0 +1,14 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Resultados",
+ "titulo": "Un toque y sabes si estás ganando",
+ "captura": "movil-resultados.png",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "sub": "Ingresos, gastos y margen del mes en una pantalla.",
+ "recorte": "430px"
+}

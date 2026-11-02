@@ -1,0 +1,167 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "black",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "black",
+   "kicker": "Black November",
+   "titulo": "3 fugas de dinero que solo ves a fin de año",
+   "sub": "Ninguna se nota en el día. Todas suman en diciembre.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Gastos pequeños sin anotar",
+   "texto": "Domicilios, bolsas, recargas: $8.000 al día no parecen nada.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Al día",
+      "$8.000"
+     ],
+     [
+      "Al mes (26 días)",
+      "$208.000"
+     ],
+     [
+      "Al año",
+      "$2.496.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Fiados que nadie cobra",
+   "texto": "Un fiado de $35.000 a la semana que se queda en la memoria.",
+   "ejemplo": {
+    "filas": [
+     [
+      "A la semana",
+      "$35.000"
+     ],
+     [
+      "Al mes",
+      "$140.000"
+     ],
+     [
+      "Al año",
+      "$1.680.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Un precio que no sube con el costo",
+   "texto": "El insumo subió $1.500 y el producto sigue al mismo precio.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Por unidad",
+      "−$1.500"
+     ],
+     [
+      "Unidades al mes",
+      "300"
+     ],
+     [
+      "Al año",
+      "$5.400.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "dato",
+   "tema": "claro",
+   "titulo": "Lo que se fue sin que lo vieras",
+   "filas": [
+    {
+     "label": "Gastos",
+     "valor": "$2.496.000",
+     "color": "rojo"
+    },
+    {
+     "label": "Fiados",
+     "valor": "$1.680.000",
+     "color": "rojo"
+    },
+    {
+     "label": "Precio",
+     "valor": "$5.400.000",
+     "color": "rojo"
+    }
+   ],
+   "cierre": "En total, $9.576.000 que nunca viste.",
+   "kicker": "La suma del año"
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "titulo": "Así las frenas en Kentra",
+   "items": [
+    "Cada gasto en su categoría, con alerta",
+    "Deudas de clientes con recordatorio",
+    "Entró, salió y quedó en una vista"
+   ],
+   "cierre": "Las fugas se ven el mismo mes, no en diciembre."
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "cuenta": "Quedan 10 días",
+   "titulo": "El año de Kentra a precio de noviembre",
+   "planes": [
+    {
+     "plan": "Básico",
+     "antes": "US$99",
+     "precio": "US$79",
+     "periodo": "/año"
+    },
+    {
+     "plan": "Pro",
+     "antes": "US$149",
+     "precio": "US$119",
+     "periodo": "/año",
+     "destacado": true
+    },
+    {
+     "plan": "Business",
+     "antes": "US$199",
+     "precio": "US$159",
+     "periodo": "/año"
+    }
+   ],
+   "nota": "Kentra Priority de regalo el primer año."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Cierra las fugas antes de diciembre",
+   "items": [
+    "Gastos con alerta",
+    "Cobros con recordatorio",
+    "Oferta hasta el 30"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

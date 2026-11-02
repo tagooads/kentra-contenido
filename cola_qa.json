@@ -802,6 +802,251 @@
       "carpeta": "2026-11-20",
       "archivo": "03-historia",
       "qa_ticket": "92acbd15-950f-4515-87a3-1877593449da"
+    },
+    {
+      "id": "2026-11-21-04-post",
+      "fecha": "2026-11-21T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-21/04-post.jpg"
+      ],
+      "caption": "¿Te suena? El dinero del día entra al bolsillo y de ahí sale para todo: el almuerzo, el proveedor, la recarga.\n\nAl final del mes nadie sabe cuánto ganó el negocio ni cuánto se gastó la casa. El primer paso es separar: una caja para el negocio y un sueldo fijo para ti.\n\nBlack November: Kentra mensual con 40 % menos los 2 primeros meses.\nSepara las dos cuentas desde hoy. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "anécdota en primera persona",
+      "gancho": "«Yo guardaba el dinero de la caja en el mismo bolsillo»",
+      "primera_linea": "¿Te suena? El dinero del día entra…",
+      "estilo": "frase, marfil, tarjeta de cita centrada sin mascota",
+      "modela": {
+        "referencia": "@mesadirectiva_, anécdota de plata en la primera frase",
+        "url": "https://www.instagram.com/reel/De0Cy7OP2Tr",
+        "que_tomo": "la confesión propia como gancho de la primera línea"
+      },
+      "carpeta": "2026-11-21",
+      "archivo": "04-post",
+      "qa_ticket": "48ff7f64-a3c0-45be-b893-345d4722fc2c"
+    },
+    {
+      "id": "2026-11-21-02-carrusel",
+      "fecha": "2026-11-21T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-21/02-carrusel-1.jpg",
+        "piezas/2026-11-21/02-carrusel-2.jpg",
+        "piezas/2026-11-21/02-carrusel-3.jpg",
+        "piezas/2026-11-21/02-carrusel-4.jpg",
+        "piezas/2026-11-21/02-carrusel-5.jpg",
+        "piezas/2026-11-21/02-carrusel-6.jpg",
+        "piezas/2026-11-21/02-carrusel-7.jpg",
+        "piezas/2026-11-21/02-carrusel-8.jpg"
+      ],
+      "caption": "Las fugas de dinero no se notan en el día: se notan en diciembre.\n\nTres casos: $8.000 diarios en gastos sin anotar, un fiado de $35.000 por semana que nadie cobra y un insumo que subió $1.500 sin tocar el precio. En un año suman $9.576.000.\n\nBlack November: el año de Kentra desde US$79 con Kentra Priority de regalo el primer año.\nFrena las fugas este mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BlackNovember",
+      "pilar": "precio",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "BN: fugas de dinero del año + plan anual (8 slides)",
+      "gancho": "3 fugas de dinero que solo ves a fin de año",
+      "primera_linea": "Las fugas de dinero no se notan en el día…",
+      "estilo": "portada black con mascota + valor navy/claro + dato claro + lista navy + oferta black con 3 anuales + cierre verde",
+      "modela": {
+        "referencia": "Kame ERP, «Evita fugas de dinero» (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=1699285015247011",
+        "que_tomo": "la promesa de frenar fugas, aterrizada en 3 fugas con su cifra anual"
+      },
+      "carpeta": "2026-11-21",
+      "archivo": "02-carrusel",
+      "qa_ticket": "32fdb401-d117-4c86-923b-9f1d4e947659"
+    },
+    {
+      "id": "2026-11-21-05-post",
+      "fecha": "2026-11-21T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-21/05-post.jpg"
+      ],
+      "caption": "Un salón con la agenda llena puede cerrar el mes casi en cero.\n\nEntraron $7.400.000 y salieron $6.900.000 entre estilistas, productos, arriendo y luz: quedan $500.000, menos del 7 %. Antes de diciembre, revisa comisiones y el precio de los servicios con más producto.\n\nBlack November: Kentra Pro a US$12/mes los 2 primeros meses.\nMira tu margen real cada mes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes",
+      "pilar": "verticales",
+      "layout": "recibo",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "vertical: tiquete del mes de un salón",
+      "gancho": "Diciembre lleno y la caja vacía",
+      "primera_linea": "Un salón con la agenda llena puede cerrar…",
+      "estilo": "recibo, menta, tiquete centrado con total, sin mascota",
+      "modela": {
+        "referencia": "@valen.anaya.ra, nicho claro desde el texto",
+        "url": "https://www.instagram.com/reel/De4VrDAgwCZ",
+        "que_tomo": "el nicho dicho en la primera palabra de la pieza"
+      },
+      "carpeta": "2026-11-21",
+      "archivo": "05-post",
+      "qa_ticket": "f2db9c54-3a3c-4c0a-b69c-3fba56f73ae9"
+    },
+    {
+      "id": "2026-11-21-03-historia",
+      "fecha": "2026-11-21T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-21/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "captura real de la app (Resultados)",
+      "gancho": "Un toque y sabes si estás ganando",
+      "primera_linea": "Un toque y sabes si estás ganando",
+      "estilo": "captura, navy, celular con pantalla real recortada en la ganancia, sin mascota",
+      "modela": {
+        "referencia": "Chipax.com, «La rentabilidad de tu empresa en 1 clic» (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=2887608498265538",
+        "que_tomo": "la promesa de ver la rentabilidad en un toque, con la pantalla real"
+      },
+      "carpeta": "2026-11-21",
+      "archivo": "03-historia",
+      "qa_ticket": "1c8277bf-d9de-467c-9a3e-a7e9f3e105b2"
+    },
+    {
+      "id": "2026-11-22-04-post",
+      "fecha": "2026-11-22T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-22/04-post.jpg"
+      ],
+      "caption": "Antes de subir o bajar el precio de una torta, haz la cuenta completa.\n\nDe $60.000 salen $23.000 de insumos y decoración, $7.000 de caja, gas y luz y $12.000 de tus horas. Quedan $18.000: el 30 %. Sin contar tus horas parece el 50 %.\n\nBlack November: el año de Kentra desde US$79 con Kentra Priority de regalo el primer año.\nAnota cada costo por categoría. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pasteleria #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "pizarra",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "costeo de un producto en pizarra",
+      "gancho": "Una torta de $60.000: ¿cuánto te cuesta hacerla?",
+      "primera_linea": "Antes de subir o bajar el precio…",
+      "estilo": "pizarra, blanco, cuenta con resultado encerrado, sin mascota",
+      "modela": {
+        "referencia": "Kame ERP, «La receta de tu producción / Control total de tus insumos» (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=1122962730125146",
+        "que_tomo": "el costo de producción de una receta, por vertical"
+      },
+      "carpeta": "2026-11-22",
+      "archivo": "04-post",
+      "qa_ticket": "afce7608-d16b-4bae-8e56-f23ae6a8380f"
+    },
+    {
+      "id": "2026-11-22-02-carrusel",
+      "fecha": "2026-11-22T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-22/02-carrusel-1.jpg",
+        "piezas/2026-11-22/02-carrusel-2.jpg",
+        "piezas/2026-11-22/02-carrusel-3.jpg",
+        "piezas/2026-11-22/02-carrusel-4.jpg",
+        "piezas/2026-11-22/02-carrusel-5.jpg",
+        "piezas/2026-11-22/02-carrusel-6.jpg",
+        "piezas/2026-11-22/02-carrusel-7.jpg"
+      ],
+      "caption": "Un reto de 4 domingos para llegar a enero sabiendo cuánto ganaste en diciembre.\n\nDomingo 29: lo que entró. Domingo 6: lo que salió. Domingo 13: apartas $200.000 para enero. Domingo 20: comparas las semanas. Diez minutos cada vez.\n\nBlack November: Kentra mensual con 40 % menos los 2 primeros meses, hasta el 30.\nGuarda el reto y empieza hoy. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #RetoDeDiciembre",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "reto con plazo: 4 domingos (7 slides)",
+      "gancho": "Reto: 4 domingos para cerrar el año sabiendo cuánto ganaste",
+      "primera_linea": "Un reto de 4 domingos para llegar a enero…",
+      "estilo": "portada verde oscuro con mascota + valor navy/claro alternado + lista navy + cierre verde",
+      "modela": {
+        "referencia": "@lourdescampooficial, reto con cifra y plazo",
+        "url": "https://www.instagram.com/reel/De2JR2wh9oN",
+        "que_tomo": "el reto con fechas concretas y una cifra para apartar"
+      },
+      "carpeta": "2026-11-22",
+      "archivo": "02-carrusel",
+      "qa_ticket": "b0d0596c-f496-45ce-befe-2f0e04220aa7"
+    },
+    {
+      "id": "2026-11-22-05-post",
+      "fecha": "2026-11-22T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-22/05-post.jpg"
+      ],
+      "caption": "Las dos preguntas que más llegan sobre Black November.\n\nLa oferta va hasta el 30 de noviembre: mensual con 40 % menos los 2 primeros meses o anual desde US$79 con Kentra Priority de regalo el primer año. Y por cada dueño que invites y pague, sumas 1 mes sin costo.\n\nElige tu plan antes del 30. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
+      "pilar": "precio",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "BN: preguntas frecuentes en chat (oferta + referidos)",
+      "gancho": "Lo que más nos preguntan esta semana",
+      "primera_linea": "Las dos preguntas que más llegan…",
+      "estilo": "chat, black, cuatro burbujas con cierre",
+      "modela": {
+        "referencia": "@ximena.dav19, capturas de chat con clienta",
+        "url": "https://www.tiktok.com/@ximena.dav19/video/7700024211150195989",
+        "que_tomo": "la conversación de WhatsApp como formato para responder dudas"
+      },
+      "carpeta": "2026-11-22",
+      "archivo": "05-post",
+      "qa_ticket": "4738735b-d2e3-45bd-ae11-33305b98a40a"
+    },
+    {
+      "id": "2026-11-22-03-historia",
+      "fecha": "2026-11-22T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-22/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "mito",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "version": 1,
+      "formato": "mito vs realidad (objeción de tamaño)",
+      "gancho": "«Mi negocio es muy pequeño para llevar cuentas»",
+      "primera_linea": "«Mi negocio es muy pequeño…»",
+      "estilo": "mito, blanco, dos cajas apiladas con título, sin mascota",
+      "modela": {
+        "referencia": "Naimi Núñez, filtro «para empresarias que facturan +$20K/mes» (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=1486536403346893",
+        "que_tomo": "el filtro de público al revés: no hace falta facturar mucho para necesitarlo"
+      },
+      "carpeta": "2026-11-22",
+      "archivo": "03-historia",
+      "qa_ticket": "e8e50626-9b42-4456-987c-877f945ecc47"
     }
   ]
 }

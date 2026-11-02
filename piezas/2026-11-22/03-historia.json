@@ -1,0 +1,13 @@
+{
+ "layout": "mito",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "¿Muy pequeño?",
+ "titulo": "«Mi negocio es muy pequeño para llevar cuentas»",
+ "mito": "Las cuentas son para empresas grandes.",
+ "realidad": "Si entra y sale dinero cada mes, ya necesitas saber **cuánto te queda**. Más si es poco.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

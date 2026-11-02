@@ -1,0 +1,38 @@
+{
+ "layout": "pizarra",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Pastelería",
+ "titulo": "Una torta de $60.000: ¿cuánto te cuesta hacerla?",
+ "lineas": [
+  [
+   "Precio de venta",
+   "$60.000"
+  ],
+  [
+   "Insumos y decoración",
+   "−$23.000",
+   "rojo"
+  ],
+  [
+   "Caja, gas y luz",
+   "−$7.000",
+   "rojo"
+  ],
+  [
+   "Tus horas de trabajo",
+   "−$12.000",
+   "rojo"
+  ],
+  [
+   "Te queda",
+   "$18.000",
+   "res"
+  ]
+ ],
+ "nota": "30 % de ganancia. Sin contar tus horas, parece el 50 %.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

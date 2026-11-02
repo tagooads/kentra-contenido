@@ -1,0 +1,139 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verdeoscuro",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "verdeoscuro",
+   "kicker": "Reto de diciembre",
+   "titulo": "4 domingos para cerrar el año sabiendo cuánto ganaste",
+   "sub": "10 minutos cada domingo. Empieza hoy.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Domingo 29 nov: lo que entró",
+   "texto": "Suma las ventas de la semana: efectivo, transferencia y tarjeta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Efectivo",
+      "$1.100.000"
+     ],
+     [
+      "Transferencia",
+      "$900.000"
+     ],
+     [
+      "Total",
+      "$2.000.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Domingo 6 dic: lo que salió",
+   "texto": "Mercancía, gastos fijos y lo que sacaste para ti.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Mercancía",
+      "$900.000"
+     ],
+     [
+      "Gastos fijos",
+      "$450.000"
+     ],
+     [
+      "Retiros tuyos",
+      "$250.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Domingo 13 dic: aparta para enero",
+   "texto": "Antes de gastar, separa una parte: enero casi siempre es flojo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "13 de diciembre",
+      "$200.000"
+     ],
+     [
+      "20 de diciembre",
+      "$200.000"
+     ],
+     [
+      "Listo para enero",
+      "$400.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "Domingo 20 dic: compara semanas",
+   "texto": "Mira qué semana te dejó más y por qué.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Semana del 29 nov",
+      "$400.000"
+     ],
+     [
+      "Semana del 13 dic",
+      "$520.000"
+     ],
+     [
+      "Diferencia",
+      "+$120.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "titulo": "Así lo llevas en Kentra",
+   "items": [
+    "Ventas y gastos por categoría",
+    "Entró, salió y quedó en una vista",
+    "Un recordatorio para cada domingo"
+   ],
+   "cierre": "Diez minutos y el domingo queda cerrado."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Empieza el reto hoy",
+   "items": [
+    "10 minutos por domingo",
+    "Tu ganancia de diciembre clara",
+    "Oferta hasta el 30"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

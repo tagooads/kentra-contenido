@@ -1,0 +1,31 @@
+{
+ "layout": "chat",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Black November",
+ "titulo": "Lo que más nos preguntan esta semana",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "¿Hasta cuándo va la oferta?"
+  ],
+  [
+   "yo",
+   "Hasta el 30. El anual va desde US$79."
+  ],
+  [
+   "cliente",
+   "¿Y si le cuento a otro dueño?"
+  ],
+  [
+   "yo",
+   "Por cada referido que pague, sumas 1 mes sin costo."
+  ]
+ ],
+ "cierre": "Mensual: 40 % menos los 2 primeros meses.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

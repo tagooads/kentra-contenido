@@ -1,0 +1,40 @@
+{
+ "layout": "recibo",
+ "formato": "post",
+ "tema": "menta",
+ "kicker": "Salón de belleza",
+ "titulo": "Diciembre lleno y la caja vacía",
+ "negocio": "Salón Bella Vista",
+ "items": [
+  [
+   "Ventas del mes",
+   "$7.400.000",
+   "verde"
+  ],
+  [
+   "Estilistas",
+   "−$2.900.000",
+   "rojo"
+  ],
+  [
+   "Productos",
+   "−$2.300.000",
+   "rojo"
+  ],
+  [
+   "Arriendo y luz",
+   "−$1.700.000",
+   "rojo"
+  ]
+ ],
+ "total": [
+  "Te queda",
+  "$500.000"
+ ],
+ "pie": "Menos del 7 % de ganancia.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "marcaAgua": false
+}
