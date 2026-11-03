@@ -4143,7 +4143,13 @@
       },
       "carpeta": "2026-11-02",
       "archivo": "03-historia",
-      "qa_ticket": "89e1f066-d2c6-4cc8-ae3d-4df49f3395f9"
+      "qa_ticket": "89e1f066-d2c6-4cc8-ae3d-4df49f3395f9",
+      "media_id": "18200752120388029",
+      "publicado_ig": true,
+      "fb_post_id": "1077269205294784",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-03T00:03:06.486Z"
     },
     {
       "id": "2026-11-03-01-historia",
