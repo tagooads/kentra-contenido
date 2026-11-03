@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 101 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 100 piezas agendadas.
 
 
 ## Martes 3/11
-
-**18:00 — Post** · ganancia-real · `2026-11-03-05-post`
-
-<img src="piezas/2026-11-03/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cerrar el mes de memoria no es lo mismo que cerrarlo con cuentas.
-
-Antes: revisas el banco, sumas lo que recuerdas y adivinas lo que sobró. Después: anotas cada venta el mismo día, ves tu ganancia real del mes y decides con números.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Kentra te muestra lo que entró, lo que salió y lo que te quedó. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #CierreDeMes
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-11-03-03-historia`
 
@@ -1115,9 +1098,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- martes 3/11 · 18:00 · Post `2026-11-03-05-post` · IG ✓ · FB ✓
 - martes 3/11 · 15:00 · Historia `2026-11-03-06-historia` · IG ✓ · FB ✓
 - martes 3/11 · 12:00 · Carrusel `2026-11-03-02-carrusel` · IG ✓ · FB ✓
 - martes 3/11 · 10:00 · Post `2026-11-03-04-post` · IG ✓ · FB ✓
 - martes 3/11 · 08:00 · Historia `2026-11-03-01-historia` · IG ✓ · FB ✓
 - lunes 2/11 · 19:00 · Historia `2026-11-02-03-historia` · IG ✓ · FB ✓
-- lunes 2/11 · 18:00 · Post `2026-11-02-05-post` · IG ✓ · FB ✓
