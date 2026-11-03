@@ -122,7 +122,6 @@
   {
    "layout": "oferta",
    "tema": "black",
-   "cuenta": "Quedan 10 días",
    "titulo": "El año de Kentra a precio de noviembre",
    "planes": [
     {
@@ -145,7 +144,8 @@
      "periodo": "/año"
     }
    ],
-   "nota": "Kentra Priority de regalo el primer año."
+   "nota": "Kentra Priority de regalo el primer año.",
+   "kicker": "Quedan 10 días"
   },
   {
    "layout": "mascota",

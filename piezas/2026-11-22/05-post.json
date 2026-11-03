@@ -3,7 +3,7 @@
  "formato": "post",
  "tema": "black",
  "kicker": "Black November",
- "titulo": "Lo que más nos preguntan esta semana",
+ "titulo": "Lo que más nos preguntan",
  "nombre": "Cliente",
  "chat": [
   [
@@ -23,7 +23,7 @@
    "Por cada referido que pague, sumas 1 mes sin costo."
   ]
  ],
- "cierre": "Mensual: 40 % menos los 2 primeros meses.",
+ "cierre": "Mensual: 40 % menos 2 meses.",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 91 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 105 piezas agendadas.
 
 
 ## Martes 3/11
@@ -929,6 +929,23 @@ Mira lo que te deja cada venta. 👉 [link de la bio en Instagram / link con UTM
 
 <img src="piezas/2026-11-17/01-historia.jpg" width="160">
 
+**10:00 — Post** · educacion · `2026-11-17-04-post`
+
+<img src="piezas/2026-11-17/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+En temporada más clientes pagan con tarjeta, y cada venta te deja menos de lo que marca la caja.
+
+Si vendes $6.000.000 con tarjeta y la comisión es del 3,5 %, $210.000 no llegan a tu cuenta. Anótalos como gasto para ver tu ganancia real.
+
+Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
+Cuenta también lo que se queda en el camino. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
+
+</details>
+
 **12:00 — Carrusel** · educacion · `2026-11-17-02-carrusel`
 
 <img src="piezas/2026-11-17/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-8.jpg" width="220">
@@ -973,12 +990,53 @@ Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Fa
 
 <img src="piezas/2026-11-18/01-historia.jpg" width="160">
 
+**18:00 — Post** · precio · `2026-11-18-05-post`
+
+<img src="piezas/2026-11-18/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Tu recomendación tiene valor y en Kentra se nota.
+
+Invita y gana: por cada dueño de negocio que llegue por ti, se suscriba y pague, tú sumas 1 mes sin costo. Además, en Black November el anual va desde US$79 con Kentra Priority de regalo el primer año.
+
+Piensa en quién lo necesita y mándaselo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-11-18-03-historia`
+
+<img src="piezas/2026-11-18/03-historia.jpg" width="160">
+
 
 ## Jueves 19/11
 
 **08:00 — Historia** · precio · `2026-11-19-01-historia`
 
 <img src="piezas/2026-11-19/01-historia.jpg" width="160">
+
+**18:00 — Post** · ganancia-real · `2026-11-19-05-post`
+
+<img src="piezas/2026-11-19/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Ver $6.200.000 en el banco no significa que puedas gastarlos.
+
+Si debes $4.100.000 entre proveedores, arriendo y cuotas, lo tuyo son $2.100.000: una tercera parte.
+
+Este mes Kentra Pro está a US$12/mes los 2 primeros meses.
+Separa lo que ya tiene dueño. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · funcionalidades · `2026-11-19-03-historia`
+
+<img src="piezas/2026-11-19/03-historia.jpg" width="160">
 
 
 ## Viernes 20/11
@@ -987,12 +1045,114 @@ Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Fa
 
 <img src="piezas/2026-11-20/01-historia.jpg" width="160">
 
+**12:00 — Carrusel** · kentra-vs-excel · `2026-11-20-02-carrusel`
+
+<img src="piezas/2026-11-20/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-20/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El 30 de noviembre llega igual para todos. La diferencia es con qué lo cierras.
+
+Un mes de $9.800.000 en ventas y $7.350.000 en gastos (mercancía, arriendo y $800.000 en comisiones que la libreta olvida) deja $2.450.000. Con ese número repartes sueldo, mercancía de diciembre y colchón.
+
+En noviembre, 40 % menos los 2 primeros meses. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-20-05-post`
+
+<img src="piezas/2026-11-20/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Si llevas dos negocios, cada uno merece sus propios números.
+
+Kentra Pro: hasta 2 negocios, cada uno con su moneda, 1 usuario extra, importación con IA e inventario. En Black November cuesta US$12/mes los 2 primeros meses y luego US$20/mes.
+
+Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-11-20-03-historia`
+
+<img src="piezas/2026-11-20/03-historia.jpg" width="160">
+
+
+## Sábado 21/11
+
+**08:00 — Historia** · precio · `2026-11-21-01-historia`
+
+<img src="piezas/2026-11-21/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-11-21-04-post`
+
+<img src="piezas/2026-11-21/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Te suena? El dinero del día entra al bolsillo y de ahí sale para todo: el almuerzo, el proveedor, la recarga.
+
+Al final del mes nadie sabe cuánto ganó el negocio ni cuánto se gastó la casa. El primer paso es separar: una caja para el negocio y un sueldo fijo para ti.
+
+Black November: Kentra mensual con 40 % menos los 2 primeros meses.
+Separa las dos cuentas desde hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**18:00 — Post** · verticales · `2026-11-21-05-post`
+
+<img src="piezas/2026-11-21/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Un salón con la agenda llena puede cerrar el mes casi en cero.
+
+Entraron $7.400.000 y salieron $6.900.000 entre estilistas, productos, arriendo y luz: quedan $500.000, menos del 7 %. Antes de diciembre, revisa comisiones y el precio de los servicios con más producto.
+
+Black November: Kentra Pro a US$12/mes los 2 primeros meses.
+Mira tu margen real cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes
+
+</details>
+
+**19:00 — Historia** · funcionalidades · `2026-11-21-03-historia`
+
+<img src="piezas/2026-11-21/03-historia.jpg" width="160">
+
 
 ## Domingo 22/11
 
 **08:00 — Historia** · precio · `2026-11-22-01-historia`
 
 <img src="piezas/2026-11-22/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-11-22-04-post`
+
+<img src="piezas/2026-11-22/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Antes de subir o bajar el precio de una torta, haz la cuenta completa.
+
+De $60.000 salen $23.000 de insumos y decoración, $7.000 de caja, gas y luz y $12.000 de tus horas. Quedan $18.000: el 30 %. Sin contar tus horas parece el 50 %.
+
+Black November: el año de Kentra desde US$79 con Kentra Priority de regalo el primer año.
+Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pasteleria #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · objeciones · `2026-11-22-03-historia`
+
+<img src="piezas/2026-11-22/03-historia.jpg" width="160">
 
 
 ## Últimas publicadas
