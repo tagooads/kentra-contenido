@@ -1,24 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 98 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 97 piezas agendadas.
 
 
 ## Miércoles 4/11
-
-**10:00 — Post** · ganancia-real · `2026-11-04-04-post`
-
-<img src="piezas/2026-11-04/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Entraron $2.400.000 y te pagaste $288.000. ¿Te suena?
-Así se reparte una semana en un comercio pequeño: 40 % insumos, 25 % nómina, 15 % arriendo y servicios, 8 % apartado para impuestos y 12 % para el dueño.
-Ver el reparto cada semana es lo que evita gastarte lo que no es tuyo.
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Mira el reparto de tu dinero en una pantalla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-04-02-carrusel`
 
@@ -1087,9 +1072,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- miércoles 4/11 · 10:00 · Post `2026-11-04-04-post` · IG ✓ · FB ✓
 - miércoles 4/11 · 08:00 · Historia `2026-11-04-01-historia` · IG ✓ · FB ✓
 - martes 3/11 · 19:00 · Historia `2026-11-03-03-historia` · IG ✓ · FB ✓
 - martes 3/11 · 18:00 · Post `2026-11-03-05-post` · IG ✓ · FB ✓
 - martes 3/11 · 15:00 · Historia `2026-11-03-06-historia` · IG ✓ · FB ✓
 - martes 3/11 · 12:00 · Carrusel `2026-11-03-02-carrusel` · IG ✓ · FB ✓
-- martes 3/11 · 10:00 · Post `2026-11-03-04-post` · IG ✓ · FB ✓
