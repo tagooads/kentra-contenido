@@ -1,23 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 97 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 96 piezas agendadas.
 
 
 ## Miércoles 4/11
-
-**12:00 — Carrusel** · educacion · `2026-11-04-02-carrusel`
-
-<img src="piezas/2026-11-04/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-04/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cobrar incomoda más que vender. Estas 5 frases lo arreglan.
-Para cuando se pasó la fecha, cuando dicen «la próxima semana», cuando piden plazo, cuando se ofenden y antes de entregar. Guárdalo para el próximo cobro difícil.
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Lleva tus cuentas por cobrar con alerta en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer #Pymes
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-04-06-historia`
 
@@ -1072,9 +1058,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- miércoles 4/11 · 12:00 · Carrusel `2026-11-04-02-carrusel` · IG ✓ · FB ✓
 - miércoles 4/11 · 10:00 · Post `2026-11-04-04-post` · IG ✓ · FB ✓
 - miércoles 4/11 · 08:00 · Historia `2026-11-04-01-historia` · IG ✓ · FB ✓
 - martes 3/11 · 19:00 · Historia `2026-11-03-03-historia` · IG ✓ · FB ✓
 - martes 3/11 · 18:00 · Post `2026-11-03-05-post` · IG ✓ · FB ✓
 - martes 3/11 · 15:00 · Historia `2026-11-03-06-historia` · IG ✓ · FB ✓
-- martes 3/11 · 12:00 · Carrusel `2026-11-03-02-carrusel` · IG ✓ · FB ✓
