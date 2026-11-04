@@ -104,6 +104,26 @@ async function publicarFacebook(pieza) {
   return r.post_id || r.id;
 }
 
+// ---------- Antiduplicados ----------
+// Si una pieza ya está en la cuenta (mismo texto, publicada desde su hora programada), no se vuelve a publicar.
+const normal = (t) => (t || "").replace(/\s+/g, " ").trim();
+let recientesIG = null, recientesFB = null;
+async function yaEnInstagram(pieza) {
+  if (pieza.tipo === "historia" || !pieza.caption) return null;
+  recientesIG ??= (await api(`${IG_USER_ID}/media`, { fields: "id,caption,timestamp", limit: "25" }, { method: "GET" }).catch(() => ({}))).data || [];
+  const texto = normal(captionPara(pieza, "instagram")), desde = Date.parse(pieza.fecha) - 3600e3;
+  return recientesIG.find((m) => normal(m.caption) === texto && Date.parse(m.timestamp) >= desde)?.id || null;
+}
+async function yaEnFacebook(pieza) {
+  if (pieza.tipo === "historia" || !pieza.caption) return null;
+  if (!recientesFB) {
+    const t = await tokenPagina();
+    recientesFB = (await api(`${FB_PAGE_ID}/published_posts`, { fields: "id,message,created_time", limit: "25" }, { method: "GET", token: t }).catch(() => ({}))).data || [];
+  }
+  const texto = normal(captionPara(pieza, "facebook")), desde = Date.parse(pieza.fecha) - 3600e3;
+  return recientesFB.find((m) => normal(m.message) === texto && Date.parse(m.created_time) >= desde)?.id || null;
+}
+
 // ---------- Recorrido del calendario ----------
 const calendario = JSON.parse(await readFile("calendario.json", "utf8"));
 const ahora = Date.now();
@@ -122,8 +142,16 @@ for (const pieza of calendario.piezas) {
   const destinos = (pieza.destinos || ["instagram", "facebook"]).filter((d) => d !== "facebook" || FB_PAGE_ID);
   const errores = [];
   if (destinos.includes("instagram") && !pieza.publicado_ig) {
+    try { const ya = await yaEnInstagram(pieza); if (ya) { pieza.media_id = ya; pieza.publicado_ig = true; console.log(`↩️ IG ${pieza.id} ya estaba publicada (${ya}); no se repite`); } }
+    catch (e) { console.error(`Aviso antiduplicados IG: ${e.message}`); }
+  }
+  if (destinos.includes("instagram") && !pieza.publicado_ig) {
     try { pieza.media_id = await publicarInstagram(pieza); pieza.publicado_ig = true; console.log(`✅ IG ${pieza.id} (${pieza.media_id})`); }
     catch (e) { errores.push(`IG: ${e.message}`); }
+  }
+  if (destinos.includes("facebook") && !pieza.publicado_fb) {
+    try { const ya = await yaEnFacebook(pieza); if (ya) { pieza.fb_post_id = ya; pieza.publicado_fb = true; console.log(`↩️ FB ${pieza.id} ya estaba publicada (${ya}); no se repite`); } }
+    catch (e) { console.error(`Aviso antiduplicados FB: ${e.message}`); }
   }
   if (destinos.includes("facebook") && !pieza.publicado_fb) {
     try { pieza.fb_post_id = await publicarFacebook(pieza); pieza.publicado_fb = true; console.log(`✅ FB ${pieza.id} (${pieza.fb_post_id})`); }

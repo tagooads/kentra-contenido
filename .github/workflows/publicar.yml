@@ -21,6 +21,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+      # Una corrida que esperó en cola trae el commit del momento en que la dispararon. Antes de publicar
+      # se trae el calendario más reciente para no repetir lo que la corrida anterior ya publicó.
+      - name: Traer el último estado de main
+        run: git fetch -q origin main && git reset -q --hard origin/main
       - uses: actions/setup-node@v4
         with:
           node-version: 20
