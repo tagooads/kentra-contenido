@@ -1,28 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 95 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 94 piezas agendadas.
 
 
 ## Miércoles 4/11
-
-**18:00 — Post** · ganancia-real · `2026-11-04-05-post`
-
-<img src="piezas/2026-11-04/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-«Como $5.000… creo» es la frase más cara de un negocio.
-
-La vela a $8.000 cuesta $6.400 entre cera, mecha, frasco, etiqueta y tu hora: quedan $1.600. A $11.000 quedan $4.600.
-
-El precio a ojo no es un precio, es una apuesta.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Haz la cuenta de cada producto en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Creativos #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-11-04-03-historia`
 
@@ -1054,9 +1035,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- miércoles 4/11 · 18:00 · Post `2026-11-04-05-post` · IG ✓ · FB ✓
 - miércoles 4/11 · 15:00 · Historia `2026-11-04-06-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 12:00 · Carrusel `2026-11-04-02-carrusel` · IG ✓ · FB ✓
 - miércoles 4/11 · 10:00 · Post `2026-11-04-04-post` · IG ✓ · FB ✓
 - miércoles 4/11 · 08:00 · Historia `2026-11-04-01-historia` · IG ✓ · FB ✓
 - martes 3/11 · 19:00 · Historia `2026-11-03-03-historia` · IG ✓ · FB ✓
-- martes 3/11 · 18:00 · Post `2026-11-03-05-post` · IG ✓ · FB ✓
