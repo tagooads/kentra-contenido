@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
 
 
 ## Jueves 5/11
-
-**18:00 — Post** · educacion · `2026-11-05-05-post`
-
-<img src="piezas/2026-11-05/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Lo que vence no avisa, pero se puede anotar.
-
-Los pagos a proveedores y las deudas tienen fecha. Si los anotas con su día, el lunes ya sabes qué viene.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-En Kentra puedes guardar recordatorios con fecha límite y recibir avisos antes de que venzan. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · objeciones · `2026-11-05-03-historia`
 
@@ -984,9 +967,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- jueves 5/11 · 18:00 · Post `2026-11-05-05-post` · IG ✓ · FB ✓
 - jueves 5/11 · 15:00 · Historia `2026-11-05-06-historia` · IG ✓ · FB ✓
 - jueves 5/11 · 12:00 · Carrusel `2026-11-05-02-carrusel` · IG ✓ · FB ✓
 - jueves 5/11 · 10:00 · Post `2026-11-05-04-post` · IG ✓ · FB ✓
 - jueves 5/11 · 08:00 · Historia `2026-11-05-01-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 19:00 · Historia `2026-11-04-03-historia` · IG ✓ · FB ✓
-- miércoles 4/11 · 18:00 · Post `2026-11-04-05-post` · IG ✓ · FB ✓
