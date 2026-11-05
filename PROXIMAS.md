@@ -1,28 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 92 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 91 piezas agendadas.
 
 
 ## Jueves 5/11
-
-**10:00 — Post** · ganancia-real · `2026-11-05-04-post`
-
-<img src="piezas/2026-11-05/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-«Facturamos $50 millones al mes.» ¿Y cuánto le queda?
-
-Cuando un emprendedor presenta su negocio casi siempre dice cuánto vende. Casi nunca cuánto le queda. En este ejemplo: $1.200.000, el 2,4 %.
-
-Facturar no es ganar. Crecer tampoco, si el margen no alcanza.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-¿Cuánto te queda a ti? Mira tu margen real en minutos. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-05-02-carrusel`
 
@@ -1024,9 +1005,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- jueves 5/11 · 10:00 · Post `2026-11-05-04-post` · IG ✓ · FB ✓
 - jueves 5/11 · 08:00 · Historia `2026-11-05-01-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 19:00 · Historia `2026-11-04-03-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 18:00 · Post `2026-11-04-05-post` · IG ✓ · FB ✓
 - miércoles 4/11 · 15:00 · Historia `2026-11-04-06-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 12:00 · Carrusel `2026-11-04-02-carrusel` · IG ✓ · FB ✓
-- miércoles 4/11 · 10:00 · Post `2026-11-04-04-post` · IG ✓ · FB ✓
