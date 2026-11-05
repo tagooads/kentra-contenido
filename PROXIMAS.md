@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 91 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 90 piezas agendadas.
 
 
 ## Jueves 5/11
-
-**12:00 — Carrusel** · educacion · `2026-11-05-02-carrusel`
-
-<img src="piezas/2026-11-05/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-05/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Cuánto te cuesta un cliente nuevo?
-
-Un caso: $200.000 en publicidad traen 8 clientes de $45.000. Con 30 % de margen te dejan $108.000 y quedas $92.000 abajo; para recuperar la inversión necesitas 15 clientes.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Lleva la publicidad como una categoría y mira tu ganancia real en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Publicidad #Pymes
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-05-06-historia`
 
@@ -1005,9 +988,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- jueves 5/11 · 12:00 · Carrusel `2026-11-05-02-carrusel` · IG ✓ · FB ✓
 - jueves 5/11 · 10:00 · Post `2026-11-05-04-post` · IG ✓ · FB ✓
 - jueves 5/11 · 08:00 · Historia `2026-11-05-01-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 19:00 · Historia `2026-11-04-03-historia` · IG ✓ · FB ✓
 - miércoles 4/11 · 18:00 · Post `2026-11-04-05-post` · IG ✓ · FB ✓
 - miércoles 4/11 · 15:00 · Historia `2026-11-04-06-historia` · IG ✓ · FB ✓
-- miércoles 4/11 · 12:00 · Carrusel `2026-11-04-02-carrusel` · IG ✓ · FB ✓
