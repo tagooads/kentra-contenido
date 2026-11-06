@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
 
 
 ## Viernes 6/11
-
-**18:00 — Post** · funcionalidades · `2026-11-06-05-post`
-
-<img src="piezas/2026-11-06/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-POV: tienes una tienda y te llegan 80 movimientos del banco.
-
-Antes: digitas movimiento por movimiento. Después: subes tu extracto (CSV o Excel) o tus facturas y Kentra los registra con IA; tú solo revisas. Disponible en los planes Pro y Business.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Pro desde $20/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #TiendaOnline
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-11-06-03-historia`
 
@@ -1000,9 +983,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- viernes 6/11 · 18:00 · Post `2026-11-06-05-post` · IG ✓ · FB ✓
 - viernes 6/11 · 15:00 · Historia `2026-11-06-06-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 12:00 · Carrusel `2026-11-06-02-carrusel` · IG ✓ · FB ✓
 - viernes 6/11 · 10:00 · Post `2026-11-06-04-post` · IG ✓ · FB ✓
 - viernes 6/11 · 08:00 · Historia `2026-11-06-01-historia` · IG ✓ · FB ✓
 - jueves 5/11 · 19:00 · Historia `2026-11-05-03-historia` · IG ✓ · FB ✓
-- jueves 5/11 · 18:00 · Post `2026-11-05-05-post` · IG ✓ · FB ✓
