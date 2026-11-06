@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 85 piezas agendadas.
 
 
 ## Viernes 6/11
-
-**10:00 — Post** · verticales · `2026-11-06-04-post`
-
-<img src="piezas/2026-11-06/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Lo que se pierde también se paga.
-
-Un restaurante: compró $4.000.000 en insumos y desperdició el 6 %, es decir $240.000. Lo que sí usó fueron $3.760.000.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Kentra te ayuda a ver en qué categoría se va tu dinero cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-06-02-carrusel`
 
@@ -956,9 +939,9 @@ Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UT
 
 ## Últimas publicadas
 
+- viernes 6/11 · 10:00 · Post `2026-11-06-04-post` · IG ✓ · FB ✓
 - viernes 6/11 · 08:00 · Historia `2026-11-06-01-historia` · IG ✓ · FB ✓
 - jueves 5/11 · 19:00 · Historia `2026-11-05-03-historia` · IG ✓ · FB ✓
 - jueves 5/11 · 18:00 · Post `2026-11-05-05-post` · IG ✓ · FB ✓
 - jueves 5/11 · 15:00 · Historia `2026-11-05-06-historia` · IG ✓ · FB ✓
 - jueves 5/11 · 12:00 · Carrusel `2026-11-05-02-carrusel` · IG ✓ · FB ✓
-- jueves 5/11 · 10:00 · Post `2026-11-05-04-post` · IG ✓ · FB ✓
