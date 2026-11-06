@@ -7064,6 +7064,71 @@
       "qa_ticket": "b98fd2f8-c309-411b-bea4-773e8e1feefa"
     },
     {
+      "id": "2026-11-18-04-post",
+      "fecha": "2026-11-18T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-18/04-post.jpg"
+      ],
+      "caption": "En diciembre todos quieren llevar ahora y pagar después.\n\nUn fiado de $180.000 con fecha (15 de diciembre) se cobra. El mismo fiado sin fecha se queda en «cuando pueda».\n\nBlack November: Kentra Pro a US$12/mes los 2 primeros meses.\nAnota cada fiado con su fecha. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "pilar": "objeciones",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "formato": "chat con cliente que pide fiado",
+      "gancho": "«¿Me lo dejas fiado hasta diciembre?»",
+      "primera_linea": "«¿Me lo dejas fiado hasta diciembre?»",
+      "estilo": "chat, blanco, cuatro burbujas con cierre",
+      "modela": {
+        "referencia": "@floristeria_bel_fiori, captura de conversación con cliente y humor",
+        "url": "https://www.instagram.com/reel/De0Gr0WsZX9",
+        "que_tomo": "el formato de chat real con el cliente y el remate en una línea"
+      },
+      "carpeta": "2026-11-18",
+      "archivo": "04-post",
+      "qa_ticket": "9c3bf9f1-60ab-4fcf-be04-721e1c86397a"
+    },
+    {
+      "id": "2026-11-18-02-carrusel",
+      "fecha": "2026-11-18T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-18/02-carrusel-1.jpg",
+        "piezas/2026-11-18/02-carrusel-2.jpg",
+        "piezas/2026-11-18/02-carrusel-3.jpg",
+        "piezas/2026-11-18/02-carrusel-4.jpg",
+        "piezas/2026-11-18/02-carrusel-5.jpg",
+        "piezas/2026-11-18/02-carrusel-6.jpg",
+        "piezas/2026-11-18/02-carrusel-7.jpg",
+        "piezas/2026-11-18/02-carrusel-8.jpg"
+      ],
+      "caption": "Subir el precio a ojo te come el margen. Subirlo con la cuenta lo protege.\n\nPaso a paso: el costo pasa de $20.000 a $22.400, el margen baja de $15.000 a $12.600 y un precio de $37.800 lo recupera. Con 47 ventas en vez de 50 te quedan $723.800 en lugar de $630.000.\n\nEn noviembre, el plan anual de Kentra va desde US$79.\nGuarda este paso a paso. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "formato": "tutorial con cuenta: precio de temporada",
+      "gancho": "Cómo subir precios en diciembre sin perder margen",
+      "primera_linea": "Cómo subir precios en diciembre…",
+      "estilo": "portada verde con mascota sin píldora, valor claro/navy alternado, lista, cierre verde",
+      "modela": {
+        "referencia": "@benjamin.negocia, precio no redondo calculado con la cuenta",
+        "url": "https://www.instagram.com/reel/De15o0eivCE",
+        "que_tomo": "el precio exacto que sale de la cuenta en vez de un número redondo"
+      },
+      "carpeta": "2026-11-18",
+      "archivo": "02-carrusel",
+      "qa_ticket": "0f25c771-d9e4-451e-94cf-645281395cbb"
+    },
+    {
       "id": "2026-11-18-05-post",
       "fecha": "2026-11-18T18:00:00-05:00",
       "tipo": "post",
@@ -7151,6 +7216,71 @@
       "qa_ticket": "d8f0346d-0913-4f2e-a28d-e8c6b407099d"
     },
     {
+      "id": "2026-11-19-04-post",
+      "fecha": "2026-11-19T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-19/04-post.jpg"
+      ],
+      "caption": "Quedan 12 días de noviembre y todavía puedes corregir el mes.\n\nSuma lo que entró, resta lo que ya salió y aparta lo que viene en diciembre. Lo que queda es lo que puedes gastar sin miedo.\n\nBlack November: 40 % menos los 2 primeros meses en cualquier plan.\nHaz la cuenta hoy. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "educacion",
+      "layout": "tip",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "formato": "serie Día N con pasos",
+      "gancho": "Día 19 de noviembre: la cuenta de hoy decide tu diciembre",
+      "primera_linea": "Día 19 de noviembre",
+      "estilo": "tip, marfil, 4 pasos numerados",
+      "modela": {
+        "referencia": "@elpiky___, serie numerada por día",
+        "url": "https://www.instagram.com/reel/De0dgf9O1C-",
+        "que_tomo": "el «Día N» como serie que se sigue"
+      },
+      "carpeta": "2026-11-19",
+      "archivo": "04-post",
+      "qa_ticket": "ebfe702c-bc72-476c-830a-5d491e40f91c"
+    },
+    {
+      "id": "2026-11-19-02-carrusel",
+      "fecha": "2026-11-19T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-19/02-carrusel-1.jpg",
+        "piezas/2026-11-19/02-carrusel-2.jpg",
+        "piezas/2026-11-19/02-carrusel-3.jpg",
+        "piezas/2026-11-19/02-carrusel-4.jpg",
+        "piezas/2026-11-19/02-carrusel-5.jpg",
+        "piezas/2026-11-19/02-carrusel-6.jpg",
+        "piezas/2026-11-19/02-carrusel-7.jpg",
+        "piezas/2026-11-19/02-carrusel-8.jpg"
+      ],
+      "caption": "¿Qué haces en Kentra la primera semana?\n\nDía 1 creas tu negocio, día 2 registras ventas y gastos, día 3 mandas un comprobante PDF con tu logo, día 5 le preguntas a KentrAI y el día 7 ves en Resultados si estás ganando.\n\nAnual de Black November: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes",
+      "pilar": "funcionalidades",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "formato": "BN 100 % Kentra: primera semana día por día con captura real",
+      "gancho": "Tu primera semana con Kentra, día por día",
+      "primera_linea": "Tu primera semana con Kentra…",
+      "estilo": "portada navy con mascota sin píldora, días 1–7 en valor, captura real de Resultados, oferta black, cierre verde",
+      "modela": {
+        "referencia": "Alegra (Biblioteca de Meta), «pruébalo tú mismo» mostrando el uso",
+        "url": "https://www.facebook.com/ads/library/?active_status=active&view_all_page_id=266934513428113",
+        "que_tomo": "mostrar el uso real del producto paso a paso"
+      },
+      "carpeta": "2026-11-19",
+      "archivo": "02-carrusel",
+      "qa_ticket": "f2023208-615e-4b83-8cb5-4263d864c0ab"
+    },
+    {
       "id": "2026-11-19-05-post",
       "fecha": "2026-11-19T18:00:00-05:00",
       "tipo": "post",
@@ -7236,6 +7366,35 @@
       "carpeta": "2026-11-20",
       "archivo": "01-historia",
       "qa_ticket": "3b2535bf-4cf0-48b7-a493-b16234ee4293"
+    },
+    {
+      "id": "2026-11-20-04-post",
+      "fecha": "2026-11-20T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-20/04-post.jpg"
+      ],
+      "caption": "Ese momento en que el arriendo te habla.\n\nLa venta del día no es dinero libre: una parte ya es del arriendo, otra de la mercancía y otra de los servicios. Saber cuánto le toca a cada cosa evita el susto del día 30.\n\nBlack November en Kentra hasta el 30 de noviembre.\nEtiqueta a quien le pasa. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "objeciones",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "formato": "meme con mascota",
+      "gancho": "Cuando ibas a gastar la venta del día y te acordaste del arriendo",
+      "primera_linea": "Cuando ibas a gastar la venta del día…",
+      "estilo": "meme, verde, mascota con globo",
+      "modela": {
+        "referencia": "@verovillamarin, metáfora de atajada con humor",
+        "url": "https://www.instagram.com/reel/De3B_WRt0dl",
+        "que_tomo": "el momento de atajarse a tiempo contado con humor"
+      },
+      "carpeta": "2026-11-20",
+      "archivo": "04-post",
+      "qa_ticket": "8b510953-ae55-42ae-8ec0-839049717259"
     },
     {
       "id": "2026-11-20-02-carrusel",

@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
 
 
 ## Viernes 6/11
@@ -749,6 +749,40 @@ Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Fa
 
 <img src="piezas/2026-11-18/01-historia.jpg" width="160">
 
+**10:00 — Post** · objeciones · `2026-11-18-04-post`
+
+<img src="piezas/2026-11-18/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+En diciembre todos quieren llevar ahora y pagar después.
+
+Un fiado de $180.000 con fecha (15 de diciembre) se cobra. El mismo fiado sin fecha se queda en «cuando pueda».
+
+Black November: Kentra Pro a US$12/mes los 2 primeros meses.
+Anota cada fiado con su fecha. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
+
+</details>
+
+**12:00 — Carrusel** · ganancia-real · `2026-11-18-02-carrusel`
+
+<img src="piezas/2026-11-18/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Subir el precio a ojo te come el margen. Subirlo con la cuenta lo protege.
+
+Paso a paso: el costo pasa de $20.000 a $22.400, el margen baja de $15.000 a $12.600 y un precio de $37.800 lo recupera. Con 47 ventas en vez de 50 te quedan $723.800 en lugar de $630.000.
+
+En noviembre, el plan anual de Kentra va desde US$79.
+Guarda este paso a paso. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes
+
+</details>
+
 **18:00 — Post** · precio · `2026-11-18-05-post`
 
 <img src="piezas/2026-11-18/05-post.jpg" width="220">
@@ -775,6 +809,39 @@ Piensa en quién lo necesita y mándaselo. 👉 [link de la bio en Instagram / l
 **08:00 — Historia** · precio · `2026-11-19-01-historia`
 
 <img src="piezas/2026-11-19/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-11-19-04-post`
+
+<img src="piezas/2026-11-19/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Quedan 12 días de noviembre y todavía puedes corregir el mes.
+
+Suma lo que entró, resta lo que ya salió y aparta lo que viene en diciembre. Lo que queda es lo que puedes gastar sin miedo.
+
+Black November: 40 % menos los 2 primeros meses en cualquier plan.
+Haz la cuenta hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**12:00 — Carrusel** · funcionalidades · `2026-11-19-02-carrusel`
+
+<img src="piezas/2026-11-19/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Qué haces en Kentra la primera semana?
+
+Día 1 creas tu negocio, día 2 registras ventas y gastos, día 3 mandas un comprobante PDF con tu logo, día 5 le preguntas a KentrAI y el día 7 ves en Resultados si estás ganando.
+
+Anual de Black November: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
+
+</details>
 
 **18:00 — Post** · ganancia-real · `2026-11-19-05-post`
 
@@ -803,6 +870,23 @@ Separa lo que ya tiene dueño. 👉 [link de la bio en Instagram / link con UTM 
 **08:00 — Historia** · precio · `2026-11-20-01-historia`
 
 <img src="piezas/2026-11-20/01-historia.jpg" width="160">
+
+**10:00 — Post** · objeciones · `2026-11-20-04-post`
+
+<img src="piezas/2026-11-20/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Ese momento en que el arriendo te habla.
+
+La venta del día no es dinero libre: una parte ya es del arriendo, otra de la mercancía y otra de los servicios. Saber cuánto le toca a cada cosa evita el susto del día 30.
+
+Black November en Kentra hasta el 30 de noviembre.
+Etiqueta a quien le pasa. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
 
 **12:00 — Carrusel** · kentra-vs-excel · `2026-11-20-02-carrusel`
 
