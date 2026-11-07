@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
 
 
 ## Sábado 7/11
-
-**10:00 — Post** · educacion · `2026-11-07-04-post`
-
-<img src="piezas/2026-11-07/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Cuánto ganas si vendes 50 combos a $12.000?
-
-Cada combo te cuesta $8.500. Primero calcula lo que te queda por combo y luego multiplícalo por 50. Cuéntanos tu resultado en los comentarios.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Kentra te muestra cuánto te queda cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes
-
-</details>
 
 **12:00 — Carrusel** · verticales · `2026-11-07-02-carrusel`
 
@@ -1022,9 +1005,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- sábado 7/11 · 10:00 · Post `2026-11-07-04-post` · IG ✓ · FB ✓
 - sábado 7/11 · 08:00 · Historia `2026-11-07-01-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 19:00 · Historia `2026-11-06-03-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 18:00 · Post `2026-11-06-05-post` · IG ✓ · FB ✓
 - viernes 6/11 · 15:00 · Historia `2026-11-06-06-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 12:00 · Carrusel `2026-11-06-02-carrusel` · IG ✓ · FB ✓
-- viernes 6/11 · 10:00 · Post `2026-11-06-04-post` · IG ✓ · FB ✓
