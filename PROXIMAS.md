@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
 
 
 ## Sábado 7/11
-
-**12:00 — Carrusel** · verticales · `2026-11-07-02-carrusel`
-
-<img src="piezas/2026-11-07/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-07/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Una cita perdida no es solo una hora vacía.
-
-En un salón: una cita de $60.000 te deja $52.000; con 6 perdidas al mes dejas de ganar $312.000, y al año $3.744.000. Cobrar un anticipo del 30 % incomoda, pero te protege.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Anota cada anticipo y cada recordatorio en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-07-06-historia`
 
@@ -1005,9 +988,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- sábado 7/11 · 12:00 · Carrusel `2026-11-07-02-carrusel` · IG ✓ · FB ✓
 - sábado 7/11 · 10:00 · Post `2026-11-07-04-post` · IG ✓ · FB ✓
 - sábado 7/11 · 08:00 · Historia `2026-11-07-01-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 19:00 · Historia `2026-11-06-03-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 18:00 · Post `2026-11-06-05-post` · IG ✓ · FB ✓
 - viernes 6/11 · 15:00 · Historia `2026-11-06-06-historia` · IG ✓ · FB ✓
-- viernes 6/11 · 12:00 · Carrusel `2026-11-06-02-carrusel` · IG ✓ · FB ✓
