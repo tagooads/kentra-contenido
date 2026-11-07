@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 85 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
 
 
 ## Sábado 7/11
-
-**18:00 — Post** · precio · `2026-11-07-05-post`
-
-<img src="piezas/2026-11-07/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cuando ya no eres el único que registra, necesitas roles.
-
-Business, USD 30/mes: negocios ilimitados y equipo con roles. El colaborador registra y sube facturas; el administrador ve todo menos la suscripción y el equipo. Incluye importación con IA, reglas automáticas, inventario y créditos.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Acceso inmediato, sin permanencia. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Equipo
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-11-07-03-historia`
 
@@ -984,9 +967,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- sábado 7/11 · 18:00 · Post `2026-11-07-05-post` · IG ✓ · FB ✓
 - sábado 7/11 · 15:00 · Historia `2026-11-07-06-historia` · IG ✓ · FB ✓
 - sábado 7/11 · 12:00 · Carrusel `2026-11-07-02-carrusel` · IG ✓ · FB ✓
 - sábado 7/11 · 10:00 · Post `2026-11-07-04-post` · IG ✓ · FB ✓
 - sábado 7/11 · 08:00 · Historia `2026-11-07-01-historia` · IG ✓ · FB ✓
 - viernes 6/11 · 19:00 · Historia `2026-11-06-03-historia` · IG ✓ · FB ✓
-- viernes 6/11 · 18:00 · Post `2026-11-06-05-post` · IG ✓ · FB ✓
