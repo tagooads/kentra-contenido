@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
 
 
 ## Sábado 7/11
@@ -924,6 +924,23 @@ Separa las dos cuentas desde hoy. 👉 [link de la bio en Instagram / link con U
 
 </details>
 
+**12:00 — Carrusel** · precio · `2026-11-21-02-carrusel`
+
+<img src="piezas/2026-11-21/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Las fugas de dinero no se notan en el día: se notan en diciembre.
+
+Tres casos: $8.000 diarios en gastos sin anotar, un fiado de $35.000 por semana que nadie cobra y un insumo que subió $1.500 sin tocar el precio. En un año suman $9.576.000.
+
+Black November: el año de Kentra desde US$79 con Kentra Priority de regalo el primer año.
+Frena las fugas este mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BlackNovember
+
+</details>
+
 **18:00 — Post** · verticales · `2026-11-21-05-post`
 
 <img src="piezas/2026-11-21/05-post.jpg" width="220">
@@ -966,6 +983,39 @@ Black November: el año de Kentra desde US$79 con Kentra Priority de regalo el p
 Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 #Kentra #FinanzasParaNegocios #Emprendedores #Pasteleria #NegocioPropio
+
+</details>
+
+**12:00 — Carrusel** · ganancia-real · `2026-11-22-02-carrusel`
+
+<img src="piezas/2026-11-22/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Un reto de 4 domingos para llegar a enero sabiendo cuánto ganaste en diciembre.
+
+Domingo 29: lo que entró. Domingo 6: lo que salió. Domingo 13: apartas $200.000 para enero. Domingo 20: comparas las semanas. Diez minutos cada vez.
+
+Black November: Kentra mensual con 40 % menos los 2 primeros meses, hasta el 30.
+Guarda el reto y arranca el domingo 29. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #RetoDeDiciembre
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-22-05-post`
+
+<img src="piezas/2026-11-22/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Las dos preguntas que más llegan sobre Black November.
+
+La oferta va hasta el 30 de noviembre: mensual con 40 % menos los 2 primeros meses o anual desde US$79 con Kentra Priority de regalo el primer año. Y por cada dueño que invites y pague, sumas 1 mes sin costo.
+
+Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember
 
 </details>
 
