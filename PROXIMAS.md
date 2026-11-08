@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 82 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 81 piezas agendadas.
 
 
 ## Domingo 8/11
-
-**10:00 — Post** · objeciones · `2026-11-08-04-post`
-
-<img src="piezas/2026-11-08/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vendí $3.000.000 en un mes y no tenía para pagar al proveedor.
-
-Una historia de dueño: vender mucho no es tener dinero disponible, porque parte de lo que entró ya tenía dueño. Anota cada semana lo que entra y lo que ya debes.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Mira lo que te queda de verdad en Kentra. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-11-08-02-carrusel`
 
@@ -956,9 +939,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- domingo 8/11 · 10:00 · Post `2026-11-08-04-post` · IG ✓ · FB ✓
 - domingo 8/11 · 08:00 · Historia `2026-11-08-01-historia` · IG ✓ · FB ✓
 - sábado 7/11 · 19:00 · Historia `2026-11-07-03-historia` · IG ✓ · FB ✓
 - sábado 7/11 · 18:00 · Post `2026-11-07-05-post` · IG ✓ · FB ✓
 - sábado 7/11 · 15:00 · Historia `2026-11-07-06-historia` · IG ✓ · FB ✓
 - sábado 7/11 · 12:00 · Carrusel `2026-11-07-02-carrusel` · IG ✓ · FB ✓
-- sábado 7/11 · 10:00 · Post `2026-11-07-04-post` · IG ✓ · FB ✓
