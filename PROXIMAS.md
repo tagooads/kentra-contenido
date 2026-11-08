@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 81 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 80 piezas agendadas.
 
 
 ## Domingo 8/11
-
-**12:00 — Carrusel** · ganancia-real · `2026-11-08-02-carrusel`
-
-<img src="piezas/2026-11-08/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-8.jpg" width="220"> <img src="piezas/2026-11-08/02-carrusel-9.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-3 cuentas de dueño de negocio. ¿Cuántas aciertas sin calculadora?
-
-Margen de un producto, margen neto del mes y cuánto cubres al día de alquiler. Cada respuesta está en la slide siguiente.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Si prefieres que Kentra te haga estas cuentas: 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-08-06-historia`
 
@@ -939,9 +922,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- domingo 8/11 · 12:00 · Carrusel `2026-11-08-02-carrusel` · IG ✓ · FB ✓
 - domingo 8/11 · 10:00 · Post `2026-11-08-04-post` · IG ✓ · FB ✓
 - domingo 8/11 · 08:00 · Historia `2026-11-08-01-historia` · IG ✓ · FB ✓
 - sábado 7/11 · 19:00 · Historia `2026-11-07-03-historia` · IG ✓ · FB ✓
 - sábado 7/11 · 18:00 · Post `2026-11-07-05-post` · IG ✓ · FB ✓
 - sábado 7/11 · 15:00 · Historia `2026-11-07-06-historia` · IG ✓ · FB ✓
-- sábado 7/11 · 12:00 · Carrusel `2026-11-07-02-carrusel` · IG ✓ · FB ✓
