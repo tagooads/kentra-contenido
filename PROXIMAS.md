@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 75 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 74 piezas agendadas.
 
 
 ## Lunes 9/11
-
-**12:00 — Carrusel** · ganancia-real · `2026-11-09-02-carrusel`
-
-<img src="piezas/2026-11-09/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-09/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vender 90 piezas no es lo mismo que ganar por 90 piezas.
-
-Cuatro cuentas para el Buen Fin: cuántas piezas vendes, cuánto cuesta reponerlas, cuánto te queda ($17,280 MXN en el ejemplo) y cuánto apartar para tu proveedor.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Haz estas cuentas en un solo lugar. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #TiendaOnline
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-09-06-historia`
 
@@ -873,9 +856,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- lunes 9/11 · 12:00 · Carrusel `2026-11-09-02-carrusel` · IG ✓ · FB ✓
 - lunes 9/11 · 10:00 · Post `2026-11-09-04-post` · IG ✓ · FB ✓
 - lunes 9/11 · 08:00 · Historia `2026-11-09-01-historia` · IG ✓ · FB ✓
 - domingo 8/11 · 19:00 · Historia `2026-11-08-03-historia` · IG ✓ · FB ✓
 - domingo 8/11 · 18:00 · Post `2026-11-08-05-post` · IG ✓ · FB ✓
 - domingo 8/11 · 15:00 · Historia `2026-11-08-06-historia` · IG ✓ · FB ✓
-- domingo 8/11 · 12:00 · Carrusel `2026-11-08-02-carrusel` · IG ✓ · FB ✓
