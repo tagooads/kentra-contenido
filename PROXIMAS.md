@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 69 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
 
 
 ## Martes 10/11
-
-**12:00 — Carrusel** · educacion · `2026-11-10-02-carrusel`
-
-<img src="piezas/2026-11-10/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-10/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Tu tienda vende $100,000 MXN y el 11.6 % se va en costos que casi no se ven.
-
-Empaque ($5,000), comisión de pago ($3,500), cambios ($1,080) y tu tiempo ($2,000): suman $11,580. Desliza para ver cada cuenta.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Ordena estos gastos por categoría desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-10-06-historia`
 
@@ -807,9 +790,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- martes 10/11 · 12:00 · Carrusel `2026-11-10-02-carrusel` · IG ✓ · FB ✓
 - martes 10/11 · 10:00 · Post `2026-11-10-04-post` · IG ✓ · FB ✓
 - martes 10/11 · 08:00 · Historia `2026-11-10-01-historia` · IG ✓ · FB ✓
 - lunes 9/11 · 19:00 · Historia `2026-11-09-03-historia` · IG ✓ · FB ✓
 - lunes 9/11 · 18:00 · Post `2026-11-09-05-post` · IG ✓ · FB ✓
 - lunes 9/11 · 15:00 · Historia `2026-11-09-06-historia` · IG ✓ · FB ✓
-- lunes 9/11 · 12:00 · Carrusel `2026-11-09-02-carrusel` · IG ✓ · FB ✓
