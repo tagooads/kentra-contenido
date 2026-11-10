@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 66 piezas agendadas.
 
 
 ## Martes 10/11
-
-**18:00 — Post** · funcionalidades · `2026-11-10-05-post`
-
-<img src="piezas/2026-11-10/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cerrar el día con un número cambia cómo duermes.
-
-Antes: cuentas billetes y transferencias a ojo, anotas en un papel que se pierde y sumas todo el viernes. Después: anotas cada venta al momento y cierras el día con entró, salió y quedó.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Empieza hoy desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio #Ordenado
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-11-10-03-historia`
 
@@ -786,9 +769,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- martes 10/11 · 18:00 · Post `2026-11-10-05-post` · IG ✓ · FB ✓
 - martes 10/11 · 15:00 · Historia `2026-11-10-06-historia` · IG ✓ · FB ✓
 - martes 10/11 · 12:00 · Carrusel `2026-11-10-02-carrusel` · IG ✓ · FB ✓
 - martes 10/11 · 10:00 · Post `2026-11-10-04-post` · IG ✓ · FB ✓
 - martes 10/11 · 08:00 · Historia `2026-11-10-01-historia` · IG ✓ · FB ✓
 - lunes 9/11 · 19:00 · Historia `2026-11-09-03-historia` · IG ✓ · FB ✓
-- lunes 9/11 · 18:00 · Post `2026-11-09-05-post` · IG ✓ · FB ✓
