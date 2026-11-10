@@ -5751,7 +5751,13 @@
       "carpeta": "2026-11-10",
       "archivo": "01-historia",
       "fecha": "2026-11-10T08:00:00-05:00",
-      "qa_ticket": "54a89867-6eb4-4f63-ad40-c377708acc59"
+      "qa_ticket": "54a89867-6eb4-4f63-ad40-c377708acc59",
+      "media_id": "18132369976837651",
+      "publicado_ig": true,
+      "fb_post_id": "1672252821270006",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-10T13:01:37.126Z"
     },
     {
       "id": "2026-11-10-04-post",
