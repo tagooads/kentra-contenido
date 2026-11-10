@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 70 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 69 piezas agendadas.
 
 
 ## Martes 10/11
-
-**10:00 — Post** · verticales · `2026-11-10-04-post`
-
-<img src="piezas/2026-11-10/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un pedido de $450 y te quedan $99.
-
-Producto $230, empaque $25, envío $80 y comisión de pago $16: lo que queda es el 22 % del precio.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Tu ganancia real a la vista desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline #Pymes #Ganancia
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-10-02-carrusel`
 
@@ -824,9 +807,9 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 ## Últimas publicadas
 
+- martes 10/11 · 10:00 · Post `2026-11-10-04-post` · IG ✓ · FB ✓
 - martes 10/11 · 08:00 · Historia `2026-11-10-01-historia` · IG ✓ · FB ✓
 - lunes 9/11 · 19:00 · Historia `2026-11-09-03-historia` · IG ✓ · FB ✓
 - lunes 9/11 · 18:00 · Post `2026-11-09-05-post` · IG ✓ · FB ✓
 - lunes 9/11 · 15:00 · Historia `2026-11-09-06-historia` · IG ✓ · FB ✓
 - lunes 9/11 · 12:00 · Carrusel `2026-11-09-02-carrusel` · IG ✓ · FB ✓
-- lunes 9/11 · 10:00 · Post `2026-11-09-04-post` · IG ✓ · FB ✓
