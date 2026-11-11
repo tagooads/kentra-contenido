@@ -232,7 +232,7 @@
       },
       "carpeta": "2026-11-26",
       "archivo": "02-carrusel",
-      "qa_ticket": "ab827914-618f-4036-b72d-21c84838547e"
+      "qa_ticket": "5501daa4-b578-4a08-b9d9-6e5cd40bd3f2"
     },
     {
       "id": "reserva-2026-11-02-01-post",
@@ -437,7 +437,8 @@
         "que_tomo": "la paradoja de ganar y no tener como titular, resuelta con el reparto en cifras"
       },
       "carpeta": "2026-11-27",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "75377237-675d-4a5a-83a3-faf88828955a"
     },
     {
       "id": "2026-11-27-02-carrusel",
@@ -472,7 +473,8 @@
         "que_tomo": "el dolor de lo vendido que no ha llegado, contado lugar por lugar"
       },
       "carpeta": "2026-11-27",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "37ce0ca7-9e25-4f60-b3a5-ededb859e9e7"
     },
     {
       "id": "2026-11-27-05-post",
@@ -500,7 +502,8 @@
         "que_tomo": "la frase corta de postura como pieza completa"
       },
       "carpeta": "2026-11-27",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "1e39d153-ad5f-43c9-85cb-7f73ea025cfe"
     },
     {
       "id": "2026-11-27-03-historia",
@@ -528,7 +531,8 @@
         "que_tomo": "el diagnóstico corto como llamado a la acción"
       },
       "carpeta": "2026-11-27",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "f9ca415a-8c49-4a9e-89c2-2661c958be42"
     },
     {
       "id": "2026-11-28-04-post",
@@ -556,7 +560,8 @@
         "que_tomo": "el texto «POV:» que pone al lector dentro de una escena de su rutina"
       },
       "carpeta": "2026-11-28",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "389c8063-2910-46c9-bd1d-ae0dea113db2"
     },
     {
       "id": "2026-11-28-02-carrusel",
@@ -591,7 +596,8 @@
         "que_tomo": "rentabilidad por línea de trabajo con números claros, contada por tipo de negocio"
       },
       "carpeta": "2026-11-28",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "c76684a8-79e9-49e4-8573-508ee41539fd"
     },
     {
       "id": "2026-11-28-05-post",
@@ -619,7 +625,8 @@
         "que_tomo": "responder la objeción de la mensualidad con la cifra exacta en la primera línea"
       },
       "carpeta": "2026-11-28",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "a4672c3a-a2fa-4f42-a908-855daf294c5b"
     },
     {
       "id": "2026-11-28-03-historia",
@@ -647,7 +654,8 @@
         "que_tomo": "la promesa de tener el negocio en el bolsillo, mostrada con la pantalla real"
       },
       "carpeta": "2026-11-28",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "9fcd17af-e717-45df-854c-fa19d8e13f46"
     },
     {
       "id": "2026-11-29-04-post",
@@ -675,7 +683,8 @@
         "que_tomo": "la pregunta corta que hace que el dueño revise su propio mes"
       },
       "carpeta": "2026-11-29",
-      "archivo": "04-post"
+      "archivo": "04-post",
+      "qa_ticket": "a3ef2f61-d4ad-4d42-b1a4-48ed840cddbe"
     },
     {
       "id": "2026-11-29-02-carrusel",
@@ -708,7 +717,8 @@
         "que_tomo": "un carrusel de referencia rápida hecho para guardar"
       },
       "carpeta": "2026-11-29",
-      "archivo": "02-carrusel"
+      "archivo": "02-carrusel",
+      "qa_ticket": "c9b11314-7dca-4a81-9ce7-68d8eb93e199"
     },
     {
       "id": "2026-11-29-05-post",
@@ -736,7 +746,8 @@
         "que_tomo": "nombrar el oficio y su dolor exacto en el titular"
       },
       "carpeta": "2026-11-29",
-      "archivo": "05-post"
+      "archivo": "05-post",
+      "qa_ticket": "695d7b91-ade3-47fa-848e-45c63879da2d"
     },
     {
       "id": "2026-11-29-03-historia",
@@ -764,7 +775,8 @@
         "que_tomo": "mostrar la lista de lo que te deben como el control que buscas"
       },
       "carpeta": "2026-11-29",
-      "archivo": "03-historia"
+      "archivo": "03-historia",
+      "qa_ticket": "8ffc399a-3f1d-4e83-9335-07e15508f265"
     }
   ]
 }
