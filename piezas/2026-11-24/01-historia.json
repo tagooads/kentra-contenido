@@ -1,0 +1,14 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 7 días",
+ "kicker": "Invita y gana",
+ "titulo": "Un referido que paga = **un mes sin costo**",
+ "grande": "1 = 1",
+ "sub": "Comparte Kentra con otro dueño de negocio. Cuando se suscribe y paga, sumas un mes.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

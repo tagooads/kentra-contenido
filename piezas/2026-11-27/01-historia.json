@@ -1,0 +1,36 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 4 días",
+ "kicker": "Hoy es Black Friday",
+ "titulo": "Un año de Kentra a precio de **Black Friday**",
+ "planes": [
+  {
+   "plan": "Básico",
+   "nota": "1 negocio",
+   "antes": "US$99",
+   "precio": "US$79",
+   "periodo": "/año"
+  },
+  {
+   "plan": "Pro",
+   "nota": "2 negocios",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "destacado": true
+  },
+  {
+   "plan": "Business",
+   "nota": "3 negocios",
+   "antes": "US$199",
+   "precio": "US$159",
+   "periodo": "/año"
+  }
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

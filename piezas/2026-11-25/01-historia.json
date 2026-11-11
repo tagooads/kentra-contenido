@@ -1,0 +1,25 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 6 días",
+ "titulo": "Pro a **US$12 al mes** los 2 primeros meses",
+ "planes": [
+  {
+   "plan": "Meses 1 y 2",
+   "precio": "US$12",
+   "periodo": "/mes",
+   "destacado": true
+  },
+  {
+   "plan": "Desde el mes 3",
+   "precio": "US$20",
+   "periodo": "/mes"
+  }
+ ],
+ "nota": "Menos de US$3 a la semana para saber si tu negocio gana.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

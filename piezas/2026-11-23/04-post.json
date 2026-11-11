@@ -1,0 +1,34 @@
+{
+ "layout": "split",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "¿Te pasa?",
+ "arriba": {
+  "kicker": "En la noche",
+  "texto": "«Cobré todo el día y la caja no cuadra.»",
+  "tam": 64
+ },
+ "abajo": {
+  "kicker": "La cuenta",
+  "filas": [
+   [
+    "Ventas que recuerdas",
+    "$1.850.000"
+   ],
+   [
+    "Lo que hay en caja",
+    "$1.610.000"
+   ],
+   [
+    "Faltan",
+    "$240.000",
+    "rojo"
+   ]
+  ]
+ },
+ "nota": "Con cada cobro anotado al momento, sabes de dónde salen.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

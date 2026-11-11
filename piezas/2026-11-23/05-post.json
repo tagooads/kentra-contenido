@@ -1,0 +1,21 @@
+{
+ "layout": "precio",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Black November",
+ "titulo": "US$12 al mes para saber si tu negocio gana",
+ "plan": "Pro",
+ "precio": "US$12",
+ "periodo": "/mes",
+ "nota": "Los 2 primeros meses. Luego US$20/mes.",
+ "items": [
+  "Ganancia real del mes",
+  "Importación con IA",
+  "KentrAI incluido"
+ ],
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

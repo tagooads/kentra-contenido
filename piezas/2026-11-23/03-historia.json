@@ -1,0 +1,16 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "noche",
+ "kicker": "Responde en 2 segundos",
+ "titulo": "¿Tu negocio gana o solo vende?",
+ "opciones": [
+  "Gana, y sé cuánto",
+  "Vende, pero no sé si gana"
+ ],
+ "nota": "Si dudaste, el diagnóstico de 2 minutos te lo dice.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

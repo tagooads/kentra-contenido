@@ -1,0 +1,14 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "menta",
+ "kicker": "Análisis",
+ "titulo": "Cuánto vas a tener en caja, antes de que pase",
+ "captura": "movil-analisis.png",
+ "sub": "Tu saldo de hoy, lo que te deben y lo que debes, en una proyección.",
+ "recorte": "520px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

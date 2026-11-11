@@ -1,0 +1,172 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "navy",
+   "kicker": "Antes del viernes",
+   "titulo": "6 números que revisas antes de poner descuento",
+   "sub": "Con un ejemplo: un producto de $100.000 que te cuesta $60.000.",
+   "visual": "mascota-telefono",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "Cuánto te queda hoy",
+   "texto": "Precio menos lo que te cuesta. Ese es tu margen sin descuento.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Precio",
+      "$100.000"
+     ],
+     [
+      "Costo",
+      "−$60.000",
+      "rojo"
+     ],
+     [
+      "Te queda",
+      "$40.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Cuánto te queda con descuento",
+   "texto": "Con 20 % menos, el descuento sale completo de tu ganancia, no del costo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Precio con 20 %",
+      "$80.000"
+     ],
+     [
+      "Costo",
+      "−$60.000",
+      "rojo"
+     ],
+     [
+      "Te queda",
+      "$20.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Cuántas ventas necesitas",
+   "texto": "Para ganar lo mismo que un día normal, divide.",
+   "ejemplo": {
+    "filas": [
+     [
+      "10 ventas normales",
+      "$400.000"
+     ],
+     [
+      "10 ventas con 20 %",
+      "$200.000",
+      "rojo"
+     ],
+     [
+      "Para igualar",
+      "20 ventas",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Cuánto stock tienes",
+   "texto": "Si necesitas 20 ventas y tienes 12 unidades, el descuento no alcanza a pagarse."
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 5,
+   "titulo": "Lo que cobra el datáfono o la pasarela",
+   "texto": "La comisión se cobra sobre el precio con descuento, venta por venta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Te quedaba",
+      "$20.000"
+     ],
+     [
+      "Comisión 3 %",
+      "−$2.400",
+      "rojo"
+     ],
+     [
+      "Te queda",
+      "$17.600",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 6,
+   "titulo": "Tu tope de descuento",
+   "texto": "Decide antes cuánto quieres ganar por unidad y no bajes de ahí.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Quieres ganar",
+      "$25.000"
+     ],
+     [
+      "Precio mínimo",
+      "$85.000"
+     ],
+     [
+      "Descuento máximo",
+      "15 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "claro",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "El sábado sabes cuánto te dejó el viernes",
+   "captura": "movil-resultados.png",
+   "sub": "Ingresos, gastos y margen del mes en una pantalla.",
+   "recorte": "330px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Haz la cuenta antes del viernes",
+   "items": [
+    "Ventas y gastos por categoría",
+    "Tu margen del mes a la vista",
+    "Black November hasta el 30"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

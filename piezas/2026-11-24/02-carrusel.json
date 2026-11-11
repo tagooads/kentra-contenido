@@ -1,0 +1,134 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "navy",
+   "kicker": "¿Te reconoces?",
+   "titulo": "¿Tu negocio funciona sin ti? 4 señales de que no",
+   "sub": "Cuando el dinero depende de tu memoria, cualquier semana fuera se nota.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "menta",
+   "num": 1,
+   "titulo": "Si te vas una semana, nadie sabe cuánto entró",
+   "texto": "Lo que no se anota se pierde entre turnos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Cobros sin anotar",
+      "3"
+     ],
+     [
+      "Suman",
+      "$420.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Pagas cosas de la casa con la caja",
+   "texto": "Mercado, recibos o gasolina salen del negocio y nadie los anota.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Mercado",
+      "$120.000"
+     ],
+     [
+      "Gasolina",
+      "$60.000"
+     ],
+     [
+      "Gasto que nadie ve",
+      "$180.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "menta",
+   "num": 3,
+   "titulo": "Sabes cuánto vendiste, no cuánto te quedó",
+   "texto": "Vender $5.000.000 no dice nada si no restas lo que salió.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste",
+      "$5.000.000"
+     ],
+     [
+      "Salió",
+      "−$4.300.000",
+      "rojo"
+     ],
+     [
+      "Te quedó",
+      "$700.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Te enteras de una deuda cuando te cobran",
+   "texto": "Sin fechas anotadas, el proveedor te recuerda lo que olvidaste.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Al proveedor",
+      "$650.000"
+     ],
+     [
+      "Días de atraso",
+      "5"
+     ],
+     [
+      "Recargo de 5 %",
+      "$32.500",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "claro",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Lo que te deben y lo que debes, en una lista",
+   "captura": "movil-cuentas.png",
+   "sub": "Por cobrar y por pagar, con lo pendiente de cada lado.",
+   "recorte": "560px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Que tu negocio no dependa de tu memoria",
+   "items": [
+    "Cada venta y gasto anotado",
+    "Deudas con fecha y aviso",
+    "Black November hasta el 30"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

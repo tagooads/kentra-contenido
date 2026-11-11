@@ -1,0 +1,17 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 3 días",
+ "titulo": "Último fin de semana: **así lo aprovechas**",
+ "items": [
+  "Elige Pro o Business",
+  "Paga el año completo",
+  "Recibe Kentra Priority de regalo"
+ ],
+ "nota": "¿Prefieres mes a mes? 40 % menos los 2 primeros meses.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

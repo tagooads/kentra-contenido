@@ -1,0 +1,33 @@
+{
+ "layout": "oferta",
+ "formato": "historia",
+ "tema": "black",
+ "cuenta": "Quedan 8 días",
+ "titulo": "Desde **US$79** al año, solo hasta el 30",
+ "planes": [
+  {
+   "plan": "Básico",
+   "antes": "US$99",
+   "precio": "US$79",
+   "periodo": "/año"
+  },
+  {
+   "plan": "Pro",
+   "antes": "US$149",
+   "precio": "US$119",
+   "periodo": "/año",
+   "destacado": true
+  },
+  {
+   "plan": "Business",
+   "antes": "US$199",
+   "precio": "US$159",
+   "periodo": "/año"
+  }
+ ],
+ "nota": "Kentra Priority de regalo el primer año.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

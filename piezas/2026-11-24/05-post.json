@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Black November",
+ "texto": "«El Black Friday dura un día. El de Kentra va hasta el 30.»",
+ "pie": "40 % menos los 2 primeros meses o el plan anual desde US$79.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 84
+}
