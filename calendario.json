@@ -8486,6 +8486,41 @@
       "qa_ticket": "7ac2ebaa-a846-4c1d-83aa-cf2685c712b7"
     },
     {
+      "id": "2026-11-26-02-carrusel",
+      "fecha": "2026-11-26T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-26/02-carrusel-1.jpg",
+        "piezas/2026-11-26/02-carrusel-2.jpg",
+        "piezas/2026-11-26/02-carrusel-3.jpg",
+        "piezas/2026-11-26/02-carrusel-4.jpg",
+        "piezas/2026-11-26/02-carrusel-5.jpg",
+        "piezas/2026-11-26/02-carrusel-6.jpg",
+        "piezas/2026-11-26/02-carrusel-7.jpg"
+      ],
+      "caption": "Vender más no siempre es ganar más.\n\nDesliza y cierra tu viernes de descuentos en 4 pasos: separa las ventas con descuento, anota envíos y comisiones, resta el costo de la mercancía y quédate con un solo número. En el ejemplo: $2.800.000 vendidos y $936.000 que de verdad quedaron.\n\nBlack November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.\nGuárdalo para el sábado. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "funcionalidades",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 2,
+      "formato": "tutorial paso a paso: el día después del Black Friday con captura real del panel (7 slides)",
+      "gancho": "Vendiste más el viernes: así sabes cuánto te quedó",
+      "primera_linea": "Vender más no siempre es ganar más.",
+      "estilo": "portada verde sin visual ni mascota + valor claro/navy alternado + captura real del Panel (saldo neto, ingresos y gastos) + cierre verde",
+      "modela": {
+        "referencia": "Alegra, demo del producto paso a paso (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=1464077088962429",
+        "que_tomo": "el paso a paso numerado que termina en la pantalla real del producto"
+      },
+      "carpeta": "2026-11-26",
+      "archivo": "02-carrusel",
+      "qa_ticket": "5501daa4-b578-4a08-b9d9-6e5cd40bd3f2"
+    },
+    {
       "id": "2026-11-26-05-post",
       "fecha": "2026-11-26T18:00:00-05:00",
       "tipo": "post",
@@ -8573,6 +8608,129 @@
       "qa_ticket": "bcc9fc53-c18e-43c5-a990-7d36eedc498d"
     },
     {
+      "id": "2026-11-27-04-post",
+      "fecha": "2026-11-27T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-27/04-post.jpg"
+      ],
+      "caption": "Vendes $6.000.000 al mes y te quedan $360.000.\n\nAsí se reparte la venta de una tienda online: mercancía $2.700.000, envíos $900.000, publicidad $960.000 y gastos fijos $1.080.000. Lo que queda es el 6 %, y casi nunca se ve salir el resto.\n\nBlack November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.\nMira tu reparto real. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline",
+      "pilar": "ganancia-real",
+      "layout": "reparto",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "reparto de la venta del mes con paradoja (vertical tienda online)",
+      "gancho": "Ganas bien y a fin de mes no queda nada",
+      "primera_linea": "Vendes $6.000.000 al mes y te quedan $360.000.",
+      "estilo": "reparto, marfil, barra apilada + 5 filas con %",
+      "modela": {
+        "referencia": "Inversiones a Futuro, «Ganas bien, pero no te queda nada en la bolsa» (Biblioteca de Meta, 9 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1777021280192791",
+        "que_tomo": "la paradoja de ganar y no tener como titular, resuelta con el reparto en cifras"
+      },
+      "carpeta": "2026-11-27",
+      "archivo": "04-post",
+      "qa_ticket": "75377237-675d-4a5a-83a3-faf88828955a"
+    },
+    {
+      "id": "2026-11-27-02-carrusel",
+      "fecha": "2026-11-27T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-27/02-carrusel-1.jpg",
+        "piezas/2026-11-27/02-carrusel-2.jpg",
+        "piezas/2026-11-27/02-carrusel-3.jpg",
+        "piezas/2026-11-27/02-carrusel-4.jpg",
+        "piezas/2026-11-27/02-carrusel-5.jpg",
+        "piezas/2026-11-27/02-carrusel-6.jpg",
+        "piezas/2026-11-27/02-carrusel-7.jpg",
+        "piezas/2026-11-27/02-carrusel-8.jpg"
+      ],
+      "caption": "¿Ya te pagaron todo lo que vendiste?\n\nDespués de un día de muchas ventas, el dinero se queda en 4 lugares: transferencias pendientes ($540.000), pedidos contra entrega ($810.000), pagos con tarjeta que llegan después ($1.400.000) y lo fiado ($450.000). De $5.000.000 vendidos, solo $1.800.000 ya entró.\n\nBlack November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.\nGuárdalo y revisa tus cobros. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "educación",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "lista guardable de 4 lugares con cifras + suma final (8 slides)",
+      "gancho": "Vender no es cobrar: 4 lugares donde se queda tu dinero",
+      "primera_linea": "¿Ya te pagaron todo lo que vendiste?",
+      "estilo": "portada menta sin visual + valor navy/claro alternado + lista «Así lo ordenas en Kentra» + cierre verde",
+      "modela": {
+        "referencia": "Solpro, «¿Tu cartera morosa está asfixiando el flujo de caja de tu negocio?» (Biblioteca de Meta, 5 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=2344966366258391",
+        "que_tomo": "el dolor de lo vendido que no ha llegado, contado lugar por lugar"
+      },
+      "carpeta": "2026-11-27",
+      "archivo": "02-carrusel",
+      "qa_ticket": "37ce0ca7-9e25-4f60-b3a5-ededb859e9e7"
+    },
+    {
+      "id": "2026-11-27-05-post",
+      "fecha": "2026-11-27T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-27/05-post.jpg"
+      ],
+      "caption": "Hoy es Black Friday y todos te ofrecen descuentos.\n\nNosotros también tenemos uno, pero el punto es otro: que sepas si los tuyos te dejaron ganancia. Kentra Pro mensual a US$12 los 2 primeros meses (luego US$20), hasta el lunes 30.\n\nEmpieza hoy. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackFriday",
+      "pilar": "precio",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: tarjeta de postura del día de Black Friday",
+      "gancho": "Hoy todos te ofrecen descuentos. Nosotros te ayudamos a saber si los tuyos dejaron ganancia",
+      "primera_linea": "Hoy es Black Friday y todos te ofrecen descuentos.",
+      "estilo": "tweet, black, tarjeta blanca centrada con pie de oferta",
+      "modela": {
+        "referencia": "Elsy Online, «Deja de cobrar a ojo» (Biblioteca de Meta, 11 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1813224453244137",
+        "que_tomo": "la frase corta de postura como pieza completa"
+      },
+      "carpeta": "2026-11-27",
+      "archivo": "05-post",
+      "qa_ticket": "1e39d153-ad5f-43c9-85cb-7f73ea025cfe"
+    },
+    {
+      "id": "2026-11-27-03-historia",
+      "fecha": "2026-11-27T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-27/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "encuesta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "encuesta con diagnóstico",
+      "gancho": "¿Cuánto tardas en saber si un mes fue bueno?",
+      "primera_linea": "¿Cuánto tardas en saber si un mes fue bueno?",
+      "estilo": "encuesta, verde, dos opciones + botón al quiz",
+      "modela": {
+        "referencia": "Siigo, «Diagnostica tu negocio en 5 minutos» (Biblioteca de Meta, 11 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=2376730589764629",
+        "que_tomo": "el diagnóstico corto como llamado a la acción"
+      },
+      "carpeta": "2026-11-27",
+      "archivo": "03-historia",
+      "qa_ticket": "f9ca415a-8c49-4a9e-89c2-2661c958be42"
+    },
+    {
       "id": "2026-11-28-01-historia",
       "fecha": "2026-11-28T08:00:00-05:00",
       "tipo": "historia",
@@ -8602,6 +8760,129 @@
       "qa_ticket": "61495ed5-8089-495a-b9ce-528c2772c2e9"
     },
     {
+      "id": "2026-11-28-04-post",
+      "fecha": "2026-11-28T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-28/04-post.jpg"
+      ],
+      "caption": "Este mes, págate antes de repartir lo que sobre.\n\nEl meme lo dice: un sueldo fijo el día 30, apartado primero, y el resto para el negocio. Si te llevas «lo que quede», casi nunca sabes cuánto ganas tú.\n\nBlack November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.\nAparta tu sueldo con números claros. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "educación",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "meme POV con mascota (sueldo del dueño)",
+      "gancho": "POV: el día 30 te pagas un sueldo fijo, no lo que sobró",
+      "primera_linea": "Este mes, págate antes de repartir lo que sobre.",
+      "estilo": "meme, marfil, globo de texto arriba + mascota con celular de espaldas",
+      "modela": {
+        "referencia": "Tendencia POV de rutina concreta en TikTok (Que.es, trends de noviembre)",
+        "url": "https://www.que.es/2026/10/30/trends-tiktok-noviembre-2026/",
+        "que_tomo": "el texto «POV:» que pone al lector dentro de una escena de su rutina"
+      },
+      "carpeta": "2026-11-28",
+      "archivo": "04-post",
+      "qa_ticket": "389c8063-2910-46c9-bd1d-ae0dea113db2"
+    },
+    {
+      "id": "2026-11-28-02-carrusel",
+      "fecha": "2026-11-28T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-28/02-carrusel-1.jpg",
+        "piezas/2026-11-28/02-carrusel-2.jpg",
+        "piezas/2026-11-28/02-carrusel-3.jpg",
+        "piezas/2026-11-28/02-carrusel-4.jpg",
+        "piezas/2026-11-28/02-carrusel-5.jpg",
+        "piezas/2026-11-28/02-carrusel-6.jpg",
+        "piezas/2026-11-28/02-carrusel-7.jpg",
+        "piezas/2026-11-28/02-carrusel-8.jpg"
+      ],
+      "caption": "Lo que más se vende no siempre es lo que más deja.\n\nDesliza y mira 4 ejemplos: en la tienda, el pan deja 45 % y las bebidas 15 %; en el salón, el corte 70 % y el tinte 35 %; en el restaurante, jugos 60 % y almuerzo 28 %; y el freelancer que gana más por hora en el mantenimiento. Al final, la cuenta para hacerlo con lo tuyo.\n\nBlack November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.\nGuárdalo y haz tu cuenta. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes #Pymes",
+      "pilar": "verticales",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "comparativa por vertical: margen por línea en 4 negocios (8 slides)",
+      "gancho": "Lo que más vendes no siempre es lo que más te deja",
+      "primera_linea": "Lo que más se vende no siempre es lo que más deja.",
+      "estilo": "portada blanca sin visual + valor navy/claro con % + lista «Así lo ordenas en Kentra» + cierre verde",
+      "modela": {
+        "referencia": "Fer Rendon, «Controla la rentabilidad de cada obra con números claros» (Biblioteca de Meta, 6 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1646079890581300",
+        "que_tomo": "rentabilidad por línea de trabajo con números claros, contada por tipo de negocio"
+      },
+      "carpeta": "2026-11-28",
+      "archivo": "02-carrusel",
+      "qa_ticket": "c76684a8-79e9-49e4-8573-508ee41539fd"
+    },
+    {
+      "id": "2026-11-28-05-post",
+      "fecha": "2026-11-28T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-28/05-post.jpg"
+      ],
+      "caption": "Así se ve el plan mensual de Black November, mes a mes.\n\nKentra Pro: US$12 el mes 1, US$12 el mes 2 y US$20 desde el mes 3. Son US$16 menos en tus 2 primeros meses, y la oferta va solo hasta el lunes 30.\n\nEmpieza este fin de semana. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
+      "pilar": "precio",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: precio mensual mes a mes en tabla",
+      "gancho": "Kentra Pro mes a mes: lo que pagas en 3 meses",
+      "primera_linea": "Así se ve el plan mensual de Black November, mes a mes.",
+      "estilo": "dato, black, tres filas de precio con la tercera en gris",
+      "modela": {
+        "referencia": "Yessika Zapata, «Tu negocio en números, sin mensualidades» (Biblioteca de Meta, 9 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=2551563445365494",
+        "que_tomo": "responder la objeción de la mensualidad con la cifra exacta en la primera línea"
+      },
+      "carpeta": "2026-11-28",
+      "archivo": "05-post",
+      "qa_ticket": "a4672c3a-a2fa-4f42-a908-855daf294c5b"
+    },
+    {
+      "id": "2026-11-28-03-historia",
+      "fecha": "2026-11-28T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-28/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "captura real: Movimientos con medio de pago",
+      "gancho": "Cada venta con cómo te la pagaron",
+      "primera_linea": "Cada venta con cómo te la pagaron",
+      "estilo": "captura, navy, celular con Movimientos del día recortado",
+      "modela": {
+        "referencia": "Excel Listo, «Tu Excel listo, en el bolsillo» (Biblioteca de Meta, 5 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1121168870842477",
+        "que_tomo": "la promesa de tener el negocio en el bolsillo, mostrada con la pantalla real"
+      },
+      "carpeta": "2026-11-28",
+      "archivo": "03-historia",
+      "qa_ticket": "9fcd17af-e717-45df-854c-fa19d8e13f46"
+    },
+    {
       "id": "2026-11-29-01-historia",
       "fecha": "2026-11-29T08:00:00-05:00",
       "tipo": "historia",
@@ -8629,6 +8910,127 @@
       "carpeta": "2026-11-29",
       "archivo": "01-historia",
       "qa_ticket": "61108b1b-be8c-4c3a-ae8c-2042330d0607"
+    },
+    {
+      "id": "2026-11-29-04-post",
+      "fecha": "2026-11-29T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-29/04-post.jpg"
+      ],
+      "caption": "¿Cuál fue tu mejor semana de noviembre?\n\nCuéntanos en los comentarios: ¿la primera, la del Black Friday u otra? Y una pista: si la elegiste por lo que vendiste y no por lo que te quedó, puede que la respuesta cambie.\n\nBlack November termina mañana, lunes 30.\nMira tus semanas con números claros. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "pregunta de reflexión con giro",
+      "gancho": "¿Cuál fue tu mejor semana de noviembre?",
+      "primera_linea": "¿Cuál fue tu mejor semana de noviembre?",
+      "estilo": "pregunta, verde, titular grande + respuesta corta",
+      "modela": {
+        "referencia": "Siigo, pregunta que obliga a revisar las cuentas (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=4745882322310245",
+        "que_tomo": "la pregunta corta que hace que el dueño revise su propio mes"
+      },
+      "carpeta": "2026-11-29",
+      "archivo": "04-post",
+      "qa_ticket": "a3ef2f61-d4ad-4d42-b1a4-48ed840cddbe"
+    },
+    {
+      "id": "2026-11-29-02-carrusel",
+      "fecha": "2026-11-29T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-29/02-carrusel-1.jpg",
+        "piezas/2026-11-29/02-carrusel-2.jpg",
+        "piezas/2026-11-29/02-carrusel-3.jpg",
+        "piezas/2026-11-29/02-carrusel-4.jpg",
+        "piezas/2026-11-29/02-carrusel-5.jpg",
+        "piezas/2026-11-29/02-carrusel-6.jpg"
+      ],
+      "caption": "Antes del lunes, guarda esto.\n\nBlack November en 6 cifras: 40 % menos en el plan mensual los 2 primeros meses, anual a US$79, US$119 o US$159, 1 mes sin costo por cada referido que pague, y el 30, último día. Con el anual, Kentra Priority de regalo el primer año.\n\nElige el tuyo antes del lunes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
+      "pilar": "precio",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "BN: la oferta en 6 cifras, carrusel guardable (6 slides)",
+      "gancho": "Black November en 6 cifras",
+      "primera_linea": "Antes del lunes, guarda esto.",
+      "estilo": "portada black sin visual + 4 slides oferta black con cifra gigante o tarjetas + cierre verde",
+      "modela": {
+        "referencia": "Metricool, Estudio de Instagram 2026: carruseles guardables (9 veces más guardados)",
+        "url": "https://metricool.com/es/estudio-instagram/",
+        "que_tomo": "un carrusel de referencia rápida hecho para guardar"
+      },
+      "carpeta": "2026-11-29",
+      "archivo": "02-carrusel",
+      "qa_ticket": "c9b11314-7dca-4a81-9ce7-68d8eb93e199"
+    },
+    {
+      "id": "2026-11-29-05-post",
+      "fecha": "2026-11-29T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-29/05-post.jpg"
+      ],
+      "caption": "Freelancer: no todo lo que cobras es tuyo.\n\nCobraste $5.400.000 este mes. Comisiones y herramientas se llevan $900.000 y te quedan $4.500.000: págate $3.000.000 de sueldo y deja $1.500.000 en el negocio para los meses flojos.\n\nBlack November termina mañana, lunes 30.\nOrdena lo que cobras. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer",
+      "pilar": "verticales",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "vertical freelancer: lo cobrado vs lo tuyo",
+      "gancho": "Cobraste $5.400.000. ¿Cuánto es tuyo?",
+      "primera_linea": "Freelancer: no todo lo que cobras es tuyo.",
+      "estilo": "dato, menta, tres cifras con la última grande en verde",
+      "modela": {
+        "referencia": "Bind México, dolor hiperespecífico de un nicho en la primera línea (Biblioteca de Meta, 7 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1108784998804079",
+        "que_tomo": "nombrar el oficio y su dolor exacto en el titular"
+      },
+      "carpeta": "2026-11-29",
+      "archivo": "05-post",
+      "qa_ticket": "695d7b91-ade3-47fa-848e-45c63879da2d"
+    },
+    {
+      "id": "2026-11-29-03-historia",
+      "fecha": "2026-11-29T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-29/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "version": 1,
+      "formato": "captura real: Lista de cuentas por cobrar",
+      "gancho": "Quién te debe, antes de cerrar el mes",
+      "primera_linea": "Quién te debe, antes de cerrar el mes",
+      "estilo": "captura, blanco, celular con la lista de cuentas desde arriba",
+      "modela": {
+        "referencia": "Factor, facturas por cobrar (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=916979411345569",
+        "que_tomo": "mostrar la lista de lo que te deben como el control que buscas"
+      },
+      "carpeta": "2026-11-29",
+      "archivo": "03-historia",
+      "qa_ticket": "8ffc399a-3f1d-4e83-9335-07e15508f265"
     }
   ]
 }
