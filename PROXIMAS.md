@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
 
 
 ## Miércoles 11/11
-
-**10:00 — Post** · ganancia-real · `2026-11-11-04-post`
-
-<img src="piezas/2026-11-11/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un ayudante se paga con pedidos, no con ganas.
-
-Si le pagas $6,000 MXN al mes y cada pedido te deja $60 MXN, necesitas 100 pedidos solo para cubrirlo. Del 101 en adelante, la ganancia es tuya.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Cuenta cada pedido desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BuenFin #Equipo
-
-</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-11-11-02-carrusel`
 
@@ -834,9 +817,9 @@ Elige el tuyo con calma, pero antes del 30. 👉 [link de la bio en Instagram / 
 
 ## Últimas publicadas
 
+- miércoles 11/11 · 10:00 · Post `2026-11-11-04-post` · IG ✓ · FB ✓
 - miércoles 11/11 · 08:00 · Historia `2026-11-11-01-historia` · IG ✓ · FB ✓
 - martes 10/11 · 19:00 · Historia `2026-11-10-03-historia` · IG ✓ · FB ✓
 - martes 10/11 · 18:00 · Post `2026-11-10-05-post` · IG ✓ · FB ✓
 - martes 10/11 · 15:00 · Historia `2026-11-10-06-historia` · IG ✓ · FB ✓
 - martes 10/11 · 12:00 · Carrusel `2026-11-10-02-carrusel` · IG ✓ · FB ✓
-- martes 10/11 · 10:00 · Post `2026-11-10-04-post` · IG ✓ · FB ✓
