@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Black November",
+ "texto": "«Hoy todos te ofrecen descuentos. Nosotros te ayudamos a saber si los tuyos te dejaron ganancia.»",
+ "pie": "Plan mensual con 40 % menos los 2 primeros meses: Pro a US$12.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 72
+}

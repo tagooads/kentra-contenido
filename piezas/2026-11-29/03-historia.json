@@ -1,0 +1,14 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Domingo",
+ "titulo": "Quién te debe, **antes de cerrar el mes**",
+ "sub": "Cada cuenta con su fecha, lo abonado y lo que falta.",
+ "captura": "movil-cuentas-lista.png",
+ "recorte": "0px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

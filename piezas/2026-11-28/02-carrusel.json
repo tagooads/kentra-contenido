@@ -1,0 +1,148 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "blanco",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "blanco",
+   "kicker": "Rentabilidad",
+   "titulo": "Lo que más vendes **no siempre es lo que más te deja**",
+   "sub": "4 negocios, 4 ejemplos y la cuenta para hacerla con el tuyo.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Tienda de barrio",
+   "texto": "Las bebidas mueven la caja. El pan del día deja más por cada venta.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Bebidas te dejan",
+      "15 %"
+     ],
+     [
+      "Pan del día te deja",
+      "45 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Salón de belleza",
+   "texto": "El tinte se cobra más caro, pero el producto se lleva buena parte.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Corte te deja",
+      "70 %",
+      "verde"
+     ],
+     [
+      "Tinte te deja",
+      "35 %"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Restaurante",
+   "texto": "El almuerzo llena el local. Jugos y postres sostienen la ganancia.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Almuerzo te deja",
+      "28 %"
+     ],
+     [
+      "Jugos te dejan",
+      "60 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "Freelancer",
+   "texto": "Divide lo que cobraste entre las horas que de verdad te tomó.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Proyecto con cambios",
+      "$40.000/h"
+     ],
+     [
+      "Mantenimiento mensual",
+      "$90.000/h",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 5,
+   "titulo": "Haz la cuenta con lo tuyo",
+   "texto": "Por cada línea: ventas menos lo que cuesta, dividido entre las ventas.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas de tintes",
+      "$2.000.000"
+     ],
+     [
+      "Producto y comisión",
+      "−$1.300.000",
+      "rojo"
+     ],
+     [
+      "Te deja",
+      "35 %",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Una categoría por línea",
+   "items": [
+    "Categorías para cada producto o servicio",
+    "Subcategorías para el detalle",
+    "Ingresos y gastos de cada una en el mes"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Vende más de\nlo que más te deja",
+   "items": [
+    "Cada línea con su ganancia",
+    "Categorías a tu medida",
+    "Black November hasta el 30"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

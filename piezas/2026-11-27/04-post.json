@@ -1,0 +1,40 @@
+{
+ "layout": "reparto",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Tienda online",
+ "titulo": "Ganas bien y a fin de mes no queda nada",
+ "total": "$6.000.000",
+ "partes": [
+  [
+   "Mercancía",
+   "$2.700.000",
+   45
+  ],
+  [
+   "Envíos",
+   "$900.000",
+   15
+  ],
+  [
+   "Publicidad",
+   "$960.000",
+   16
+  ],
+  [
+   "Gastos fijos",
+   "$1.080.000",
+   18
+  ],
+  [
+   "Te queda",
+   "$360.000",
+   6
+  ]
+ ],
+ "cierre": "Te queda el 6 %.\nY nunca viste salir el resto.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

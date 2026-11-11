@@ -1,52 +1,36 @@
 {
  "layout": "carrusel",
  "formato": "post",
- "tema": "claro",
+ "tema": "verde",
  "slides": [
   {
    "layout": "portada",
-   "tema": "claro",
-   "kicker": "Cierre de mes",
-   "titulo": "El lunes 30 cierras noviembre: **hazlo en 4 pasos**",
-   "sub": "Con el ejemplo de cómo Tienda La Esquina cerró octubre.",
-   "visual": "mascota",
+   "tema": "verde",
+   "kicker": "Después del Black Friday",
+   "titulo": "Vendiste más el viernes: **así sabes cuánto te quedó**",
+   "sub": "4 pasos para cerrar el día de descuentos, con un ejemplo en cifras.",
+   "visual": "none",
    "sinPildora": true
   },
   {
    "layout": "valor",
-   "tema": "navy",
-   "num": 1,
-   "titulo": "Revisa que todo esté anotado",
-   "texto": "Ventas, gastos y cobros del mes. Si falta algo, súbelo antes de mirar el resultado.",
-   "ejemplo": {
-    "filas": [
-     [
-      "Movimientos de ingreso",
-      "87"
-     ],
-     [
-      "Movimientos de gasto",
-      "33"
-     ]
-    ]
-   }
-  },
-  {
-   "layout": "valor",
    "tema": "claro",
-   "num": 2,
-   "titulo": "Mira lo que entró y lo que salió",
-   "texto": "Dos números, sin fórmulas.",
+   "num": 1,
+   "titulo": "Separa las ventas con descuento",
+   "texto": "Anótalas aparte de las ventas a precio normal. Así ves cuánto te costó la promoción.",
    "ejemplo": {
     "filas": [
      [
-      "Ingresos",
-      "$23.637.000",
-      "verde"
+      "A precio normal",
+      "$1.200.000"
      ],
      [
-      "Gastos",
-      "−$9.062.000",
+      "Con 20 % menos",
+      "$1.600.000"
+     ],
+     [
+      "Lo que cediste",
+      "−$400.000",
       "rojo"
      ]
     ]
@@ -55,19 +39,65 @@
   {
    "layout": "valor",
    "tema": "navy",
-   "num": 3,
-   "titulo": "Mira lo que te quedó",
-   "texto": "Ingresos menos gastos. Ese es el resultado del mes.",
+   "num": 2,
+   "titulo": "Anota envíos y comisiones del día",
+   "texto": "Son gastos del viernes aunque los pagues la otra semana.",
    "ejemplo": {
     "filas": [
      [
-      "Resultado del mes",
-      "$14.575.000",
-      "verde"
+      "Envíos",
+      "−$240.000",
+      "rojo"
      ],
      [
-      "Margen",
-      "61,7 %"
+      "Comisión del 3 %",
+      "−$84.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Resta lo que te costó la mercancía",
+   "texto": "Lo que salió de la bodega también es plata que ya pagaste.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste",
+      "$2.800.000"
+     ],
+     [
+      "Costo de la mercancía",
+      "−$1.540.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Cierra el día con un solo número",
+   "texto": "Ventas menos todo lo que salió. Ese es tu viernes de verdad.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "$2.800.000"
+     ],
+     [
+      "Costos y gastos",
+      "−$1.864.000",
+      "rojo"
+     ],
+     [
+      "Te quedó",
+      "$936.000",
+      "verde"
      ]
     ]
    }
@@ -76,25 +106,18 @@
    "layout": "captura",
    "tema": "claro",
    "kicker": "Así lo ves en Kentra",
-   "titulo": "Resultados: el mes en una pantalla",
-   "captura": "movil-resultados.png",
-   "sub": "Tienda La Esquina, octubre.",
-   "recorte": "382px"
-  },
-  {
-   "layout": "valor",
-   "tema": "navy",
-   "num": 4,
-   "titulo": "Decide una sola cosa",
-   "texto": "Mira qué gasto subió y escoge uno para revisar en diciembre. Uno, no diez."
+   "titulo": "Lo que entró y salió, en el panel",
+   "captura": "movil-panel.png",
+   "sub": "Ingresos, gastos y saldo del mes en la primera pantalla.",
+   "recorte": "520px"
   },
   {
    "layout": "mascota",
    "tema": "verde",
-   "titulo": "Tu cierre de\nnoviembre, el 30",
+   "titulo": "Tu viernes de descuentos,\ncerrado en un número",
    "items": [
-    "Entró, salió y quedó",
-    "El margen del mes a la vista",
+    "Ventas con descuento aparte",
+    "Envíos y comisiones anotados",
     "Black November hasta el 30"
    ],
    "mascota": "app",

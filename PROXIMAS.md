@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 71 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
 
 
 ## Miércoles 11/11
@@ -728,6 +728,56 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 
 <img src="piezas/2026-11-23/01-historia.jpg" width="160">
 
+**10:00 — Post** · ganancia-real · `2026-11-23-04-post`
+
+<img src="piezas/2026-11-23/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Si en la noche la caja no te cuadra, casi nunca es un robo: son cobros que no se anotaron.
+
+Recuerdas $1.850.000 en ventas y en caja hay $1.610.000. Faltan $240.000 y no sabes de qué. Anotar cada cobro cuando entra cierra esa diferencia.
+
+Black November hasta el 30: si otro dueño se suscribe con tu invitación y paga, sumas un mes sin costo.
+Cierra el día con la cuenta clara. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
+
+</details>
+
+**12:00 — Carrusel** · educacion · `2026-11-23-02-carrusel`
+
+<img src="piezas/2026-11-23/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-8.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-9.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Un 20 % de descuento el viernes te puede pedir el doble de ventas para ganar lo mismo.
+
+El ejemplo: un producto de $100.000 que te cuesta $60.000 te deja $40.000; con 20 % menos te deja $20.000. Desliza para ver las 6 cuentas: margen, ventas que necesitas, stock, comisión y tu tope de descuento.
+
+Black November: Invita y gana, 1 mes sin costo por cada dueño que invites y pague.
+Guárdalo para el jueves. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackFriday #Pymes
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-23-05-post`
+
+<img src="piezas/2026-11-23/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Pro con 40 % menos: US$12 al mes los 2 primeros meses, luego US$20.
+
+Incluye tu ganancia real del mes, importación de extractos y facturas con IA, hasta 2 negocios y KentrAI.
+
+Black November va hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember
+
+</details>
+
 **19:00 — Historia** · ganancia-real · `2026-11-23-03-historia`
 
 <img src="piezas/2026-11-23/03-historia.jpg" width="160">
@@ -738,6 +788,23 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 **08:00 — Historia** · precio · `2026-11-24-01-historia`
 
 <img src="piezas/2026-11-24/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-11-24-04-post`
+
+<img src="piezas/2026-11-24/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Lo que está en el estante también es plata tuya, solo que no se mueve.
+
+40 unidades que te costaron $35.000 cada una son $1.400.000 esperando un comprador. Saber cuánto tienes quieto te ayuda a decidir qué pedir y qué no antes de diciembre.
+
+Black November: Pro anual a US$119 con Kentra Priority de regalo el primer año.
+Mira tus números antes de volver a comprar. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Inventario #NegocioPropio
+
+</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-24-02-carrusel`
 
@@ -775,6 +842,108 @@ Elige el tuyo con calma, pero antes del 30. 👉 [link de la bio en Instagram / 
 **19:00 — Historia** · funcionalidades · `2026-11-24-03-historia`
 
 <img src="piezas/2026-11-24/03-historia.jpg" width="160">
+
+
+## Miércoles 25/11
+
+**08:00 — Historia** · precio · `2026-11-25-01-historia`
+
+<img src="piezas/2026-11-25/01-historia.jpg" width="160">
+
+**10:00 — Post** · verticales · `2026-11-25-04-post`
+
+<img src="piezas/2026-11-25/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Cobras $18.000 por el almuerzo y sientes que te va bien. Haz la cuenta del plato.
+
+Insumos $7.200, gas y servicios $1.300, empaque $900 y domicilio $3.600: $13.000 se van antes de servirlo. Te quedan $5.000 por plato.
+
+Black November: el plan mensual con 40 % menos los 2 primeros meses.
+Costea tu menú con tus números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes
+
+</details>
+
+**12:00 — Carrusel** · precio · `2026-11-25-02-carrusel`
+
+<img src="piezas/2026-11-25/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-6.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Conoces a alguien con una tienda, un salón o clientes freelance?
+
+Desliza: tres dueños, tres dolores y cómo los resuelve Kentra. Al final, cómo se suman los meses: por cada dueño que invites y pague, sumas 1 mes sin costo.
+
+Invita y gana va con Black November, hasta el 30. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #NegocioPropio
+
+</details>
+
+**18:00 — Post** · objeciones · `2026-11-25-05-post`
+
+<img src="piezas/2026-11-25/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+«¿Me haces precio?» es más fácil de responder cuando sabes tu margen.
+
+Si te queda el 22 % de cada venta, una rebaja de 5 % todavía te deja 17 %. Una de 20 % te deja 2 %: casi todo el trabajo sin ganancia.
+
+Black November: mensual con 40 % menos los 2 primeros meses.
+Conoce tu margen antes de rebajar. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-11-25-03-historia`
+
+<img src="piezas/2026-11-25/03-historia.jpg" width="160">
+
+
+## Jueves 26/11
+
+**08:00 — Historia** · precio · `2026-11-26-01-historia`
+
+<img src="piezas/2026-11-26/01-historia.jpg" width="160">
+
+**10:00 — Post** · kentra-vs-excel · `2026-11-26-04-post`
+
+<img src="piezas/2026-11-26/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Si tu ferretería vive en una hoja por proveedor, cada noche toca sumar a mano.
+
+En Kentra registras ventas y gastos por categoría, ves lo que entró, salió y quedó, y sabes quién te debe sin buscar en cuadernos.
+
+Black November: si otro dueño se suscribe con tu invitación y paga, sumas un mes sin costo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Ferreteria
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-26-05-post`
+
+<img src="piezas/2026-11-26/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Llevas más de un negocio? No necesitas una cuenta para cada uno.
+
+Con Business tienes varios negocios en el mismo lugar, cada uno con sus propias cuentas y su moneda. En Black November, el anual queda en US$159 (normal US$199), con Kentra Priority de regalo el primer año. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember
+
+</details>
+
+**19:00 — Historia** · objeciones · `2026-11-26-03-historia`
+
+<img src="piezas/2026-11-26/03-historia.jpg" width="160">
 
 
 ## Viernes 27/11

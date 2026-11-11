@@ -1,0 +1,30 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "menta",
+ "kicker": "Freelancer",
+ "titulo": "Cobraste $5.400.000. ¿Cuánto es tuyo?",
+ "filas": [
+  {
+   "label": "Cobraste",
+   "valor": "$5.400.000"
+  },
+  {
+   "label": "Gastos",
+   "valor": "−$900.000",
+   "color": "rojo",
+   "nota": "comisiones y herramientas"
+  },
+  {
+   "label": "Tuyo",
+   "valor": "$4.500.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "Págate $3.000.000 de sueldo y deja $1.500.000 en el negocio.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

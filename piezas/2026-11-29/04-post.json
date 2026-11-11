@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "¿Cuál fue tu mejor semana de noviembre?",
+ "sub": "Si la elegiste por lo que vendiste y no por lo que te quedó, puede que sea otra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

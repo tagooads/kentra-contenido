@@ -1,0 +1,27 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "black",
+ "kicker": "Black November",
+ "titulo": "Kentra Pro mes a mes: lo que pagas en 3 meses",
+ "filas": [
+  {
+   "label": "Mes 1",
+   "valor": "US$12"
+  },
+  {
+   "label": "Mes 2",
+   "valor": "US$12"
+  },
+  {
+   "label": "Desde el mes 3",
+   "valor": "US$20",
+   "color": "gris"
+  }
+ ],
+ "cierre": "US$16 menos en tus 2 primeros meses. Solo hasta el lunes 30.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

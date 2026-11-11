@@ -1,0 +1,16 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Diagnóstico",
+ "titulo": "¿Cuánto tardas en saber si un mes **fue bueno**?",
+ "opciones": [
+  "Lo sé el mismo día que cierra",
+  "Lo adivino semanas después"
+ ],
+ "nota": "5 preguntas, 2 minutos y sabes por dónde empezar.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

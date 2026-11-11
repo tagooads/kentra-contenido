@@ -1,0 +1,148 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "menta",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "menta",
+   "kicker": "Cobros",
+   "titulo": "Vender no es cobrar: **4 lugares donde se queda tu dinero**",
+   "sub": "Después de un día de muchas ventas, $3.200.000 pueden estar todavía por llegar.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Las transferencias que «ya te mandan»",
+   "texto": "El cliente se lleva el pedido y la transferencia llega cuando se acuerda.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Clientes que faltan",
+      "6"
+     ],
+     [
+      "Por llegar",
+      "$540.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Los pedidos contra entrega",
+   "texto": "Vendidos sí. Cobrados, cuando el mensajero te entregue el dinero.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pedidos en camino",
+      "9"
+     ],
+     [
+      "Por llegar",
+      "$810.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Lo que pagaron con tarjeta",
+   "texto": "La pasarela o el datáfono te depositan unos días después, no el mismo día.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas con tarjeta",
+      "$1.400.000"
+     ],
+     [
+      "Ya en tu cuenta",
+      "$0",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "Lo que dejaste fiado",
+   "texto": "A clientes de confianza, «el lunes te pago». Anota a quién y cuánto.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Clientes",
+      "4"
+     ],
+     [
+      "Por cobrar",
+      "$450.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 5,
+   "titulo": "Suma lo que falta por llegar",
+   "texto": "Antes de gastar la venta del viernes, mira cuánto de verdad ya entró.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste",
+      "$5.000.000"
+     ],
+     [
+      "Falta por cobrar",
+      "−$3.200.000",
+      "rojo"
+     ],
+     [
+      "Ya entró",
+      "$1.800.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "Cada cobro con su fecha",
+   "items": [
+    "Cuentas por cobrar con fecha límite",
+    "Abonos y saldo pendiente a la vista",
+    "Al marcarla cobrada, se registra sola"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Que ninguna venta\nse quede sin cobrar",
+   "items": [
+    "Lo vendido y lo cobrado, aparte",
+    "Recordatorios de cada cuenta",
+    "Black November hasta el 30"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

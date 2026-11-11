@@ -1,0 +1,14 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Movimientos",
+ "titulo": "Cada venta con **cómo te la pagaron**",
+ "sub": "Efectivo, datáfono o transferencia: el día se suma solo.",
+ "captura": "movil-movimientos.png",
+ "recorte": "720px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

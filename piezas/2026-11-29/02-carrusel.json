@@ -1,0 +1,79 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "black",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "black",
+   "kicker": "Antes del lunes",
+   "titulo": "Black November en **6 cifras**",
+   "sub": "Todo lo de la oferta en un solo lugar, para que elijas con calma.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "titulo": "Menos en el plan mensual",
+   "grande": "40 %",
+   "sub": "Los 2 primeros meses: Básico US$9, Pro US$12 y Business US$18. Luego US$15, US$20 y US$30."
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "titulo": "El plan anual, en 3 precios",
+   "planes": [
+    {
+     "plan": "Básico",
+     "antes": "US$99",
+     "precio": "US$79",
+     "periodo": "/año"
+    },
+    {
+     "plan": "Pro",
+     "antes": "US$149",
+     "precio": "US$119",
+     "periodo": "/año",
+     "destacado": true
+    },
+    {
+     "plan": "Business",
+     "antes": "US$199",
+     "precio": "US$159",
+     "periodo": "/año"
+    }
+   ]
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "titulo": "Mes sin costo por cada referido que pague",
+   "grande": "1",
+   "sub": "Invita a otro dueño de negocio. Cuando pague, tu siguiente mes va por nuestra cuenta."
+  },
+  {
+   "layout": "oferta",
+   "tema": "black",
+   "titulo": "El último día de la oferta",
+   "grande": "30",
+   "sub": "Lunes 30 de noviembre. Con el anual, Kentra Priority de regalo el primer año."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Elige antes\ndel lunes 30",
+   "items": [
+    "Mensual con 40 % menos",
+    "Anual desde US$79",
+    "1 mes por referido"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}
