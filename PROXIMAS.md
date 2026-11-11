@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 64 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
 
 
 ## Miércoles 11/11
@@ -754,6 +754,82 @@ Elige tu plan antes del 30. 👉 [link de la bio en Instagram / link con UTM en 
 **19:00 — Historia** · objeciones · `2026-11-22-03-historia`
 
 <img src="piezas/2026-11-22/03-historia.jpg" width="160">
+
+
+## Lunes 23/11
+
+**08:00 — Historia** · precio · `2026-11-23-01-historia`
+
+<img src="piezas/2026-11-23/01-historia.jpg" width="160">
+
+**19:00 — Historia** · ganancia-real · `2026-11-23-03-historia`
+
+<img src="piezas/2026-11-23/03-historia.jpg" width="160">
+
+
+## Martes 24/11
+
+**08:00 — Historia** · precio · `2026-11-24-01-historia`
+
+<img src="piezas/2026-11-24/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · educacion · `2026-11-24-02-carrusel`
+
+<img src="piezas/2026-11-24/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-24/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-24/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-24/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-24/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-24/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-24/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Si te vas una semana, ¿alguien sabe cuánto entró?
+
+4 señales de que el dinero del negocio depende de tu memoria: cobros sin anotar ($420.000), gastos de la casa pagados con la caja ($180.000), ventas sin ganancia clara y deudas que te recuerda el proveedor, con recargo.
+
+Black November: Business anual a US$159 si llevas hasta 3 negocios.
+Revisa cuántas tienes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-24-05-post`
+
+<img src="piezas/2026-11-24/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El Black Friday dura un día. El de Kentra va hasta el 30 de noviembre.
+
+Mensual con 40 % menos los 2 primeros meses o plan anual desde US$79, con Kentra Priority de regalo el primer año.
+
+Elige el tuyo con calma, pero antes del 30. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember
+
+</details>
+
+**19:00 — Historia** · funcionalidades · `2026-11-24-03-historia`
+
+<img src="piezas/2026-11-24/03-historia.jpg" width="160">
+
+
+## Viernes 27/11
+
+**08:00 — Historia** · precio · `2026-11-27-01-historia`
+
+<img src="piezas/2026-11-27/01-historia.jpg" width="160">
+
+
+## Sábado 28/11
+
+**08:00 — Historia** · precio · `2026-11-28-01-historia`
+
+<img src="piezas/2026-11-28/01-historia.jpg" width="160">
+
+
+## Domingo 29/11
+
+**08:00 — Historia** · precio · `2026-11-29-01-historia`
+
+<img src="piezas/2026-11-29/01-historia.jpg" width="160">
 
 
 ## Últimas publicadas

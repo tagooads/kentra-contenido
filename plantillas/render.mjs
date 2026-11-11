@@ -522,7 +522,7 @@ L.split = (p, t, hist) => `
     <div style="flex:1;min-height:0;background:#0B1220;color:#fff;border-radius:40px;padding:36px 42px;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.25)">
       <div style="display:flex;align-items:center;gap:14px;font-weight:800;font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:#FF6B6B"><span style="width:18px;height:18px;border-radius:50%;background:#FF6B6B"></span>${esc(p.arriba?.kicker || "El pitch")}</div>
       <div class="fit" style="font-weight:800;font-size:${p.arriba?.tam || (hist ? 54 : 50)}px;line-height:1.15;max-height:${hist ? 300 : 330}px">${rich(p.arriba?.texto)}</div>
-      <div style="position:absolute;right:36px;bottom:30px;width:74px;height:74px;border-radius:50%;background:rgba(255,255,255,.14);display:flex;align-items:center;justify-content:center;font-size:30px">▶</div>
+      ${p.arriba?.play === false ? "" : `<div style="position:absolute;right:36px;bottom:30px;width:74px;height:74px;border-radius:50%;background:rgba(255,255,255,.14);display:flex;align-items:center;justify-content:center;font-size:30px">▶</div>`}
     </div>
     <div style="flex:1.1;min-height:0;background:#FBFBF7;color:#1E2D4F;border-radius:40px;padding:34px 42px;display:flex;flex-direction:column;gap:14px;box-shadow:0 24px 60px rgba(0,0,0,.18)">
       <div style="font-weight:800;font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:#1E8A5E">${esc(p.abajo?.kicker || "La cuenta")}</div>

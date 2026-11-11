@@ -377,35 +377,6 @@
       "reserva": true
     },
     {
-      "id": "2026-11-23-01-historia",
-      "fecha": "2026-11-23T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-23/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: precio ancla «desde» con los 3 anuales",
-      "gancho": "Desde US$79 al año, solo hasta el 30",
-      "primera_linea": "Desde US$79 al año…",
-      "estilo": "oferta, black, tres tarjetas con precio tachado (Pro destacado)",
-      "modela": {
-        "referencia": "JLMG, «Desde $300» como titular (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1478530177518831",
-        "que_tomo": "el precio de entrada como titular y las variantes debajo"
-      },
-      "carpeta": "2026-11-23",
-      "archivo": "01-historia",
-      "qa_ticket": "71010212-5f88-4c81-b7f9-24b331e74345"
-    },
-    {
       "id": "2026-11-23-04-post",
       "fecha": "2026-11-23T10:00:00-05:00",
       "tipo": "post",
@@ -420,7 +391,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "pregunta de dolor en partes (problema / cuenta / solución)",
       "gancho": "«Cobré todo el día y la caja no cuadra.»",
       "primera_linea": "Si en la noche la caja no te cuadra…",
@@ -432,7 +403,7 @@
       },
       "carpeta": "2026-11-23",
       "archivo": "04-post",
-      "qa_ticket": "b932fd27-de60-4a33-be11-74c17bbd3cfe"
+      "qa_ticket": "45a6649a-77ee-4bb7-9ab9-31bfdcb6ece0"
     },
     {
       "id": "2026-11-23-02-carrusel",
@@ -449,7 +420,7 @@
         "piezas/2026-11-23/02-carrusel-8.jpg",
         "piezas/2026-11-23/02-carrusel-9.jpg"
       ],
-      "caption": "Antes de poner el 20 % de descuento el viernes, haz estas 6 cuentas.\n\nUn producto de $100.000 que te cuesta $60.000: sin descuento te deja $40.000; con 20 %, $20.000. Para ganar lo mismo necesitas el doble de ventas, el stock para venderlas y restar la comisión. Al final, tu tope de descuento.\n\nBlack November: Invita y gana, 1 mes sin costo por cada dueño que invites y pague.\nGuárdalo para el jueves. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackFriday #Pymes",
+      "caption": "Un 20 % de descuento el viernes te puede pedir el doble de ventas para ganar lo mismo.\n\nEl ejemplo: un producto de $100.000 que te cuesta $60.000 te deja $40.000; con 20 % menos te deja $20.000. Desliza para ver las 6 cuentas: margen, ventas que necesitas, stock, comisión y tu tope de descuento.\n\nBlack November: Invita y gana, 1 mes sin costo por cada dueño que invites y pague.\nGuárdalo para el jueves. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackFriday #Pymes",
       "pilar": "educacion",
       "layout": "carrusel",
       "destinos": [
@@ -457,10 +428,10 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "checklist guardable antes del Black Friday (9 slides)",
-      "gancho": "6 números que revisas antes de poner descuento",
-      "primera_linea": "Antes de poner el 20 % de descuento…",
+      "gancho": "Un 20 % de descuento te pide el doble de ventas",
+      "primera_linea": "Un 20 % de descuento el viernes…",
       "estilo": "portada navy con mascota + valor claro/navy alternado con cifras en rojo + captura real + cierre verde",
       "modela": {
         "referencia": "mean.ceo, lista de cosas para arreglar antes del Black Friday + Metricool (carruseles guardables)",
@@ -469,7 +440,7 @@
       },
       "carpeta": "2026-11-23",
       "archivo": "02-carrusel",
-      "qa_ticket": "2b50d335-850b-4472-9fc8-bff9a5f4599f"
+      "qa_ticket": "f8e92dda-79a3-4508-a913-d74958c95e4e"
     },
     {
       "id": "2026-11-23-05-post",
@@ -478,7 +449,7 @@
       "imagenes": [
         "piezas/2026-11-23/05-post.jpg"
       ],
-      "caption": "Pro con 40 % menos: US$12 al mes los 2 primeros meses, luego US$20.\n\nIncluye tu ganancia real del mes, importación de extractos y facturas con IA, hasta 2 negocios y KentrAI. Sin permanencia.\n\nBlack November va hasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
+      "caption": "Pro con 40 % menos: US$12 al mes los 2 primeros meses, luego US$20.\n\nIncluye tu ganancia real del mes, importación de extractos y facturas con IA, hasta 2 negocios y KentrAI.\n\nBlack November va hasta el 30 de noviembre. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
       "pilar": "precio",
       "layout": "precio",
       "destinos": [
@@ -486,7 +457,7 @@
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
+      "version": 2,
       "formato": "BN: precio mensual en el titular",
       "gancho": "US$12 al mes para saber si tu negocio gana",
       "primera_linea": "Pro con 40 % menos…",
@@ -498,65 +469,7 @@
       },
       "carpeta": "2026-11-23",
       "archivo": "05-post",
-      "qa_ticket": "da3ffd37-8721-45d5-a0df-1a375a3c0f2f"
-    },
-    {
-      "id": "2026-11-23-03-historia",
-      "fecha": "2026-11-23T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-23/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "encuesta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "encuesta de identidad binaria",
-      "gancho": "¿Tu negocio gana o solo vende?",
-      "primera_linea": "¿Tu negocio gana o solo vende?",
-      "estilo": "encuesta, noche, dos opciones",
-      "modela": {
-        "referencia": "Makria, pregunta que separa vender de ganar (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1937324444318455",
-        "que_tomo": "la pregunta binaria vender vs ganar"
-      },
-      "carpeta": "2026-11-23",
-      "archivo": "03-historia",
-      "qa_ticket": "8a13b54b-997c-4cd8-82bb-2d0cc9c23a41"
-    },
-    {
-      "id": "2026-11-24-01-historia",
-      "fecha": "2026-11-24T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-24/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: referidos como ecuación",
-      "gancho": "Un referido que paga = un mes sin costo",
-      "primera_linea": "Un referido que paga…",
-      "estilo": "oferta, black, ecuación gigante «1 = 1»",
-      "modela": {
-        "referencia": "Inconnect, la cifra de la oferta como titular (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1678402997011330",
-        "que_tomo": "la cifra de la oferta en grande arriba"
-      },
-      "carpeta": "2026-11-24",
-      "archivo": "01-historia",
-      "qa_ticket": "4602e610-05a6-4231-a5f9-c84daa6e1901"
+      "qa_ticket": "83b836e8-6dc9-4c00-82c6-5c05ae20cdbf"
     },
     {
       "id": "2026-11-24-04-post",
@@ -565,120 +478,27 @@
       "imagenes": [
         "piezas/2026-11-24/04-post.jpg"
       ],
-      "caption": "«Este mes gané como un millón». Hasta que haces la cuenta.\n\nVentas de $3.200.000 y gastos de $2.560.000: te quedaron $640.000. La diferencia entre la cifra de memoria y la real suele estar en los gastos que nadie anotó.\n\nBlack November: Pro anual a US$119 con Kentra Priority de regalo el primer año.\nHaz la cuenta de noviembre con tus números. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
-      "pilar": "ganancia-real",
-      "layout": "antes",
+      "caption": "Lo que está en el estante también es plata tuya, solo que no se mueve.\n\n40 unidades que te costaron $35.000 cada una son $1.400.000 esperando un comprador. Saber cuánto tienes quieto te ayuda a decidir qué pedir y qué no antes de diciembre.\n\nBlack November: Pro anual a US$119 con Kentra Priority de regalo el primer año.\nMira tus números antes de volver a comprar. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Inventario #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "cita",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "comparativa en dos tiempos (a ojo vs con tus números)",
-      "gancho": "Lo que crees que ganaste vs lo que te quedó",
-      "primera_linea": "«Este mes gané como un millón»…",
-      "estilo": "antes, claro, dos bloques gris/verde apilados, sin mascota",
+      "version": 2,
+      "formato": "frase corta con cifra (estático tipo anuncio)",
+      "gancho": "Lo que tienes en bodega también es tu dinero",
+      "primera_linea": "Lo que tienes en bodega…",
+      "estilo": "cita, claro, barra lateral verde + cifra en sub, sin mascota",
       "modela": {
-        "referencia": "Tendencia «AI vs handmade» (SocialPilot, tendencias de TikTok)",
-        "url": "https://socialpilot.co/blog/tiktok-trends/",
-        "que_tomo": "el contraste en dos tiempos sobre el mismo tema"
+        "referencia": "Bind México, «Tu inventario es dinero parado» (Biblioteca de Meta, 11 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1088836277530024",
+        "que_tomo": "la frase corta de postura sobre el inventario como dinero, en un estático limpio"
       },
       "carpeta": "2026-11-24",
       "archivo": "04-post",
-      "qa_ticket": "04c9fadb-d742-4fb8-9b9c-7c4a1c3ef6e5"
-    },
-    {
-      "id": "2026-11-24-02-carrusel",
-      "fecha": "2026-11-24T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-11-24/02-carrusel-1.jpg",
-        "piezas/2026-11-24/02-carrusel-2.jpg",
-        "piezas/2026-11-24/02-carrusel-3.jpg",
-        "piezas/2026-11-24/02-carrusel-4.jpg",
-        "piezas/2026-11-24/02-carrusel-5.jpg",
-        "piezas/2026-11-24/02-carrusel-6.jpg",
-        "piezas/2026-11-24/02-carrusel-7.jpg"
-      ],
-      "caption": "Si te vas una semana, ¿alguien sabe cuánto entró?\n\n4 señales de que el dinero del negocio depende de tu memoria: cobros sin anotar ($420.000), gastos de la casa pagados con la caja ($180.000), ventas sin ganancia clara y deudas que te recuerda el proveedor, con recargo.\n\nBlack November: Business anual a US$159 si llevas hasta 3 negocios.\nRevisa cuántas tienes. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "autodiagnóstico de señales (7 slides)",
-      "gancho": "¿Tu negocio funciona sin ti? 4 señales de que no",
-      "primera_linea": "Si te vas una semana, ¿alguien sabe cuánto entró?",
-      "estilo": "portada navy sin visual + valor menta/navy alternado + captura real de cuentas + cierre verde",
-      "modela": {
-        "referencia": "Sistemas Sierra, carrusel «¿Reconoces alguna señal? / ¿Tu negocio funciona sin ti?» (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1592069548911948",
-        "que_tomo": "la pregunta de identidad y las señales numeradas"
-      },
-      "carpeta": "2026-11-24",
-      "archivo": "02-carrusel",
-      "qa_ticket": "034f53d8-2a02-498c-b57f-45d6b225598f"
-    },
-    {
-      "id": "2026-11-24-05-post",
-      "fecha": "2026-11-24T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-11-24/05-post.jpg"
-      ],
-      "caption": "El Black Friday dura un día. El de Kentra va hasta el 30 de noviembre.\n\nMensual con 40 % menos los 2 primeros meses o plan anual desde US$79, con Kentra Priority de regalo el primer año.\n\nElige el tuyo con calma, pero antes del 30. {CTA}\n\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
-      "pilar": "precio",
-      "layout": "tweet",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: tarjeta de postura",
-      "gancho": "El Black Friday dura un día. El de Kentra va hasta el 30.",
-      "primera_linea": "El Black Friday dura un día…",
-      "estilo": "tweet, black, tarjeta blanca con texto grande",
-      "modela": {
-        "referencia": "Alegra, titular corto de una sola promesa (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=2015809552449291",
-        "que_tomo": "una sola frase de postura como pieza"
-      },
-      "carpeta": "2026-11-24",
-      "archivo": "05-post",
-      "qa_ticket": "2e7b9d20-11d3-4fc5-8795-b3b4714619ef"
-    },
-    {
-      "id": "2026-11-24-03-historia",
-      "fecha": "2026-11-24T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-24/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "captura",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "captura real: proyección de flujo de efectivo",
-      "gancho": "Cuánto vas a tener en caja, antes de que pase",
-      "primera_linea": "Cuánto vas a tener en caja…",
-      "estilo": "captura, menta, celular con pantalla real recortada",
-      "modela": {
-        "referencia": "Mattera, «Tu negocio en números» (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1461742845915719",
-        "que_tomo": "la pantalla real con los números del negocio"
-      },
-      "carpeta": "2026-11-24",
-      "archivo": "03-historia",
-      "qa_ticket": "c8659bd0-e1e8-4632-ae5a-3b6fb94d6e39"
+      "qa_ticket": "241d57ea-3e10-400c-aa8a-8aff8ae74ca5"
     },
     {
       "id": "2026-11-25-01-historia",
@@ -689,25 +509,25 @@
       ],
       "caption": "",
       "pilar": "precio",
-      "layout": "oferta",
+      "layout": "chat",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: precio mensual traducido a la semana",
-      "gancho": "Pro a US$12 al mes los 2 primeros meses",
-      "primera_linea": "Pro a US$12 al mes…",
-      "estilo": "oferta, black, dos tarjetas (meses 1-2 vs mes 3)",
+      "version": 2,
+      "formato": "BN: el regalo del anual como mensaje de WhatsApp",
+      "gancho": "Con el anual, este mensaje te llega cada mes",
+      "primera_linea": "Con el anual, este mensaje…",
+      "estilo": "chat, black, pantallazo de mensajes de Kentra Priority",
       "modela": {
-        "referencia": "Método PISO, precio pequeño y concreto (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1960925511707874",
-        "que_tomo": "el precio chico traducido a la semana"
+        "referencia": "Hal, «Tu socio financiero de IA» (Biblioteca de Meta, 8 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1835170580961276",
+        "que_tomo": "mostrar la IA como un mensaje que te llega con tu informe"
       },
       "carpeta": "2026-11-25",
       "archivo": "01-historia",
-      "qa_ticket": "806fbbd1-096f-405e-bc49-25ae283343dd"
+      "qa_ticket": "b03241f2-00db-40cf-a75d-ea9beec7b792"
     },
     {
       "id": "2026-11-26-01-historia",
@@ -718,112 +538,25 @@
       ],
       "caption": "",
       "pilar": "precio",
-      "layout": "oferta",
+      "layout": "encuesta",
       "destinos": [
         "instagram",
         "facebook"
       ],
       "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: calendario de los últimos días",
-      "gancho": "Mañana es Black Friday. El nuestro sigue 5 días.",
-      "primera_linea": "Mañana es Black Friday…",
-      "estilo": "oferta, black, lista de 3 fechas con check",
+      "version": 2,
+      "formato": "BN: ayuda a elegir mensual o anual",
+      "gancho": "¿Mensual o anual? Elige con una pregunta",
+      "primera_linea": "¿Mensual o anual?…",
+      "estilo": "encuesta, black, dos opciones en primera persona",
       "modela": {
-        "referencia": "mean.ceo, urgencia de la semana del Black Friday",
-        "url": "https://blog.mean.ceo/instagram-trends-november-2026/",
-        "que_tomo": "la urgencia por fechas de la semana del Black Friday"
+        "referencia": "Latinas Together, CTA en primera persona «Quiero dejar de adivinar…» (Biblioteca de Meta, 11 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=2740198719769713",
+        "que_tomo": "las opciones escritas en primera persona («Quiero probar…», «Lo voy a usar…»)"
       },
       "carpeta": "2026-11-26",
       "archivo": "01-historia",
-      "qa_ticket": "48508ea1-59f8-4127-8dee-a64715ed426d"
-    },
-    {
-      "id": "2026-11-27-01-historia",
-      "fecha": "2026-11-27T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-27/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: Black Friday con los 3 anuales por número de negocios",
-      "gancho": "Un año de Kentra a precio de Black Friday",
-      "primera_linea": "Un año de Kentra…",
-      "estilo": "oferta, black, kicker «Hoy es Black Friday» + 3 tarjetas con negocios",
-      "modela": {
-        "referencia": "Inconnect, cifra en el título (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1678402997011330",
-        "que_tomo": "precios visibles en el día pico"
-      },
-      "carpeta": "2026-11-27",
-      "archivo": "01-historia",
-      "qa_ticket": "bcc9fc53-c18e-43c5-a990-7d36eedc498d"
-    },
-    {
-      "id": "2026-11-28-01-historia",
-      "fecha": "2026-11-28T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-28/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: último fin de semana en 3 pasos",
-      "gancho": "Último fin de semana: así lo aprovechas",
-      "primera_linea": "Último fin de semana…",
-      "estilo": "oferta, black, 3 pasos con check",
-      "modela": {
-        "referencia": "Equii, promesa corta de orden (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=2967988980230649",
-        "que_tomo": "pasos cortos para decidir"
-      },
-      "carpeta": "2026-11-28",
-      "archivo": "01-historia",
-      "qa_ticket": "61495ed5-8089-495a-b9ce-528c2772c2e9"
-    },
-    {
-      "id": "2026-11-29-01-historia",
-      "fecha": "2026-11-29T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-11-29/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "precio",
-      "layout": "oferta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "version": 1,
-      "formato": "BN: cuenta regresiva con número gigante",
-      "gancho": "Quedan 2 días de Black November",
-      "primera_linea": "Quedan 2 días…",
-      "estilo": "oferta, black, número gigante «2»",
-      "modela": {
-        "referencia": "Siigo, «¿Todavía…?» que empuja a decidir (Biblioteca de Meta)",
-        "url": "https://www.facebook.com/ads/library/?id=1868543927635916",
-        "que_tomo": "la cuenta regresiva que empuja a decidir"
-      },
-      "carpeta": "2026-11-29",
-      "archivo": "01-historia",
-      "qa_ticket": "61108b1b-be8c-4c3a-ae8c-2042330d0607"
+      "qa_ticket": "fe16a415-612c-44ba-978e-1c6f3e0f1fd6"
     }
   ]
 }

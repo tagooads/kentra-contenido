@@ -6,7 +6,8 @@
  "arriba": {
   "kicker": "En la noche",
   "texto": "«Cobré todo el día y la caja no cuadra.»",
-  "tam": 64
+  "tam": 64,
+  "play": false
  },
  "abajo": {
   "kicker": "La cuenta",

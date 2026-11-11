@@ -6,9 +6,9 @@
   {
    "layout": "portada",
    "tema": "navy",
-   "kicker": "Antes del viernes",
-   "titulo": "6 números que revisas antes de poner descuento",
-   "sub": "Con un ejemplo: un producto de $100.000 que te cuesta $60.000.",
+   "kicker": "Black Friday",
+   "titulo": "Un 20 % de descuento te pide **el doble de ventas**",
+   "sub": "Haz estas 6 cuentas con un ejemplo: un producto de $100.000 que te cuesta $60.000.",
    "visual": "mascota-telefono",
    "sinPildora": true
   },
@@ -129,15 +129,15 @@
     "filas": [
      [
       "Quieres ganar",
-      "$25.000"
+      "$30.000"
      ],
      [
       "Precio mínimo",
-      "$85.000"
+      "$90.000"
      ],
      [
       "Descuento máximo",
-      "15 %",
+      "10 %",
       "verde"
      ]
     ]
@@ -150,7 +150,7 @@
    "titulo": "El sábado sabes cuánto te dejó el viernes",
    "captura": "movil-resultados.png",
    "sub": "Ingresos, gastos y margen del mes en una pantalla.",
-   "recorte": "330px"
+   "recorte": "382px"
   },
   {
    "layout": "mascota",

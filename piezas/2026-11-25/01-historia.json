@@ -1,23 +1,28 @@
 {
- "layout": "oferta",
+ "layout": "chat",
  "formato": "historia",
  "tema": "black",
- "cuenta": "Quedan 6 días",
- "titulo": "Pro a **US$12 al mes** los 2 primeros meses",
- "planes": [
-  {
-   "plan": "Meses 1 y 2",
-   "precio": "US$12",
-   "periodo": "/mes",
-   "destacado": true
-  },
-  {
-   "plan": "Desde el mes 3",
-   "precio": "US$20",
-   "periodo": "/mes"
-  }
+ "kicker": "Quedan 6 días",
+ "titulo": "Con el anual, este mensaje te llega **cada mes**",
+ "nombre": "Kentra Priority",
+ "chat": [
+  [
+   "cliente",
+   "Tu informe de noviembre está listo.",
+   "8:02"
+  ],
+  [
+   "cliente",
+   "Margen del mes, a dónde se fue la plata y cómo te fue frente a octubre.",
+   "8:02"
+  ],
+  [
+   "cliente",
+   "Y 3 acciones para diciembre.",
+   "8:03"
+  ]
  ],
- "nota": "Menos de US$3 a la semana para saber si tu negocio gana.",
+ "cierre": "Black November: Kentra Priority de regalo el primer año con el anual.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true

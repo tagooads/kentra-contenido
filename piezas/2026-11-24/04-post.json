@@ -1,25 +1,11 @@
 {
- "layout": "antes",
+ "layout": "cita",
  "formato": "post",
  "tema": "claro",
- "kicker": "Fin de mes",
- "titulo": "Lo que crees que ganaste vs lo que te quedó",
- "antes": {
-  "titulo": "A ojo",
-  "items": [
-   "«Gané como $1.000.000»",
-   "Ventas de memoria",
-   "Gastos sin anotar"
-  ]
- },
- "despues": {
-  "titulo": "Con tus números",
-  "items": [
-   "Ventas: $3.200.000",
-   "Gastos: $2.560.000",
-   "Te quedó: $640.000"
-  ]
- },
+ "kicker": "Mira tu estante",
+ "titulo": "Lo que tienes en bodega también es tu dinero. **Solo que está quieto.**",
+ "sub": "40 unidades que te costaron $35.000 cada una: $1.400.000 esperando a que alguien las compre.",
+ "mascota": "none",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

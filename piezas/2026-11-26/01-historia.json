@@ -1,15 +1,14 @@
 {
- "layout": "oferta",
+ "layout": "encuesta",
  "formato": "historia",
  "tema": "black",
- "cuenta": "Quedan 5 días",
- "titulo": "Mañana es Black Friday. **El nuestro sigue 5 días.**",
- "items": [
-  "Mañana viernes: Black Friday",
-  "Sábado y domingo: sigue la oferta",
-  "Lunes 30: último día"
+ "kicker": "Quedan 5 días",
+ "titulo": "¿Mensual o anual? **Elige con una pregunta.**",
+ "opciones": [
+  "Quiero probar primero: **mensual**, 40 % menos 2 meses",
+  "Lo voy a usar todo 2027: **anual** desde US$79"
  ],
- "nota": "40 % menos los 2 primeros meses o anual desde US$79.",
+ "nota": "Black November: el anual trae Kentra Priority de regalo el primer año.",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
