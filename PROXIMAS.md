@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 71 piezas agendadas.
 
 
 ## Miércoles 11/11
-
-**12:00 — Carrusel** · ganancia-real · `2026-11-11-02-carrusel`
-
-<img src="piezas/2026-11-11/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-11/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Valió la pena el Buen Fin? Se responde con dos números.
-
-Ejemplo en MXN: finde normal $6,300 de ganancia; Buen Fin $8,250. Vendes 2,5 veces más, ganas 31 % más y trabajas 3 veces más. Desliza para ver cada cuenta.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Compara tus fines de semana desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-11-06-historia`
 
@@ -817,9 +800,9 @@ Elige el tuyo con calma, pero antes del 30. 👉 [link de la bio en Instagram / 
 
 ## Últimas publicadas
 
+- miércoles 11/11 · 12:00 · Carrusel `2026-11-11-02-carrusel` · IG ✓ · FB ✓
 - miércoles 11/11 · 10:00 · Post `2026-11-11-04-post` · IG ✓ · FB ✓
 - miércoles 11/11 · 08:00 · Historia `2026-11-11-01-historia` · IG ✓ · FB ✓
 - martes 10/11 · 19:00 · Historia `2026-11-10-03-historia` · IG ✓ · FB ✓
 - martes 10/11 · 18:00 · Post `2026-11-10-05-post` · IG ✓ · FB ✓
 - martes 10/11 · 15:00 · Historia `2026-11-10-06-historia` · IG ✓ · FB ✓
-- martes 10/11 · 12:00 · Carrusel `2026-11-10-02-carrusel` · IG ✓ · FB ✓
