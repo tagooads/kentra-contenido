@@ -1,0 +1,34 @@
+{
+ "layout": "skit",
+ "formato": "post",
+ "tema": "verde",
+ "titulo": "Cuando te piden rebaja",
+ "a": {
+  "nombre": "Cliente"
+ },
+ "b": {
+  "nombre": "Tú"
+ },
+ "lineas": [
+  [
+   "a",
+   "¿Me haces precio?"
+  ],
+  [
+   "b",
+   "Te dejo 5 % menos."
+  ],
+  [
+   "a",
+   "¿Y por qué no 20 %?"
+  ],
+  [
+   "b",
+   "Mi margen es 22 %. Con 20 % me quedaría el 2 %."
+  ]
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "black",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "black",
+   "kicker": "Invita y gana",
+   "titulo": "¿Conoces a otro dueño? **Te puede valer un mes de Kentra**",
+   "sub": "Por cada dueño que invites y pague, sumas 1 mes sin costo.",
+   "visual": "mascota",
+   "sinPildora": true
+  },
+  {
+   "layout": "cita",
+   "tema": "navy",
+   "kicker": "La de la tienda",
+   "titulo": "«Vendo todo el día y no sé cuánto me queda.»",
+   "sub": "En Kentra ve lo que entró, lo que salió y lo que quedó."
+  },
+  {
+   "layout": "cita",
+   "tema": "black",
+   "kicker": "El del salón",
+   "titulo": "«Cada servicio vale distinto y pierdo la cuenta.»",
+   "sub": "En Kentra cada venta queda con su categoría."
+  },
+  {
+   "layout": "cita",
+   "tema": "navy",
+   "kicker": "La freelancer",
+   "titulo": "«Me pagan tarde y no sé quién me debe.»",
+   "sub": "En Kentra tiene sus cuentas por cobrar a la vista."
+  },
+  {
+   "layout": "dato",
+   "tema": "black",
+   "titulo": "Así se suman los meses",
+   "filas": [
+    {
+     "label": "Invitas",
+     "valor": "3 dueños",
+     "color": "gris"
+    },
+    {
+     "label": "Se suscriben y pagan",
+     "valor": "3",
+     "color": "gris"
+    },
+    {
+     "label": "Sumas",
+     "valor": "3 meses",
+     "color": "verde",
+     "grande": true
+    }
+   ]
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Comparte y\nsuma meses",
+   "items": [
+    "Compartes Kentra con otro dueño",
+    "Se suscribe y paga",
+    "Sumas 1 mes sin costo"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

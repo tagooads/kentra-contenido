@@ -1,0 +1,108 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "claro",
+   "kicker": "Cierre de mes",
+   "titulo": "El lunes 30 cierras noviembre: **hazlo en 4 pasos**",
+   "sub": "Con el ejemplo de cómo Tienda La Esquina cerró octubre.",
+   "visual": "mascota",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Revisa que todo esté anotado",
+   "texto": "Ventas, gastos y cobros del mes. Si falta algo, súbelo antes de mirar el resultado.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Movimientos de ingreso",
+      "87"
+     ],
+     [
+      "Movimientos de gasto",
+      "33"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Mira lo que entró y lo que salió",
+   "texto": "Dos números, sin fórmulas.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ingresos",
+      "$23.637.000",
+      "verde"
+     ],
+     [
+      "Gastos",
+      "−$9.062.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Mira lo que te quedó",
+   "texto": "Ingresos menos gastos. Ese es el resultado del mes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Resultado del mes",
+      "$14.575.000",
+      "verde"
+     ],
+     [
+      "Margen",
+      "61,7 %"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "claro",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Resultados: el mes en una pantalla",
+   "captura": "movil-resultados.png",
+   "sub": "Tienda La Esquina, octubre.",
+   "recorte": "382px"
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Decide una sola cosa",
+   "texto": "Mira qué gasto subió y escoge uno para revisar en diciembre. Uno, no diez."
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Tu cierre de\nnoviembre, el 30",
+   "items": [
+    "Entró, salió y quedó",
+    "El margen del mes a la vista",
+    "Black November hasta el 30"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

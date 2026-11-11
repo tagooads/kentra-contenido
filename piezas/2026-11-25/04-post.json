@@ -1,0 +1,30 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Restaurante",
+ "titulo": "Un almuerzo de $18.000: lo que te queda",
+ "filas": [
+  {
+   "label": "Lo cobras",
+   "valor": "$18.000",
+   "color": "gris"
+  },
+  {
+   "label": "Te cuesta",
+   "valor": "−$13.000",
+   "color": "rojo"
+  },
+  {
+   "label": "Te queda",
+   "valor": "$5.000",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "Insumos, gas, empaque y domicilio se llevan $13.000 de cada plato.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

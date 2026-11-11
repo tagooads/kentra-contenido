@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "blanco",
+ "titulo": "¿Abriste hace poco y no sabes de finanzas?",
+ "sub": "No hace falta: anotas lo que entra y lo que sale, y Kentra hace la cuenta.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ },
+ "mascota": "telefono"
+}

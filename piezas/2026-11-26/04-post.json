@@ -1,0 +1,27 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "claro",
+ "titulo": "Tu ferretería: Excel vs Kentra",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "Una hoja por proveedor",
+   "Sumar a mano",
+   "No ver qué deja más"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "figura": "telefono",
+  "items": [
+   "Gastos por categoría",
+   "Entró, salió, quedó",
+   "Quién te debe"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

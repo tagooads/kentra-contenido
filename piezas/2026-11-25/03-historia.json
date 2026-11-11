@@ -1,0 +1,24 @@
+{
+ "layout": "reto",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Reto de miércoles",
+ "titulo": "Pagas $12.000 al día en domicilios. ¿Cuánto es en 26 días?",
+ "opciones": [
+  {
+   "texto": "$312.000",
+   "ok": true
+  },
+  {
+   "texto": "$120.000"
+  },
+  {
+   "texto": "$36.000"
+  }
+ ],
+ "nota": "Respuesta: $312.000. Lo chico de cada día pesa al mes.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}
