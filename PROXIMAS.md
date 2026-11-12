@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 93 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 92 piezas agendadas.
 
 
 ## Jueves 12/11
-
-**10:00 — Post** · ganancia-real · `2026-11-12-04-post`
-
-<img src="piezas/2026-11-12/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un día de Buen Fin: $10,000 MXN vendidos.
-
-De ese día, mercancía $4,500, envíos y empaque $1,500, publicidad $1,000, comisiones $400 e impuestos y otros $1,100. Te quedan $1,500, el 15 %.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Mira tu reparto real desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-12-02-carrusel`
 
@@ -1116,9 +1099,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- jueves 12/11 · 10:00 · Post `2026-11-12-04-post` · IG ✓ · FB ✓
 - jueves 12/11 · 08:00 · Historia `2026-11-12-01-historia` · IG ✓ · FB ✓
 - miércoles 11/11 · 19:00 · Historia `2026-11-11-03-historia` · IG ✓ · FB ✓
 - miércoles 11/11 · 18:00 · Post `2026-11-11-05-post` · IG ✓ · FB ✓
 - miércoles 11/11 · 15:00 · Historia `2026-11-11-06-historia` · IG ✓ · FB ✓
 - miércoles 11/11 · 12:00 · Carrusel `2026-11-11-02-carrusel` · IG ✓ · FB ✓
-- miércoles 11/11 · 10:00 · Post `2026-11-11-04-post` · IG ✓ · FB ✓
