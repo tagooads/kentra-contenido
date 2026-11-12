@@ -6200,7 +6200,13 @@
       "carpeta": "2026-11-12",
       "archivo": "01-historia",
       "fecha": "2026-11-12T08:00:00-05:00",
-      "qa_ticket": "77a0a14f-deb5-4aa3-a995-407242589d74"
+      "qa_ticket": "77a0a14f-deb5-4aa3-a995-407242589d74",
+      "media_id": "17941757562397074",
+      "publicado_ig": true,
+      "fb_post_id": "2336417310458172",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-12T13:02:20.383Z"
     },
     {
       "id": "2026-11-12-04-post",
