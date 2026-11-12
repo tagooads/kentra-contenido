@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 92 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 91 piezas agendadas.
 
 
 ## Jueves 12/11
-
-**12:00 — Carrusel** · educacion · `2026-11-12-02-carrusel`
-
-<img src="piezas/2026-11-12/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-12/02-carrusel-6.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Comprar a crédito al proveedor es dinero ajeno que tú tienes que devolver.
-
-Tres preguntas con una compra de $40.000: cuándo entra tu dinero, qué pasa si vendes la mitad (te faltan $12.000) y cuál es tu compra máxima ($28.000).
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Controla tus pagos con alertas desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Proveedores #FlujoDeCaja
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-12-06-historia`
 
@@ -1099,9 +1082,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- jueves 12/11 · 12:00 · Carrusel `2026-11-12-02-carrusel` · IG ✓ · FB ✓
 - jueves 12/11 · 10:00 · Post `2026-11-12-04-post` · IG ✓ · FB ✓
 - jueves 12/11 · 08:00 · Historia `2026-11-12-01-historia` · IG ✓ · FB ✓
 - miércoles 11/11 · 19:00 · Historia `2026-11-11-03-historia` · IG ✓ · FB ✓
 - miércoles 11/11 · 18:00 · Post `2026-11-11-05-post` · IG ✓ · FB ✓
 - miércoles 11/11 · 15:00 · Historia `2026-11-11-06-historia` · IG ✓ · FB ✓
-- miércoles 11/11 · 12:00 · Carrusel `2026-11-11-02-carrusel` · IG ✓ · FB ✓
