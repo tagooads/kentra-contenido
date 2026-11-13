@@ -6388,7 +6388,13 @@
       "carpeta": "2026-11-12",
       "archivo": "03-historia",
       "fecha": "2026-11-12T19:00:00-05:00",
-      "qa_ticket": "87927d43-cece-4f52-8b85-761a36a1e103"
+      "qa_ticket": "87927d43-cece-4f52-8b85-761a36a1e103",
+      "media_id": "18109886474343419",
+      "publicado_ig": true,
+      "fb_post_id": "1140484288883090",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-13T00:04:12.335Z"
     },
     {
       "id": "2026-11-13-01-historia",
