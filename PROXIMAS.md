@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
 
 
 ## Viernes 13/11
-
-**18:00 — Post** · ganancia-real · `2026-11-13-05-post`
-
-<img src="piezas/2026-11-13/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El viernes se vende; el lunes se sabe si ganaste.
-
-Después del Buen Fin, suma lo que entró, resta lo que salió y mira lo que te quedó. Esa es la medida de si valió la pena.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Hazlo en minutos desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
-
-</details>
 
 **19:00 — Historia** · objeciones · `2026-11-13-03-historia`
 
@@ -1012,9 +995,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- viernes 13/11 · 18:00 · Post `2026-11-13-05-post` · IG ✓ · FB ✓
 - viernes 13/11 · 15:00 · Historia `2026-11-13-06-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 12:00 · Carrusel `2026-11-13-02-carrusel` · IG ✓ · FB ✓
 - viernes 13/11 · 10:00 · Post `2026-11-13-04-post` · IG ✓ · FB ✓
 - viernes 13/11 · 08:00 · Historia `2026-11-13-01-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 19:00 · Historia `2026-11-12-03-historia` · IG ✓ · FB ✓
-- jueves 12/11 · 18:00 · Post `2026-11-12-05-post` · IG ✓ · FB ✓
