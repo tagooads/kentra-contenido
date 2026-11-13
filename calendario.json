@@ -6423,7 +6423,11 @@
       "carpeta": "2026-11-13",
       "archivo": "01-historia",
       "fecha": "2026-11-13T08:00:00-05:00",
-      "qa_ticket": "6498f4e2-fcb5-448e-8f8a-489765c2eb60"
+      "qa_ticket": "6498f4e2-fcb5-448e-8f8a-489765c2eb60",
+      "fb_post_id": "1168672822777021",
+      "publicado_fb": true,
+      "intentos": 1,
+      "error": "IG: 17841480064403784/media_publish: The requested resource does not exist"
     },
     {
       "id": "2026-11-13-04-post",
