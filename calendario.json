@@ -6427,7 +6427,10 @@
       "fb_post_id": "1168672822777021",
       "publicado_fb": true,
       "intentos": 1,
-      "error": "IG: 17841480064403784/media_publish: The requested resource does not exist"
+      "media_id": "18135476968669173",
+      "publicado_ig": true,
+      "publicado": true,
+      "publicado_en": "2026-11-13T14:36:28.221Z"
     },
     {
       "id": "2026-11-13-04-post",

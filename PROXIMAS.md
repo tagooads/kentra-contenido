@@ -2,10 +2,6 @@
 
 Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
 
-## ⚠️ Con error
-
-- **viernes 13/11 · 08:00** Historia `2026-11-13-01-historia`: IG: 17841480064403784/media_publish: The requested resource does not exist
-
 
 ## Viernes 13/11
 
@@ -1054,9 +1050,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- viernes 13/11 · 08:00 · Historia `2026-11-13-01-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 19:00 · Historia `2026-11-12-03-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 18:00 · Post `2026-11-12-05-post` · IG ✓ · FB ✓
 - jueves 12/11 · 15:00 · Historia `2026-11-12-06-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 12:00 · Carrusel `2026-11-12-02-carrusel` · IG ✓ · FB ✓
 - jueves 12/11 · 10:00 · Post `2026-11-12-04-post` · IG ✓ · FB ✓
-- jueves 12/11 · 08:00 · Historia `2026-11-12-01-historia` · IG ✓ · FB ✓
