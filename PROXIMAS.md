@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
 
 
 ## Viernes 13/11
-
-**10:00 — Post** · ganancia-real · `2026-11-13-04-post`
-
-<img src="piezas/2026-11-13/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-«Vende 5 veces más en el Buen Fin.» Sí, pero ¿y la cuenta?
-
-Ventas $100,000, costos y envíos $82,000, publicidad $14,000. Te quedan $4,000, el 4 %.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Haz la cuenta completa desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes #Ganancia
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-13-02-carrusel`
 
@@ -1050,9 +1033,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- viernes 13/11 · 10:00 · Post `2026-11-13-04-post` · IG ✓ · FB ✓
 - viernes 13/11 · 08:00 · Historia `2026-11-13-01-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 19:00 · Historia `2026-11-12-03-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 18:00 · Post `2026-11-12-05-post` · IG ✓ · FB ✓
 - jueves 12/11 · 15:00 · Historia `2026-11-12-06-historia` · IG ✓ · FB ✓
 - jueves 12/11 · 12:00 · Carrusel `2026-11-12-02-carrusel` · IG ✓ · FB ✓
-- jueves 12/11 · 10:00 · Post `2026-11-12-04-post` · IG ✓ · FB ✓
