@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 80 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 79 piezas agendadas.
 
 
 ## Sábado 14/11
-
-**12:00 — Carrusel** · funcionalidades · `2026-11-14-02-carrusel`
-
-<img src="piezas/2026-11-14/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-14/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-14/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-14/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-14/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-14/02-carrusel-6.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un plan de cuatro días para el Buen Fin.
-
-Viernes: anota cada venta. Sábado: revisa gastos y alertas. Domingo: manda comprobantes PDF con tu logo. Lunes: cierra con entró, salió y quedó.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BuenFin #Pymes
-
-</details>
 
 **15:00 — Historia** · precio-valor · `2026-11-14-06-historia`
 
@@ -967,9 +950,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- sábado 14/11 · 12:00 · Carrusel `2026-11-14-02-carrusel` · IG ✓ · FB ✓
 - sábado 14/11 · 10:00 · Post `2026-11-14-04-post` · IG ✓ · FB ✓
 - sábado 14/11 · 08:00 · Historia `2026-11-14-01-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 19:00 · Historia `2026-11-13-03-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 18:00 · Post `2026-11-13-05-post` · IG ✓ · FB ✓
 - viernes 13/11 · 15:00 · Historia `2026-11-13-06-historia` · IG ✓ · FB ✓
-- viernes 13/11 · 12:00 · Carrusel `2026-11-13-02-carrusel` · IG ✓ · FB ✓
