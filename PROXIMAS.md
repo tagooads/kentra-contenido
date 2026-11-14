@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 81 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 80 piezas agendadas.
 
 
 ## Sábado 14/11
-
-**10:00 — Post** · educacion · `2026-11-14-04-post`
-
-<img src="piezas/2026-11-14/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cuatro cargos pequeños y $732 al año.
-
-Música del local ($12), programa de diseño ($25), dominio y correo ($9) y una app que ya no usas ($15) suman $61 al mes. Revisa tus cargos y cancela el que sobra.
-
-Black November: invita a otro dueño y gana 1 mes sin costo por cada referido que pague.
-Anótalos por categoría desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Gastos #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-11-14-02-carrusel`
 
@@ -984,9 +967,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- sábado 14/11 · 10:00 · Post `2026-11-14-04-post` · IG ✓ · FB ✓
 - sábado 14/11 · 08:00 · Historia `2026-11-14-01-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 19:00 · Historia `2026-11-13-03-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 18:00 · Post `2026-11-13-05-post` · IG ✓ · FB ✓
 - viernes 13/11 · 15:00 · Historia `2026-11-13-06-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 12:00 · Carrusel `2026-11-13-02-carrusel` · IG ✓ · FB ✓
-- viernes 13/11 · 10:00 · Post `2026-11-13-04-post` · IG ✓ · FB ✓
