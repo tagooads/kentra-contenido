@@ -6648,7 +6648,13 @@
       "carpeta": "2026-11-14",
       "archivo": "01-historia",
       "fecha": "2026-11-14T08:00:00-05:00",
-      "qa_ticket": "f271289f-a0a0-48b4-8232-3c94ff2e1d3e"
+      "qa_ticket": "f271289f-a0a0-48b4-8232-3c94ff2e1d3e",
+      "media_id": "17905382805671478",
+      "publicado_ig": true,
+      "fb_post_id": "1749169052846869",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-14T13:03:33.549Z"
     },
     {
       "id": "2026-11-14-04-post",
