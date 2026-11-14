@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 78 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 77 piezas agendadas.
 
 
 ## Sábado 14/11
-
-**18:00 — Post** · objeciones · `2026-11-14-05-post`
-
-<img src="piezas/2026-11-14/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-«Ya te transferí» no es lo mismo que «ya me llegó».
-
-El cliente dice que pagó, tú aún no ves el dinero: anótalo como pendiente hasta confirmarlo. Así tus cuentas no mienten.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Registra cada cobro desde $15/mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #Cobros #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · educacion · `2026-11-14-03-historia`
 
@@ -946,9 +929,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- sábado 14/11 · 18:00 · Post `2026-11-14-05-post` · IG ✓ · FB ✓
 - sábado 14/11 · 15:00 · Historia `2026-11-14-06-historia` · IG ✓ · FB ✓
 - sábado 14/11 · 12:00 · Carrusel `2026-11-14-02-carrusel` · IG ✓ · FB ✓
 - sábado 14/11 · 10:00 · Post `2026-11-14-04-post` · IG ✓ · FB ✓
 - sábado 14/11 · 08:00 · Historia `2026-11-14-01-historia` · IG ✓ · FB ✓
 - viernes 13/11 · 19:00 · Historia `2026-11-13-03-historia` · IG ✓ · FB ✓
-- viernes 13/11 · 18:00 · Post `2026-11-13-05-post` · IG ✓ · FB ✓
