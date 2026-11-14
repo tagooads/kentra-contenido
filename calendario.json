@@ -6613,7 +6613,13 @@
       "carpeta": "2026-11-13",
       "archivo": "03-historia",
       "fecha": "2026-11-13T19:00:00-05:00",
-      "qa_ticket": "503ab403-814c-4937-9129-e58ed1b45fa5"
+      "qa_ticket": "503ab403-814c-4937-9129-e58ed1b45fa5",
+      "media_id": "18131995408827352",
+      "publicado_ig": true,
+      "fb_post_id": "1680701163470430",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-14T00:02:23.888Z"
     },
     {
       "id": "2026-11-14-01-historia",
