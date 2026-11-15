@@ -6871,7 +6871,13 @@
       "carpeta": "2026-11-15",
       "archivo": "01-historia",
       "fecha": "2026-11-15T08:00:00-05:00",
-      "qa_ticket": "8b60ce98-5afa-45b8-bf61-06b24f841353"
+      "qa_ticket": "8b60ce98-5afa-45b8-bf61-06b24f841353",
+      "media_id": "18136605568821999",
+      "publicado_ig": true,
+      "fb_post_id": "1113022771355965",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-15T13:00:43.862Z"
     },
     {
       "id": "2026-11-15-04-post",
