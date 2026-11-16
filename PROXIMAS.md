@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
 
 
 ## Lunes 16/11
-
-**12:00 — Carrusel** · precio · `2026-11-16-02-carrusel`
-
-<img src="piezas/2026-11-16/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-16/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Cuál plan es el tuyo? Depende de cuántos negocios llevas.
-
-Básico (1 negocio) a US$9/mes, Pro (hasta 2) a US$12/mes y Business (ilimitados, con equipo) a US$18/mes los 2 primeros meses. Si prefieres pagar el año: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año.
-
-Black November hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
-
-</details>
 
 **18:00 — Post** · ganancia-real · `2026-11-16-05-post`
 
@@ -835,9 +819,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- lunes 16/11 · 12:00 · Carrusel `2026-11-16-02-carrusel` · IG ✓ · FB ✓
 - lunes 16/11 · 10:00 · Post `2026-11-16-04-post` · IG ✓ · FB ✓
 - lunes 16/11 · 08:00 · Historia `2026-11-16-01-historia` · IG ✓ · FB ✓
 - domingo 15/11 · 19:00 · Historia `2026-11-15-03-historia` · IG ✓ · FB ✓
 - domingo 15/11 · 18:00 · Post `2026-11-15-05-post` · IG ✓ · FB ✓
 - domingo 15/11 · 15:00 · Historia `2026-11-15-06-historia` · IG ✓ · FB ✓
-- domingo 15/11 · 12:00 · Carrusel `2026-11-15-02-carrusel` · IG ✓ · FB ✓
