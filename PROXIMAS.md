@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 69 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
 
 
 ## Lunes 16/11
-
-**10:00 — Post** · ganancia-real · `2026-11-16-04-post`
-
-<img src="piezas/2026-11-16/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si vendes más de $5 millones al mes y no sabes cuánto te queda, esto es para ti.
-
-Con esas ventas, una diferencia de 5 puntos en el margen son $250.000 al mes que no ves. Saber cuánto queda es lo que te deja decidir precios y gastos.
-
-Black November: 40 % menos los 2 primeros meses o el plan anual desde US$79.
-Ve tu ganancia real cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · precio · `2026-11-16-02-carrusel`
 
@@ -852,9 +835,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- lunes 16/11 · 10:00 · Post `2026-11-16-04-post` · IG ✓ · FB ✓
 - lunes 16/11 · 08:00 · Historia `2026-11-16-01-historia` · IG ✓ · FB ✓
 - domingo 15/11 · 19:00 · Historia `2026-11-15-03-historia` · IG ✓ · FB ✓
 - domingo 15/11 · 18:00 · Post `2026-11-15-05-post` · IG ✓ · FB ✓
 - domingo 15/11 · 15:00 · Historia `2026-11-15-06-historia` · IG ✓ · FB ✓
 - domingo 15/11 · 12:00 · Carrusel `2026-11-15-02-carrusel` · IG ✓ · FB ✓
-- domingo 15/11 · 10:00 · Post `2026-11-15-04-post` · IG ✓ · FB ✓
