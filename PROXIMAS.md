@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 61 piezas agendadas.
 
 
 ## Martes 17/11
-
-**18:00 — Post** · precio · `2026-11-17-05-post`
-
-<img src="piezas/2026-11-17/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El Pro mes a mes a precio normal son US$240 al año.
-
-Con el anual Black November pagas US$119 por todo el año y te llevas Kentra Priority de regalo el primer año. Si prefieres mensual, los 2 primeros meses van con 40 % menos.
-
-Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-11-17-03-historia`
 
@@ -757,9 +741,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- martes 17/11 · 18:00 · Post `2026-11-17-05-post` · IG ✓ · FB ✓
 - martes 17/11 · 12:00 · Carrusel `2026-11-17-02-carrusel` · IG ✓ · FB ✓
 - martes 17/11 · 10:00 · Post `2026-11-17-04-post` · IG ✓ · FB ✓
 - martes 17/11 · 08:00 · Historia `2026-11-17-01-historia` · IG ✓ · FB ✓
 - lunes 16/11 · 19:00 · Historia `2026-11-16-03-historia` · IG ✓ · FB ✓
 - lunes 16/11 · 18:00 · Post `2026-11-16-05-post` · IG ✓ · FB ✓
-- lunes 16/11 · 12:00 · Carrusel `2026-11-16-02-carrusel` · IG ✓ · FB ✓
