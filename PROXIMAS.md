@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 64 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
 
 
 ## Martes 17/11
-
-**10:00 — Post** · educacion · `2026-11-17-04-post`
-
-<img src="piezas/2026-11-17/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-En temporada más clientes pagan con tarjeta, y cada venta te deja menos de lo que marca la caja.
-
-Si vendes $6.000.000 con tarjeta y la comisión es del 3,5 %, $210.000 no llegan a tu cuenta. Anótalos como gasto para ver tu ganancia real.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Cuenta también lo que se queda en el camino. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-17-02-carrusel`
 
@@ -791,9 +774,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- martes 17/11 · 10:00 · Post `2026-11-17-04-post` · IG ✓ · FB ✓
 - martes 17/11 · 08:00 · Historia `2026-11-17-01-historia` · IG ✓ · FB ✓
 - lunes 16/11 · 19:00 · Historia `2026-11-16-03-historia` · IG ✓ · FB ✓
 - lunes 16/11 · 18:00 · Post `2026-11-16-05-post` · IG ✓ · FB ✓
 - lunes 16/11 · 12:00 · Carrusel `2026-11-16-02-carrusel` · IG ✓ · FB ✓
 - lunes 16/11 · 10:00 · Post `2026-11-16-04-post` · IG ✓ · FB ✓
-- lunes 16/11 · 08:00 · Historia `2026-11-16-01-historia` · IG ✓ · FB ✓
