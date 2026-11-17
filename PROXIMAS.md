@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 63 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
 
 
 ## Martes 17/11
-
-**12:00 — Carrusel** · educacion · `2026-11-17-02-carrusel`
-
-<img src="piezas/2026-11-17/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-17/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Diciembre se paga en noviembre.
-
-Bono del equipo, mercancía de temporada, pauta más cara, empaques y servicios: en un negocio pequeño pueden sumar $4.730.000 antes de que entre la venta fuerte. Haz tu propia cuenta con estos 5.
-
-Solo en noviembre: plan anual desde US$79 con Kentra Priority de regalo el primer año.
-Lleva cada gasto en su categoría. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **18:00 — Post** · precio · `2026-11-17-05-post`
 
@@ -774,9 +757,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- martes 17/11 · 12:00 · Carrusel `2026-11-17-02-carrusel` · IG ✓ · FB ✓
 - martes 17/11 · 10:00 · Post `2026-11-17-04-post` · IG ✓ · FB ✓
 - martes 17/11 · 08:00 · Historia `2026-11-17-01-historia` · IG ✓ · FB ✓
 - lunes 16/11 · 19:00 · Historia `2026-11-16-03-historia` · IG ✓ · FB ✓
 - lunes 16/11 · 18:00 · Post `2026-11-16-05-post` · IG ✓ · FB ✓
 - lunes 16/11 · 12:00 · Carrusel `2026-11-16-02-carrusel` · IG ✓ · FB ✓
-- lunes 16/11 · 10:00 · Post `2026-11-16-04-post` · IG ✓ · FB ✓
