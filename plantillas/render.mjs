@@ -419,14 +419,14 @@ L.frase = (p, t, hist) => `
 
 // antes: antes / después apilados
 L.antes = (p, t, hist) => {
-  const bloque = (b, ok) => `<div style="flex:1;min-height:0;border-radius:40px;padding:34px 40px;display:flex;flex-direction:column;gap:16px;${ok ? "background:linear-gradient(180deg,#47C08B,#2FA173);color:#0F1E38" : "background:linear-gradient(180deg,#E9E6E7,#D6D2D4);color:#3B3F4A"}">
+  const bloque = (b, ok) => `<div style="${p.ajustar ? "flex:none" : "flex:1"};min-height:0;border-radius:40px;padding:34px 40px;display:flex;flex-direction:column;gap:16px;${ok ? "background:linear-gradient(180deg,#47C08B,#2FA173);color:#0F1E38" : "background:linear-gradient(180deg,#E9E6E7,#D6D2D4);color:#3B3F4A"}">
       <div style="font-weight:800;font-size:30px;letter-spacing:.12em;text-transform:uppercase;${ok ? "" : "color:#6B6F7A"}">${esc(b?.titulo || (ok ? "Después" : "Antes"))}</div>
       ${(b?.items || []).map(i => `<div class="item ${ok ? "" : "x"}" style="font-size:${hist ? 40 : 36}px;color:inherit"><span class="ic" style="width:50px;height:50px;font-size:28px;${ok ? "background:#1E2D4F;color:#fff" : ""}">${ok ? "✓" : "✕"}</span><span>${rich(i)}</span></div>`).join("")}
     </div>`;
   return `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <h1 class="${p.tam || "media"} fit" style="max-height:${hist ? 260 : 230}px">${rich(p.titulo)}</h1>
-  <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:20px">${bloque(p.antes, false)}${bloque(p.despues, true)}</div>
+  <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:20px;${p.ajustar ? "justify-content:center" : ""}">${bloque(p.antes, false)}${bloque(p.despues, true)}</div>
   ${pieFooter(t, p.cta, hist)}`;
 };
 
@@ -518,13 +518,13 @@ L.tweet = (p, t, hist) => `
 // split: pantalla dividida — arriba un "clip" (frase del pitch), abajo la cuenta
 L.split = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
-  <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:22px">
-    <div style="flex:1;min-height:0;background:#0B1220;color:#fff;border-radius:40px;padding:36px 42px;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.25)">
+  <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:22px;${p.ajustar ? "justify-content:center" : ""}">
+    <div style="${p.ajustar ? "flex:none" : "flex:1"};min-height:0;background:#0B1220;color:#fff;border-radius:40px;padding:36px 42px;display:flex;flex-direction:column;gap:18px;position:relative;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.25)">
       <div style="display:flex;align-items:center;gap:14px;font-weight:800;font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:#FF6B6B"><span style="width:18px;height:18px;border-radius:50%;background:#FF6B6B"></span>${esc(p.arriba?.kicker || "El pitch")}</div>
       <div class="fit" style="font-weight:800;font-size:${p.arriba?.tam || (hist ? 54 : 50)}px;line-height:1.15;max-height:${hist ? 300 : 330}px">${rich(p.arriba?.texto)}</div>
       ${p.arriba?.play === false ? "" : `<div style="position:absolute;right:36px;bottom:30px;width:74px;height:74px;border-radius:50%;background:rgba(255,255,255,.14);display:flex;align-items:center;justify-content:center;font-size:30px">▶</div>`}
     </div>
-    <div style="flex:1.1;min-height:0;background:#FBFBF7;color:#1E2D4F;border-radius:40px;padding:34px 42px;display:flex;flex-direction:column;gap:14px;box-shadow:0 24px 60px rgba(0,0,0,.18)">
+    <div style="${p.ajustar ? "flex:none" : "flex:1.1"};min-height:0;background:#FBFBF7;color:#1E2D4F;border-radius:40px;padding:34px 42px;display:flex;flex-direction:column;gap:14px;box-shadow:0 24px 60px rgba(0,0,0,.18)">
       <div style="font-weight:800;font-size:26px;letter-spacing:.1em;text-transform:uppercase;color:#1E8A5E">${esc(p.abajo?.kicker || "La cuenta")}</div>
       ${(p.abajo?.filas || []).map(([l, v, tipo]) => tipo === "res"
         ? `<div style="border-top:5px solid #1E2D4F;margin-top:4px;padding-top:16px;display:flex;justify-content:space-between;align-items:center;gap:20px;font-weight:800;font-size:${hist ? 44 : 40}px"><span>${rich(l)}</span><span style="border:7px solid #47C08B;border-radius:999px;padding:8px 24px;color:#1E8A5E;white-space:nowrap">${esc(v)}</span></div>`

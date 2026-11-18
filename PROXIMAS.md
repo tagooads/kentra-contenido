@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 65 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 76 piezas agendadas.
 
 
 ## Miércoles 18/11
@@ -756,12 +756,69 @@ Actívalo hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 
 <img src="piezas/2026-12-01/01-historia.jpg" width="160">
 
+**10:00 — Post** · verticales · `2026-12-01-04-post`
+
+<img src="piezas/2026-12-01/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Diciembre trae más pedidos y, con ellos, más envíos que pagas tú.
+Un pedido de $40.000 que te deja $12.000 queda en $5.000 si regalas el envío de $7.000.
+Con envío sin costo solo desde $80.000, el pedido pequeño conserva sus $12.000 y el grande cubre el envío solo.
+¿Desde qué monto regalas el envío? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline
+
+</details>
+
+**12:00 — Carrusel** · educacion · `2026-12-01-02-carrusel`
+
+<img src="piezas/2026-12-01/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-01/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-01/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-01/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-01/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-01/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-01/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Prima en Colombia, aguinaldo en México: en diciembre cada empleado suma al menos medio mes de sueldo.
+Desliza: cuánto es con 3 empleados ($2.400.000), cuánto tienes libre de verdad, cómo tapar lo que falta apartando $20.000 al día y por qué no sacarlo del inventario de enero.
+Planea diciembre con tus números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**18:00 — Post** · ganancia-real · `2026-12-01-05-post`
+
+<img src="piezas/2026-12-01/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Una feria de diciembre puede dejarte dinero o costarte el puesto.
+Si el puesto y el transporte suman $180.000 y cada venta te deja $6.000, necesitas 30 ventas solo para quedar en cero. De la 31 en adelante empieza tu ganancia.
+Haz esta cuenta antes de pagar, no al volver a casa. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Ferias
+
+</details>
+
+**19:00 — Historia** · funcionalidades · `2026-12-01-03-historia`
+
+<img src="piezas/2026-12-01/03-historia.jpg" width="160">
+
 
 ## Miércoles 2/12
 
 **08:00 — Historia** · ganancia-real · `2026-12-02-01-historia`
 
 <img src="piezas/2026-12-02/01-historia.jpg" width="160">
+
+**10:00 — Post** · verticales · `2026-12-02-04-post`
+
+<img src="piezas/2026-12-02/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+En un estudio de uñas la semana no se mide en dinero, se mide en citas.
+Con 30 citas de $60.000 ($1.800.000): 12 se van en comisiones, 8 en arriendo y 4 en material. Para ti quedan 6, $360.000.
+Saber cuántas citas ya tienen dueño te dice cuándo empieza tu ganancia. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza
+
+</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-12-02-02-carrusel`
 
@@ -774,6 +831,63 @@ Desliza: 100 ventas que dejan $3.000 contra 60 que dejan $7.000, y lo que no se 
 ¿Tú cuál eliges? Cuéntanos A o B.
 Decide con tus números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**18:00 — Post** · educacion · `2026-12-02-05-post`
+
+<img src="piezas/2026-12-02/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El dinero de diciembre casi nunca se roba ni se pierde: se retira de a poquito.
+Regalos $180.000, la cena del equipo $240.000, taxis de compras $60.000. Sin anotar, en enero son $480.000 que no sabes dónde fueron.
+Anota cada retiro el mismo día, aunque sea pequeño. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · educacion · `2026-12-02-03-historia`
+
+<img src="piezas/2026-12-02/03-historia.jpg" width="160">
+
+
+## Jueves 3/12
+
+**10:00 — Post** · ganancia-real · `2026-12-03-04-post`
+
+<img src="piezas/2026-12-03/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Tu producto no tiene un solo precio: tiene tantos como formas de presentarlo.
+La misma vela se vende suelta en $18.000, con caja y lazo en $35.000 y en un kit de regalo con 2 más en $60.000. Lo que sumas por caja y lazo es poco; lo que cambia es lo que te deja cada venta.
+En diciembre, arma la versión de regalo de lo que ya vendes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · educacion · `2026-12-03-03-historia`
+
+<img src="piezas/2026-12-03/03-historia.jpg" width="160">
+
+
+## Viernes 4/12
+
+**08:00 — Historia** · objeciones · `2026-12-04-01-historia`
+
+<img src="piezas/2026-12-04/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-12-04-04-post`
+
+<img src="piezas/2026-12-04/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Mismas ventas, misma ciudad, distinta ganancia.
+Las dos panaderías venden $9.000.000. A hornea de todo y bota el 12 % del pan ($1.080.000); B hornea por pedido y bota el 2 % ($180.000). Esos $900.000 de diferencia hacen que A gane $900.000 y B $1.800.000.
+¿Cuánto botas tú al mes? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Panaderias
 
 </details>
 

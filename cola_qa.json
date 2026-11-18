@@ -200,215 +200,6 @@
       }
     },
     {
-      "id": "2026-12-01-04-post",
-      "fecha": "2026-12-01T10:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-01/04-post.jpg"
-      ],
-      "caption": "Diciembre trae más pedidos y, con ellos, más envíos que pagas tú.\nUn pedido de $40.000 que te deja $12.000 queda en $5.000 si regalas el envío de $7.000.\nCon envío sin costo solo desde $80.000, el pedido pequeño conserva sus $12.000 y el grande cubre el envío solo.\n¿Desde qué monto regalas el envío? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline",
-      "pilar": "verticales",
-      "layout": "antes",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-01",
-      "archivo": "04-post",
-      "version": 2,
-      "formato": "antes/después de una regla de envío",
-      "gancho": "El envío que no cobras sale de tu ganancia",
-      "primera_linea": "Diciembre trae más pedidos y, con ellos, más envíos…",
-      "estilo": "antes, navy, bloque gris arriba y verde abajo",
-      "modela": {
-        "referencia": "@isaacgarciamorhaim, «El error que te está haciendo perder dinero… saca la cuenta» (101.2K vistas, 46.6x su mediana)",
-        "url": "https://www.instagram.com/reel/DfvVp92jcAX",
-        "que_tomo": "un error de dinero en la primera línea y la cuenta concreta que lo corrige"
-      },
-      "qa_ticket": "1f7c256b-5af2-4ad4-b877-0213c4f1b171"
-    },
-    {
-      "id": "2026-12-01-02-carrusel",
-      "fecha": "2026-12-01T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-12-01/02-carrusel-1.jpg",
-        "piezas/2026-12-01/02-carrusel-2.jpg",
-        "piezas/2026-12-01/02-carrusel-3.jpg",
-        "piezas/2026-12-01/02-carrusel-4.jpg",
-        "piezas/2026-12-01/02-carrusel-5.jpg",
-        "piezas/2026-12-01/02-carrusel-6.jpg",
-        "piezas/2026-12-01/02-carrusel-7.jpg"
-      ],
-      "caption": "Prima en Colombia, aguinaldo en México: en diciembre cada empleado suma al menos medio mes de sueldo.\nDesliza: cuánto es con 3 empleados ($2.400.000), cuánto tienes libre de verdad, cómo tapar lo que falta apartando $20.000 al día y por qué no sacarlo del inventario de enero.\nPlanea diciembre con tus números. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-01",
-      "archivo": "02-carrusel",
-      "version": 2,
-      "formato": "cuenta de la prima o el aguinaldo paso a paso (7 slides)",
-      "gancho": "Diciembre trae medio sueldo extra por empleado",
-      "primera_linea": "Prima en Colombia, aguinaldo en México: en diciembre cada empleado suma al menos medio mes de sueldo.",
-      "estilo": "portada claro sin visual + valor navy/claro alternado + lista «Así lo ordenas en Kentra» + cierre verde con mascota",
-      "modela": {
-        "referencia": "@mmpiensaloclips, «¿Tu negocio puede pagar un nuevo sueldo?» (27.6K vistas, 15.2x su mediana)",
-        "url": "https://www.tiktok.com/@mmpiensaloclips/video/7705627451895958804",
-        "que_tomo": "la pregunta de decisión de sueldo resuelta con criterios concretos"
-      },
-      "qa_ticket": "684aea30-e06d-41e4-8a55-2784b86acbd5"
-    },
-    {
-      "id": "2026-12-01-05-post",
-      "fecha": "2026-12-01T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-01/05-post.jpg"
-      ],
-      "caption": "Una feria de diciembre puede dejarte dinero o costarte el puesto.\nSi el puesto y el transporte suman $180.000 y cada venta te deja $6.000, necesitas 30 ventas solo para quedar en cero. De la 31 en adelante empieza tu ganancia.\nHaz esta cuenta antes de pagar, no al volver a casa. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Ferias",
-      "pilar": "ganancia-real",
-      "layout": "tip",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-01",
-      "archivo": "05-post",
-      "version": 2,
-      "formato": "pasos numerados: punto de equilibrio de una feria",
-      "gancho": "Antes de pagar el puesto, saca esta cuenta",
-      "primera_linea": "Una feria de diciembre puede dejarte dinero o costarte el puesto.",
-      "estilo": "tip, marfil, 4 pasos numerados en tarjeta blanca",
-      "modela": {
-        "referencia": "@casaaureabydc, «Vendiendo sándwiches a las afueras del estadio» (115K vistas, 52.8x su mediana)",
-        "url": "https://www.instagram.com/reel/DfvGfLYSgT0",
-        "que_tomo": "el experimento de venta en un evento y la cuenta que faltó hacer antes de salir"
-      },
-      "qa_ticket": "d19be54b-7b88-4b31-91cb-2fa72b6bd25b"
-    },
-    {
-      "id": "2026-12-01-03-historia",
-      "fecha": "2026-12-01T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-01/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "funcionalidades",
-      "layout": "captura",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-01",
-      "archivo": "03-historia",
-      "version": 2,
-      "formato": "captura real: Resultados",
-      "gancho": "¿Ganaste o perdiste? Una pantalla te lo dice",
-      "primera_linea": "¿Ganaste o perdiste?",
-      "estilo": "captura, verde, celular con Resultados del mes desde la tarjeta de ganancia",
-      "modela": {
-        "referencia": "Treinta Latam, «Tu negocio pro con Treinta»",
-        "url": "https://www.facebook.com/ads/library/?id=1142608908560980",
-        "que_tomo": "la promesa de profesionalizar el negocio mostrada con la pantalla real"
-      },
-      "qa_ticket": "15d15928-b003-457e-bfd1-57904a5c6eaa"
-    },
-    {
-      "id": "2026-12-02-04-post",
-      "fecha": "2026-12-02T10:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-02/04-post.jpg"
-      ],
-      "caption": "En un estudio de uñas la semana no se mide en dinero, se mide en citas.\nCon 30 citas de $60.000 ($1.800.000): 12 se van en comisiones, 8 en arriendo y 4 en material. Para ti quedan 6, $360.000.\nSaber cuántas citas ya tienen dueño te dice cuándo empieza tu ganancia. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza",
-      "pilar": "verticales",
-      "layout": "reparto",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-02",
-      "archivo": "04-post",
-      "version": 2,
-      "formato": "agenda de la semana en citas (barra apilada)",
-      "gancho": "30 citas a la semana. 6 son para ti",
-      "primera_linea": "En un estudio de uñas la semana no se mide en dinero, se mide en citas.",
-      "estilo": "reparto, blanco, cifra total + barra apilada + 4 filas",
-      "modela": {
-        "referencia": "@foodiemprende, desglose de un negocio chico (270.6K vistas, 57.6x su mediana)",
-        "url": "https://www.instagram.com/reel/DflJw_yKeE7",
-        "que_tomo": "el negocio de un nicho repartido en lo que se va y lo que queda, medido en una unidad que el dueño entiende"
-      },
-      "qa_ticket": "1d7e913a-9624-4bd4-88b2-9001b8c24053"
-    },
-    {
-      "id": "2026-12-02-05-post",
-      "fecha": "2026-12-02T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-02/05-post.jpg"
-      ],
-      "caption": "El dinero de diciembre casi nunca se roba ni se pierde: se retira de a poquito.\nRegalos $180.000, la cena del equipo $240.000, taxis de compras $60.000. Sin anotar, en enero son $480.000 que no sabes dónde fueron.\nAnota cada retiro el mismo día, aunque sea pequeño. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
-      "pilar": "educacion",
-      "layout": "cita",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-02",
-      "archivo": "05-post",
-      "version": 2,
-      "formato": "frase de postura con cifras de retiros",
-      "gancho": "En diciembre el dinero no se pierde: se retira sin anotar",
-      "primera_linea": "El dinero de diciembre casi nunca se roba ni se pierde…",
-      "estilo": "cita, menta, barra lateral verde sin mascota",
-      "modela": {
-        "referencia": "Brikel, «Sabe qué dinero es tuyo» (9 variantes activas)",
-        "url": "https://www.facebook.com/ads/library/?id=1135016248914286",
-        "que_tomo": "postura corta que separa el dinero del negocio del dinero que sale para el dueño"
-      },
-      "qa_ticket": "4727ee25-365f-4565-873a-721739c07810"
-    },
-    {
-      "id": "2026-12-02-03-historia",
-      "fecha": "2026-12-02T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-02/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "reto",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-02",
-      "archivo": "03-historia",
-      "version": 2,
-      "formato": "reto A/B/C: un gasto medido en ventas",
-      "gancho": "Cada venta te deja $5.000. ¿Cuántas ventas cuesta un regalo de $600.000?",
-      "primera_linea": "Cada venta te deja $5.000…",
-      "estilo": "reto, verde, tres opciones con la correcta marcada",
-      "modela": {
-        "referencia": "@raquintetips, quiz a empresarios con error común (931.7K vistas, 91x su mediana)",
-        "url": "https://www.instagram.com/reel/DesOG43hn4f",
-        "que_tomo": "pregunta de cálculo con opciones y respuesta a la vista"
-      },
-      "qa_ticket": "72aa89dd-39d8-4e0f-9069-b2ccbb221601"
-    },
-    {
       "id": "2026-12-03-01-historia",
       "fecha": "2026-12-03T08:00:00-05:00",
       "tipo": "historia",
@@ -425,46 +216,17 @@
       "qa": "pendiente",
       "carpeta": "2026-12-03",
       "archivo": "01-historia",
-      "version": 1,
-      "formato": "antes/después: anticipo de encargos",
-      "gancho": "Cobra antes de hornear",
-      "primera_linea": "Cobra antes de hornear",
-      "estilo": "antes, navy, bloque gris arriba y verde abajo (historia)",
+      "version": 2,
+      "formato": "antes/después: anticipo de encargos con cifras",
+      "gancho": "Encargo de $120.000: cobra antes de hornear",
+      "primera_linea": "Encargo de $120.000: cobra antes de hornear",
+      "estilo": "antes, navy, tarjetas ajustadas al texto con cifra por renglón (historia)",
       "modela": {
-        "referencia": "@ale_trejo6, «Ser familia no significa regalar tu trabajo» (1.3M vistas)",
-        "url": "https://www.tiktok.com/@ale_trejo6/video/7707495601109257492",
-        "que_tomo": "el cobro incómodo resuelto con una regla clara antes de trabajar"
+        "referencia": "@grupog.h, «lo compras en $15.900» (301.9K vistas, 36x su mediana)",
+        "url": "https://www.instagram.com/reel/Dffuh3nBD9p",
+        "que_tomo": "costo y precio en texto, la cuenta se ve sin explicar"
       },
-      "qa_ticket": "f7502e24-5d0d-4627-b1a9-17be7030f18f"
-    },
-    {
-      "id": "2026-12-03-04-post",
-      "fecha": "2026-12-03T10:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-03/04-post.jpg"
-      ],
-      "caption": "Tu producto no tiene un solo precio: tiene tantos como formas de presentarlo.\nLa misma vela se vende suelta en $18.000, con caja y lazo en $35.000 y en un kit de regalo con 2 más en $60.000. Lo que sumas por caja y lazo es poco; lo que cambia es lo que te deja cada venta.\nEn diciembre, arma la versión de regalo de lo que ya vendes. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
-      "pilar": "ganancia-real",
-      "layout": "dato",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-03",
-      "archivo": "04-post",
-      "version": 1,
-      "formato": "mismo producto, tres precios",
-      "gancho": "La misma vela: $18.000, $35.000 o $60.000",
-      "primera_linea": "Tu producto no tiene un solo precio.",
-      "estilo": "dato, marfil, tres filas con la última en verde",
-      "modela": {
-        "referencia": "@levelads_, «Esta vela puede costar…» (102.3K vistas, 175.7x su mediana)",
-        "url": "https://www.instagram.com/reel/DfulawOC-Ds",
-        "que_tomo": "el mismo objeto con tres presentaciones y su precio revelado en cada una"
-      },
-      "qa_ticket": "83bdca21-dbac-4f7e-b163-354b2cb607a1"
+      "qa_ticket": "5aa503d9-c5d4-4e8d-8805-4728580f5ab0"
     },
     {
       "id": "2026-12-03-02-carrusel",
@@ -490,7 +252,7 @@
       "qa": "pendiente",
       "carpeta": "2026-12-03",
       "archivo": "02-carrusel",
-      "version": 1,
+      "version": 2,
       "formato": "«lo que yo haría» por oficio: barbería (8 slides)",
       "gancho": "Si tuviera una barbería, esto haría en diciembre",
       "primera_linea": "Diciembre es temporada alta en una barbería.",
@@ -500,7 +262,7 @@
         "url": "https://www.instagram.com/reel/Dfmezd9RbrV",
         "que_tomo": "pasos numerados en primera persona aplicados a un oficio concreto"
       },
-      "qa_ticket": "96759be5-f76c-4bfa-8a56-ffa20565aa90"
+      "qa_ticket": "479c0f0a-3327-402a-8a81-0b1d8a8995d7"
     },
     {
       "id": "2026-12-03-05-post",
@@ -519,9 +281,9 @@
       "qa": "pendiente",
       "carpeta": "2026-12-03",
       "archivo": "05-post",
-      "version": 1,
-      "formato": "confesión en primera línea",
-      "gancho": "Hoy cerré sin una sola venta",
+      "version": 2,
+      "formato": "confesión en segunda persona",
+      "gancho": "¿Cerraste hoy sin una sola venta?",
       "primera_linea": "Hay días en cero, y en diciembre también pasan.",
       "estilo": "tweet, blanco, tarjeta centrada con pie",
       "modela": {
@@ -529,94 +291,7 @@
         "url": "https://www.tiktok.com/@teofilo.chocce.su4/video/7701459129528749333",
         "que_tomo": "la confesión vulnerable en la primera línea"
       },
-      "qa_ticket": "d642260a-56aa-4e21-b419-4a64f4f80b5d"
-    },
-    {
-      "id": "2026-12-03-03-historia",
-      "fecha": "2026-12-03T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-03/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "educacion",
-      "layout": "tip",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-03",
-      "archivo": "03-historia",
-      "version": 1,
-      "formato": "lista de 3 preguntas",
-      "gancho": "¿Conoces los números de tu negocio?",
-      "primera_linea": "¿Conoces los números de tu negocio?",
-      "estilo": "tip, verde oscuro, 3 preguntas numeradas",
-      "modela": {
-        "referencia": "@miguelmontalvan_piensaloclips, «¿Conoces los números de tu negocio?» (59.7K vistas, 44.3x su mediana)",
-        "url": "https://www.instagram.com/reel/DfdKxxnKcpE",
-        "que_tomo": "pregunta de identidad + lista de 3"
-      },
-      "qa_ticket": "928534e3-86c4-4902-bc14-a3f2b197e1ef"
-    },
-    {
-      "id": "2026-12-04-01-historia",
-      "fecha": "2026-12-04T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-04/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "pregunta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-04",
-      "archivo": "01-historia",
-      "version": 1,
-      "formato": "pregunta incómoda del cliente",
-      "gancho": "«¿Por qué tan caro si en internet está a la mitad?»",
-      "primera_linea": "«¿Por qué tan caro…?»",
-      "estilo": "pregunta, claro, titular enorme + mascota con celular",
-      "modela": {
-        "referencia": "@malawystore, «Oye, ¿tú eres el que vende lo de Temu?» (357.1K vistas, 39x su mediana)",
-        "url": "https://www.tiktok.com/@malawystore/video/7706696725813136646",
-        "que_tomo": "la pregunta incómoda del cliente como apertura"
-      },
-      "qa_ticket": "197f7de2-47e1-4fa1-950f-cc69ff73ab4e"
-    },
-    {
-      "id": "2026-12-04-04-post",
-      "fecha": "2026-12-04T10:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-04/04-post.jpg"
-      ],
-      "caption": "Mismas ventas, misma ciudad, distinta ganancia.\nLas dos panaderías venden $9.000.000. A hornea de todo y bota el 12 % del pan ($1.080.000); B hornea por pedido y bota el 2 % ($180.000). Esos $900.000 de diferencia hacen que A gane $900.000 y B $1.800.000.\n¿Cuánto botas tú al mes? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Panaderias",
-      "pilar": "ganancia-real",
-      "layout": "pizarra",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-04",
-      "archivo": "04-post",
-      "version": 1,
-      "formato": "comparativa de dos negocios con las mismas ventas",
-      "gancho": "Dos panaderías venden $9.000.000. Una gana el doble",
-      "primera_linea": "Mismas ventas, misma ciudad, distinta ganancia.",
-      "estilo": "pizarra, claro, cuenta con resultado encerrado",
-      "modela": {
-        "referencia": "@veronatech.ok, «Esto es un H&M y esto es un Zara» (107.3K vistas, 848x su mediana)",
-        "url": "https://www.instagram.com/reel/DfcqByvoYNq",
-        "que_tomo": "dos modelos de negocio con los mismos precios y por qué uno gana más"
-      },
-      "qa_ticket": "0cbb2144-a160-4839-baf9-a2e283b8ac90"
+      "qa_ticket": "a0e9e600-06a1-4dcf-8c3b-a014c18f656d"
     },
     {
       "id": "2026-12-04-02-carrusel",
@@ -632,7 +307,7 @@
         "piezas/2026-12-04/02-carrusel-7.jpg",
         "piezas/2026-12-04/02-carrusel-8.jpg"
       ],
-      "caption": "Antes de hacer planes para 2027, saca este número.\nDesliza: con el ejemplo de Tienda La Esquina, de $62.000.000 cobrados quedan $27.900.000 tras el costo de lo vendido, $9.300.000 tras los gastos fijos y $4.600.000 de ganancia tras el sueldo del dueño: $383.000 al mes.\nGuárdalo y hazlo con tus números esta semana. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "caption": "Antes de hacer planes para 2027, saca este número.\nDesliza: con el ejemplo de Tienda La Esquina, de $96.000.000 cobrados quedan $48.000.000 tras la mercancía, $30.000.000 tras los gastos fijos y $12.000.000 de ganancia tras tu sueldo de $1.500.000 al mes: $1.000.000 al mes.\nGuárdalo y hazlo con tus números esta semana. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
       "pilar": "ganancia-real",
       "layout": "carrusel",
       "destinos": [
@@ -642,7 +317,7 @@
       "qa": "pendiente",
       "carpeta": "2026-12-04",
       "archivo": "02-carrusel",
-      "version": 1,
+      "version": 2,
       "formato": "cierre de año en 5 pasos (8 slides)",
       "gancho": "¿Cuánto ganaste en 2026? Sácalo en 5 pasos",
       "primera_linea": "Antes de hacer planes para 2027, saca este número.",
@@ -652,7 +327,7 @@
         "url": "https://www.facebook.com/ads/library/?id=1135016248914286",
         "que_tomo": "separar el dinero que es del negocio del que es del dueño, ahora como cuenta de cierre"
       },
-      "qa_ticket": "d634a5cd-e596-410a-bf91-3de443a8e290"
+      "qa_ticket": "f61deb6d-60be-4a42-8529-4937ef067172"
     },
     {
       "id": "2026-12-04-05-post",
@@ -671,17 +346,17 @@
       "qa": "pendiente",
       "carpeta": "2026-12-04",
       "archivo": "05-post",
-      "version": 1,
+      "version": 2,
       "formato": "deuda sumada en un solo lugar",
       "gancho": "«Debo poquito aquí y allá»",
       "primera_linea": "«Poquito aquí y allá» puede sumar $3.000.000.",
-      "estilo": "split, navy, frase arriba y suma con total encerrado abajo",
+      "estilo": "split, navy, cajas ajustadas y centradas, frase arriba y suma con total encerrado abajo",
       "modela": {
         "referencia": "@donhook01, «Le debo más de $300,000 a los bancos» (475.1K vistas, 156.1x su mediana)",
         "url": "https://www.tiktok.com/@donhook01/video/7707096485275503892",
         "que_tomo": "la deuda con cifra al frente"
       },
-      "qa_ticket": "32c3e672-d7ee-4959-aa0a-9cd15ff7ee84"
+      "qa_ticket": "b02deb27-ce7c-41c5-9ca8-47162de85648"
     },
     {
       "id": "2026-12-04-03-historia",
@@ -700,17 +375,17 @@
       "qa": "pendiente",
       "carpeta": "2026-12-04",
       "archivo": "03-historia",
-      "version": 1,
-      "formato": "captura real: Cuentas por cobrar y pagar",
-      "gancho": "Lo que te deben y lo que debes, juntos",
-      "primera_linea": "Lo que te deben y lo que debes, juntos",
-      "estilo": "captura, navy, celular con los totales de cuentas",
+      "version": 2,
+      "formato": "captura real: Registrar venta",
+      "gancho": "Vendiste $85.000. Anótalo ya",
+      "primera_linea": "Vendiste $85.000. Anótalo ya",
+      "estilo": "captura, navy, celular con el formulario de venta y el monto a la vista",
       "modela": {
-        "referencia": "Treinta Latam, «Tu negocio pro con Treinta»",
-        "url": "https://www.facebook.com/ads/library/?id=1142608908560980",
-        "que_tomo": "promesa de orden mostrada en la pantalla real"
+        "referencia": "@oriana.digital, «En un mes logré facturar +53 MILLONES» (34K vistas, 29.9x su mediana)",
+        "url": "https://www.tiktok.com/@oriana.digital/video/7707730830373784850",
+        "que_tomo": "captura de pantalla como prueba; Kentra muestra la venta anotada al momento"
       },
-      "qa_ticket": "6a5b98f5-3f52-4bc0-811e-4542708c211e"
+      "qa_ticket": "9c22f0e0-2070-41ea-ba06-6c3f033ac414"
     },
     {
       "id": "reserva-2026-11-02-01-post",

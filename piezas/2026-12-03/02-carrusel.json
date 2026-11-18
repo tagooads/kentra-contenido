@@ -49,12 +49,12 @@
       "$8.100.000"
      ],
      [
-      "Comisiones (50 %)",
+      "Comisión 50 %",
       "−$4.050.000",
       "rojo"
      ],
      [
-      "Queda para el local",
+      "Queda al local",
       "$4.050.000",
       "verde"
      ]
@@ -66,16 +66,16 @@
    "tema": "navy",
    "num": 3,
    "titulo": "Dejar pagado lo fijo de enero",
-   "texto": "Enero es más lento: arriendo y productos salen de lo que entró en diciembre.",
+   "texto": "Enero es más lento: arriendo, servicios e insumos salen de lo que entró en diciembre.",
    "ejemplo": {
     "filas": [
      [
-      "Arriendo y servicios",
+      "Arriendo y luz",
       "−$1.400.000",
       "rojo"
      ],
      [
-      "Cera, cuchillas, toallas",
+      "Insumos",
       "−$450.000",
       "rojo"
      ],

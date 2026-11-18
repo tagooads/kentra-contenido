@@ -21,8 +21,8 @@
    "ejemplo": {
     "filas": [
      [
-      "Ventas cobradas del año",
-      "$62.000.000",
+      "Cobrado",
+      "$96.000.000",
       "verde"
      ]
     ]
@@ -38,16 +38,16 @@
     "filas": [
      [
       "Ventas",
-      "$62.000.000"
+      "$96.000.000"
      ],
      [
-      "Costo de lo vendido",
-      "−$34.100.000",
+      "Mercancía",
+      "−$48.000.000",
       "rojo"
      ],
      [
       "Queda",
-      "$27.900.000"
+      "$48.000.000"
      ]
     ]
    }
@@ -57,21 +57,21 @@
    "tema": "claro",
    "num": 3,
    "titulo": "Resta los gastos fijos",
-   "texto": "Arriendo, servicios, sueldos, internet: los 12 meses.",
+   "texto": "Arriendo, servicios, sueldo de tu ayudante, internet: los 12 meses.",
    "ejemplo": {
     "filas": [
      [
       "Queda",
-      "$27.900.000"
+      "$48.000.000"
      ],
      [
-      "Gastos fijos del año",
-      "−$18.600.000",
+      "Gastos fijos",
+      "−$18.000.000",
       "rojo"
      ],
      [
       "Queda",
-      "$9.300.000"
+      "$30.000.000"
      ]
     ]
    }
@@ -81,21 +81,21 @@
    "tema": "navy",
    "num": 4,
    "titulo": "Resta tu sueldo",
-   "texto": "Si trabajas en el negocio, tu sueldo es un gasto más, aunque lo hayas sacado de a poco.",
+   "texto": "Si trabajas en el negocio, tu sueldo es un gasto: $1.500.000 al mes son $18.000.000 al año.",
    "ejemplo": {
     "filas": [
      [
       "Queda",
-      "$9.300.000"
+      "$30.000.000"
      ],
      [
-      "Tu sueldo del año",
-      "−$4.700.000",
+      "Tu sueldo",
+      "−$18.000.000",
       "rojo"
      ],
      [
-      "Ganancia del negocio",
-      "$4.600.000",
+      "Ganancia",
+      "$12.000.000",
       "verde"
      ]
     ]
@@ -111,11 +111,11 @@
     "filas": [
      [
       "Ganancia del año",
-      "$4.600.000"
+      "$12.000.000"
      ],
      [
       "Por mes",
-      "$383.000",
+      "$1.000.000",
       "verde"
      ]
     ]

@@ -6,7 +6,7 @@
  "arriba": {
   "kicker": "Lo que dices",
   "texto": "«Debo poquito aquí y allá.»",
-  "tam": 64,
+  "tam": 72,
   "play": false
  },
  "abajo": {
@@ -34,5 +34,6 @@
  "cta": {
   "texto": "kentra.pro",
   "boton": false
- }
+ },
+ "ajustar": true
 }

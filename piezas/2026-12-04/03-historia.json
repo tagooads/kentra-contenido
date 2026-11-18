@@ -2,11 +2,11 @@
  "layout": "captura",
  "formato": "historia",
  "tema": "navy",
- "kicker": "Cuentas",
- "titulo": "Lo que te deben y lo que debes, **juntos**",
- "sub": "Con el pendiente de cada lado, antes de que venza.",
- "captura": "movil-cuentas.png",
- "recorte": "470px",
+ "kicker": "Registrar venta",
+ "titulo": "Vendiste $85.000. **Anótalo ya**",
+ "sub": "No en la noche: fecha, cuenta y monto, y queda en Kentra.",
+ "captura": "movil-registrar-venta.png",
+ "recorte": "560px",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
