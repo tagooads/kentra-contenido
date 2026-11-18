@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 59 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
 
 
 ## Miércoles 18/11
-
-**10:00 — Post** · objeciones · `2026-11-18-04-post`
-
-<img src="piezas/2026-11-18/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-En diciembre todos quieren llevar ahora y pagar después.
-
-Un fiado de $180.000 con fecha (15 de diciembre) se cobra. El mismo fiado sin fecha se queda en «cuando pueda».
-
-Black November: Kentra Pro a US$12/mes los 2 primeros meses.
-Anota cada fiado con su fecha. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
-
-</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-11-18-02-carrusel`
 
@@ -730,9 +713,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- miércoles 18/11 · 10:00 · Post `2026-11-18-04-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 08:00 · Historia `2026-11-18-01-historia` · IG ✓ · FB ✓
 - martes 17/11 · 19:00 · Historia `2026-11-17-03-historia` · IG ✓ · FB ✓
 - martes 17/11 · 18:00 · Post `2026-11-17-05-post` · IG ✓ · FB ✓
 - martes 17/11 · 12:00 · Carrusel `2026-11-17-02-carrusel` · IG ✓ · FB ✓
 - martes 17/11 · 10:00 · Post `2026-11-17-04-post` · IG ✓ · FB ✓
-- martes 17/11 · 08:00 · Historia `2026-11-17-01-historia` · IG ✓ · FB ✓
