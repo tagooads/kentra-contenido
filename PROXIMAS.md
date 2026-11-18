@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 65 piezas agendadas.
 
 
 ## Miércoles 18/11
@@ -692,6 +692,90 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 **19:00 — Historia** · funcionalidades · `2026-11-29-03-historia`
 
 <img src="piezas/2026-11-29/03-historia.jpg" width="160">
+
+
+## Lunes 30/11
+
+**08:00 — Historia** · precio · `2026-11-30-01-historia`
+
+<img src="piezas/2026-11-30/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-11-30-04-post`
+
+<img src="piezas/2026-11-30/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Subirle 35 % al costo no es ganar 35 %.
+Si algo te cuesta $100.000 y lo vendes en $135.000, ganas $35.000: eso es el 26 % de lo que cobras, no el 35 %.
+Para que te quede el 35 % del precio, tendrías que venderlo en unos $154.000.
+¿Tú calculas sobre el costo o sobre el precio?
+Hoy es el último día de Black November: por cada dueño que invites y pague, sumas 1 mes sin costo.
+Revisa tus márgenes reales. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
+
+</details>
+
+**12:00 — Carrusel** · ganancia-real · `2026-11-30-02-carrusel`
+
+<img src="piezas/2026-11-30/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-30/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-30/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-30/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-30/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-30/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-30/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Vender $10.000.000 y quedarte con $800.000 es más común de lo que parece.
+Desliza: margen bruto (lo que deja el producto), operativo (después de abrir cada día) y neto (lo que de verdad es tuyo), con el mismo ejemplo.
+Guárdalo para tu cierre de noviembre.
+Hoy es el último día de Black November: por cada dueño que invites y pague, sumas 1 mes sin costo.
+Mira tus 3 márgenes en una pantalla. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**18:00 — Post** · precio · `2026-11-30-05-post`
+
+<img src="piezas/2026-11-30/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Última llamada de Black November.
+Hasta hoy a las 11:59 p. m., Kentra Pro va con 40 % menos los 2 primeros meses: US$12 al mes, luego US$20.
+Diciembre es el mes con más ventas: empieza sabiendo cuánto te queda de cada una.
+Actívalo hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember
+
+</details>
+
+**19:00 — Historia** · educacion · `2026-11-30-03-historia`
+
+<img src="piezas/2026-11-30/03-historia.jpg" width="160">
+
+
+## Martes 1/12
+
+**08:00 — Historia** · objeciones · `2026-12-01-01-historia`
+
+<img src="piezas/2026-12-01/01-historia.jpg" width="160">
+
+
+## Miércoles 2/12
+
+**08:00 — Historia** · ganancia-real · `2026-12-02-01-historia`
+
+<img src="piezas/2026-12-02/01-historia.jpg" width="160">
+
+**12:00 — Carrusel** · ganancia-real · `2026-12-02-02-carrusel`
+
+<img src="piezas/2026-12-02/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-02/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-02/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-02/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-02/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-02/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-02/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Mucho bulto no siempre es más dinero.
+Desliza: 100 ventas que dejan $3.000 contra 60 que dejan $7.000, y lo que no se ve en la primera opción (empaques, envíos y tus horas).
+¿Tú cuál eliges? Cuéntanos A o B.
+Decide con tus números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
 
 
 ## Últimas publicadas

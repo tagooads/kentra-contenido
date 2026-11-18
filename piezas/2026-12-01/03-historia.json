@@ -1,14 +1,14 @@
 {
-  "layout": "captura",
-  "formato": "historia",
-  "tema": "claro",
-  "kicker": "Fin de mes",
-  "titulo": "Tu mes completo **en una pantalla**",
-  "sub": "Ingresos, gastos y saldo neto, al día y sin sumar a mano.",
-  "captura": "movil-panel.png",
-  "recorte": "520px",
-  "cta": {
-    "texto": "kentra.pro",
-    "boton": true
-  }
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Resultados",
+ "titulo": "¿Ganaste o perdiste? **Una pantalla** te lo dice",
+ "sub": "Ingresos, gastos y margen del mes, sin sumar a mano.",
+ "captura": "movil-resultados.png",
+ "recorte": "470px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
 }

@@ -1,0 +1,12 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "claro",
+ "titulo": "«¿Por qué tan caro si en internet está a la mitad?»",
+ "sub": "Respóndelo con tu costo a la mano, no con nervios.",
+ "mascota": "telefono",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

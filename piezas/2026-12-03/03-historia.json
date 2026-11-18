@@ -1,0 +1,17 @@
+{
+ "layout": "tip",
+ "formato": "historia",
+ "tema": "verdeoscuro",
+ "kicker": "Responde rápido",
+ "titulo": "¿Conoces los números de tu negocio?",
+ "items": [
+  "¿Cuánto vendiste en noviembre?",
+  "¿Cuánto te costó venderlo?",
+  "¿Cuánto te quedó a ti?"
+ ],
+ "cierre": "Si dudaste en una, haz el diagnóstico.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

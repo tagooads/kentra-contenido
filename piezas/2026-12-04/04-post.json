@@ -1,0 +1,33 @@
+{
+ "layout": "pizarra",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Panaderías",
+ "titulo": "Dos panaderías venden $9.000.000. **Una gana el doble**",
+ "lineas": [
+  [
+   "Las dos venden",
+   "$9.000.000"
+  ],
+  [
+   "A bota el 12 % del pan",
+   "−$1.080.000",
+   "rojo"
+  ],
+  [
+   "B hornea por pedido y bota el 2 %",
+   "−$180.000",
+   "rojo"
+  ],
+  [
+   "Lo que B no bota",
+   "$900.000",
+   "res"
+  ]
+ ],
+ "nota": "A gana $900.000. B gana $1.800.000 con las mismas ventas.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

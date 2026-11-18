@@ -1,13 +1,12 @@
 {
-  "layout": "meme",
-  "formato": "post",
-  "tema": "claro",
-  "arriba": "POV: gastas la venta del día como si toda fuera ganancia.",
-  "abajo": "Yo, que ya aparté el arriendo de enero en Kentra:",
-  "figura": "telefono",
-  "globo": "Enero no me asusta.",
-  "cta": {
-    "texto": "kentra.pro",
-    "boton": false
-  }
+ "layout": "cita",
+ "formato": "post",
+ "tema": "menta",
+ "kicker": "Error de diciembre",
+ "titulo": "En diciembre el dinero no se pierde: **se retira sin anotar**",
+ "sub": "Regalos $180.000, cena del equipo $240.000, taxis $60.000. En enero son $480.000 que nadie encuentra.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
 }

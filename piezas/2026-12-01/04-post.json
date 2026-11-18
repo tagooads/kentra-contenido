@@ -1,34 +1,25 @@
 {
-  "layout": "skit",
-  "formato": "post",
-  "tema": "navy",
-  "titulo": "Vendiste $4.000.000 y lo celebraste",
-  "a": {
-    "nombre": "Tú"
-  },
-  "b": {
-    "nombre": "La cuenta"
-  },
-  "lineas": [
-    [
-      "a",
-      "¡Este mes vendí $4.000.000!"
-    ],
-    [
-      "b",
-      "Menos la mercancía: $2.100.000."
-    ],
-    [
-      "b",
-      "Menos arriendo y sueldos: $1.300.000."
-    ],
-    [
-      "a",
-      "¿Me quedaron $600.000?"
-    ]
-  ],
-  "cta": {
-    "texto": "kentra.pro",
-    "boton": false
-  }
+ "layout": "antes",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Tienda online",
+ "titulo": "El envío que no cobras **sale de tu ganancia**",
+ "antes": {
+  "titulo": "Envío sin costo en todo",
+  "items": [
+   "Pedido de $40.000 que deja $12.000",
+   "Pagas $7.000 de envío: te quedan $5.000"
+  ]
+ },
+ "despues": {
+  "titulo": "Sin costo desde $80.000",
+  "items": [
+   "Debajo, el envío lo paga el cliente",
+   "Tus $12.000 quedan completos"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
 }

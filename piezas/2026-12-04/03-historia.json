@@ -1,0 +1,14 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Cuentas",
+ "titulo": "Lo que te deben y lo que debes, **juntos**",
+ "sub": "Con el pendiente de cada lado, antes de que venza.",
+ "captura": "movil-cuentas.png",
+ "recorte": "470px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

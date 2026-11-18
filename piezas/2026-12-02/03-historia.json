@@ -1,24 +1,24 @@
 {
-  "layout": "reto",
-  "formato": "historia",
-  "tema": "navy",
-  "kicker": "Reto de miércoles",
-  "titulo": "3 empleados ganan $1.600.000. ¿Cuánto es medio mes para todos?",
-  "opciones": [
-    {
-      "texto": "$2.400.000",
-      "ok": true
-    },
-    {
-      "texto": "$800.000"
-    },
-    {
-      "texto": "$4.800.000"
-    }
-  ],
-  "nota": "Respuesta: $2.400.000. Apártalo antes del 20.",
-  "cta": {
-    "texto": "kentra.pro/quiz",
-    "boton": true
+ "layout": "reto",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Reto de miércoles",
+ "titulo": "Cada venta te deja $5.000. ¿Cuántas ventas cuesta un regalo de $600.000?",
+ "opciones": [
+  {
+   "texto": "60 ventas"
+  },
+  {
+   "texto": "120 ventas",
+   "ok": true
+  },
+  {
+   "texto": "600 ventas"
   }
+ ],
+ "nota": "Respuesta: 120 ventas. Antes de comprar, míralo en ventas.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
 }

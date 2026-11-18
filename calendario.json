@@ -9266,6 +9266,250 @@
       "carpeta": "2026-11-29",
       "archivo": "03-historia",
       "qa_ticket": "8ffc399a-3f1d-4e83-9335-07e15508f265"
+    },
+    {
+      "id": "2026-11-30-01-historia",
+      "fecha": "2026-11-30T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-30/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "precio",
+      "layout": "oferta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-11-30",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "BN: último día con 2 anuales tachados",
+      "gancho": "Hoy termina Black November",
+      "primera_linea": "Hoy termina Black November",
+      "estilo": "oferta, black, kicker «Último día» + 2 tarjetas Pro/Business con precio tachado",
+      "modela": {
+        "referencia": "JLMG (Biblioteca de Meta)",
+        "url": "https://www.facebook.com/ads/library/?id=1478530177518831",
+        "que_tomo": "precio ancla tachado y visible como protagonista, repetido en variantes"
+      },
+      "qa_ticket": "e0746fc2-c200-44cb-88cd-311b59bd1141"
+    },
+    {
+      "id": "2026-11-30-04-post",
+      "fecha": "2026-11-30T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-30/04-post.jpg"
+      ],
+      "caption": "Subirle 35 % al costo no es ganar 35 %.\nSi algo te cuesta $100.000 y lo vendes en $135.000, ganas $35.000: eso es el 26 % de lo que cobras, no el 35 %.\nPara que te quede el 35 % del precio, tendrías que venderlo en unos $154.000.\n¿Tú calculas sobre el costo o sobre el precio?\nHoy es el último día de Black November: por cada dueño que invites y pague, sumas 1 mes sin costo.\nRevisa tus márgenes reales. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "pizarra",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-11-30",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "error común de precio corregido en pizarra",
+      "gancho": "Le subiste 35 % y crees que ganas 35 %",
+      "primera_linea": "Le subiste 35 % y crees que ganas 35 %",
+      "estilo": "pizarra, verde oscuro, cuenta con resultado encerrado, sin mascota",
+      "modela": {
+        "referencia": "@cuentasclarasfs, reel «100 + 35 % = ¿margen?» (126.7K vistas, 104x su mediana)",
+        "url": "https://www.instagram.com/reel/DflCx4cjrOo",
+        "que_tomo": "el número mal calculado a la vista y la corrección paso a paso"
+      },
+      "qa_ticket": "c1476ecf-9bb2-4868-ae68-759bdd025bf8"
+    },
+    {
+      "id": "2026-11-30-02-carrusel",
+      "fecha": "2026-11-30T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-11-30/02-carrusel-1.jpg",
+        "piezas/2026-11-30/02-carrusel-2.jpg",
+        "piezas/2026-11-30/02-carrusel-3.jpg",
+        "piezas/2026-11-30/02-carrusel-4.jpg",
+        "piezas/2026-11-30/02-carrusel-5.jpg",
+        "piezas/2026-11-30/02-carrusel-6.jpg",
+        "piezas/2026-11-30/02-carrusel-7.jpg"
+      ],
+      "caption": "Vender $10.000.000 y quedarte con $800.000 es más común de lo que parece.\nDesliza: margen bruto (lo que deja el producto), operativo (después de abrir cada día) y neto (lo que de verdad es tuyo), con el mismo ejemplo.\nGuárdalo para tu cierre de noviembre.\nHoy es el último día de Black November: por cada dueño que invites y pague, sumas 1 mes sin costo.\nMira tus 3 márgenes en una pantalla. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-11-30",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "los 3 márgenes con un solo ejemplo (7 slides)",
+      "gancho": "Facturaste $10.000.000 y ganaste $800.000",
+      "primera_linea": "Facturaste $10.000.000 y ganaste $800.000",
+      "estilo": "portada navy sin visual + valor claro/navy alternado + captura real de Resultados + cierre verde con mascota",
+      "modela": {
+        "referencia": "@neoestrategia, «Facturaste 10.000 y ganaste 800» (1M vistas, 853x su mediana)",
+        "url": "https://www.tiktok.com/@neoestrategia/video/7699946597152607506",
+        "que_tomo": "la cifra de facturar vs ganar como gancho y la explicación de margen bruto, operativo y neto"
+      },
+      "qa_ticket": "dc4b1bd0-ed3f-458f-8c5a-32015d72345d"
+    },
+    {
+      "id": "2026-11-30-05-post",
+      "fecha": "2026-11-30T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-11-30/05-post.jpg"
+      ],
+      "caption": "Última llamada de Black November.\nHasta hoy a las 11:59 p. m., Kentra Pro va con 40 % menos los 2 primeros meses: US$12 al mes, luego US$20.\nDiciembre es el mes con más ventas: empieza sabiendo cuánto te queda de cada una.\nActívalo hoy. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember",
+      "pilar": "precio",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-11-30",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "BN: CTA en primera persona",
+      "gancho": "«Quiero empezar diciembre con Kentra Pro a US$12»",
+      "primera_linea": "«Quiero empezar diciembre con Kentra Pro a US$12.»",
+      "estilo": "frase, black, tarjeta de cita blanca con explicación, sin mascota",
+      "modela": {
+        "referencia": "Latinas Together, «Quiero dejar de adivinar y empezar a controlar →»",
+        "url": "https://www.facebook.com/ads/library/?id=2740198719769713",
+        "que_tomo": "el botón y la frase hablan como el cliente, en primera persona"
+      },
+      "qa_ticket": "396629b9-11a5-491e-ab26-3fcba6e1318b"
+    },
+    {
+      "id": "2026-11-30-03-historia",
+      "fecha": "2026-11-30T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-11-30/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "mito",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-11-30",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "mito vs realidad (dinero de la caja)",
+      "gancho": "«Lo que hay en la caja es mío»",
+      "primera_linea": "«Lo que hay en la caja es mío»",
+      "estilo": "mito, noche, dos cajas apiladas con título, sin mascota",
+      "modela": {
+        "referencia": "@marcillabusiness, «El dinero de la empresa no es tuyo» (228K vistas, 21.9x su mediana)",
+        "url": "https://www.tiktok.com/@marcillabusiness/video/7705492967804423455",
+        "que_tomo": "la frase de postura que separa el dinero del negocio del del dueño"
+      },
+      "qa_ticket": "47ae1c82-23fa-4c9f-bfb4-ba671f027285"
+    },
+    {
+      "id": "2026-12-01-01-historia",
+      "fecha": "2026-12-01T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-01/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-01",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "chat con un familiar que pide precio",
+      "gancho": "«¿Me haces precio de familia?»",
+      "primera_linea": "«¿Me haces precio de familia?»",
+      "estilo": "chat, claro, pantallazo de WhatsApp con cierre, sin mascota",
+      "modela": {
+        "referencia": "@ale_trejo6, «Ser familia no significa regalar tu trabajo» (1.3M vistas)",
+        "url": "https://www.tiktok.com/@ale_trejo6/video/7707495601109257492",
+        "que_tomo": "el dolor de cobrarle a la familia contado como escena cotidiana con humor"
+      },
+      "qa_ticket": "5be5e3b1-81a6-42d9-ba15-2cf180c69c9f"
+    },
+    {
+      "id": "2026-12-02-01-historia",
+      "fecha": "2026-12-02T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-02/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-02",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "tarjeta de postura",
+      "gancho": "Diciembre se mide el 31, no el 24",
+      "primera_linea": "«Diciembre no se mide el 24…»",
+      "estilo": "tweet, noche, tarjeta blanca con pie, sin mascota",
+      "modela": {
+        "referencia": "Alquimista Digital, «Facturar no es ganar» (3 variantes idénticas)",
+        "url": "https://www.facebook.com/ads/library/?id=1153608300653561",
+        "que_tomo": "postura corta que separa ventas de ganancia"
+      },
+      "qa_ticket": "bd3fe1be-6a8b-484c-a096-90f20a59b07d"
+    },
+    {
+      "id": "2026-12-02-02-carrusel",
+      "fecha": "2026-12-02T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-02/02-carrusel-1.jpg",
+        "piezas/2026-12-02/02-carrusel-2.jpg",
+        "piezas/2026-12-02/02-carrusel-3.jpg",
+        "piezas/2026-12-02/02-carrusel-4.jpg",
+        "piezas/2026-12-02/02-carrusel-5.jpg",
+        "piezas/2026-12-02/02-carrusel-6.jpg",
+        "piezas/2026-12-02/02-carrusel-7.jpg"
+      ],
+      "caption": "Mucho bulto no siempre es más dinero.\nDesliza: 100 ventas que dejan $3.000 contra 60 que dejan $7.000, y lo que no se ve en la primera opción (empaques, envíos y tus horas).\n¿Tú cuál eliges? Cuéntanos A o B.\nDecide con tus números. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-02",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "dilema de dos opciones con cuenta (7 slides)",
+      "gancho": "¿Vender 100 con margen apretado o 60 con buen margen?",
+      "primera_linea": "¿Vender 100 con margen apretado…",
+      "estilo": "portada verde sin visual + valor claro/navy alternado + lista «Así lo ordenas en Kentra» + cierre verde con mascota",
+      "modela": {
+        "referencia": "@lebronedinson, «¿Volumen alto con margen apretado o volumen medio con buen margen?» (37K vistas, 14.9x su mediana)",
+        "url": "https://www.instagram.com/reel/Dfm5E3KPAwA",
+        "que_tomo": "el dilema de dos opciones con frase de postura que invita a responder"
+      },
+      "qa_ticket": "4d153de4-f980-4a45-95d2-2c1986dadf67"
     }
   ]
 }

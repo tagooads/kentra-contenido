@@ -1,0 +1,38 @@
+{
+ "layout": "split",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Deudas",
+ "arriba": {
+  "kicker": "Lo que dices",
+  "texto": "«Debo poquito aquí y allá.»",
+  "tam": 64,
+  "play": false
+ },
+ "abajo": {
+  "kicker": "La suma que nunca hiciste",
+  "filas": [
+   [
+    "Tarjeta de crédito",
+    "$1.400.000"
+   ],
+   [
+    "Proveedor",
+    "$1.000.000"
+   ],
+   [
+    "Préstamo familiar",
+    "$600.000"
+   ],
+   [
+    "Total",
+    "$3.000.000",
+    "res"
+   ]
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

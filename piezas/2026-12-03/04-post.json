@@ -1,0 +1,29 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Precio",
+ "titulo": "La misma vela: $18.000, $35.000 o $60.000",
+ "filas": [
+  {
+   "label": "Suelta",
+   "valor": "$18.000",
+   "color": "gris"
+  },
+  {
+   "label": "Con caja y lazo",
+   "valor": "$35.000",
+   "color": "gris"
+  },
+  {
+   "label": "En kit de regalo",
+   "valor": "$60.000",
+   "color": "verde"
+  }
+ ],
+ "cierre": "La vela es la misma. Cómo la presentas cambia lo que te deja.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

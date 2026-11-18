@@ -1,0 +1,150 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "navy",
+   "kicker": "Cierre de año",
+   "titulo": "¿Cuánto ganaste en 2026? **Sácalo en 5 pasos**",
+   "sub": "Con el ejemplo de Tienda La Esquina. Necesitas papel, 15 minutos y tus números del año.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "Suma lo que entró",
+   "texto": "Solo lo cobrado. Lo que te deben va aparte hasta que llegue.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas cobradas del año",
+      "$62.000.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Resta lo que costó lo vendido",
+   "texto": "Mercancía o insumos de lo que vendiste.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "$62.000.000"
+     ],
+     [
+      "Costo de lo vendido",
+      "−$34.100.000",
+      "rojo"
+     ],
+     [
+      "Queda",
+      "$27.900.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Resta los gastos fijos",
+   "texto": "Arriendo, servicios, sueldos, internet: los 12 meses.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Queda",
+      "$27.900.000"
+     ],
+     [
+      "Gastos fijos del año",
+      "−$18.600.000",
+      "rojo"
+     ],
+     [
+      "Queda",
+      "$9.300.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Resta tu sueldo",
+   "texto": "Si trabajas en el negocio, tu sueldo es un gasto más, aunque lo hayas sacado de a poco.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Queda",
+      "$9.300.000"
+     ],
+     [
+      "Tu sueldo del año",
+      "−$4.700.000",
+      "rojo"
+     ],
+     [
+      "Ganancia del negocio",
+      "$4.600.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 5,
+   "titulo": "Divídelo entre 12",
+   "texto": "Así sabes cuánto gana tu negocio en un mes normal. Es tu punto de partida para 2027.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ganancia del año",
+      "$4.600.000"
+     ],
+     [
+      "Por mes",
+      "$383.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "navy",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "En 2027, **mes a mes y sin papel**",
+   "sub": "Tus tendencias y tu proyección de caja, en una pantalla.",
+   "captura": "movil-analisis.png",
+   "recorte": "560px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Que 2027 empiece\ncon tus números",
+   "items": [
+    "Lo que entró y salió",
+    "Tu sueldo como dueño",
+    "Lo que ganó tu negocio"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

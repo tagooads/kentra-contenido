@@ -1,0 +1,25 @@
+{
+ "layout": "antes",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Encargos de diciembre",
+ "titulo": "Cobra **antes** de hornear",
+ "antes": {
+  "titulo": "Cobras al entregar",
+  "items": [
+   "Compras el material con tu dinero",
+   "Si cancelan, lo pierdes todo"
+  ]
+ },
+ "despues": {
+  "titulo": "Pides 50 % al encargar",
+  "items": [
+   "El material ya está pagado",
+   "Si cancelan, no pierdes"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

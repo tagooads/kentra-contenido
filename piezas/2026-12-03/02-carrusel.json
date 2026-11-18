@@ -1,0 +1,151 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "claro",
+   "kicker": "Lo que yo haría",
+   "titulo": "Si tuviera una barbería, **esto haría en diciembre**",
+   "sub": "5 movimientos con el dinero de la temporada alta. Corte $25.000, corte y barba $40.000.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Contar servicios, no solo caja",
+   "texto": "En diciembre se llena la agenda: anota cada servicio para saber cuál deja más.",
+   "ejemplo": {
+    "filas": [
+     [
+      "180 cortes",
+      "$4.500.000"
+     ],
+     [
+      "90 cortes y barba",
+      "$3.600.000"
+     ],
+     [
+      "Total del mes",
+      "$8.100.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Apartar la comisión el mismo día",
+   "texto": "Si el barbero gana el 50 %, la mitad de cada servicio no es tuya.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Servicios del mes",
+      "$8.100.000"
+     ],
+     [
+      "Comisiones (50 %)",
+      "−$4.050.000",
+      "rojo"
+     ],
+     [
+      "Queda para el local",
+      "$4.050.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Dejar pagado lo fijo de enero",
+   "texto": "Enero es más lento: arriendo y productos salen de lo que entró en diciembre.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Arriendo y servicios",
+      "−$1.400.000",
+      "rojo"
+     ],
+     [
+      "Cera, cuchillas, toallas",
+      "−$450.000",
+      "rojo"
+     ],
+     [
+      "Queda",
+      "$2.200.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "Pagarme una cifra fija",
+   "texto": "No me llevo lo que sobra: me pago un monto y el resto queda de colchón.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Mi pago del mes",
+      "−$1.500.000",
+      "rojo"
+     ],
+     [
+      "Colchón para enero",
+      "$700.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 5,
+   "titulo": "Revisar el precio en enero",
+   "texto": "Si un servicio siempre se agenda primero, quizá cobras menos de lo que vale.",
+   "bullets": [
+    "Mira qué se llena primero",
+    "Compara con lo que te deja",
+    "Sube de a poco"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "claro",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "La temporada, anotada",
+   "items": [
+    "Cada servicio con su día",
+    "Comisiones como gasto aparte",
+    "Lo que queda, a la vista"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Temporada alta,\nnúmeros claros",
+   "items": [
+    "Servicios anotados",
+    "Comisiones apartadas",
+    "Enero cubierto"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

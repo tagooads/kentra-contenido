@@ -1,129 +1,129 @@
 {
-  "layout": "carrusel",
-  "formato": "post",
-  "tema": "claro",
-  "slides": [
-    {
-      "layout": "portada",
-      "tema": "claro",
-      "kicker": "Prima y aguinaldo",
-      "titulo": "Diciembre trae **un sueldo extra** por empleado",
-      "sub": "Si tienes equipo, esta cuenta va antes que los regalos.",
-      "visual": "none",
-      "sinPildora": true
-    },
-    {
-      "layout": "valor",
-      "tema": "navy",
-      "num": 1,
-      "titulo": "Saca la cuenta",
-      "texto": "En Colombia la prima y en México el aguinaldo: al menos 15 días de sueldo por persona, antes del 20 de diciembre.",
-      "ejemplo": {
-        "filas": [
-          [
-            "Empleados",
-            "3"
-          ],
-          [
-            "Medio mes de cada uno",
-            "$800.000"
-          ],
-          [
-            "Total a pagar",
-            "$2.400.000",
-            "rojo"
-          ]
-        ]
-      }
-    },
-    {
-      "layout": "valor",
-      "tema": "claro",
-      "num": 2,
-      "titulo": "Mira cuánto tienes libre",
-      "texto": "No cuentes todo lo que hay en la cuenta: resta lo que ya tiene dueño.",
-      "ejemplo": {
-        "filas": [
-          [
-            "En caja hoy",
-            "$5.200.000"
-          ],
-          [
-            "Proveedores y arriendo",
-            "−$3.100.000",
-            "rojo"
-          ],
-          [
-            "Libre",
-            "$2.100.000",
-            "verde"
-          ]
-        ]
-      }
-    },
-    {
-      "layout": "valor",
-      "tema": "navy",
-      "num": 3,
-      "titulo": "Tapa lo que falta con días",
-      "texto": "Te faltan $300.000. Apártalos de la venta de cada día, no del final del mes.",
-      "ejemplo": {
-        "filas": [
-          [
-            "Falta",
-            "$300.000",
-            "rojo"
-          ],
-          [
-            "Apartas por día",
-            "$20.000"
-          ],
-          [
-            "Listo en",
-            "15 días",
-            "verde"
-          ]
-        ]
-      }
-    },
-    {
-      "layout": "valor",
-      "tema": "claro",
-      "num": 4,
-      "titulo": "No la saques de enero",
-      "texto": "Si pagas la prima con el dinero del inventario de enero, el problema solo cambia de mes.",
-      "bullets": [
-        "Págala con lo apartado",
-        "No con la mercancía",
-        "Ni con la tarjeta"
-      ]
-    },
-    {
-      "layout": "lista",
-      "tema": "navy",
-      "kicker": "Así lo ordenas en Kentra",
-      "titulo": "La prima con fecha",
-      "items": [
-        "Cuenta por pagar con fecha límite",
-        "Recordatorio antes del día de pago",
-        "Al pagarla, se registra sola"
-      ]
-    },
-    {
-      "layout": "mascota",
-      "tema": "verde",
-      "titulo": "Que diciembre\nno te tome por sorpresa",
-      "items": [
-        "Lo que debes, con su fecha",
-        "Lo libre de verdad, a la vista",
-        "Alertas antes de pasarte"
-      ],
-      "mascota": "app",
-      "tam": "media",
-      "cta": {
-        "texto": "kentra.pro",
-        "boton": true
-      }
-    }
-  ]
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "claro",
+   "kicker": "Prima y aguinaldo",
+   "titulo": "Diciembre trae **medio sueldo extra** por empleado",
+   "sub": "Si tienes equipo, esta cuenta va antes que los regalos.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Saca la cuenta",
+   "texto": "En Colombia la prima y en México el aguinaldo: al menos 15 días de sueldo por persona, antes del 20 de diciembre.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Empleados",
+      "3"
+     ],
+     [
+      "Medio mes de cada uno",
+      "$800.000"
+     ],
+     [
+      "Total a pagar",
+      "$2.400.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Mira cuánto tienes libre",
+   "texto": "No cuentes todo lo que hay en la cuenta: resta lo que ya tiene dueño.",
+   "ejemplo": {
+    "filas": [
+     [
+      "En caja hoy",
+      "$5.200.000"
+     ],
+     [
+      "Proveedores y arriendo",
+      "−$3.100.000",
+      "rojo"
+     ],
+     [
+      "Libre",
+      "$2.100.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Tapa lo que falta con días",
+   "texto": "Te faltan $300.000. Apártalos de la venta de cada día, no del final del mes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Falta",
+      "$300.000",
+      "rojo"
+     ],
+     [
+      "Apartas por día",
+      "$20.000"
+     ],
+     [
+      "Listo en",
+      "15 días",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "No la saques de enero",
+   "texto": "Si pagas la prima con el dinero del inventario de enero, el problema solo cambia de mes.",
+   "bullets": [
+    "Págala con lo apartado",
+    "No con la mercancía",
+    "Ni con la tarjeta"
+   ]
+  },
+  {
+   "layout": "lista",
+   "tema": "navy",
+   "kicker": "Así lo ordenas en Kentra",
+   "titulo": "La prima con fecha",
+   "items": [
+    "Cuenta por pagar con fecha límite",
+    "Recordatorio antes del día de pago",
+    "Al pagarla, se registra sola"
+   ]
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Que diciembre\nno te tome por sorpresa",
+   "items": [
+    "Lo que debes, con su fecha",
+    "Lo libre de verdad, a la vista",
+    "Alertas antes de pasarte"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
 }
