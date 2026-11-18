@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
 
 
 ## Miércoles 18/11
-
-**12:00 — Carrusel** · ganancia-real · `2026-11-18-02-carrusel`
-
-<img src="piezas/2026-11-18/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-18/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Subir el precio a ojo te come el margen. Subirlo con la cuenta lo protege.
-
-Paso a paso: el costo pasa de $20.000 a $22.400, el margen baja de $15.000 a $12.600 y un precio de $37.800 lo recupera. Con 47 ventas en vez de 50 te quedan $723.800 en lugar de $630.000.
-
-En noviembre, el plan anual de Kentra va desde US$79.
-Guarda este paso a paso. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Precios #Pymes
-
-</details>
 
 **18:00 — Post** · precio · `2026-11-18-05-post`
 
@@ -713,9 +696,9 @@ Ordena lo que cobras. 👉 [link de la bio en Instagram / link con UTM en Facebo
 
 ## Últimas publicadas
 
+- miércoles 18/11 · 12:00 · Carrusel `2026-11-18-02-carrusel` · IG ✓ · FB ✓
 - miércoles 18/11 · 10:00 · Post `2026-11-18-04-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 08:00 · Historia `2026-11-18-01-historia` · IG ✓ · FB ✓
 - martes 17/11 · 19:00 · Historia `2026-11-17-03-historia` · IG ✓ · FB ✓
 - martes 17/11 · 18:00 · Post `2026-11-17-05-post` · IG ✓ · FB ✓
 - martes 17/11 · 12:00 · Carrusel `2026-11-17-02-carrusel` · IG ✓ · FB ✓
-- martes 17/11 · 10:00 · Post `2026-11-17-04-post` · IG ✓ · FB ✓
