@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 76 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 75 piezas agendadas.
 
 
 ## Miércoles 18/11
-
-**18:00 — Post** · precio · `2026-11-18-05-post`
-
-<img src="piezas/2026-11-18/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Tu recomendación tiene valor y en Kentra se nota.
-
-Invita y gana: por cada dueño de negocio que llegue por ti, se suscriba y pague, tú sumas 1 mes sin costo. Además, en Black November el anual va desde US$79 con Kentra Priority de regalo el primer año.
-
-Piensa en quién lo necesita y mándaselo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · ganancia-real · `2026-11-18-03-historia`
 
@@ -894,9 +878,9 @@ Las dos panaderías venden $9.000.000. A hornea de todo y bota el 12 % del pan (
 
 ## Últimas publicadas
 
+- miércoles 18/11 · 18:00 · Post `2026-11-18-05-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 12:00 · Carrusel `2026-11-18-02-carrusel` · IG ✓ · FB ✓
 - miércoles 18/11 · 10:00 · Post `2026-11-18-04-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 08:00 · Historia `2026-11-18-01-historia` · IG ✓ · FB ✓
 - martes 17/11 · 19:00 · Historia `2026-11-17-03-historia` · IG ✓ · FB ✓
 - martes 17/11 · 18:00 · Post `2026-11-17-05-post` · IG ✓ · FB ✓
-- martes 17/11 · 12:00 · Carrusel `2026-11-17-02-carrusel` · IG ✓ · FB ✓
