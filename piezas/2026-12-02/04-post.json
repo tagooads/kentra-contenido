@@ -1,0 +1,45 @@
+{
+  "layout": "recibo",
+  "formato": "post",
+  "tema": "blanco",
+  "kicker": "Estudio de uñas",
+  "titulo": "Un set de $70.000: lo que te queda",
+  "negocio": "Estudio Luna",
+  "items": [
+    [
+      "Precio del set",
+      "$70.000",
+      "verde"
+    ],
+    [
+      "Material",
+      "−$14.000",
+      "rojo"
+    ],
+    [
+      "Comisión (40 %)",
+      "−$28.000",
+      "rojo"
+    ],
+    [
+      "Arriendo y luz",
+      "−$9.000",
+      "rojo"
+    ],
+    [
+      "Datáfono",
+      "−$2.100",
+      "rojo"
+    ]
+  ],
+  "total": [
+    "Te queda",
+    "$16.900"
+  ],
+  "pie": "24 % de cada set.",
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+  },
+  "marcaAgua": false
+}

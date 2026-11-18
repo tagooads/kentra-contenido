@@ -1,0 +1,34 @@
+{
+  "layout": "skit",
+  "formato": "post",
+  "tema": "navy",
+  "titulo": "Vendiste $4.000.000 y lo celebraste",
+  "a": {
+    "nombre": "Tú"
+  },
+  "b": {
+    "nombre": "La cuenta"
+  },
+  "lineas": [
+    [
+      "a",
+      "¡Este mes vendí $4.000.000!"
+    ],
+    [
+      "b",
+      "Menos la mercancía: $2.100.000."
+    ],
+    [
+      "b",
+      "Menos arriendo y sueldos: $1.300.000."
+    ],
+    [
+      "a",
+      "¿Me quedaron $600.000?"
+    ]
+  ],
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+  }
+}

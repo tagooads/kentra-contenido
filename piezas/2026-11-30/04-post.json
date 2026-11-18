@@ -1,0 +1,31 @@
+{
+  "layout": "pizarra",
+  "formato": "post",
+  "tema": "verdeoscuro",
+  "kicker": "El error del 35 %",
+  "titulo": "Le subiste 35 % y crees que ganas 35 %",
+  "lineas": [
+    [
+      "Te cuesta",
+      "$100.000"
+    ],
+    [
+      "Precio (+35 %)",
+      "$135.000"
+    ],
+    [
+      "Ganas por venta",
+      "$35.000"
+    ],
+    [
+      "Margen real",
+      "26 %",
+      "res"
+    ]
+  ],
+  "nota": "Para ganar 35 % de lo que cobras,\nvéndelo en unos $154.000.",
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+  }
+}

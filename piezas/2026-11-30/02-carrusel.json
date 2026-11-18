@@ -1,0 +1,128 @@
+{
+  "layout": "carrusel",
+  "formato": "post",
+  "tema": "navy",
+  "slides": [
+    {
+      "layout": "portada",
+      "tema": "navy",
+      "kicker": "Ganancia real",
+      "titulo": "Facturaste $10.000.000 y **ganaste $800.000**",
+      "sub": "No es un error: es la diferencia entre tus 3 márgenes. Desliza y sácalos con un ejemplo.",
+      "visual": "none",
+      "sinPildora": true
+    },
+    {
+      "layout": "valor",
+      "tema": "claro",
+      "num": 1,
+      "titulo": "Margen bruto",
+      "texto": "Lo que queda después de pagar lo que vendiste: mercancía o insumos.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Ventas del mes",
+            "$10.000.000"
+          ],
+          [
+            "Lo que costó lo vendido",
+            "−$5.800.000",
+            "rojo"
+          ],
+          [
+            "Te queda (42 %)",
+            "$4.200.000",
+            "verde"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "navy",
+      "num": 2,
+      "titulo": "Margen operativo",
+      "texto": "Ahora resta lo que cuesta abrir cada día: arriendo, nómina, servicios y publicidad.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Margen bruto",
+            "$4.200.000"
+          ],
+          [
+            "Gastos de operar",
+            "−$3.000.000",
+            "rojo"
+          ],
+          [
+            "Te queda (12 %)",
+            "$1.200.000",
+            "verde"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "claro",
+      "num": 3,
+      "titulo": "Margen neto",
+      "texto": "Por último, la cuota del crédito y lo que apartas para impuestos.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Margen operativo",
+            "$1.200.000"
+          ],
+          [
+            "Crédito e impuestos",
+            "−$400.000",
+            "rojo"
+          ],
+          [
+            "Te queda (8 %)",
+            "$800.000",
+            "verde"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "navy",
+      "num": 4,
+      "titulo": "¿Cuál mirar?",
+      "texto": "El bruto te dice si tu precio sirve. El operativo, si tu negocio se sostiene. El neto, cuánto es de verdad tuyo.",
+      "bullets": [
+        "Bruto bajo: revisa precios y costos",
+        "Operativo bajo: revisa gastos fijos",
+        "Neto bajo: revisa deudas"
+      ]
+    },
+    {
+      "layout": "captura",
+      "tema": "claro",
+      "kicker": "Así lo ves en Kentra",
+      "titulo": "Lo que entró, salió y quedó",
+      "captura": "movil-resultados.png",
+      "sub": "Resultados del mes, sin hacer la cuenta a mano.",
+      "recorte": "382px"
+    },
+    {
+      "layout": "mascota",
+      "tema": "verde",
+      "titulo": "Mira tu margen\nantes de fin de mes",
+      "items": [
+        "Ingresos y gastos por categoría",
+        "Resultado del mes en una pantalla",
+        "KentrAI responde tus dudas"
+      ],
+      "mascota": "app",
+      "tam": "media",
+      "cta": {
+        "texto": "kentra.pro",
+        "boton": true
+      }
+    }
+  ]
+}

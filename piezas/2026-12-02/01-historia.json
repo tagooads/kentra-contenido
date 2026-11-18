@@ -1,0 +1,13 @@
+{
+  "layout": "tweet",
+  "formato": "historia",
+  "tema": "noche",
+  "kicker": "Una postura",
+  "texto": "«Diciembre no se mide el 24, cuando más vendes. Se mide el 31, cuando ves cuánto te quedó.»",
+  "pie": "Anota cada venta y cada gasto del mes. Kentra hace la cuenta.",
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+  },
+  "tamTexto": 74
+}

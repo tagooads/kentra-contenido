@@ -1,0 +1,35 @@
+{
+  "layout": "chat",
+  "formato": "historia",
+  "tema": "claro",
+  "kicker": "Diciembre",
+  "titulo": "«¿Me haces **precio de familia**?»",
+  "nombre": "Mi tía",
+  "chat": [
+    [
+      "cliente",
+      "Mija, ¿me haces 3 cajas de galletas para regalar?",
+      "9:14"
+    ],
+    [
+      "cliente",
+      "Con precio de familia, ¿sí?",
+      "9:14"
+    ],
+    [
+      "yo",
+      "¡Claro, tía! Te las dejo en lo que me cuestan: $32.000 cada una.",
+      "9:20"
+    ],
+    [
+      "cliente",
+      "Hecho. Te transfiero ya.",
+      "9:21"
+    ]
+  ],
+  "cierre": "Precio de familia, sí. Perder dinero, no.",
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+  }
+}

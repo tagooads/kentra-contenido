@@ -1,0 +1,123 @@
+{
+  "layout": "carrusel",
+  "formato": "post",
+  "tema": "verde",
+  "slides": [
+    {
+      "layout": "portada",
+      "tema": "verde",
+      "kicker": "El dilema de diciembre",
+      "titulo": "¿Vender 100 con margen apretado o **60 con buen margen**?",
+      "sub": "Mucho bulto no siempre es más dinero. Haz la cuenta antes de elegir.",
+      "visual": "none",
+      "sinPildora": true
+    },
+    {
+      "layout": "valor",
+      "tema": "claro",
+      "num": 1,
+      "titulo": "Opción A: volumen",
+      "texto": "Bajas el precio y vendes 100 unidades. Cada una te deja poco.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Unidades",
+            "100"
+          ],
+          [
+            "Te deja cada una",
+            "$3.000"
+          ],
+          [
+            "Total",
+            "$300.000"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "navy",
+      "num": 2,
+      "titulo": "Opción B: margen",
+      "texto": "Mantienes el precio y vendes 60. Cada una te deja más del doble.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Unidades",
+            "60"
+          ],
+          [
+            "Te deja cada una",
+            "$7.000"
+          ],
+          [
+            "Total",
+            "$420.000",
+            "verde"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "claro",
+      "num": 3,
+      "titulo": "Lo que no se ve en A",
+      "texto": "Más pedidos son más empaques, más envíos y más horas tuyas.",
+      "ejemplo": {
+        "filas": [
+          [
+            "Empaques y envíos extra",
+            "−$80.000",
+            "rojo"
+          ],
+          [
+            "A te deja de verdad",
+            "$220.000",
+            "rojo"
+          ]
+        ]
+      }
+    },
+    {
+      "layout": "valor",
+      "tema": "navy",
+      "num": 4,
+      "titulo": "Cómo decidir",
+      "texto": "Mira dos números juntos: cuánto te deja cada venta y cuánto suma al final del mes.",
+      "bullets": [
+        "Ganancia por unidad",
+        "Ganancia total del mes",
+        "Tus horas también cuentan"
+      ]
+    },
+    {
+      "layout": "lista",
+      "tema": "claro",
+      "kicker": "Así lo ordenas en Kentra",
+      "titulo": "Cada producto, su número",
+      "items": [
+        "Una categoría por producto",
+        "Ingresos y gastos de cada una",
+        "El resultado del mes sin sumar a mano"
+      ]
+    },
+    {
+      "layout": "mascota",
+      "tema": "verde",
+      "titulo": "Elige con números,\nno con el bulto",
+      "items": [
+        "Qué te deja cada línea",
+        "Gastos por categoría",
+        "Resultado del mes"
+      ],
+      "mascota": "app",
+      "tam": "media",
+      "cta": {
+        "texto": "kentra.pro",
+        "boton": true
+      }
+    }
+  ]
+}

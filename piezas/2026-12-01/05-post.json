@@ -1,0 +1,36 @@
+{
+  "layout": "split",
+  "formato": "post",
+  "tema": "navy",
+  "kicker": "Diciembre",
+  "arriba": {
+    "kicker": "Lo que más vendes",
+    "texto": "«Las tarjetas navideñas se van solas.»",
+    "tam": 64,
+    "play": false
+  },
+  "abajo": {
+    "kicker": "Lo que te deja cada venta",
+    "filas": [
+      [
+        "Tarjeta de $3.000",
+        "$300"
+      ],
+      [
+        "Kit de regalo de $38.000",
+        "$14.000",
+        "verde"
+      ],
+      [
+        "Para igualar un kit",
+        "47 tarjetas",
+        "rojo"
+      ]
+    ]
+  },
+  "nota": "Véndelas, pero que acompañen al producto que sí te deja.",
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": false
+  }
+}

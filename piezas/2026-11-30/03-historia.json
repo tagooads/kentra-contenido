@@ -1,0 +1,13 @@
+{
+  "layout": "mito",
+  "formato": "historia",
+  "tema": "noche",
+  "kicker": "¿De quién es?",
+  "titulo": "«Lo que hay en la caja es mío»",
+  "mito": "Si está en la caja, me lo puedo gastar.",
+  "realidad": "En la caja está el arriendo, el proveedor y la nómina. **Tuyo es tu sueldo**, y lo que queda después de todo.",
+  "cta": {
+    "texto": "kentra.pro/quiz",
+    "boton": true
+  }
+}

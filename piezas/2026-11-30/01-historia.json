@@ -1,0 +1,29 @@
+{
+  "layout": "oferta",
+  "formato": "historia",
+  "tema": "black",
+  "cuenta": "Último día",
+  "titulo": "Hoy termina **Black November**",
+  "planes": [
+    {
+      "plan": "Pro",
+      "nota": "2 negocios",
+      "antes": "US$149",
+      "precio": "US$119",
+      "periodo": "/año",
+      "destacado": true
+    },
+    {
+      "plan": "Business",
+      "nota": "3 negocios",
+      "antes": "US$199",
+      "precio": "US$159",
+      "periodo": "/año"
+    }
+  ],
+  "nota": "Kentra Priority de regalo el primer año. Hasta las 11:59 p. m.",
+  "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+  }
+}
