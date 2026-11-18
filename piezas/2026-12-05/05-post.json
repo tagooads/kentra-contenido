@@ -1,0 +1,29 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Préstamo «fácil»",
+ "titulo": "Te prestan $1.000.000 por un mes",
+ "filas": [
+  {
+   "label": "Te prestan",
+   "valor": "$1.000.000"
+  },
+  {
+   "label": "Devuelves",
+   "valor": "$1.200.000",
+   "color": "rojo"
+  },
+  {
+   "label": "Te cuesta",
+   "valor": "$200.000",
+   "color": "rojo",
+   "grande": true
+  }
+ ],
+ "cierre": "Son 30 cuotas de $40.000. Antes de pedirlo, mira si enero lo puede pagar.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

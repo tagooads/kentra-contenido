@@ -1,0 +1,96 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verde",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "verde",
+   "kicker": "Antes de enero",
+   "titulo": "5 cosas que dejas **listas en Kentra** en una tarde",
+   "sub": "Para que enero empiece con tus números ordenados y no con una libreta llena.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "Tu negocio y tu moneda",
+   "texto": "Nombre del negocio, moneda y categorías: la configuración inicial toma minutos.",
+   "bullets": [
+    "Desde el celular o el computador",
+    "Lo cambias cuando quieras"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Las categorías de tu negocio",
+   "texto": "Insumos, arriendo, nómina, domicilios: las editas y les agregas subcategorías.",
+   "bullets": [
+    "Cada gasto en su lugar",
+    "Ves en qué se va el dinero"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Lo que te deben y lo que debes",
+   "texto": "Cada cuenta con su fecha. Al marcarla como cobrada o pagada, se registra sola en movimientos.",
+   "bullets": [
+    "Sin anotar dos veces",
+    "Sabes quién falta por pagar"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Recordatorios con fecha",
+   "texto": "Arriendo, proveedor, prima: una nota con fecha límite y una alerta antes de que venza.",
+   "bullets": [
+    "Nada se te pasa en enero"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 5,
+   "titulo": "Tu primer cierre",
+   "texto": "Registras ventas y gastos de la semana y ves cuánto te quedó.",
+   "bullets": [
+    "Lo que entró",
+    "Lo que salió",
+    "Lo que quedó"
+   ]
+  },
+  {
+   "layout": "captura",
+   "tema": "navy",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Entró, salió y **quedó**",
+   "sub": "Resultados del período, sin hacer la cuenta a mano.",
+   "captura": "movil-resultados.png",
+   "recorte": "382px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Una tarde hoy,\nenero en orden",
+   "items": [
+    "Negocio listo",
+    "Cuentas con fecha",
+    "Cierre a la vista"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

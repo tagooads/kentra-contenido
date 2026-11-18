@@ -1,0 +1,13 @@
+{
+ "layout": "mito",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Descuentos",
+ "titulo": "No le bajes el precio al que **ya quiere comprar**",
+ "mito": "«Si le rebajo 10 %, cierro la venta y listo.»",
+ "realidad": "Con 25 % de margen, rebajar 10 % te quita el 40 % de lo que ganas.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "layout": "recibo",
+ "formato": "historia",
+ "tema": "marfil",
+ "kicker": "Pedido de temporada",
+ "titulo": "40 buñuelos y natilla por $96.000: **lo que te queda**",
+ "negocio": "Pedido de Navidad",
+ "detalle": "Cobraste $96.000",
+ "items": [
+  [
+   "Harina y queso",
+   "−$28.000",
+   "rojo"
+  ],
+  [
+   "Natilla",
+   "−$22.000",
+   "rojo"
+  ],
+  [
+   "Aceite",
+   "−$9.000",
+   "rojo"
+  ],
+  [
+   "Empaque",
+   "−$5.000",
+   "rojo"
+  ],
+  [
+   "Gas",
+   "−$4.000",
+   "rojo"
+  ]
+ ],
+ "total": [
+  "Te queda",
+  "$28.000"
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "marfil",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "marfil",
+   "kicker": "Fiar en diciembre",
+   "titulo": "Fiar sin perder **clientes ni dinero**",
+   "sub": "4 reglas para que lo fiado no se coma tu enero.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Pon un tope por cliente",
+   "texto": "Decide cuánto le fías a cada uno, y no lo pases aunque insista.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Tope",
+      "$200.000"
+     ],
+     [
+      "Ya debe",
+      "−$150.000",
+      "rojo"
+     ],
+     [
+      "Le puedes fiar",
+      "$50.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Fecha escrita, no «la otra semana»",
+   "texto": "Acuerda el día exacto del pago y anótalo delante del cliente.",
+   "bullets": [
+    "Día y monto, no «cuando pueda»",
+    "Recuérdale 2 días antes"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "No fíes sobre lo fiado",
+   "texto": "Si todavía no paga lo anterior, la compra nueva va de contado.",
+   "bullets": [
+    "Primero se pone al día",
+    "Lo dices con amabilidad y sin excepciones"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "Sabe cuánto tienes en la calle",
+   "texto": "Lo fiado es dinero que vendiste pero todavía no tienes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste",
+      "$9.500.000"
+     ],
+     [
+      "Está fiado",
+      "−$1.900.000",
+      "rojo"
+     ],
+     [
+      "Cobrado",
+      "$7.600.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "navy",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Quién te debe y **para cuándo**",
+   "sub": "Cada cuenta con su fecha, lo abonado y lo que falta.",
+   "captura": "movil-cuentas-lista.png",
+   "recorte": "0px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Fía con reglas,\ncobra a tiempo",
+   "items": [
+    "Tope por cliente",
+    "Fecha escrita",
+    "Todo en una lista"
+   ],
+   "mascota": "app",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

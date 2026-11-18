@@ -388,6 +388,309 @@
       "qa_ticket": "9c22f0e0-2070-41ea-ba06-6c3f033ac414"
     },
     {
+      "id": "2026-12-05-01-historia",
+      "fecha": "2026-12-05T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-05/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-05",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "frase de dos conceptos",
+      "gancho": "Precio justo, ganancia real",
+      "primera_linea": "Repite esto cada vez:",
+      "estilo": "frase, verde, tarjeta blanca centrada con comillas (historia)",
+      "modela": {
+        "referencia": "Ficha Técnica PRO, «Precio justo, ganancia real»",
+        "url": "https://www.facebook.com/ads/library/?id=1600869281360948",
+        "que_tomo": "la dupla de 4 palabras que une precio y ganancia"
+      },
+      "qa_ticket": "31e83773-e5f4-41a3-b051-58e81347b3ef"
+    },
+    {
+      "id": "2026-12-05-04-post",
+      "fecha": "2026-12-05T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-05/04-post.jpg"
+      ],
+      "caption": "Diciembre es el mes con más billetes en la caja, y el más fácil para que se pierdan.\n4 hábitos: contar la caja al cerrar cada día, depositar el efectivo cada 2 días, anotar cada venta en efectivo al momento y no pagar nada personal con la caja.\n¿Cuál te falta? Guárdalo para tu cierre de hoy. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "pilar": "educacion",
+      "layout": "tip",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-05",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "protocolo tras un riesgo: 4 hábitos de efectivo",
+      "gancho": "Más billetes en la caja: 4 hábitos para no perderlos",
+      "primera_linea": "Diciembre es el mes con más billetes en la caja, y el más fácil para que se pierdan.",
+      "estilo": "tip, blanco, pasos numerados en tarjeta gris",
+      "modela": {
+        "referencia": "@haroldvalencia.ceo, «Casi me ROBAN más de 30 MILLONES en iPhones» (37.3K vistas, 39.3x su mediana)",
+        "url": "https://www.instagram.com/reel/DffCgiAIR0Z",
+        "que_tomo": "riesgo real del negocio que termina en protocolo"
+      },
+      "qa_ticket": "172f5ede-3f11-4175-b5a4-d25c71b8ce1e"
+    },
+    {
+      "id": "2026-12-05-02-carrusel",
+      "fecha": "2026-12-05T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-05/02-carrusel-1.jpg",
+        "piezas/2026-12-05/02-carrusel-2.jpg",
+        "piezas/2026-12-05/02-carrusel-3.jpg",
+        "piezas/2026-12-05/02-carrusel-4.jpg",
+        "piezas/2026-12-05/02-carrusel-5.jpg",
+        "piezas/2026-12-05/02-carrusel-6.jpg",
+        "piezas/2026-12-05/02-carrusel-7.jpg",
+        "piezas/2026-12-05/02-carrusel-8.jpg"
+      ],
+      "caption": "Una tarde de diciembre bien usada te ordena enero.\nDesliza: configuras tu negocio y tu moneda, tus categorías, lo que te deben y lo que debes (al marcarlo como pagado se registra solo), recordatorios con fecha y tu primer cierre con lo que entró, salió y quedó.\nEmpieza esta semana. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "funcionalidades",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-05",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "100 % Kentra: deja todo listo antes de enero (8 slides)",
+      "gancho": "5 cosas que dejas listas en Kentra en una tarde",
+      "primera_linea": "Una tarde de diciembre bien usada te ordena enero.",
+      "estilo": "portada verde sin visual, valor claro/navy con bullets, captura Resultados, cierre mascota",
+      "modela": {
+        "referencia": "Latinas Together, «Quiero dejar de adivinar y empezar a controlar» (3 variantes activas)",
+        "url": "https://www.facebook.com/ads/library/?id=2740198719769713",
+        "que_tomo": "la promesa de pasar de adivinar a controlar, en pasos concretos"
+      },
+      "qa_ticket": "77742ba9-f548-43e2-bd0a-f3a6fd446cfb"
+    },
+    {
+      "id": "2026-12-05-05-post",
+      "fecha": "2026-12-05T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-05/05-post.jpg"
+      ],
+      "caption": "El préstamo «fácil» cuesta más de lo que parece.\nTe prestan $1.000.000 y pagas 30 cuotas de $40.000: devuelves $1.200.000. Son $200.000 de costo en un solo mes.\nAntes de pedirlo, mira si tu caja de enero lo aguanta. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "educacion",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-05",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "dato de un préstamo «fácil»",
+      "gancho": "Te prestan $1.000.000 por un mes",
+      "primera_linea": "El préstamo «fácil» cuesta más de lo que parece.",
+      "estilo": "dato, navy, tres filas con el costo grande en rojo",
+      "modela": {
+        "referencia": "@user623587268530, «Teodoro cae en la trampa de los préstamos fáciles» (368.2K vistas, 1147x su mediana)",
+        "url": "https://www.tiktok.com/@user623587268530/video/7707236104877002006",
+        "que_tomo": "el préstamo fácil con el número que cuesta al final"
+      },
+      "qa_ticket": "9c94edd6-fc58-49af-a541-c2c56877b4b7"
+    },
+    {
+      "id": "2026-12-05-03-historia",
+      "fecha": "2026-12-05T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-05/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "encuesta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-05",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "encuesta de dos opciones sobre enero",
+      "gancho": "¿Con qué arrancas enero?",
+      "primera_linea": "¿Con qué arrancas enero?",
+      "estilo": "encuesta, claro, dos opciones en píldoras",
+      "modela": {
+        "referencia": "Lucia Hernandez, «¿Vendes, pero no sabes cuánto ganas?» (6 variantes activas)",
+        "url": "https://www.facebook.com/ads/library/?id=2327777181096052",
+        "que_tomo": "pregunta con el dolor exacto, respondida con el diagnóstico"
+      },
+      "qa_ticket": "8a2da87e-358c-43db-8d23-9a78fd396869"
+    },
+    {
+      "id": "2026-12-06-01-historia",
+      "fecha": "2026-12-06T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-06/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "verticales",
+      "layout": "recibo",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-06",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "tiquete de un pedido de temporada",
+      "gancho": "40 buñuelos y natilla por $96.000: lo que te queda",
+      "primera_linea": "40 buñuelos y natilla por $96.000: lo que te queda",
+      "estilo": "recibo, marfil, tiquete con 5 costos y total (historia)",
+      "modela": {
+        "referencia": "Fer Rendon, «Descarga Costeo de Menú» (activo desde ~10 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1829594704750308",
+        "que_tomo": "el costeo por plato de un negocio de comida"
+      },
+      "qa_ticket": "87267601-a4ce-4760-a2f6-214c42979671"
+    },
+    {
+      "id": "2026-12-06-04-post",
+      "fecha": "2026-12-06T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-06/04-post.jpg"
+      ],
+      "caption": "Rebajarle al que ya iba a comprar sale caro.\nSi vendes a $100.000 y te cuesta $75.000, te quedan $25.000. Con 10 % menos vendes a $90.000 y te quedan $15.000: pierdes el 40 % de lo que ganabas en esa venta.\nSostén el precio y explica qué incluye. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline",
+      "pilar": "objeciones",
+      "layout": "mito",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-06",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "consejo contraintuitivo en mito vs realidad",
+      "gancho": "No le bajes el precio al que ya quiere comprar",
+      "primera_linea": "Rebajarle al que ya iba a comprar sale caro.",
+      "estilo": "mito, claro, cajas mito (rojo) y realidad (verde)",
+      "modela": {
+        "referencia": "@juancaperezc, «No, no le vendas al cliente interesado» (153.2K vistas, 65x su mediana)",
+        "url": "https://www.instagram.com/reel/DfmrW0LB4Ib",
+        "que_tomo": "la orden en negativo sobre el precio"
+      },
+      "qa_ticket": "ff4529dd-d597-4734-99fd-34fd12c0d36a"
+    },
+    {
+      "id": "2026-12-06-02-carrusel",
+      "fecha": "2026-12-06T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-06/02-carrusel-1.jpg",
+        "piezas/2026-12-06/02-carrusel-2.jpg",
+        "piezas/2026-12-06/02-carrusel-3.jpg",
+        "piezas/2026-12-06/02-carrusel-4.jpg",
+        "piezas/2026-12-06/02-carrusel-5.jpg",
+        "piezas/2026-12-06/02-carrusel-6.jpg",
+        "piezas/2026-12-06/02-carrusel-7.jpg"
+      ],
+      "caption": "Fiar en diciembre sin reglas es regalar enero.\nDesliza: un tope por cliente ($200.000), fecha de pago escrita, no fiar sobre lo fiado y saber cuánto tienes en la calle: de $9.500.000 vendidos, $1.900.000 siguen fiados.\n¿Cuánto tienes fiado hoy? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-06",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "4 reglas para fiar sin perder clientes (7 slides)",
+      "gancho": "Fiar sin perder clientes ni dinero",
+      "primera_linea": "Fiar en diciembre sin reglas es regalar enero.",
+      "estilo": "portada marfil sin visual, valor navy/claro con ejemplos, captura Cuentas (lista), cierre mascota",
+      "modela": {
+        "referencia": "@ramona_guzman__, «DALE LA RAZON AL CLIENTE» (197.9K vistas, 475x su mediana)",
+        "url": "https://www.instagram.com/reel/DffGCImJsEH",
+        "que_tomo": "responder al cliente con una regla clara sin pelear"
+      },
+      "qa_ticket": "2835d688-59a0-4486-9a8b-e606d7b4ff63"
+    },
+    {
+      "id": "2026-12-06-05-post",
+      "fecha": "2026-12-06T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-06/05-post.jpg"
+      ],
+      "caption": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.\nVendes, atiendes, compras y al final del día todavía falta sumar. Si anotas cada movimiento en el momento, la cuenta del día ya está hecha.\n¿A qué hora haces tus cuentas? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "objeciones",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-06",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "confesión autoirónica en meme",
+      "gancho": "Cuando emprendes y también te toca sacar las cuentas",
+      "primera_linea": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.",
+      "estilo": "meme, verde oscuro, tarjeta arriba y mascota con teléfono y globo",
+      "modela": {
+        "referencia": "@fungifarm.uy, «Cuando empiezas un negocio y ahora toca la humillación pública de crear contenido» (33.1K vistas, 50.2x su mediana)",
+        "url": "https://www.instagram.com/reel/Dfc4F3Iud7V",
+        "que_tomo": "la confesión autoirónica de lo incómodo de emprender"
+      },
+      "qa_ticket": "c76850f6-dd31-4222-b4d0-3fcd10206760"
+    },
+    {
+      "id": "2026-12-06-03-historia",
+      "fecha": "2026-12-06T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-06/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-06",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "frase de postura sobre el orden",
+      "gancho": "Un negocio en orden es el que sabe cuánto le queda",
+      "primera_linea": "Un negocio en orden no es el que más vende.",
+      "estilo": "cita, navy, barra verde y frase grande (historia)",
+      "modela": {
+        "referencia": "Treinta Latam, «Tu negocio pro con Treinta» (activo desde 11 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1142608908560980",
+        "que_tomo": "la promesa de negocio en orden, llevada a cuánto queda"
+      },
+      "qa_ticket": "6317cb9b-a314-41cb-a13d-97b7f1a6e520"
+    },
+    {
       "id": "reserva-2026-11-02-01-post",
       "tipo": "post",
       "imagenes": [

@@ -1,0 +1,16 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Diagnóstico",
+ "titulo": "¿Con qué arrancas **enero**?",
+ "opciones": [
+  "Con las cuentas de diciembre claras",
+  "Con la caja vacía y sin saber por qué"
+ ],
+ "nota": "Responde el diagnóstico de Kentra en 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

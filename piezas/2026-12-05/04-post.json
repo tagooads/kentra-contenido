@@ -1,0 +1,18 @@
+{
+ "layout": "tip",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Efectivo de diciembre",
+ "titulo": "Más billetes en la caja: **4 hábitos para no perderlos**",
+ "items": [
+  "Cuenta la caja al cerrar, cada día",
+  "Deposita el efectivo cada 2 días",
+  "Anota la venta en efectivo al momento",
+  "Nada personal se paga con la caja"
+ ],
+ "cierre": "El efectivo que no se anota se va sin que lo notes.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}
