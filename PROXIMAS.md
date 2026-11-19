@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
 
 
 ## Jueves 19/11
-
-**12:00 — Carrusel** · funcionalidades · `2026-11-19-02-carrusel`
-
-<img src="piezas/2026-11-19/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-19/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Qué haces en Kentra la primera semana?
-
-Día 1 creas tu negocio, día 2 registras ventas y gastos, día 3 mandas un comprobante PDF con tu logo, día 5 le preguntas a KentrAI y el día 7 ves en Resultados si estás ganando.
-
-Anual de Black November: US$79, US$119 o US$159 con Kentra Priority de regalo el primer año. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
-
-</details>
 
 **18:00 — Post** · ganancia-real · `2026-11-19-05-post`
 
@@ -1011,9 +995,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- jueves 19/11 · 12:00 · Carrusel `2026-11-19-02-carrusel` · IG ✓ · FB ✓
 - jueves 19/11 · 10:00 · Post `2026-11-19-04-post` · IG ✓ · FB ✓
 - jueves 19/11 · 08:00 · Historia `2026-11-19-01-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 19:00 · Historia `2026-11-18-03-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 18:00 · Post `2026-11-18-05-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 12:00 · Carrusel `2026-11-18-02-carrusel` · IG ✓ · FB ✓
-- miércoles 18/11 · 10:00 · Post `2026-11-18-04-post` · IG ✓ · FB ✓
