@@ -246,8 +246,8 @@ L.captura = (p, t, hist) => `
   ${p.kicker ? `<div class="kicker">${esc(p.kicker)}</div>` : ""}
   <h1 class="${p.tam || "media"}">${rich(p.titulo)}</h1>
   ${p.sub ? `<div class="sub">${rich(p.sub)}</div>` : ""}
-  <div style="flex:1;min-height:0;position:relative;overflow:hidden;margin:0 -76px;-webkit-mask:linear-gradient(#000 78%,transparent);mask:linear-gradient(#000 78%,transparent)">
-    <div style="position:absolute;left:50%;top:6px;transform:translateX(-50%);width:${hist ? 720 : 600}px;aspect-ratio:0.46;border-radius:70px;background:#0B1220;padding:16px;box-shadow:0 40px 90px rgba(0,0,0,.35)">
+  <div style="flex:1;min-height:0;position:relative;overflow:hidden;margin:0 -76px;-webkit-mask:linear-gradient(#000 ${p.mascara || 78}%,transparent);mask:linear-gradient(#000 ${p.mascara || 78}%,transparent)">
+    <div style="position:absolute;left:50%;top:6px;transform:translateX(-50%);width:${p.anchoCel || (hist ? 720 : 600)}px;aspect-ratio:0.46;border-radius:70px;background:#0B1220;padding:16px;box-shadow:0 40px 90px rgba(0,0,0,.35)">
       <div style="width:100%;height:100%;border-radius:56px;overflow:hidden;background:#fff">
         <img src="${MARCA("capturas/" + (p.captura || "dashboard-movil.png"))}" style="width:100%;display:block;margin-top:-${p.recorte || "0"}">
       </div>
@@ -320,7 +320,7 @@ L.cita = (p, t, hist) => `
 L.tip = (p, t, hist) => L.lista({ ...p, numerar: true }, t, hist);
 
 // ---------- LAYOUTS NUEVOS (21 oct 2026, regla de variedad de Gato) ----------
-const figuraSrc = (f) => f === "excel" ? MARCA("excel.png") : f === "telefono" ? MARCA("mascota-telefono.png") : MARCA("mascota-app.png");
+const figuraSrc = (f) => f === "hoja" ? MARCA("excel-limpio.png") : f === "excel" ? MARCA("excel.png") : f === "telefono" ? MARCA("mascota-telefono.png") : MARCA("mascota-app.png");
 const tarjetaBlanca = (hist) => `background:#fff;color:#111;border-radius:36px;box-shadow:0 24px 60px rgba(0,0,0,.18)`;
 
 // meme: texto arriba en tarjeta blanca (estilo "la empresa en crisis. Yo:") + figura abajo + globo

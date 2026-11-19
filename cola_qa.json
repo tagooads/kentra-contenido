@@ -200,165 +200,6 @@
       }
     },
     {
-      "id": "2026-12-03-01-historia",
-      "fecha": "2026-12-03T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-03/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "objeciones",
-      "layout": "antes",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-03",
-      "archivo": "01-historia",
-      "version": 2,
-      "formato": "antes/después: anticipo de encargos con cifras",
-      "gancho": "Encargo de $120.000: cobra antes de hornear",
-      "primera_linea": "Encargo de $120.000: cobra antes de hornear",
-      "estilo": "antes, navy, tarjetas ajustadas al texto con cifra por renglón (historia)",
-      "modela": {
-        "referencia": "@grupog.h, «lo compras en $15.900» (301.9K vistas, 36x su mediana)",
-        "url": "https://www.instagram.com/reel/Dffuh3nBD9p",
-        "que_tomo": "costo y precio en texto, la cuenta se ve sin explicar"
-      },
-      "qa_ticket": "5aa503d9-c5d4-4e8d-8805-4728580f5ab0"
-    },
-    {
-      "id": "2026-12-03-02-carrusel",
-      "fecha": "2026-12-03T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-12-03/02-carrusel-1.jpg",
-        "piezas/2026-12-03/02-carrusel-2.jpg",
-        "piezas/2026-12-03/02-carrusel-3.jpg",
-        "piezas/2026-12-03/02-carrusel-4.jpg",
-        "piezas/2026-12-03/02-carrusel-5.jpg",
-        "piezas/2026-12-03/02-carrusel-6.jpg",
-        "piezas/2026-12-03/02-carrusel-7.jpg",
-        "piezas/2026-12-03/02-carrusel-8.jpg"
-      ],
-      "caption": "Diciembre es temporada alta en una barbería. Esto haría con ese dinero.\nDesliza: contar servicios y no solo la caja ($8.100.000 del mes), apartar el 50 % de comisión el mismo día, dejar pagado lo fijo de enero, pagarme una cifra fija con $700.000 de colchón y revisar precios en enero.\n¿Tienes barbería? Guárdalo para el cierre del mes. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Barberias",
-      "pilar": "verticales",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-03",
-      "archivo": "02-carrusel",
-      "version": 2,
-      "formato": "«lo que yo haría» por oficio: barbería (8 slides)",
-      "gancho": "Si tuviera una barbería, esto haría en diciembre",
-      "primera_linea": "Diciembre es temporada alta en una barbería.",
-      "estilo": "portada claro sin visual + valor navy/claro alternado + lista Kentra + cierre mascota verde",
-      "modela": {
-        "referencia": "@mallemarketing, «Lo que yo haría en mi negocio (barbería)» (102.6K vistas, 298x su mediana)",
-        "url": "https://www.instagram.com/reel/Dfmezd9RbrV",
-        "que_tomo": "pasos numerados en primera persona aplicados a un oficio concreto"
-      },
-      "qa_ticket": "479c0f0a-3327-402a-8a81-0b1d8a8995d7"
-    },
-    {
-      "id": "2026-12-03-05-post",
-      "fecha": "2026-12-03T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-03/05-post.jpg"
-      ],
-      "caption": "Hay días en cero, y en diciembre también pasan.\nEse día el arriendo, la luz y los sueldos cuestan igual: en este ejemplo, $90.000. Lo pagan los días buenos.\nPor eso un día bueno no se gasta completo: una parte cubre los días en que no entra nada.\n¿Sabes cuánto te cuesta abrir un día? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
-      "pilar": "educacion",
-      "layout": "tweet",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-03",
-      "archivo": "05-post",
-      "version": 2,
-      "formato": "confesión en segunda persona",
-      "gancho": "¿Cerraste hoy sin una sola venta?",
-      "primera_linea": "Hay días en cero, y en diciembre también pasan.",
-      "estilo": "tweet, blanco, tarjeta centrada con pie",
-      "modela": {
-        "referencia": "@teofilo.chocce.su4, «Hoy cerré mi negocio sin una sola venta» (584.9K vistas)",
-        "url": "https://www.tiktok.com/@teofilo.chocce.su4/video/7701459129528749333",
-        "que_tomo": "la confesión vulnerable en la primera línea"
-      },
-      "qa_ticket": "a0e9e600-06a1-4dcf-8c3b-a014c18f656d"
-    },
-    {
-      "id": "2026-12-04-02-carrusel",
-      "fecha": "2026-12-04T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-12-04/02-carrusel-1.jpg",
-        "piezas/2026-12-04/02-carrusel-2.jpg",
-        "piezas/2026-12-04/02-carrusel-3.jpg",
-        "piezas/2026-12-04/02-carrusel-4.jpg",
-        "piezas/2026-12-04/02-carrusel-5.jpg",
-        "piezas/2026-12-04/02-carrusel-6.jpg",
-        "piezas/2026-12-04/02-carrusel-7.jpg",
-        "piezas/2026-12-04/02-carrusel-8.jpg"
-      ],
-      "caption": "Antes de hacer planes para 2027, saca este número.\nDesliza: con el ejemplo de Tienda La Esquina, de $96.000.000 cobrados quedan $48.000.000 tras la mercancía, $30.000.000 tras los gastos fijos y $12.000.000 de ganancia tras tu sueldo de $1.500.000 al mes: $1.000.000 al mes.\nGuárdalo y hazlo con tus números esta semana. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
-      "pilar": "ganancia-real",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-04",
-      "archivo": "02-carrusel",
-      "version": 2,
-      "formato": "cierre de año en 5 pasos (8 slides)",
-      "gancho": "¿Cuánto ganaste en 2026? Sácalo en 5 pasos",
-      "primera_linea": "Antes de hacer planes para 2027, saca este número.",
-      "estilo": "portada navy sin visual + valor claro/navy + captura Análisis + cierre mascota verde",
-      "modela": {
-        "referencia": "Brikel, «Sabe qué dinero es tuyo» (9 variantes activas)",
-        "url": "https://www.facebook.com/ads/library/?id=1135016248914286",
-        "que_tomo": "separar el dinero que es del negocio del que es del dueño, ahora como cuenta de cierre"
-      },
-      "qa_ticket": "f61deb6d-60be-4a42-8529-4937ef067172"
-    },
-    {
-      "id": "2026-12-04-05-post",
-      "fecha": "2026-12-04T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-04/05-post.jpg"
-      ],
-      "caption": "«Poquito aquí y allá» puede sumar $3.000.000.\nTarjeta $1.400.000, proveedor $1.000.000 y préstamo familiar $600.000. Separadas no asustan; juntas son el número que decide tu enero.\nEn Kentra cada cuenta por pagar queda con su fecha y su pendiente, en una sola lista. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
-      "pilar": "funcionalidades",
-      "layout": "split",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-04",
-      "archivo": "05-post",
-      "version": 2,
-      "formato": "deuda sumada en un solo lugar",
-      "gancho": "«Debo poquito aquí y allá»",
-      "primera_linea": "«Poquito aquí y allá» puede sumar $3.000.000.",
-      "estilo": "split, navy, cajas ajustadas y centradas, frase arriba y suma con total encerrado abajo",
-      "modela": {
-        "referencia": "@donhook01, «Le debo más de $300,000 a los bancos» (475.1K vistas, 156.1x su mediana)",
-        "url": "https://www.tiktok.com/@donhook01/video/7707096485275503892",
-        "que_tomo": "la deuda con cifra al frente"
-      },
-      "qa_ticket": "b02deb27-ce7c-41c5-9ca8-47162de85648"
-    },
-    {
       "id": "2026-12-04-03-historia",
       "fecha": "2026-12-04T19:00:00-05:00",
       "tipo": "historia",
@@ -375,17 +216,18 @@
       "qa": "pendiente",
       "carpeta": "2026-12-04",
       "archivo": "03-historia",
-      "version": 2,
+      "version": 3,
       "formato": "captura real: Registrar venta",
       "gancho": "Vendiste $85.000. Anótalo ya",
       "primera_linea": "Vendiste $85.000. Anótalo ya",
-      "estilo": "captura, navy, celular con el formulario de venta y el monto a la vista",
+      "estilo": "captura, navy, celular más angosto con el formulario completo de Fecha a Monto",
       "modela": {
         "referencia": "@oriana.digital, «En un mes logré facturar +53 MILLONES» (34K vistas, 29.9x su mediana)",
         "url": "https://www.tiktok.com/@oriana.digital/video/7707730830373784850",
         "que_tomo": "captura de pantalla como prueba; Kentra muestra la venta anotada al momento"
       },
-      "qa_ticket": "9c22f0e0-2070-41ea-ba06-6c3f033ac414"
+      "qa_ticket": "3e81a354-c90a-4443-99a2-21029fe6ec6d",
+      "qa_ticket_anterior": "9c22f0e0-2070-41ea-ba06-6c3f033ac414"
     },
     {
       "id": "2026-12-05-01-historia",
@@ -404,9 +246,9 @@
       "qa": "pendiente",
       "carpeta": "2026-12-05",
       "archivo": "01-historia",
-      "version": 1,
+      "version": 2,
       "formato": "frase de dos conceptos",
-      "gancho": "Precio justo, ganancia real",
+      "gancho": "Costo claro, precio firme",
       "primera_linea": "Repite esto cada vez:",
       "estilo": "frase, verde, tarjeta blanca centrada con comillas (historia)",
       "modela": {
@@ -414,7 +256,8 @@
         "url": "https://www.facebook.com/ads/library/?id=1600869281360948",
         "que_tomo": "la dupla de 4 palabras que une precio y ganancia"
       },
-      "qa_ticket": "31e83773-e5f4-41a3-b051-58e81347b3ef"
+      "qa_ticket": "14099634-e3f3-4c71-96fe-374179a37083",
+      "qa_ticket_anterior": "31e83773-e5f4-41a3-b051-58e81347b3ef"
     },
     {
       "id": "2026-12-05-04-post",
@@ -433,7 +276,7 @@
       "qa": "pendiente",
       "carpeta": "2026-12-05",
       "archivo": "04-post",
-      "version": 1,
+      "version": 2,
       "formato": "protocolo tras un riesgo: 4 hábitos de efectivo",
       "gancho": "Más billetes en la caja: 4 hábitos para no perderlos",
       "primera_linea": "Diciembre es el mes con más billetes en la caja, y el más fácil para que se pierdan.",
@@ -443,7 +286,8 @@
         "url": "https://www.instagram.com/reel/DffCgiAIR0Z",
         "que_tomo": "riesgo real del negocio que termina en protocolo"
       },
-      "qa_ticket": "172f5ede-3f11-4175-b5a4-d25c71b8ce1e"
+      "qa_ticket": "c9c89ac1-6a0d-46e8-a378-0760d78affba",
+      "qa_ticket_anterior": "172f5ede-3f11-4175-b5a4-d25c71b8ce1e"
     },
     {
       "id": "2026-12-05-02-carrusel",
@@ -469,7 +313,7 @@
       "qa": "pendiente",
       "carpeta": "2026-12-05",
       "archivo": "02-carrusel",
-      "version": 1,
+      "version": 2,
       "formato": "100 % Kentra: deja todo listo antes de enero (8 slides)",
       "gancho": "5 cosas que dejas listas en Kentra en una tarde",
       "primera_linea": "Una tarde de diciembre bien usada te ordena enero.",
@@ -479,158 +323,8 @@
         "url": "https://www.facebook.com/ads/library/?id=2740198719769713",
         "que_tomo": "la promesa de pasar de adivinar a controlar, en pasos concretos"
       },
-      "qa_ticket": "77742ba9-f548-43e2-bd0a-f3a6fd446cfb"
-    },
-    {
-      "id": "2026-12-05-05-post",
-      "fecha": "2026-12-05T18:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-05/05-post.jpg"
-      ],
-      "caption": "El préstamo «fácil» cuesta más de lo que parece.\nTe prestan $1.000.000 y pagas 30 cuotas de $40.000: devuelves $1.200.000. Son $200.000 de costo en un solo mes.\nAntes de pedirlo, mira si tu caja de enero lo aguanta. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
-      "pilar": "educacion",
-      "layout": "dato",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-05",
-      "archivo": "05-post",
-      "version": 1,
-      "formato": "dato de un préstamo «fácil»",
-      "gancho": "Te prestan $1.000.000 por un mes",
-      "primera_linea": "El préstamo «fácil» cuesta más de lo que parece.",
-      "estilo": "dato, navy, tres filas con el costo grande en rojo",
-      "modela": {
-        "referencia": "@user623587268530, «Teodoro cae en la trampa de los préstamos fáciles» (368.2K vistas, 1147x su mediana)",
-        "url": "https://www.tiktok.com/@user623587268530/video/7707236104877002006",
-        "que_tomo": "el préstamo fácil con el número que cuesta al final"
-      },
-      "qa_ticket": "9c94edd6-fc58-49af-a541-c2c56877b4b7"
-    },
-    {
-      "id": "2026-12-05-03-historia",
-      "fecha": "2026-12-05T19:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-05/03-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "ganancia-real",
-      "layout": "encuesta",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-05",
-      "archivo": "03-historia",
-      "version": 1,
-      "formato": "encuesta de dos opciones sobre enero",
-      "gancho": "¿Con qué arrancas enero?",
-      "primera_linea": "¿Con qué arrancas enero?",
-      "estilo": "encuesta, claro, dos opciones en píldoras",
-      "modela": {
-        "referencia": "Lucia Hernandez, «¿Vendes, pero no sabes cuánto ganas?» (6 variantes activas)",
-        "url": "https://www.facebook.com/ads/library/?id=2327777181096052",
-        "que_tomo": "pregunta con el dolor exacto, respondida con el diagnóstico"
-      },
-      "qa_ticket": "8a2da87e-358c-43db-8d23-9a78fd396869"
-    },
-    {
-      "id": "2026-12-06-01-historia",
-      "fecha": "2026-12-06T08:00:00-05:00",
-      "tipo": "historia",
-      "imagenes": [
-        "piezas/2026-12-06/01-historia.jpg"
-      ],
-      "caption": "",
-      "pilar": "verticales",
-      "layout": "recibo",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-06",
-      "archivo": "01-historia",
-      "version": 1,
-      "formato": "tiquete de un pedido de temporada",
-      "gancho": "40 buñuelos y natilla por $96.000: lo que te queda",
-      "primera_linea": "40 buñuelos y natilla por $96.000: lo que te queda",
-      "estilo": "recibo, marfil, tiquete con 5 costos y total (historia)",
-      "modela": {
-        "referencia": "Fer Rendon, «Descarga Costeo de Menú» (activo desde ~10 nov)",
-        "url": "https://www.facebook.com/ads/library/?id=1829594704750308",
-        "que_tomo": "el costeo por plato de un negocio de comida"
-      },
-      "qa_ticket": "87267601-a4ce-4760-a2f6-214c42979671"
-    },
-    {
-      "id": "2026-12-06-04-post",
-      "fecha": "2026-12-06T10:00:00-05:00",
-      "tipo": "post",
-      "imagenes": [
-        "piezas/2026-12-06/04-post.jpg"
-      ],
-      "caption": "Rebajarle al que ya iba a comprar sale caro.\nSi vendes a $100.000 y te cuesta $75.000, te quedan $25.000. Con 10 % menos vendes a $90.000 y te quedan $15.000: pierdes el 40 % de lo que ganabas en esa venta.\nSostén el precio y explica qué incluye. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline",
-      "pilar": "objeciones",
-      "layout": "mito",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-06",
-      "archivo": "04-post",
-      "version": 1,
-      "formato": "consejo contraintuitivo en mito vs realidad",
-      "gancho": "No le bajes el precio al que ya quiere comprar",
-      "primera_linea": "Rebajarle al que ya iba a comprar sale caro.",
-      "estilo": "mito, claro, cajas mito (rojo) y realidad (verde)",
-      "modela": {
-        "referencia": "@juancaperezc, «No, no le vendas al cliente interesado» (153.2K vistas, 65x su mediana)",
-        "url": "https://www.instagram.com/reel/DfmrW0LB4Ib",
-        "que_tomo": "la orden en negativo sobre el precio"
-      },
-      "qa_ticket": "ff4529dd-d597-4734-99fd-34fd12c0d36a"
-    },
-    {
-      "id": "2026-12-06-02-carrusel",
-      "fecha": "2026-12-06T12:00:00-05:00",
-      "tipo": "carrusel",
-      "imagenes": [
-        "piezas/2026-12-06/02-carrusel-1.jpg",
-        "piezas/2026-12-06/02-carrusel-2.jpg",
-        "piezas/2026-12-06/02-carrusel-3.jpg",
-        "piezas/2026-12-06/02-carrusel-4.jpg",
-        "piezas/2026-12-06/02-carrusel-5.jpg",
-        "piezas/2026-12-06/02-carrusel-6.jpg",
-        "piezas/2026-12-06/02-carrusel-7.jpg"
-      ],
-      "caption": "Fiar en diciembre sin reglas es regalar enero.\nDesliza: un tope por cliente ($200.000), fecha de pago escrita, no fiar sobre lo fiado y saber cuánto tienes en la calle: de $9.500.000 vendidos, $1.900.000 siguen fiados.\n¿Cuánto tienes fiado hoy? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
-      "pilar": "educacion",
-      "layout": "carrusel",
-      "destinos": [
-        "instagram",
-        "facebook"
-      ],
-      "qa": "pendiente",
-      "carpeta": "2026-12-06",
-      "archivo": "02-carrusel",
-      "version": 1,
-      "formato": "4 reglas para fiar sin perder clientes (7 slides)",
-      "gancho": "Fiar sin perder clientes ni dinero",
-      "primera_linea": "Fiar en diciembre sin reglas es regalar enero.",
-      "estilo": "portada marfil sin visual, valor navy/claro con ejemplos, captura Cuentas (lista), cierre mascota",
-      "modela": {
-        "referencia": "@ramona_guzman__, «DALE LA RAZON AL CLIENTE» (197.9K vistas, 475x su mediana)",
-        "url": "https://www.instagram.com/reel/DffGCImJsEH",
-        "que_tomo": "responder al cliente con una regla clara sin pelear"
-      },
-      "qa_ticket": "2835d688-59a0-4486-9a8b-e606d7b4ff63"
+      "qa_ticket": "301d5bb2-7d13-4042-bd31-8d526d212e6b",
+      "qa_ticket_anterior": "77742ba9-f548-43e2-bd0a-f3a6fd446cfb"
     },
     {
       "id": "2026-12-06-05-post",
@@ -639,7 +333,7 @@
       "imagenes": [
         "piezas/2026-12-06/05-post.jpg"
       ],
-      "caption": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.\nVendes, atiendes, compras y al final del día todavía falta sumar. Si anotas cada movimiento en el momento, la cuenta del día ya está hecha.\n¿A qué hora haces tus cuentas? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "caption": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.\nVendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la venta de las 3 de la tarde. Con Kentra anotas cada venta desde el celular en el momento, y en la noche la cuenta del día ya está hecha.\n¿A qué hora haces tus cuentas? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
       "pilar": "objeciones",
       "layout": "meme",
       "destinos": [
@@ -649,17 +343,18 @@
       "qa": "pendiente",
       "carpeta": "2026-12-06",
       "archivo": "05-post",
-      "version": 1,
+      "version": 2,
       "formato": "confesión autoirónica en meme",
-      "gancho": "Cuando emprendes y también te toca sacar las cuentas",
+      "gancho": "Mis cuentas del día, a las 11 de la noche",
       "primera_linea": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.",
-      "estilo": "meme, verde oscuro, tarjeta arriba y mascota con teléfono y globo",
+      "estilo": "meme, verde oscuro, tarjeta arriba y hoja de cuentas estresada con globo (sin mascota)",
       "modela": {
         "referencia": "@fungifarm.uy, «Cuando empiezas un negocio y ahora toca la humillación pública de crear contenido» (33.1K vistas, 50.2x su mediana)",
         "url": "https://www.instagram.com/reel/Dfc4F3Iud7V",
         "que_tomo": "la confesión autoirónica de lo incómodo de emprender"
       },
-      "qa_ticket": "c76850f6-dd31-4222-b4d0-3fcd10206760"
+      "qa_ticket": "33f9f0bd-75c6-40a0-9144-be5e404bb1c7",
+      "qa_ticket_anterior": "c76850f6-dd31-4222-b4d0-3fcd10206760"
     },
     {
       "id": "2026-12-06-03-historia",
@@ -678,7 +373,7 @@
       "qa": "pendiente",
       "carpeta": "2026-12-06",
       "archivo": "03-historia",
-      "version": 1,
+      "version": 2,
       "formato": "frase de postura sobre el orden",
       "gancho": "Un negocio en orden es el que sabe cuánto le queda",
       "primera_linea": "Un negocio en orden no es el que más vende.",
@@ -688,7 +383,8 @@
         "url": "https://www.facebook.com/ads/library/?id=1142608908560980",
         "que_tomo": "la promesa de negocio en orden, llevada a cuánto queda"
       },
-      "qa_ticket": "6317cb9b-a314-41cb-a13d-97b7f1a6e520"
+      "qa_ticket": "2be3f637-8d8f-4eb6-8515-54c5375c53dd",
+      "qa_ticket_anterior": "6317cb9b-a314-41cb-a13d-97b7f1a6e520"
     },
     {
       "id": "reserva-2026-11-02-01-post",

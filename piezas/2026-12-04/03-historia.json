@@ -4,11 +4,13 @@
  "tema": "navy",
  "kicker": "Registrar venta",
  "titulo": "Vendiste $85.000. **Anótalo ya**",
- "sub": "No en la noche: fecha, cuenta y monto, y queda en Kentra.",
+ "sub": "Fecha, cuenta y monto en segundos.",
  "captura": "movil-registrar-venta.png",
- "recorte": "560px",
+ "recorte": "170px",
  "cta": {
   "texto": "kentra.pro",
   "boton": true
- }
+ },
+ "anchoCel": 560,
+ "mascara": 90
 }

@@ -3,9 +3,9 @@
  "formato": "post",
  "tema": "verdeoscuro",
  "arriba": "Cuando emprendes y descubres que también te toca sacar las cuentas.",
- "abajo": "Yo, a las 11 de la noche, con la libreta:",
- "figura": "telefono",
- "globo": "Mejor lo anoto al momento y me duermo.",
+ "abajo": "Mis cuentas del día, a las 11 de la noche:",
+ "figura": "hoja",
+ "globo": "¿Alguien anotó la venta de las 3 de la tarde?",
  "cta": {
   "texto": "kentra.pro",
   "boton": false

@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 74 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
 
 
 ## Jueves 19/11
@@ -831,6 +831,10 @@ Anota cada retiro el mismo día, aunque sea pequeño. 👉 [link de la bio en In
 
 ## Jueves 3/12
 
+**08:00 — Historia** · objeciones · `2026-12-03-01-historia`
+
+<img src="piezas/2026-12-03/01-historia.jpg" width="160">
+
 **10:00 — Post** · ganancia-real · `2026-12-03-04-post`
 
 <img src="piezas/2026-12-03/04-post.jpg" width="220">
@@ -840,6 +844,33 @@ Anota cada retiro el mismo día, aunque sea pequeño. 👉 [link de la bio en In
 Tu producto no tiene un solo precio: tiene tantos como formas de presentarlo.
 La misma vela se vende suelta en $18.000, con caja y lazo en $35.000 y en un kit de regalo con 2 más en $60.000. Lo que sumas por caja y lazo es poco; lo que cambia es lo que te deja cada venta.
 En diciembre, arma la versión de regalo de lo que ya vendes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**12:00 — Carrusel** · verticales · `2026-12-03-02-carrusel`
+
+<img src="piezas/2026-12-03/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-12-03/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Diciembre es temporada alta en una barbería. Esto haría con ese dinero.
+Desliza: contar servicios y no solo la caja ($8.100.000 del mes), apartar el 50 % de comisión el mismo día, dejar pagado lo fijo de enero, pagarme una cifra fija con $700.000 de colchón y revisar precios en enero.
+¿Tienes barbería? Guárdalo para el cierre del mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Barberias
+
+</details>
+
+**18:00 — Post** · educacion · `2026-12-03-05-post`
+
+<img src="piezas/2026-12-03/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Hay días en cero, y en diciembre también pasan.
+Ese día el arriendo, la luz y los sueldos cuestan igual: en este ejemplo, $90.000. Lo pagan los días buenos.
+Por eso un día bueno no se gasta completo: una parte cubre los días en que no entra nada.
+¿Sabes cuánto te cuesta abrir un día? 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
 
 </details>
@@ -865,6 +896,85 @@ Mismas ventas, misma ciudad, distinta ganancia.
 Las dos panaderías venden $9.000.000. A hornea de todo y bota el 12 % del pan ($1.080.000); B hornea por pedido y bota el 2 % ($180.000). Esos $900.000 de diferencia hacen que A gane $900.000 y B $1.800.000.
 ¿Cuánto botas tú al mes? 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #Panaderias
+
+</details>
+
+**12:00 — Carrusel** · ganancia-real · `2026-12-04-02-carrusel`
+
+<img src="piezas/2026-12-04/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-12-04/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Antes de hacer planes para 2027, saca este número.
+Desliza: con el ejemplo de Tienda La Esquina, de $96.000.000 cobrados quedan $48.000.000 tras la mercancía, $30.000.000 tras los gastos fijos y $12.000.000 de ganancia tras tu sueldo de $1.500.000 al mes: $1.000.000 al mes.
+Guárdalo y hazlo con tus números esta semana. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**18:00 — Post** · funcionalidades · `2026-12-04-05-post`
+
+<img src="piezas/2026-12-04/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+«Poquito aquí y allá» puede sumar $3.000.000.
+Tarjeta $1.400.000, proveedor $1.000.000 y préstamo familiar $600.000. Separadas no asustan; juntas son el número que decide tu enero.
+En Kentra cada cuenta por pagar queda con su fecha y su pendiente, en una sola lista. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+
+## Sábado 5/12
+
+**18:00 — Post** · educacion · `2026-12-05-05-post`
+
+<img src="piezas/2026-12-05/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+El préstamo «fácil» cuesta más de lo que parece.
+Te prestan $1.000.000 y pagas 30 cuotas de $40.000: devuelves $1.200.000. Son $200.000 de costo en un solo mes.
+Antes de pedirlo, mira si tu caja de enero lo aguanta. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-12-05-03-historia`
+
+<img src="piezas/2026-12-05/03-historia.jpg" width="160">
+
+
+## Domingo 6/12
+
+**08:00 — Historia** · verticales · `2026-12-06-01-historia`
+
+<img src="piezas/2026-12-06/01-historia.jpg" width="160">
+
+**10:00 — Post** · objeciones · `2026-12-06-04-post`
+
+<img src="piezas/2026-12-06/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Rebajarle al que ya iba a comprar sale caro.
+Si vendes a $100.000 y te cuesta $75.000, te quedan $25.000. Con 10 % menos vendes a $90.000 y te quedan $15.000: pierdes el 40 % de lo que ganabas en esa venta.
+Sostén el precio y explica qué incluye. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline
+
+</details>
+
+**12:00 — Carrusel** · educacion · `2026-12-06-02-carrusel`
+
+<img src="piezas/2026-12-06/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-06/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-06/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-06/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-06/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-06/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-06/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Fiar en diciembre sin reglas es regalar enero.
+Desliza: un tope por cliente ($200.000), fecha de pago escrita, no fiar sobre lo fiado y saber cuánto tienes en la calle: de $9.500.000 vendidos, $1.900.000 siguen fiados.
+¿Cuánto tienes fiado hoy? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
 
 </details>
 
