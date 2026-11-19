@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 86 piezas agendadas.
 
 
 ## Jueves 19/11
-
-**18:00 — Post** · ganancia-real · `2026-11-19-05-post`
-
-<img src="piezas/2026-11-19/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Ver $6.200.000 en el banco no significa que puedas gastarlos.
-
-Si debes $4.100.000 entre proveedores, arriendo y cuotas, lo tuyo son $2.100.000: una tercera parte.
-
-Este mes Kentra Pro está a US$12/mes los 2 primeros meses.
-Separa lo que ya tiene dueño. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-11-19-03-historia`
 
@@ -995,9 +978,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- jueves 19/11 · 18:00 · Post `2026-11-19-05-post` · IG ✓ · FB ✓
 - jueves 19/11 · 12:00 · Carrusel `2026-11-19-02-carrusel` · IG ✓ · FB ✓
 - jueves 19/11 · 10:00 · Post `2026-11-19-04-post` · IG ✓ · FB ✓
 - jueves 19/11 · 08:00 · Historia `2026-11-19-01-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 19:00 · Historia `2026-11-18-03-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 18:00 · Post `2026-11-18-05-post` · IG ✓ · FB ✓
-- miércoles 18/11 · 12:00 · Carrusel `2026-11-18-02-carrusel` · IG ✓ · FB ✓
