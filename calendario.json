@@ -7675,7 +7675,13 @@
       },
       "carpeta": "2026-11-19",
       "archivo": "04-post",
-      "qa_ticket": "ebfe702c-bc72-476c-830a-5d491e40f91c"
+      "qa_ticket": "ebfe702c-bc72-476c-830a-5d491e40f91c",
+      "media_id": "17899420125418507",
+      "publicado_ig": true,
+      "fb_post_id": "956335110897891_122147728347213382",
+      "publicado_fb": true,
+      "publicado": true,
+      "publicado_en": "2026-11-19T15:01:41.775Z"
     },
     {
       "id": "2026-11-19-02-carrusel",

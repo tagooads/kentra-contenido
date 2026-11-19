@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
 
 
 ## Jueves 19/11
-
-**10:00 — Post** · educacion · `2026-11-19-04-post`
-
-<img src="piezas/2026-11-19/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Quedan 12 días de noviembre y todavía puedes corregir el mes.
-
-Suma lo que entró, resta lo que ya salió y aparta lo que viene en diciembre. Lo que queda es lo que puedes gastar sin miedo.
-
-Black November: 40 % menos los 2 primeros meses en cualquier plan.
-Haz la cuenta hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-11-19-02-carrusel`
 
@@ -1028,9 +1011,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- jueves 19/11 · 10:00 · Post `2026-11-19-04-post` · IG ✓ · FB ✓
 - jueves 19/11 · 08:00 · Historia `2026-11-19-01-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 19:00 · Historia `2026-11-18-03-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 18:00 · Post `2026-11-18-05-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 12:00 · Carrusel `2026-11-18-02-carrusel` · IG ✓ · FB ✓
 - miércoles 18/11 · 10:00 · Post `2026-11-18-04-post` · IG ✓ · FB ✓
-- miércoles 18/11 · 08:00 · Historia `2026-11-18-01-historia` · IG ✓ · FB ✓
