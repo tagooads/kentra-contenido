@@ -10014,6 +10014,133 @@
       "qa_ticket": "b02deb27-ce7c-41c5-9ca8-47162de85648"
     },
     {
+      "id": "2026-12-04-03-historia",
+      "fecha": "2026-12-04T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-04/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-04",
+      "archivo": "03-historia",
+      "version": 3,
+      "formato": "captura real: Registrar venta",
+      "gancho": "Vendiste $85.000. Anótalo ya",
+      "primera_linea": "Vendiste $85.000. Anótalo ya",
+      "estilo": "captura, navy, celular más angosto con el formulario completo de Fecha a Monto",
+      "modela": {
+        "referencia": "@oriana.digital, «En un mes logré facturar +53 MILLONES» (34K vistas, 29.9x su mediana)",
+        "url": "https://www.tiktok.com/@oriana.digital/video/7707730830373784850",
+        "que_tomo": "captura de pantalla como prueba; Kentra muestra la venta anotada al momento"
+      },
+      "qa_ticket": "3e81a354-c90a-4443-99a2-21029fe6ec6d",
+      "qa_ticket_anterior": "9c22f0e0-2070-41ea-ba06-6c3f033ac414"
+    },
+    {
+      "id": "2026-12-05-01-historia",
+      "fecha": "2026-12-05T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-05/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-05",
+      "archivo": "01-historia",
+      "version": 2,
+      "formato": "frase de dos conceptos",
+      "gancho": "Costo claro, precio firme",
+      "primera_linea": "Repite esto cada vez:",
+      "estilo": "frase, verde, tarjeta blanca centrada con comillas (historia)",
+      "modela": {
+        "referencia": "Ficha Técnica PRO, «Precio justo, ganancia real»",
+        "url": "https://www.facebook.com/ads/library/?id=1600869281360948",
+        "que_tomo": "la dupla de 4 palabras que une precio y ganancia"
+      },
+      "qa_ticket": "14099634-e3f3-4c71-96fe-374179a37083",
+      "qa_ticket_anterior": "31e83773-e5f4-41a3-b051-58e81347b3ef"
+    },
+    {
+      "id": "2026-12-05-04-post",
+      "fecha": "2026-12-05T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-05/04-post.jpg"
+      ],
+      "caption": "Diciembre es el mes con más billetes en la caja, y el más fácil para que se pierdan.\n4 hábitos: contar la caja al cerrar cada día, depositar el efectivo cada 2 días, anotar cada venta en efectivo al momento y no pagar nada personal con la caja.\n¿Cuál te falta? Guárdalo para tu cierre de hoy. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes",
+      "pilar": "educacion",
+      "layout": "tip",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-05",
+      "archivo": "04-post",
+      "version": 2,
+      "formato": "protocolo tras un riesgo: 4 hábitos de efectivo",
+      "gancho": "Más billetes en la caja: 4 hábitos para no perderlos",
+      "primera_linea": "Diciembre es el mes con más billetes en la caja, y el más fácil para que se pierdan.",
+      "estilo": "tip, blanco, pasos numerados en tarjeta gris",
+      "modela": {
+        "referencia": "@haroldvalencia.ceo, «Casi me ROBAN más de 30 MILLONES en iPhones» (37.3K vistas, 39.3x su mediana)",
+        "url": "https://www.instagram.com/reel/DffCgiAIR0Z",
+        "que_tomo": "riesgo real del negocio que termina en protocolo"
+      },
+      "qa_ticket": "c9c89ac1-6a0d-46e8-a378-0760d78affba",
+      "qa_ticket_anterior": "172f5ede-3f11-4175-b5a4-d25c71b8ce1e"
+    },
+    {
+      "id": "2026-12-05-02-carrusel",
+      "fecha": "2026-12-05T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-05/02-carrusel-1.jpg",
+        "piezas/2026-12-05/02-carrusel-2.jpg",
+        "piezas/2026-12-05/02-carrusel-3.jpg",
+        "piezas/2026-12-05/02-carrusel-4.jpg",
+        "piezas/2026-12-05/02-carrusel-5.jpg",
+        "piezas/2026-12-05/02-carrusel-6.jpg",
+        "piezas/2026-12-05/02-carrusel-7.jpg",
+        "piezas/2026-12-05/02-carrusel-8.jpg"
+      ],
+      "caption": "Una tarde de diciembre bien usada te ordena enero.\nDesliza: configuras tu negocio y tu moneda, tus categorías, lo que te deben y lo que debes (al marcarlo como pagado se registra solo), recordatorios con fecha y tu primer cierre con lo que entró, salió y quedó.\nEmpieza esta semana. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "funcionalidades",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-05",
+      "archivo": "02-carrusel",
+      "version": 2,
+      "formato": "100 % Kentra: deja todo listo antes de enero (8 slides)",
+      "gancho": "5 cosas que dejas listas en Kentra en una tarde",
+      "primera_linea": "Una tarde de diciembre bien usada te ordena enero.",
+      "estilo": "portada verde sin visual, valor claro/navy con bullets, captura Resultados, cierre mascota",
+      "modela": {
+        "referencia": "Latinas Together, «Quiero dejar de adivinar y empezar a controlar» (3 variantes activas)",
+        "url": "https://www.facebook.com/ads/library/?id=2740198719769713",
+        "que_tomo": "la promesa de pasar de adivinar a controlar, en pasos concretos"
+      },
+      "qa_ticket": "301d5bb2-7d13-4042-bd31-8d526d212e6b",
+      "qa_ticket_anterior": "77742ba9-f548-43e2-bd0a-f3a6fd446cfb"
+    },
+    {
       "id": "2026-12-05-05-post",
       "fecha": "2026-12-05T18:00:00-05:00",
       "tipo": "post",
@@ -10163,6 +10290,66 @@
         "que_tomo": "responder al cliente con una regla clara sin pelear"
       },
       "qa_ticket": "2835d688-59a0-4486-9a8b-e606d7b4ff63"
+    },
+    {
+      "id": "2026-12-06-05-post",
+      "fecha": "2026-12-06T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-06/05-post.jpg"
+      ],
+      "caption": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.\nVendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la venta de las 3 de la tarde. Con Kentra anotas cada venta desde el celular en el momento, y en la noche la cuenta del día ya está hecha.\n¿A qué hora haces tus cuentas? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "objeciones",
+      "layout": "meme",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-06",
+      "archivo": "05-post",
+      "version": 2,
+      "formato": "confesión autoirónica en meme",
+      "gancho": "Mis cuentas del día, a las 11 de la noche",
+      "primera_linea": "Nadie te dijo que emprender incluía sacar cuentas a medianoche.",
+      "estilo": "meme, verde oscuro, tarjeta arriba y hoja de cuentas estresada con globo (sin mascota)",
+      "modela": {
+        "referencia": "@fungifarm.uy, «Cuando empiezas un negocio y ahora toca la humillación pública de crear contenido» (33.1K vistas, 50.2x su mediana)",
+        "url": "https://www.instagram.com/reel/Dfc4F3Iud7V",
+        "que_tomo": "la confesión autoirónica de lo incómodo de emprender"
+      },
+      "qa_ticket": "33f9f0bd-75c6-40a0-9144-be5e404bb1c7",
+      "qa_ticket_anterior": "c76850f6-dd31-4222-b4d0-3fcd10206760"
+    },
+    {
+      "id": "2026-12-06-03-historia",
+      "fecha": "2026-12-06T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-06/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-06",
+      "archivo": "03-historia",
+      "version": 2,
+      "formato": "frase de postura sobre el orden",
+      "gancho": "Un negocio en orden es el que sabe cuánto le queda",
+      "primera_linea": "Un negocio en orden no es el que más vende.",
+      "estilo": "cita, navy, barra verde y frase grande (historia)",
+      "modela": {
+        "referencia": "Treinta Latam, «Tu negocio pro con Treinta» (activo desde 11 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1142608908560980",
+        "que_tomo": "la promesa de negocio en orden, llevada a cuánto queda"
+      },
+      "qa_ticket": "2be3f637-8d8f-4eb6-8515-54c5375c53dd",
+      "qa_ticket_anterior": "6317cb9b-a314-41cb-a13d-97b7f1a6e520"
     }
   ]
 }

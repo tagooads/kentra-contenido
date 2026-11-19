@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
 
 
 ## Jueves 19/11
@@ -921,8 +921,42 @@ En Kentra cada cuenta por pagar queda con su fecha y su pendiente, en una sola l
 
 </details>
 
+**19:00 — Historia** · funcionalidades · `2026-12-04-03-historia`
+
+<img src="piezas/2026-12-04/03-historia.jpg" width="160">
+
 
 ## Sábado 5/12
+
+**08:00 — Historia** · ganancia-real · `2026-12-05-01-historia`
+
+<img src="piezas/2026-12-05/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-12-05-04-post`
+
+<img src="piezas/2026-12-05/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Diciembre es el mes con más billetes en la caja, y el más fácil para que se pierdan.
+4 hábitos: contar la caja al cerrar cada día, depositar el efectivo cada 2 días, anotar cada venta en efectivo al momento y no pagar nada personal con la caja.
+¿Cuál te falta? Guárdalo para tu cierre de hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
+
+</details>
+
+**12:00 — Carrusel** · funcionalidades · `2026-12-05-02-carrusel`
+
+<img src="piezas/2026-12-05/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-12-05/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Una tarde de diciembre bien usada te ordena enero.
+Desliza: configuras tu negocio y tu moneda, tus categorías, lo que te deben y lo que debes (al marcarlo como pagado se registra solo), recordatorios con fecha y tu primer cierre con lo que entró, salió y quedó.
+Empieza esta semana. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
 
 **18:00 — Post** · educacion · `2026-12-05-05-post`
 
@@ -973,6 +1007,23 @@ Desliza: un tope por cliente ($200.000), fecha de pago escrita, no fiar sobre lo
 #Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
 
 </details>
+
+**18:00 — Post** · objeciones · `2026-12-06-05-post`
+
+<img src="piezas/2026-12-06/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Nadie te dijo que emprender incluía sacar cuentas a medianoche.
+Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la venta de las 3 de la tarde. Con Kentra anotas cada venta desde el celular en el momento, y en la noche la cuenta del día ya está hecha.
+¿A qué hora haces tus cuentas? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-12-06-03-historia`
+
+<img src="piezas/2026-12-06/03-historia.jpg" width="160">
 
 
 ## Últimas publicadas
