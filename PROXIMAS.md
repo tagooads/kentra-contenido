@@ -1,13 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 75 piezas agendadas.
-
-
-## Miércoles 18/11
-
-**19:00 — Historia** · ganancia-real · `2026-11-18-03-historia`
-
-<img src="piezas/2026-11-18/03-historia.jpg" width="160">
+Se actualiza sola cada hora. Hora de Bogotá. 74 piezas agendadas.
 
 
 ## Jueves 19/11
@@ -878,9 +871,9 @@ Las dos panaderías venden $9.000.000. A hornea de todo y bota el 12 % del pan (
 
 ## Últimas publicadas
 
+- miércoles 18/11 · 19:00 · Historia `2026-11-18-03-historia` · IG ✓ · FB ✓
 - miércoles 18/11 · 18:00 · Post `2026-11-18-05-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 12:00 · Carrusel `2026-11-18-02-carrusel` · IG ✓ · FB ✓
 - miércoles 18/11 · 10:00 · Post `2026-11-18-04-post` · IG ✓ · FB ✓
 - miércoles 18/11 · 08:00 · Historia `2026-11-18-01-historia` · IG ✓ · FB ✓
 - martes 17/11 · 19:00 · Historia `2026-11-17-03-historia` · IG ✓ · FB ✓
-- martes 17/11 · 18:00 · Post `2026-11-17-05-post` · IG ✓ · FB ✓
