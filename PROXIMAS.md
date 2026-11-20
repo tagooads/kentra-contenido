@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
 
 
 ## Viernes 20/11
-
-**10:00 — Post** · objeciones · `2026-11-20-04-post`
-
-<img src="piezas/2026-11-20/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Ese momento en que el arriendo te habla.
-
-La venta del día no es dinero libre: una parte ya es del arriendo, otra de la mercancía y otra de los servicios. Saber cuánto le toca a cada cosa evita el susto del día 30.
-
-Black November en Kentra hasta el 30 de noviembre.
-Etiqueta a quien le pasa. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · kentra-vs-excel · `2026-11-20-02-carrusel`
 
@@ -967,9 +950,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- viernes 20/11 · 10:00 · Post `2026-11-20-04-post` · IG ✓ · FB ✓
 - viernes 20/11 · 08:00 · Historia `2026-11-20-01-historia` · IG ✓ · FB ✓
 - jueves 19/11 · 19:00 · Historia `2026-11-19-03-historia` · IG ✓ · FB ✓
 - jueves 19/11 · 18:00 · Post `2026-11-19-05-post` · IG ✓ · FB ✓
 - jueves 19/11 · 12:00 · Carrusel `2026-11-19-02-carrusel` · IG ✓ · FB ✓
 - jueves 19/11 · 10:00 · Post `2026-11-19-04-post` · IG ✓ · FB ✓
-- jueves 19/11 · 08:00 · Historia `2026-11-19-01-historia` · IG ✓ · FB ✓
