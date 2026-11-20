@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 82 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 81 piezas agendadas.
 
 
 ## Viernes 20/11
-
-**18:00 — Post** · precio · `2026-11-20-05-post`
-
-<img src="piezas/2026-11-20/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si llevas dos negocios, cada uno merece sus propios números.
-
-Kentra Pro: hasta 2 negocios, cada uno con su moneda, 1 usuario extra, importación con IA e inventario. En Black November cuesta US$12/mes los 2 primeros meses y luego US$20/mes.
-
-Hasta el 30 de noviembre. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #Pymes
-
-</details>
 
 **19:00 — Historia** · ganancia-real · `2026-11-20-03-historia`
 
@@ -934,9 +918,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- viernes 20/11 · 18:00 · Post `2026-11-20-05-post` · IG ✓ · FB ✓
 - viernes 20/11 · 12:00 · Carrusel `2026-11-20-02-carrusel` · IG ✓ · FB ✓
 - viernes 20/11 · 10:00 · Post `2026-11-20-04-post` · IG ✓ · FB ✓
 - viernes 20/11 · 08:00 · Historia `2026-11-20-01-historia` · IG ✓ · FB ✓
 - jueves 19/11 · 19:00 · Historia `2026-11-19-03-historia` · IG ✓ · FB ✓
 - jueves 19/11 · 18:00 · Post `2026-11-19-05-post` · IG ✓ · FB ✓
-- jueves 19/11 · 12:00 · Carrusel `2026-11-19-02-carrusel` · IG ✓ · FB ✓
