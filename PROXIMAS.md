@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 78 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 77 piezas agendadas.
 
 
 ## Sábado 21/11
-
-**12:00 — Carrusel** · precio · `2026-11-21-02-carrusel`
-
-<img src="piezas/2026-11-21/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-21/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Las fugas de dinero no se notan en el día: se notan en diciembre.
-
-Tres casos: $8.000 diarios en gastos sin anotar, un fiado de $35.000 por semana que nadie cobra y un insumo que subió $1.500 sin tocar el precio. En un año suman $9.576.000.
-
-Black November: el año de Kentra desde US$79 con Kentra Priority de regalo el primer año.
-Frena las fugas este mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #BlackNovember
-
-</details>
 
 **18:00 — Post** · verticales · `2026-11-21-05-post`
 
@@ -890,9 +873,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- sábado 21/11 · 12:00 · Carrusel `2026-11-21-02-carrusel` · IG ✓ · FB ✓
 - sábado 21/11 · 10:00 · Post `2026-11-21-04-post` · IG ✓ · FB ✓
 - sábado 21/11 · 08:00 · Historia `2026-11-21-01-historia` · IG ✓ · FB ✓
 - viernes 20/11 · 19:00 · Historia `2026-11-20-03-historia` · IG ✓ · FB ✓
 - viernes 20/11 · 18:00 · Post `2026-11-20-05-post` · IG ✓ · FB ✓
 - viernes 20/11 · 12:00 · Carrusel `2026-11-20-02-carrusel` · IG ✓ · FB ✓
-- viernes 20/11 · 10:00 · Post `2026-11-20-04-post` · IG ✓ · FB ✓
