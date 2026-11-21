@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 77 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 76 piezas agendadas.
 
 
 ## Sábado 21/11
-
-**18:00 — Post** · verticales · `2026-11-21-05-post`
-
-<img src="piezas/2026-11-21/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un salón con la agenda llena puede cerrar el mes casi en cero.
-
-Entraron $7.400.000 y salieron $6.900.000 entre estilistas, productos, arriendo y luz: quedan $500.000, menos del 7 %. Antes de diciembre, revisa comisiones y el precio de los servicios con más producto.
-
-Black November: Kentra Pro a US$12/mes los 2 primeros meses.
-Mira tu margen real cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #SalonDeBelleza #Pymes
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-11-21-03-historia`
 
@@ -873,9 +856,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- sábado 21/11 · 18:00 · Post `2026-11-21-05-post` · IG ✓ · FB ✓
 - sábado 21/11 · 12:00 · Carrusel `2026-11-21-02-carrusel` · IG ✓ · FB ✓
 - sábado 21/11 · 10:00 · Post `2026-11-21-04-post` · IG ✓ · FB ✓
 - sábado 21/11 · 08:00 · Historia `2026-11-21-01-historia` · IG ✓ · FB ✓
 - viernes 20/11 · 19:00 · Historia `2026-11-20-03-historia` · IG ✓ · FB ✓
 - viernes 20/11 · 18:00 · Post `2026-11-20-05-post` · IG ✓ · FB ✓
-- viernes 20/11 · 12:00 · Carrusel `2026-11-20-02-carrusel` · IG ✓ · FB ✓
