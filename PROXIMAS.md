@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 72 piezas agendadas.
 
 
 ## Domingo 22/11
-
-**12:00 — Carrusel** · ganancia-real · `2026-11-22-02-carrusel`
-
-<img src="piezas/2026-11-22/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-22/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un reto de 4 domingos para llegar a enero sabiendo cuánto ganaste en diciembre.
-
-Domingo 29: lo que entró. Domingo 6: lo que salió. Domingo 13: apartas $200.000 para enero. Domingo 20: comparas las semanas. Diez minutos cada vez.
-
-Black November: Kentra mensual con 40 % menos los 2 primeros meses, hasta el 30.
-Guarda el reto y arranca el domingo 29. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #RetoDeDiciembre
-
-</details>
 
 **18:00 — Post** · precio · `2026-11-22-05-post`
 
@@ -828,9 +811,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- domingo 22/11 · 12:00 · Carrusel `2026-11-22-02-carrusel` · IG ✓ · FB ✓
 - domingo 22/11 · 10:00 · Post `2026-11-22-04-post` · IG ✓ · FB ✓
 - domingo 22/11 · 08:00 · Historia `2026-11-22-01-historia` · IG ✓ · FB ✓
 - sábado 21/11 · 19:00 · Historia `2026-11-21-03-historia` · IG ✓ · FB ✓
 - sábado 21/11 · 18:00 · Post `2026-11-21-05-post` · IG ✓ · FB ✓
 - sábado 21/11 · 12:00 · Carrusel `2026-11-21-02-carrusel` · IG ✓ · FB ✓
-- sábado 21/11 · 10:00 · Post `2026-11-21-04-post` · IG ✓ · FB ✓
