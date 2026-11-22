@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 74 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 73 piezas agendadas.
 
 
 ## Domingo 22/11
-
-**10:00 — Post** · educacion · `2026-11-22-04-post`
-
-<img src="piezas/2026-11-22/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Antes de subir o bajar el precio de una torta, haz la cuenta completa.
-
-De $60.000 salen $23.000 de insumos y decoración, $7.000 de caja, gas y luz y $12.000 de tus horas. Quedan $18.000: el 30 %. Sin contar tus horas parece el 50 %.
-
-Black November: el año de Kentra desde US$79 con Kentra Priority de regalo el primer año.
-Anota cada costo por categoría. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pasteleria #NegocioPropio
-
-</details>
 
 **12:00 — Carrusel** · ganancia-real · `2026-11-22-02-carrusel`
 
@@ -845,9 +828,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- domingo 22/11 · 10:00 · Post `2026-11-22-04-post` · IG ✓ · FB ✓
 - domingo 22/11 · 08:00 · Historia `2026-11-22-01-historia` · IG ✓ · FB ✓
 - sábado 21/11 · 19:00 · Historia `2026-11-21-03-historia` · IG ✓ · FB ✓
 - sábado 21/11 · 18:00 · Post `2026-11-21-05-post` · IG ✓ · FB ✓
 - sábado 21/11 · 12:00 · Carrusel `2026-11-21-02-carrusel` · IG ✓ · FB ✓
 - sábado 21/11 · 10:00 · Post `2026-11-21-04-post` · IG ✓ · FB ✓
-- sábado 21/11 · 08:00 · Historia `2026-11-21-01-historia` · IG ✓ · FB ✓
