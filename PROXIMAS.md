@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 67 piezas agendadas.
 
 
 ## Lunes 23/11
-
-**12:00 — Carrusel** · educacion · `2026-11-23-02-carrusel`
-
-<img src="piezas/2026-11-23/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-8.jpg" width="220"> <img src="piezas/2026-11-23/02-carrusel-9.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Un 20 % de descuento el viernes te puede pedir el doble de ventas para ganar lo mismo.
-
-El ejemplo: un producto de $100.000 que te cuesta $60.000 te deja $40.000; con 20 % menos te deja $20.000. Desliza para ver las 6 cuentas: margen, ventas que necesitas, stock, comisión y tu tope de descuento.
-
-Black November: Invita y gana, 1 mes sin costo por cada dueño que invites y pague.
-Guárdalo para el jueves. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackFriday #Pymes
-
-</details>
 
 **18:00 — Post** · precio · `2026-11-23-05-post`
 
@@ -767,9 +750,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- lunes 23/11 · 12:00 · Carrusel `2026-11-23-02-carrusel` · IG ✓ · FB ✓
 - lunes 23/11 · 10:00 · Post `2026-11-23-04-post` · IG ✓ · FB ✓
 - lunes 23/11 · 08:00 · Historia `2026-11-23-01-historia` · IG ✓ · FB ✓
 - domingo 22/11 · 19:00 · Historia `2026-11-22-03-historia` · IG ✓ · FB ✓
 - domingo 22/11 · 18:00 · Post `2026-11-22-05-post` · IG ✓ · FB ✓
 - domingo 22/11 · 12:00 · Carrusel `2026-11-22-02-carrusel` · IG ✓ · FB ✓
-- domingo 22/11 · 10:00 · Post `2026-11-22-04-post` · IG ✓ · FB ✓
