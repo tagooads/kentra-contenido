@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 69 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 68 piezas agendadas.
 
 
 ## Lunes 23/11
-
-**10:00 — Post** · ganancia-real · `2026-11-23-04-post`
-
-<img src="piezas/2026-11-23/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si en la noche la caja no te cuadra, casi nunca es un robo: son cobros que no se anotaron.
-
-Recuerdas $1.850.000 en ventas y en caja hay $1.610.000. Faltan $240.000 y no sabes de qué. Anotar cada cobro cuando entra cierra esa diferencia.
-
-Black November hasta el 30: si otro dueño se suscribe con tu invitación y paga, sumas un mes sin costo.
-Cierra el día con la cuenta clara. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio #Pymes
-
-</details>
 
 **12:00 — Carrusel** · educacion · `2026-11-23-02-carrusel`
 
@@ -784,9 +767,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- lunes 23/11 · 10:00 · Post `2026-11-23-04-post` · IG ✓ · FB ✓
 - lunes 23/11 · 08:00 · Historia `2026-11-23-01-historia` · IG ✓ · FB ✓
 - domingo 22/11 · 19:00 · Historia `2026-11-22-03-historia` · IG ✓ · FB ✓
 - domingo 22/11 · 18:00 · Post `2026-11-22-05-post` · IG ✓ · FB ✓
 - domingo 22/11 · 12:00 · Carrusel `2026-11-22-02-carrusel` · IG ✓ · FB ✓
 - domingo 22/11 · 10:00 · Post `2026-11-22-04-post` · IG ✓ · FB ✓
-- domingo 22/11 · 08:00 · Historia `2026-11-22-01-historia` · IG ✓ · FB ✓
