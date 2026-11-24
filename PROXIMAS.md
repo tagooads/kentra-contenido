@@ -1,13 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 65 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 64 piezas agendadas.
 
 
 ## Martes 24/11
-
-**08:00 — Historia** · precio · `2026-11-24-01-historia`
-
-<img src="piezas/2026-11-24/01-historia.jpg" width="160">
 
 **10:00 — Post** · educacion · `2026-11-24-04-post`
 
@@ -727,9 +723,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- martes 24/11 · 08:00 · Historia `2026-11-24-01-historia` · IG ✓ · FB ✓
 - lunes 23/11 · 19:00 · Historia `2026-11-23-03-historia` · IG ✓ · FB ✓
 - lunes 23/11 · 18:00 · Post `2026-11-23-05-post` · IG ✓ · FB ✓
 - lunes 23/11 · 12:00 · Carrusel `2026-11-23-02-carrusel` · IG ✓ · FB ✓
 - lunes 23/11 · 10:00 · Post `2026-11-23-04-post` · IG ✓ · FB ✓
 - lunes 23/11 · 08:00 · Historia `2026-11-23-01-historia` · IG ✓ · FB ✓
-- domingo 22/11 · 19:00 · Historia `2026-11-22-03-historia` · IG ✓ · FB ✓
