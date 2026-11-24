@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 62 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 61 piezas agendadas.
 
 
 ## Martes 24/11
-
-**18:00 — Post** · precio · `2026-11-24-05-post`
-
-<img src="piezas/2026-11-24/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-El Black Friday dura un día. El de Kentra va hasta el 30 de noviembre.
-
-Mensual con 40 % menos los 2 primeros meses o plan anual desde US$79, con Kentra Priority de regalo el primer año.
-
-Elige el tuyo con calma, pero antes del 30. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember
-
-</details>
 
 **19:00 — Historia** · funcionalidades · `2026-11-24-03-historia`
 
@@ -689,9 +673,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- martes 24/11 · 18:00 · Post `2026-11-24-05-post` · IG ✓ · FB ✓
 - martes 24/11 · 12:00 · Carrusel `2026-11-24-02-carrusel` · IG ✓ · FB ✓
 - martes 24/11 · 10:00 · Post `2026-11-24-04-post` · IG ✓ · FB ✓
 - martes 24/11 · 08:00 · Historia `2026-11-24-01-historia` · IG ✓ · FB ✓
 - lunes 23/11 · 19:00 · Historia `2026-11-23-03-historia` · IG ✓ · FB ✓
 - lunes 23/11 · 18:00 · Post `2026-11-23-05-post` · IG ✓ · FB ✓
-- lunes 23/11 · 12:00 · Carrusel `2026-11-23-02-carrusel` · IG ✓ · FB ✓
