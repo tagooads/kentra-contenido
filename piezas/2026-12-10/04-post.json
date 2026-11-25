@@ -1,0 +1,26 @@
+{
+ "layout": "antes",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Tamales por encargo",
+ "titulo": "30 tamales: el mismo pedido **te deja $60.000 más**",
+ "antes": {
+  "titulo": "Compras al detal",
+  "items": [
+   "Insumos en la tienda: $300.000",
+   "Cobras $450.000: te quedan $150.000"
+  ]
+ },
+ "despues": {
+  "titulo": "Compras al por mayor",
+  "items": [
+   "Los mismos insumos: $240.000",
+   "Cobras $450.000: te quedan $210.000"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "ajustar": true
+}

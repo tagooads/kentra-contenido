@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 69 piezas agendadas.
 
 
 ## Miércoles 25/11
@@ -625,6 +625,117 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 **19:00 — Historia** · ganancia-real · `2026-12-06-03-historia`
 
 <img src="piezas/2026-12-06/03-historia.jpg" width="160">
+
+
+## Lunes 7/12
+
+**08:00 — Historia** · ganancia-real · `2026-12-07-01-historia`
+
+<img src="piezas/2026-12-07/01-historia.jpg" width="160">
+
+**10:00 — Post** · verticales · `2026-12-07-04-post`
+
+<img src="piezas/2026-12-07/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Una ancheta de $150.000 no son $150.000 para ti.
+Productos $69.000, canasta y empaque $21.000, ayudante $15.000 y domicilio $12.000: te quedan $33.000, el 22 %.
+¿Ya sabes cuánto te deja cada ancheta que vendes? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**18:00 — Post** · objeciones · `2026-12-07-05-post`
+
+<img src="piezas/2026-12-07/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Contestar «¿precio?» con un número es perder la venta o perder el margen.
+Antes pregunta cuántas y para cuándo: con eso armas dos opciones y sabes cuánto te deja cada una.
+Anota cada pedido con su costo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**19:00 — Historia** · funcionalidades · `2026-12-07-03-historia`
+
+<img src="piezas/2026-12-07/03-historia.jpg" width="160">
+
+
+## Martes 8/12
+
+**08:00 — Historia** · ganancia-real · `2026-12-08-01-historia`
+
+<img src="piezas/2026-12-08/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-12-08-04-post`
+
+<img src="piezas/2026-12-08/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Abrir un festivo no siempre conviene. Hay que hacer la cuenta.
+Vendiste $1.200.000; menos mercancía, el pago extra del ayudante, luz y domicilios, te quedaron $375.000. Un día normal te deja $300.000: esta vez sí valió la pena.
+Compara tus días con números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**18:00 — Post** · ganancia-real · `2026-12-08-05-post`
+
+<img src="piezas/2026-12-08/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Los gastos que más cuestan son los que no anotas.
+El empaque de regalo que no cobras, el envío de cortesía y el precio que no actualizaste: cada uno parece poco, juntos se llevan una semana de ganancia.
+Anótalos como gasto y míralos juntos. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
+
+</details>
+
+**19:00 — Historia** · educacion · `2026-12-08-03-historia`
+
+<img src="piezas/2026-12-08/03-historia.jpg" width="160">
+
+
+## Miércoles 9/12
+
+**08:00 — Historia** · funcionalidades · `2026-12-09-01-historia`
+
+<img src="piezas/2026-12-09/01-historia.jpg" width="160">
+
+**10:00 — Post** · educacion · `2026-12-09-04-post`
+
+<img src="piezas/2026-12-09/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Una cuota de $180.000 parece poco hasta que la multiplicas.
+La nevera de $3.000.000 a 24 cuotas termina costando $4.320.000: $1.320.000 más que de contado.
+Antes de firmar, mira la cuota contra lo que te queda cada mes. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**18:00 — Post** · kentra-vs-excel · `2026-12-09-05-post`
+
+<img src="piezas/2026-12-09/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+La hoja de cálculo de la tienda empieza bien y se abandona en dos semanas.
+En Kentra anotas la venta desde el celular, ves el total al instante y sabes quién te debe sin otra libreta.
+Ordena las cuentas de tu tienda desde hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · objeciones · `2026-12-09-03-historia`
+
+<img src="piezas/2026-12-09/03-historia.jpg" width="160">
 
 
 ## Últimas publicadas

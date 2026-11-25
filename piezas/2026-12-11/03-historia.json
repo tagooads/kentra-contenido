@@ -1,0 +1,16 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "navy",
+ "kicker": "Movimientos",
+ "titulo": "Cada venta, **con su día**",
+ "sub": "Efectivo o datáfono: todo queda en una lista.",
+ "captura": "movil-movimientos-23nov.png",
+ "recorte": "280px",
+ "mascara": 85,
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "anchoCel": 1100
+}

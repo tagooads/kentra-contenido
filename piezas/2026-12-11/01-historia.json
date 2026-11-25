@@ -1,0 +1,31 @@
+{
+ "layout": "chat",
+ "formato": "historia",
+ "tema": "menta",
+ "kicker": "Precios de enero",
+ "titulo": "Te escribe tu proveedor",
+ "nombre": "Proveedor",
+ "chat": [
+  [
+   "cliente",
+   "Para enero el bulto sube 8 %."
+  ],
+  [
+   "yo",
+   "¿De $50.000 pasa a $54.000?"
+  ],
+  [
+   "cliente",
+   "Sí, desde el 2 de enero."
+  ],
+  [
+   "yo",
+   "Listo. Hoy ajusto mi precio."
+  ]
+ ],
+ "cierre": "Si sube tu costo, sube tu precio.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

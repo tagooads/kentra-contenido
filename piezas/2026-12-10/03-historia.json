@@ -1,0 +1,24 @@
+{
+ "layout": "reto",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Reto de jueves",
+ "titulo": "Tus fijos son $90.000 al día. Vendiste $250.000 y cada venta te deja el 40 %. ¿Ganaste?",
+ "opciones": [
+  {
+   "texto": "Sí, $160.000"
+  },
+  {
+   "texto": "Sí, $10.000",
+   "ok": true
+  },
+  {
+   "texto": "No, perdiste"
+  }
+ ],
+ "nota": "$250.000 × 40 % = $100.000. Menos $90.000 de fijos: $10.000.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

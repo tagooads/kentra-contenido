@@ -95,12 +95,11 @@
    "layout": "captura",
    "tema": "claro",
    "kicker": "Así lo ves en Kentra",
-   "titulo": "Cada cobro, **anotado en segundos**",
-   "sub": "Fecha, cuenta y monto de cada trabajo.",
-   "captura": "movil-registrar-venta.png",
-   "recorte": "140px",
-   "anchoCel": 520,
-   "mascara": 90
+   "titulo": "Cada encargo, **con lo que falta por cobrar**",
+   "sub": "Lo abonado y lo pendiente de cada trabajo.",
+   "captura": "movil-cuentas-lista-23nov.png",
+   "recorte": "130px",
+   "mascara": 85
   },
   {
    "layout": "mascota",

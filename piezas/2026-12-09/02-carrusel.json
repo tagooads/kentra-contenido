@@ -6,7 +6,7 @@
   {
    "layout": "portada",
    "tema": "verde",
-   "kicker": "Tiendas y negocios de barrio",
+   "kicker": "Tiendas de barrio",
    "titulo": "Lo que sacas de tu tienda **también es un gasto**",
    "sub": "El error que no se ve en la caja, pero sí a fin de mes.",
    "visual": "none",
@@ -16,16 +16,24 @@
    "layout": "valor",
    "tema": "claro",
    "num": 1,
-   "titulo": "«Es solo una gaseosa»",
-   "texto": "Lo que tomas para ti o para la casa salió de tu mercancía, aunque no pase por la caja.",
+   "titulo": "Lo que sacas al día",
+   "texto": "Una gaseosa, el pan, unos huevos: salió de tu mercancía, aunque no pase por la caja.",
    "ejemplo": {
     "filas": [
+     [
+      "Gaseosa y pan",
+      "$7.500"
+     ],
+     [
+      "Huevos y papas",
+      "$7.500"
+     ],
      [
       "Al día",
       "$15.000"
      ],
      [
-      "30 días",
+      "30 días",
       "$450.000",
       "rojo"
      ]
@@ -97,7 +105,7 @@
    "tema": "claro",
    "kicker": "Así lo ves en Kentra",
    "titulo": "Ingresos, gastos y **lo que de verdad quedó**",
-   "captura": "movil-resultados.png",
+   "captura": "movil-resultados-nov.png",
    "recorte": "382px"
   },
   {

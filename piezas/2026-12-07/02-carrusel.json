@@ -72,10 +72,10 @@
    "layout": "captura",
    "tema": "navy",
    "kicker": "Así lo ves en Kentra",
-   "titulo": "Cada venta y cada gasto, **con su día**",
-   "sub": "Ventas, proveedores y domicilios en una sola lista.",
-   "captura": "movil-movimientos.png",
-   "recorte": "0px"
+   "titulo": "Cada venta del día, **con cómo te pagaron**",
+   "sub": "Efectivo o datáfono, día por día y en pesos.",
+   "captura": "movil-movimientos-23nov.png",
+   "recorte": "740px"
   },
   {
    "layout": "mascota",

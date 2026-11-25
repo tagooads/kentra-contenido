@@ -1,0 +1,149 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verde",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "verde",
+   "kicker": "KentrAI",
+   "titulo": "5 preguntas que **le puedes hacer a tu negocio**",
+   "sub": "Tú anotas ventas y gastos. KentrAI te responde con esos datos.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "«¿Cuánto me quedó este mes?»",
+   "texto": "No lo que vendiste: lo que quedó después de los gastos que anotaste.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Entró",
+      "$8.400.000"
+     ],
+     [
+      "Salió",
+      "−$6.950.000",
+      "rojo"
+     ],
+     [
+      "Quedó",
+      "$1.450.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "«¿En qué se me fue más dinero?»",
+   "texto": "El gasto más grande del mes, para que decidas si lo bajas.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Mercancía",
+      "$3.100.000",
+      "rojo"
+     ],
+     [
+      "Arriendo",
+      "$1.800.000",
+      "rojo"
+     ],
+     [
+      "Domicilios",
+      "$430.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "«¿Quién me debe todavía?»",
+   "texto": "Las cuentas por cobrar que tienes pendientes y su fecha.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Oficinas",
+      "$380.000"
+     ],
+     [
+      "Colegio",
+      "$340.000"
+     ],
+     [
+      "Por cobrar",
+      "$720.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "«¿Cómo voy contra el mes pasado?»",
+   "texto": "Si entró más o menos y si te quedó más o menos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Noviembre",
+      "$1.200.000"
+     ],
+     [
+      "Diciembre",
+      "$1.450.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 5,
+   "titulo": "«¿Qué hago primero en enero?»",
+   "texto": "Te sugiere un primer paso con tus propios números.",
+   "bullets": [
+    "Cobrar lo pendiente",
+    "Revisar precios que subieron"
+   ]
+  },
+  {
+   "layout": "captura",
+   "tema": "navy",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Todo empieza con **anotar cada venta**",
+   "sub": "Fecha, cuenta y monto. KentrAI hace el resto.",
+   "captura": "movil-registrar-venta-23nov.png",
+   "recorte": "140px",
+   "anchoCel": 520,
+   "mascara": 90
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Pregúntale\na tu negocio",
+   "items": [
+    "Lo que te quedó",
+    "Quién te debe",
+    "Qué hacer en enero"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

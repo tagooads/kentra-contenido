@@ -1,0 +1,39 @@
+{
+ "layout": "recibo",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Floristería",
+ "titulo": "Un arreglo de $180.000: **lo que te queda**",
+ "negocio": "Arreglo de Navidad",
+ "detalle": "Cobraste $180.000",
+ "items": [
+  [
+   "Flores",
+   "−$60.000",
+   "rojo"
+  ],
+  [
+   "Base y papel",
+   "−$33.000",
+   "rojo"
+  ],
+  [
+   "Domicilio",
+   "−$12.000",
+   "rojo"
+  ],
+  [
+   "Datáfono",
+   "−$5.000",
+   "rojo"
+  ]
+ ],
+ "total": [
+  "Te queda",
+  "$70.000"
+ ],
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

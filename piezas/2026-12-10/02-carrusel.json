@@ -1,0 +1,137 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "noche",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "noche",
+   "kicker": "Hagamos la cuenta",
+   "titulo": "«Vendo $30.000.000 al año». **¿Y cuánto te queda?**",
+   "sub": "La pregunta que haría un inversionista, hecha con lápiz.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "Vender no es ganar",
+   "texto": "$30.000.000 al año suena bien. Antes de celebrar, se resta lo que costó vender.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendió al año",
+      "$30.000.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Resta lo que costó lo vendido",
+   "texto": "Si la mercancía le cuesta el 60 % de lo que vende:",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ventas",
+      "$30.000.000"
+     ],
+     [
+      "Mercancía",
+      "−$18.000.000",
+      "rojo"
+     ],
+     [
+      "Queda",
+      "$12.000.000"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Resta los gastos fijos",
+   "texto": "Arriendo, servicios e internet: $700.000 al mes son $8.400.000 al año.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Queda",
+      "$12.000.000"
+     ],
+     [
+      "Fijos",
+      "−$8.400.000",
+      "rojo"
+     ],
+     [
+      "Ganancia",
+      "$3.600.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Pásalo a meses",
+   "texto": "Ese es el número que de verdad mueve tu negocio.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Ganancia al año",
+      "$3.600.000"
+     ],
+     [
+      "Por mes",
+      "$300.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 5,
+   "titulo": "La pregunta final",
+   "texto": "De cada $100 que vende, ¿cuántos le quedan? Aquí, $12. Con ese número sí se decide.",
+   "bullets": [
+    "¿Subir precios?",
+    "¿Bajar fijos?",
+    "¿Vender otro producto?"
+   ]
+  },
+  {
+   "layout": "captura",
+   "tema": "noche",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Lo que tienes, lo que te deben **y lo que vas a tener**",
+   "sub": "Tu caja proyectada, sin sacar la cuenta a mano.",
+   "captura": "movil-analisis-23nov.png",
+   "recorte": "600px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Antes de celebrar,\nhaz la cuenta",
+   "items": [
+    "Resta la mercancía",
+    "Resta los fijos",
+    "Mira lo que queda"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

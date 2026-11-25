@@ -1,0 +1,14 @@
+{
+ "layout": "frase",
+ "formato": "historia",
+ "tema": "marfil",
+ "kicker": "Una regla para diciembre",
+ "titulo": "Ponle nombre a esto:",
+ "frase": "Lo que queda\nmanda.",
+ "porque": "No lo que vendiste ni lo que facturaste: lo que te quedó después de pagar todo.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ },
+ "tamFrase": 96
+}
