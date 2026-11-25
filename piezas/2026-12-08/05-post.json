@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "navy",
+ "kicker": "Gastos que no ves",
+ "texto": "«El empaque que no cobras, el envío de cortesía y el precio del año pasado. Parecen poco. Sumados, son tu ganancia de una semana.»",
+ "pie": "Anótalos como gasto y míralos juntos.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 64
+}

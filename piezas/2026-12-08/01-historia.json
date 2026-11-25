@@ -1,0 +1,11 @@
+{
+ "layout": "pregunta",
+ "formato": "historia",
+ "tema": "menta",
+ "titulo": "Hoy es festivo. ¿Abriste o cerraste?",
+ "sub": "Si abriste, anota lo de hoy aparte y compáralo con un día normal.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

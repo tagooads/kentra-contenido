@@ -1,0 +1,31 @@
+{
+ "layout": "dato",
+ "formato": "post",
+ "tema": "noche",
+ "titulo": "La nevera de $3.000.000 a 24 cuotas",
+ "filas": [
+  {
+   "label": "De contado",
+   "valor": "$3.000.000",
+   "color": "gris"
+  },
+  {
+   "label": "24 cuotas de",
+   "valor": "$180.000",
+   "color": "gris",
+   "grande": false
+  },
+  {
+   "label": "En total",
+   "valor": "$4.320.000",
+   "color": "rojo",
+   "grande": true,
+   "nota": "$1.320.000 más que de contado"
+  }
+ ],
+ "cierre": "Antes de firmar, mira la cuota contra lo que te queda.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

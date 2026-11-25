@@ -1,0 +1,31 @@
+{
+ "layout": "chat",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Pedidos de temporada",
+ "titulo": "Te escriben «¿precio?»",
+ "nombre": "Cliente",
+ "chat": [
+  [
+   "cliente",
+   "¿Precio de las anchetas?"
+  ],
+  [
+   "yo",
+   "¿Para cuántas personas y qué día?"
+  ],
+  [
+   "cliente",
+   "20, para el viernes 18."
+  ],
+  [
+   "yo",
+   "Te armo 2 opciones con lo que te deja cada una."
+  ]
+ ],
+ "cierre": "Primero el pedido, luego el número.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

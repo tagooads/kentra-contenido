@@ -1,0 +1,13 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Cuentas",
+ "titulo": "Lo que te deben y lo que debes, **sin depender de la memoria**",
+ "captura": "movil-cuentas.png",
+ "recorte": "390px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

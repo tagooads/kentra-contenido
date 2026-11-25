@@ -1,0 +1,40 @@
+{
+ "layout": "reparto",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Anchetas de Navidad",
+ "titulo": "Una ancheta de $150.000: **a dónde se va cada peso**",
+ "total": "$150.000",
+ "partes": [
+  [
+   "Productos",
+   "$69.000",
+   46
+  ],
+  [
+   "Canasta y empaque",
+   "$21.000",
+   14
+  ],
+  [
+   "Ayudante",
+   "$15.000",
+   10
+  ],
+  [
+   "Domicilio",
+   "$12.000",
+   8
+  ],
+  [
+   "Te queda",
+   "$33.000",
+   22
+  ]
+ ],
+ "cierre": "De cada ancheta que vendes, $33.000 son tuyos. El resto ya tenía dueño.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

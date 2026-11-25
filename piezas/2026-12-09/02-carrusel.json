@@ -1,0 +1,120 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "verde",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "verde",
+   "kicker": "Tiendas y negocios de barrio",
+   "titulo": "Lo que sacas de tu tienda **también es un gasto**",
+   "sub": "El error que no se ve en la caja, pero sí a fin de mes.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "«Es solo una gaseosa»",
+   "texto": "Lo que tomas para ti o para la casa salió de tu mercancía, aunque no pase por la caja.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Al día",
+      "$15.000"
+     ],
+     [
+      "30 días",
+      "$450.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Se nota cuando repones",
+   "texto": "Repones lo vendido y lo consumido, pero solo cobraste lo vendido.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Repusiste",
+      "$3.450.000"
+     ],
+     [
+      "Lo vendido costó",
+      "$3.000.000"
+     ],
+     [
+      "Salió sin cobrar",
+      "$450.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Anótalo como retiro",
+   "texto": "No está prohibido tomar de tu tienda. Está prohibido no anotarlo.",
+   "bullets": [
+    "Una categoría: «Consumo de la casa»",
+    "Al precio que te costó"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "Ponle un tope al mes",
+   "texto": "Decide cuánto puede salir así y revísalo cada domingo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Tope del mes",
+      "$200.000"
+     ],
+     [
+      "Llevas",
+      "−$140.000",
+      "rojo"
+     ],
+     [
+      "Te quedan",
+      "$60.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "claro",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Ingresos, gastos y **lo que de verdad quedó**",
+   "captura": "movil-resultados.png",
+   "recorte": "382px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Lo que sale de la tienda,\nse anota",
+   "items": [
+    "Una categoría aparte",
+    "Al precio de costo",
+    "Un tope al mes"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

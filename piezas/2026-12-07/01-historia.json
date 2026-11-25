@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Cuenta de lunes",
+ "texto": "«Si te entraron 20 y te salieron 19, no ganaste 20. Te quedó 1.»",
+ "pie": "La venta es lo que entra. La ganancia es lo que queda.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ },
+ "tamTexto": 74
+}

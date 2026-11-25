@@ -375,6 +375,442 @@
       "qa_ticket": "dcacbdf9-1dab-463c-a6fe-0e6338760a01",
       "origen_fecha": "2026-10-26T08:00:00-05:00",
       "reserva": true
+    },
+    {
+      "id": "2026-12-07-01-historia",
+      "fecha": "2026-12-07T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-07/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-07",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "cuenta mínima en postura",
+      "gancho": "Entraron 20 y salieron 19: te quedó 1",
+      "primera_linea": "«Si te entraron 20 y te salieron 19…",
+      "estilo": "tweet, blanco, tarjeta centrada (historia)",
+      "modela": {
+        "referencia": "@danilodominguezcruz, «Si ingresas 20 y gastas 19, no ganaste 20. Te quedó 1» (38.2K vistas, 7.9x su mediana)",
+        "url": "https://www.tiktok.com/@danilodominguezcruz/video/7707677536594971935",
+        "que_tomo": "la cuenta mínima con números simples que separa venta de ganancia"
+      }
+    },
+    {
+      "id": "2026-12-07-04-post",
+      "fecha": "2026-12-07T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-07/04-post.jpg"
+      ],
+      "caption": "Una ancheta de $150.000 no son $150.000 para ti.\nProductos $69.000, canasta y empaque $21.000, ayudante $15.000 y domicilio $12.000: te quedan $33.000, el 22 %.\n¿Ya sabes cuánto te deja cada ancheta que vendes? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "verticales",
+      "layout": "reparto",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-07",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "desglose de un pedido de temporada",
+      "gancho": "Una ancheta de $150.000: a dónde se va cada peso",
+      "primera_linea": "Una ancheta de $150.000 no son $150.000 para ti.",
+      "estilo": "reparto, marfil, barra apilada + 5 filas con %",
+      "modela": {
+        "referencia": "@tucaja_ai, «Cada 3 semanas pagás $27.629» (desglose de uñas, 111.7K vistas, 22.6x su mediana)",
+        "url": "https://www.instagram.com/reel/Df0mFTrAktc",
+        "que_tomo": "el desglose de un nicho con la cifra en el primer segundo y lo que le queda al dueño"
+      }
+    },
+    {
+      "id": "2026-12-07-02-carrusel",
+      "fecha": "2026-12-07T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-07/02-carrusel-1.jpg",
+        "piezas/2026-12-07/02-carrusel-2.jpg",
+        "piezas/2026-12-07/02-carrusel-3.jpg",
+        "piezas/2026-12-07/02-carrusel-4.jpg",
+        "piezas/2026-12-07/02-carrusel-5.jpg",
+        "piezas/2026-12-07/02-carrusel-6.jpg"
+      ],
+      "caption": "En diciembre el que gana no es el que vende más regalos: es el que vende margen.\nDesliza: kits en vez de piezas sueltas (la misma taza deja $7.000 sola y $32.000 en un kit), precio cerrado por kit y la caja de cada día separada para reponer en enero.\n¿Cuál de las 3 ya haces? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-07",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "molde «Si abriera… no vendería…» (6 slides)",
+      "gancho": "Si abriera una tienda de regalos en diciembre, no vendería regalos",
+      "primera_linea": "En diciembre el que gana no es el que vende más regalos…",
+      "estilo": "portada navy sin visual + valor claro/navy + captura Movimientos + cierre mascota verde",
+      "modela": {
+        "referencia": "@siabrieraunnegocio, «Si abriera un salón de uñas acrílicas hoy, te aseguro que no vendería uñas» (252.7K vistas)",
+        "url": "https://www.tiktok.com/@siabrieraunnegocio/video/7709054167779708181",
+        "que_tomo": "la promesa contraria en la portada y el cierre con 3 reglas operativas"
+      }
+    },
+    {
+      "id": "2026-12-07-05-post",
+      "fecha": "2026-12-07T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-07/05-post.jpg"
+      ],
+      "caption": "Contestar «¿precio?» con un número es perder la venta o perder el margen.\nAntes pregunta cuántas y para cuándo: con eso armas dos opciones y sabes cuánto te deja cada una.\nAnota cada pedido con su costo. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "objeciones",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-07",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "chat: responder «¿precio?» con preguntas",
+      "gancho": "Te escriben «¿precio?»",
+      "primera_linea": "Contestar «¿precio?» con un número…",
+      "estilo": "chat, claro, conversación de 4 globos",
+      "modela": {
+        "referencia": "@patyyolart, «Si te comentan precio no contestes con un número» (35.1K vistas, 98.2x su mediana)",
+        "url": "https://www.instagram.com/reel/DfyRzG0siXS",
+        "que_tomo": "la postura de no responder el precio con un número y la respuesta modelo"
+      }
+    },
+    {
+      "id": "2026-12-07-03-historia",
+      "fecha": "2026-12-07T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-07/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-07",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "captura real: Resultados",
+      "gancho": "Lo que entró, lo que salió y lo que quedó",
+      "primera_linea": "Lo que entró, lo que salió…",
+      "estilo": "captura, verde, celular con Resultados (historia)",
+      "modela": {
+        "referencia": "Método PISO Liderazgo Retail, «Calcula lo que realmente ganas» (activo desde ~18 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1146976011639315",
+        "que_tomo": "la promesa de ganancia real en pocas palabras sobre una pantalla"
+      }
+    },
+    {
+      "id": "2026-12-08-01-historia",
+      "fecha": "2026-12-08T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-08/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-08",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "pregunta de dilema en festivo",
+      "gancho": "Hoy es festivo. ¿Abriste o cerraste?",
+      "primera_linea": "Hoy es festivo…",
+      "estilo": "pregunta, menta, titular enorme sin mascota",
+      "modela": {
+        "referencia": "@lebronedinson, «¿Prefieres volumen alto con margen apretado o volumen medio con buen margen?» (37.2K vistas, 14.9x)",
+        "url": "https://www.instagram.com/reel/Dfm5E3KPAwA",
+        "que_tomo": "el dilema de dos opciones que invita a responder"
+      }
+    },
+    {
+      "id": "2026-12-08-04-post",
+      "fecha": "2026-12-08T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-08/04-post.jpg"
+      ],
+      "caption": "Abrir un festivo no siempre conviene. Hay que hacer la cuenta.\nVendiste $1.200.000; menos mercancía, el pago extra del ayudante, luz y domicilios, te quedaron $375.000. Un día normal te deja $300.000: esta vez sí valió la pena.\nCompara tus días con números. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "pizarra",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-08",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "cuenta de abrir el festivo",
+      "gancho": "Abriste el festivo y vendiste $1.200.000. ¿Te convino?",
+      "primera_linea": "Abrir un festivo no siempre conviene.",
+      "estilo": "pizarra, blanco, cuenta con resultado encerrado y nota",
+      "modela": {
+        "referencia": "@isaacgarciamorhaim, «El error que te está haciendo perder dinero (no digas que no, saca la cuenta)» (101.2K vistas, 46.6x)",
+        "url": "https://www.instagram.com/reel/DfvVp92jcAX",
+        "que_tomo": "la decisión de negocio resuelta con una cuenta concreta a la vista"
+      }
+    },
+    {
+      "id": "2026-12-08-02-carrusel",
+      "fecha": "2026-12-08T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-08/02-carrusel-1.jpg",
+        "piezas/2026-12-08/02-carrusel-2.jpg",
+        "piezas/2026-12-08/02-carrusel-3.jpg",
+        "piezas/2026-12-08/02-carrusel-4.jpg",
+        "piezas/2026-12-08/02-carrusel-5.jpg",
+        "piezas/2026-12-08/02-carrusel-6.jpg"
+      ],
+      "caption": "Cobrar $400.000 por un trabajo no es ganar $400.000.\nDesliza: restas materiales, transporte y datáfono, luego la parte de tus fijos ($100.000 por trabajo) y divides por las 14 horas reales. Te quedan $168.000: $12.000 por hora.\n¿Cuánto ganas tú por hora? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-08",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "cuánto ganas por cada trabajo (6 slides)",
+      "gancho": "Cobras $400.000 por trabajo. ¿Cuánto ganas de verdad?",
+      "primera_linea": "Cobrar $400.000 por un trabajo no es ganar $400.000.",
+      "estilo": "portada claro sin visual + valor navy/claro con tablas + captura Registrar venta + cierre mascota",
+      "modela": {
+        "referencia": "Sublima Con Exito, «¿Cuánto ganás por cada trabajo?» (activo desde ~20 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=29643999571887325",
+        "que_tomo": "la pregunta de ganancia por trabajo y la cuenta de un oficio concreto"
+      }
+    },
+    {
+      "id": "2026-12-08-05-post",
+      "fecha": "2026-12-08T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-08/05-post.jpg"
+      ],
+      "caption": "Los gastos que más cuestan son los que no anotas.\nEl empaque de regalo que no cobras, el envío de cortesía y el precio que no actualizaste: cada uno parece poco, juntos se llevan una semana de ganancia.\nAnótalos como gasto y míralos juntos. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Pymes",
+      "pilar": "ganancia-real",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-08",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "postura sobre gastos que no se ven",
+      "gancho": "Los gastos que no ves se comen tu ganancia",
+      "primera_linea": "Los gastos que más cuestan son los que no anotas.",
+      "estilo": "tweet, navy, tarjeta grande con texto",
+      "modela": {
+        "referencia": "Organizando Tu Vida, «Calcula el costo real de tus arreglos florales / de tus platos» (anuncios activos)",
+        "url": "https://www.facebook.com/ads/library/?id=4439596406298072",
+        "que_tomo": "la idea del costo real que no se ve en el precio"
+      }
+    },
+    {
+      "id": "2026-12-08-03-historia",
+      "fecha": "2026-12-08T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-08/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "lista",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-08",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "checklist de 3",
+      "gancho": "Antes de cerrar el puente, anota 3 cosas",
+      "primera_linea": "Antes de cerrar el puente…",
+      "estilo": "lista, claro, 3 checks en tarjeta (historia)",
+      "modela": {
+        "referencia": "@mmpiensaloclips, «¿Conoces los números de tu negocio?» (140.3K vistas, 77.4x)",
+        "url": "https://www.tiktok.com/@mmpiensaloclips/video/7705548586771123462",
+        "que_tomo": "la pregunta de identidad con lista de 3"
+      }
+    },
+    {
+      "id": "2026-12-09-01-historia",
+      "fecha": "2026-12-09T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-09/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-09",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "captura real: Cuentas por cobrar/pagar",
+      "gancho": "Lo que te deben y lo que debes, sin depender de la memoria",
+      "primera_linea": "Lo que te deben y lo que debes…",
+      "estilo": "captura, claro, celular con Cuentas por cobrar (historia)",
+      "modela": {
+        "referencia": "Bind México, «Tu ferretería sin depender de memoria» (3 anuncios activos desde 22 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=2268383474112627",
+        "que_tomo": "la promesa de no depender de la memoria para las cuentas"
+      }
+    },
+    {
+      "id": "2026-12-09-04-post",
+      "fecha": "2026-12-09T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-09/04-post.jpg"
+      ],
+      "caption": "Una cuota de $180.000 parece poco hasta que la multiplicas.\nLa nevera de $3.000.000 a 24 cuotas termina costando $4.320.000: $1.320.000 más que de contado.\nAntes de firmar, mira la cuota contra lo que te queda cada mes. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "educacion",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-09",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "dato de una compra a cuotas",
+      "gancho": "La nevera de $3.000.000 a 24 cuotas",
+      "primera_linea": "Una cuota de $180.000 parece poco…",
+      "estilo": "dato, noche, tres filas con el total grande en rojo",
+      "modela": {
+        "referencia": "@hermoso.pk31, «¿Qué pasaría si volvieras al kínder con la mente de un empresario?» (204.7K vistas, prestamista y lecciones de plata)",
+        "url": "https://www.tiktok.com/@hermoso.pk31/video/7707879502852001055",
+        "que_tomo": "la lección de dinero que termina en cuánto se paga al final"
+      }
+    },
+    {
+      "id": "2026-12-09-02-carrusel",
+      "fecha": "2026-12-09T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-09/02-carrusel-1.jpg",
+        "piezas/2026-12-09/02-carrusel-2.jpg",
+        "piezas/2026-12-09/02-carrusel-3.jpg",
+        "piezas/2026-12-09/02-carrusel-4.jpg",
+        "piezas/2026-12-09/02-carrusel-5.jpg",
+        "piezas/2026-12-09/02-carrusel-6.jpg",
+        "piezas/2026-12-09/02-carrusel-7.jpg"
+      ],
+      "caption": "Una gaseosa al día de tu propia tienda son $450.000 al mes que nadie cobró.\nDesliza: por qué se nota cuando repones, cómo anotarlo como retiro al precio de costo y cómo ponerle un tope al mes.\n¿Cuánto sale de tu tienda sin pasar por la caja? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-09",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "el error de consumir tu propia mercancía (7 slides)",
+      "gancho": "Lo que sacas de tu tienda también es un gasto",
+      "primera_linea": "Una gaseosa al día de tu propia tienda…",
+      "estilo": "portada verde sin visual + valor claro/navy + captura Resultados + cierre mascota",
+      "modela": {
+        "referencia": "@angelroque.01, «EL PEOR ERROR DE TU NEGOCIO (consumir tu propia mercancía)» (208.6K vistas)",
+        "url": "https://www.tiktok.com/@angelroque.01/video/7706947723055877406",
+        "que_tomo": "el error de tendero de consumir la mercancía y la regla para corregirlo"
+      }
+    },
+    {
+      "id": "2026-12-09-05-post",
+      "fecha": "2026-12-09T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-09/05-post.jpg"
+      ],
+      "caption": "La hoja de cálculo de la tienda empieza bien y se abandona en dos semanas.\nEn Kentra anotas la venta desde el celular, ves el total al instante y sabes quién te debe sin otra libreta.\nOrdena las cuentas de tu tienda desde hoy. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "kentra-vs-excel",
+      "layout": "versus",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-09",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "versus por oficio",
+      "gancho": "Tu tienda de barrio: Excel vs Kentra",
+      "primera_linea": "La hoja de cálculo de la tienda empieza bien…",
+      "estilo": "versus, claro, Excel con hoja estresada vs Kentra con mascota",
+      "modela": {
+        "referencia": "Kev.Estoico, «Ordena las finanzas de tu negocio desde hoy» (activo desde 25 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=1485633840169029",
+        "que_tomo": "la promesa de orden inmediato dirigida a un negocio concreto"
+      }
+    },
+    {
+      "id": "2026-12-09-03-historia",
+      "fecha": "2026-12-09T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-09/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "skit",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "pendiente",
+      "carpeta": "2026-12-09",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "sketch de la objeción de tiempo",
+      "gancho": "«No tengo tiempo de anotar»",
+      "primera_linea": "«No tengo tiempo de anotar»",
+      "estilo": "skit, verde, Tú vs La cuenta (historia)",
+      "modela": {
+        "referencia": "@paco.benitez, «Un cliente pide descuento: cuatro niveles de respuesta» (699.8K vistas, 31.9x)",
+        "url": "https://www.tiktok.com/@paco.benitez/video/7708553738142616852",
+        "que_tomo": "el roleplay corto de una sola objeción entre dos voces"
+      }
     }
   ]
 }

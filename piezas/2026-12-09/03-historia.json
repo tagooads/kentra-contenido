@@ -1,0 +1,38 @@
+{
+ "layout": "skit",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "«No tengo tiempo de anotar»",
+ "a": {
+  "nombre": "Tú"
+ },
+ "b": {
+  "nombre": "La cuenta"
+ },
+ "lineas": [
+  [
+   "a",
+   "No tengo tiempo de anotar nada."
+  ],
+  [
+   "b",
+   "¿Cuánto vendiste hoy?"
+  ],
+  [
+   "a",
+   "Como $400.000."
+  ],
+  [
+   "b",
+   "¿Y cuánto te quedó?"
+  ],
+  [
+   "a",
+   "…"
+  ]
+ ],
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

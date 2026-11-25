@@ -1,0 +1,14 @@
+{
+ "layout": "captura",
+ "formato": "historia",
+ "tema": "verde",
+ "kicker": "Resultados",
+ "titulo": "Lo que entró, lo que salió y **lo que quedó**",
+ "sub": "Un vistazo y sabes si el mes te dejó ganancia.",
+ "captura": "movil-resultados.png",
+ "recorte": "470px",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": true
+ }
+}

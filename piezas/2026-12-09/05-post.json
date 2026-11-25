@@ -1,0 +1,27 @@
+{
+ "layout": "versus",
+ "formato": "post",
+ "tema": "claro",
+ "titulo": "Tu tienda de barrio: Excel vs Kentra",
+ "izq": {
+  "titulo": "Excel",
+  "items": [
+   "Nadie la abre",
+   "Sumas a mano",
+   "Lo fiado, aparte"
+  ]
+ },
+ "der": {
+  "titulo": "Kentra",
+  "figura": "telefono",
+  "items": [
+   "Desde el celular",
+   "El total, al instante",
+   "Quién te debe"
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "navy",
+   "kicker": "Tienda de regalos",
+   "titulo": "Si abriera una tienda de regalos en diciembre, **no vendería regalos**",
+   "sub": "Vendería margen. Estas son las 3 reglas.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "Vendería kits, no piezas sueltas",
+   "texto": "Una taza de $30.000 deja poco. La misma taza en un kit de $85.000 deja mucho más.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Taza sola",
+      "deja $7.000"
+     ],
+     [
+      "Kit armado",
+      "deja $32.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "Pondría un precio cerrado por kit",
+   "texto": "Nada de «arma el tuyo» con precio por pieza: se pierde tiempo y margen.",
+   "bullets": [
+    "3 kits fijos: $55.000, $85.000 y $120.000",
+    "Cada uno con su costo anotado"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "Separaría la caja de cada día",
+   "texto": "Lo que entra en diciembre no es todo tuyo: una parte repone la mercancía de enero.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste hoy",
+      "$1.400.000"
+     ],
+     [
+      "Para reponer",
+      "−$760.000",
+      "rojo"
+     ],
+     [
+      "Queda del día",
+      "$640.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "navy",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada venta y cada gasto, **con su día**",
+   "sub": "Ventas, proveedores y domicilios en una sola lista.",
+   "captura": "movil-movimientos.png",
+   "recorte": "0px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Vende margen,\nno solo regalos",
+   "items": [
+    "Kits con costo anotado",
+    "Precio cerrado",
+    "Caja del día separada"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

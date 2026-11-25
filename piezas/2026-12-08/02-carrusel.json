@@ -1,0 +1,122 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "claro",
+   "kicker": "Servicios por encargo",
+   "titulo": "Cobras $400.000 por trabajo. **¿Cuánto ganas de verdad?**",
+   "sub": "Haz la cuenta de un solo trabajo, de principio a fin.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Resta lo que gastas en ese trabajo",
+   "texto": "Materiales, transporte y lo que te cobra el datáfono.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Cobras",
+      "$400.000"
+     ],
+     [
+      "Materiales",
+      "−$90.000",
+      "rojo"
+     ],
+     [
+      "Transporte",
+      "−$30.000",
+      "rojo"
+     ],
+     [
+      "Datáfono",
+      "−$12.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "Resta la parte de tus fijos",
+   "texto": "Arriendo, internet y herramientas se reparten entre los trabajos del mes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Fijos del mes",
+      "$1.200.000"
+     ],
+     [
+      "Trabajos al mes",
+      "12"
+     ],
+     [
+      "A cada trabajo",
+      "−$100.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Divide por las horas reales",
+   "texto": "Cuenta todo: reuniones, cambios y entrega, no solo las horas de hacerlo.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Te queda",
+      "$168.000",
+      "verde"
+     ],
+     [
+      "Horas reales",
+      "14"
+     ],
+     [
+      "Ganas por hora",
+      "$12.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "claro",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cada cobro, **anotado en segundos**",
+   "sub": "Fecha, cuenta y monto de cada trabajo.",
+   "captura": "movil-registrar-venta.png",
+   "recorte": "140px",
+   "anchoCel": 520,
+   "mascara": 90
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Cobra por trabajo,\ncuenta por hora",
+   "items": [
+    "Costos del trabajo",
+    "Parte de los fijos",
+    "Horas reales"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

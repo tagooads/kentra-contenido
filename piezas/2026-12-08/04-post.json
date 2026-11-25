@@ -1,0 +1,38 @@
+{
+ "layout": "pizarra",
+ "formato": "post",
+ "tema": "blanco",
+ "kicker": "Día festivo",
+ "titulo": "Abriste el festivo y vendiste $1.200.000. **¿Te convino?**",
+ "lineas": [
+  [
+   "Ventas del festivo",
+   "$1.200.000"
+  ],
+  [
+   "Mercancía",
+   "−$660.000",
+   "rojo"
+  ],
+  [
+   "Pago extra al ayudante",
+   "−$105.000",
+   "rojo"
+  ],
+  [
+   "Luz y domicilios",
+   "−$60.000",
+   "rojo"
+  ],
+  [
+   "Te quedó",
+   "$375.000",
+   "res"
+  ]
+ ],
+ "nota": "Un día normal te deja $300.000: abrir sí te convino, por $75.000.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "layout": "lista",
+ "formato": "historia",
+ "tema": "claro",
+ "kicker": "Fin del puente",
+ "titulo": "Antes de cerrar el puente, anota 3 cosas",
+ "items": [
+  "Cuánto vendiste cada día",
+  "Cuánto gastaste para abrir",
+  "Quién te quedó debiendo"
+ ],
+ "cierre": "Haz el diagnóstico de tu negocio en 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}
