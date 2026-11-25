@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 69 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 79 piezas agendadas.
 
 
 ## Miércoles 25/11
@@ -646,6 +646,19 @@ Productos $69.000, canasta y empaque $21.000, ayudante $15.000 y domicilio $12.0
 
 </details>
 
+**12:00 — Carrusel** · educacion · `2026-12-07-02-carrusel`
+
+<img src="piezas/2026-12-07/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-07/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-07/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-07/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-07/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-07/02-carrusel-6.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+En diciembre el que gana no es el que vende más regalos: es el que vende margen.
+Desliza: kits en vez de piezas sueltas (la misma taza deja $7.000 sola y $32.000 en un kit), precio cerrado por kit y la caja de cada día separada para reponer en enero.
+¿Cuál de las 3 ya haces? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline
+
+</details>
+
 **18:00 — Post** · objeciones · `2026-12-07-05-post`
 
 <img src="piezas/2026-12-07/05-post.jpg" width="220">
@@ -680,6 +693,19 @@ Abrir un festivo no siempre conviene. Hay que hacer la cuenta.
 Vendiste $1.200.000; menos mercancía, el pago extra del ayudante, luz y domicilios, te quedaron $375.000. Un día normal te deja $300.000: esta vez sí valió la pena.
 Compara tus días con números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**12:00 — Carrusel** · ganancia-real · `2026-12-08-02-carrusel`
+
+<img src="piezas/2026-12-08/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-08/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-08/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-08/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-08/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-08/02-carrusel-6.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Cobrar $400.000 por un trabajo no es ganar $400.000.
+Desliza: restas materiales, transporte y datáfono, luego la parte de tus fijos ($100.000 por trabajo) y divides por las 14 horas reales. Te quedan $168.000: $12.000 por hora.
+¿Cuánto ganas tú por hora? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer
 
 </details>
 
@@ -720,6 +746,19 @@ Antes de firmar, mira la cuota contra lo que te queda cada mes. 👉 [link de la
 
 </details>
 
+**12:00 — Carrusel** · ganancia-real · `2026-12-09-02-carrusel`
+
+<img src="piezas/2026-12-09/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-09/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-09/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-09/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-09/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-09/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-09/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Una gaseosa, el pan y unos huevos al día de tu propia tienda son $450.000 al mes que nadie cobró.
+Desliza: por qué se nota cuando repones, cómo anotarlo como retiro al precio de costo y cómo ponerle un tope al mes.
+¿Cuánto sale de tu tienda sin pasar por la caja? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
 **18:00 — Post** · kentra-vs-excel · `2026-12-09-05-post`
 
 <img src="piezas/2026-12-09/05-post.jpg" width="220">
@@ -736,6 +775,76 @@ Ordena las cuentas de tu tienda desde hoy. 👉 [link de la bio en Instagram / l
 **19:00 — Historia** · objeciones · `2026-12-09-03-historia`
 
 <img src="piezas/2026-12-09/03-historia.jpg" width="160">
+
+
+## Jueves 10/12
+
+**08:00 — Historia** · ganancia-real · `2026-12-10-01-historia`
+
+<img src="piezas/2026-12-10/01-historia.jpg" width="160">
+
+**10:00 — Post** · educación · `2026-12-10-04-post`
+
+<img src="piezas/2026-12-10/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+30 tamales y el mismo precio no siempre te dejan lo mismo.
+Si compras los insumos al detal pagas $300.000 y te quedan $150.000. Al por mayor pagas $240.000 y te quedan $210.000: $60.000 más por el mismo trabajo.
+¿Dónde compras los insumos de tus encargos? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Tamales
+
+</details>
+
+**12:00 — Carrusel** · ganancia-real · `2026-12-10-02-carrusel`
+
+<img src="piezas/2026-12-10/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-12-10/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+«Vendo $30.000.000 al año» suena bien hasta que haces la cuenta.
+Desliza: menos $18.000.000 de mercancía y $8.400.000 de fijos quedan $3.600.000, o sea $300.000 al mes: $12 de cada $100 que vende.
+¿Cuántos pesos te quedan a ti de cada $100? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio
+
+</details>
+
+**19:00 — Historia** · educación · `2026-12-10-03-historia`
+
+<img src="piezas/2026-12-10/03-historia.jpg" width="160">
+
+
+## Viernes 11/12
+
+**08:00 — Historia** · objeciones · `2026-12-11-01-historia`
+
+<img src="piezas/2026-12-11/01-historia.jpg" width="160">
+
+**10:00 — Post** · verticales · `2026-12-11-04-post`
+
+<img src="piezas/2026-12-11/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Un arreglo de $180.000 no son $180.000 para ti.
+Flores $60.000, base y papel $33.000, domicilio $12.000 y datáfono $5.000: te quedan $70.000.
+¿Ya sabes cuánto te deja cada arreglo de Navidad? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Floristeria
+
+</details>
+
+**18:00 — Post** · ganancia-real · `2026-12-11-05-post`
+
+<img src="piezas/2026-12-11/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+En diciembre se vende más. No siempre se gana más.
+Compras más mercancía, pagas más domicilios y más horas extra. Si no lo anotas, enero te pasa la cuenta.
+¿Tu diciembre del año pasado te dejó lo que esperabas? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Diciembre
+
+</details>
 
 
 ## Últimas publicadas
