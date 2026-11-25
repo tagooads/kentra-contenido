@@ -1,0 +1,35 @@
+{
+ "layout": "split",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Diciembre",
+ "arriba": {
+  "kicker": "Lo que dices",
+  "texto": "«Vendí el doble en diciembre.»",
+  "tam": 72,
+  "play": false
+ },
+ "abajo": {
+  "kicker": "La cuenta de $12.000.000",
+  "filas": [
+   [
+    "Mercancía",
+    "$6.600.000"
+   ],
+   [
+    "Personal y fijos",
+    "$2.800.000"
+   ],
+   [
+    "Te quedó",
+    "$2.600.000",
+    "res"
+   ]
+  ]
+ },
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "ajustar": true
+}

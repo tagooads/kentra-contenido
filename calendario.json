@@ -10602,6 +10602,41 @@
       "qa_ticket": "c4cb86ad-75d2-4cb6-8b29-828adf2ee8a5"
     },
     {
+      "id": "2026-12-07-02-carrusel",
+      "fecha": "2026-12-07T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-07/02-carrusel-1.jpg",
+        "piezas/2026-12-07/02-carrusel-2.jpg",
+        "piezas/2026-12-07/02-carrusel-3.jpg",
+        "piezas/2026-12-07/02-carrusel-4.jpg",
+        "piezas/2026-12-07/02-carrusel-5.jpg",
+        "piezas/2026-12-07/02-carrusel-6.jpg"
+      ],
+      "caption": "En diciembre el que gana no es el que vende más regalos: es el que vende margen.\nDesliza: kits en vez de piezas sueltas (la misma taza deja $7.000 sola y $32.000 en un kit), precio cerrado por kit y la caja de cada día separada para reponer en enero.\n¿Cuál de las 3 ya haces? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-07",
+      "archivo": "02-carrusel",
+      "version": 2,
+      "formato": "molde «Si abriera… no vendería…» (6 slides)",
+      "gancho": "Si abriera una tienda de regalos en diciembre, no vendería regalos",
+      "primera_linea": "En diciembre el que gana no es el que vende más regalos…",
+      "estilo": "portada navy sin visual + valor claro/navy + captura Movimientos (efectivo y datáfono) + cierre mascota verde",
+      "modela": {
+        "referencia": "@siabrieraunnegocio, «Si abriera un salón de uñas acrílicas hoy, te aseguro que no vendería uñas» (252.7K vistas)",
+        "url": "https://www.tiktok.com/@siabrieraunnegocio/video/7709054167779708181",
+        "que_tomo": "la promesa contraria en la portada y el cierre con 3 reglas operativas"
+      },
+      "qa_ticket_anterior": "dafa88f1-90c5-4403-97da-63b56fd3ebfc",
+      "qa_ticket": "190166db-8835-4a8b-bcb1-b3ead6308e0e"
+    },
+    {
       "id": "2026-12-07-05-post",
       "fecha": "2026-12-07T18:00:00-05:00",
       "tipo": "post",
@@ -10716,6 +10751,41 @@
         "que_tomo": "la decisión de negocio resuelta con una cuenta concreta a la vista"
       },
       "qa_ticket": "78717dca-0ed1-4267-8fab-ca2504c58902"
+    },
+    {
+      "id": "2026-12-08-02-carrusel",
+      "fecha": "2026-12-08T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-08/02-carrusel-1.jpg",
+        "piezas/2026-12-08/02-carrusel-2.jpg",
+        "piezas/2026-12-08/02-carrusel-3.jpg",
+        "piezas/2026-12-08/02-carrusel-4.jpg",
+        "piezas/2026-12-08/02-carrusel-5.jpg",
+        "piezas/2026-12-08/02-carrusel-6.jpg"
+      ],
+      "caption": "Cobrar $400.000 por un trabajo no es ganar $400.000.\nDesliza: restas materiales, transporte y datáfono, luego la parte de tus fijos ($100.000 por trabajo) y divides por las 14 horas reales. Te quedan $168.000: $12.000 por hora.\n¿Cuánto ganas tú por hora? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Freelancer",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-08",
+      "archivo": "02-carrusel",
+      "version": 2,
+      "formato": "cuánto ganas por cada trabajo (6 slides)",
+      "gancho": "Cobras $400.000 por trabajo. ¿Cuánto ganas de verdad?",
+      "primera_linea": "Cobrar $400.000 por un trabajo no es ganar $400.000.",
+      "estilo": "portada claro sin visual + valor navy/claro con tablas + captura Lista de cuentas (encargo por cobrar) + cierre mascota",
+      "modela": {
+        "referencia": "Sublima Con Exito, «¿Cuánto ganás por cada trabajo?» (activo desde ~20 nov)",
+        "url": "https://www.facebook.com/ads/library/?id=29643999571887325",
+        "que_tomo": "la pregunta de ganancia por trabajo y la cuenta de un oficio concreto"
+      },
+      "qa_ticket_anterior": "85a7c3bb-6f65-4cdd-b002-25585840d948",
+      "qa_ticket": "cc8a7a81-a37f-4c72-ab1f-8e6a51ddb7dc"
     },
     {
       "id": "2026-12-08-05-post",
@@ -10834,6 +10904,42 @@
       "qa_ticket": "75a416c5-531c-4d41-a843-fe08a9d23016"
     },
     {
+      "id": "2026-12-09-02-carrusel",
+      "fecha": "2026-12-09T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-09/02-carrusel-1.jpg",
+        "piezas/2026-12-09/02-carrusel-2.jpg",
+        "piezas/2026-12-09/02-carrusel-3.jpg",
+        "piezas/2026-12-09/02-carrusel-4.jpg",
+        "piezas/2026-12-09/02-carrusel-5.jpg",
+        "piezas/2026-12-09/02-carrusel-6.jpg",
+        "piezas/2026-12-09/02-carrusel-7.jpg"
+      ],
+      "caption": "Una gaseosa, el pan y unos huevos al día de tu propia tienda son $450.000 al mes que nadie cobró.\nDesliza: por qué se nota cuando repones, cómo anotarlo como retiro al precio de costo y cómo ponerle un tope al mes.\n¿Cuánto sale de tu tienda sin pasar por la caja? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-09",
+      "archivo": "02-carrusel",
+      "version": 2,
+      "formato": "el error de consumir tu propia mercancía (7 slides)",
+      "gancho": "Lo que sacas de tu tienda también es un gasto",
+      "primera_linea": "Una gaseosa, el pan y unos huevos al día…",
+      "estilo": "portada verde sin visual + valor claro/navy + captura Resultados de noviembre + cierre mascota",
+      "modela": {
+        "referencia": "@angelroque.01, «EL PEOR ERROR DE TU NEGOCIO (consumir tu propia mercancía)» (208.6K vistas)",
+        "url": "https://www.tiktok.com/@angelroque.01/video/7706947723055877406",
+        "que_tomo": "el error de tendero de consumir la mercancía y la regla para corregirlo"
+      },
+      "qa_ticket_anterior": "bc6547e2-226c-4b40-b1ba-abd364d8dcba",
+      "qa_ticket": "e3849f4b-ee74-41a4-8146-6dcbe7c5f368"
+    },
+    {
       "id": "2026-12-09-05-post",
       "fecha": "2026-12-09T18:00:00-05:00",
       "tipo": "post",
@@ -10890,6 +10996,216 @@
         "que_tomo": "el roleplay corto de una sola objeción entre dos voces"
       },
       "qa_ticket": "bca33a0e-6679-4b57-8648-bacb4ecca3dd"
+    },
+    {
+      "id": "2026-12-10-01-historia",
+      "fecha": "2026-12-10T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-10/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "frase",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-10",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "concepto con nombre propio",
+      "gancho": "«Lo que queda manda»",
+      "primera_linea": "Ponle nombre a esto: Lo que queda manda.",
+      "estilo": "frase, marfil, tarjeta con comillas (historia)",
+      "modela": {
+        "referencia": "@mr.paidsocial, concepto bautizado",
+        "url": "https://www.instagram.com/p/DfqBEPwlJL5/",
+        "que_tomo": "bautizar una idea con un nombre corto que se repite"
+      },
+      "qa_ticket": "28638805-9e65-4915-bc96-7f402461177a"
+    },
+    {
+      "id": "2026-12-10-04-post",
+      "fecha": "2026-12-10T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-10/04-post.jpg"
+      ],
+      "caption": "30 tamales y el mismo precio no siempre te dejan lo mismo.\nSi compras los insumos al detal pagas $300.000 y te quedan $150.000. Al por mayor pagas $240.000 y te quedan $210.000: $60.000 más por el mismo trabajo.\n¿Dónde compras los insumos de tus encargos? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Tamales",
+      "pilar": "educación",
+      "layout": "antes",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-10",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "pedido al detal vs al por mayor",
+      "gancho": "30 tamales: el mismo pedido te deja $60.000 más",
+      "primera_linea": "30 tamales y el mismo precio no siempre te dejan lo mismo.",
+      "estilo": "antes, claro, dos tarjetas ajustadas (post)",
+      "modela": {
+        "referencia": "Comida, negocios y libertad (anuncio activo)",
+        "url": "https://www.facebook.com/ads/library/?id=4407336366181495",
+        "que_tomo": "la cocina de temporada vista como negocio, con la cuenta del pedido"
+      },
+      "qa_ticket": "30225b49-9717-4e26-8b1d-43f9ddbdfec1"
+    },
+    {
+      "id": "2026-12-10-02-carrusel",
+      "fecha": "2026-12-10T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-10/02-carrusel-1.jpg",
+        "piezas/2026-12-10/02-carrusel-2.jpg",
+        "piezas/2026-12-10/02-carrusel-3.jpg",
+        "piezas/2026-12-10/02-carrusel-4.jpg",
+        "piezas/2026-12-10/02-carrusel-5.jpg",
+        "piezas/2026-12-10/02-carrusel-6.jpg",
+        "piezas/2026-12-10/02-carrusel-7.jpg",
+        "piezas/2026-12-10/02-carrusel-8.jpg"
+      ],
+      "caption": "«Vendo $30.000.000 al año» suena bien hasta que haces la cuenta.\nDesliza: menos $18.000.000 de mercancía y $8.400.000 de fijos quedan $3.600.000, o sea $300.000 al mes: $12 de cada $100 que vende.\n¿Cuántos pesos te quedan a ti de cada $100? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegocioPropio",
+      "pilar": "ganancia-real",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-10",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "reacción a un pitch: hagamos la cuenta",
+      "gancho": "«Vendo $30.000.000 al año»: ¿y cuánto te queda?",
+      "primera_linea": "«Vendo $30.000.000 al año» suena bien hasta que haces la cuenta.",
+      "estilo": "portada noche sin visual + valor claro/navy + captura Análisis (proyección) + cierre mascota verde",
+      "modela": {
+        "referencia": "tendencia Shark Tank · @neoestrategia",
+        "url": "https://www.tiktok.com/@neoestrategia/video/7699946597152607506",
+        "que_tomo": "la reacción a la cifra del pitch y la pregunta de cuánto queda"
+      },
+      "qa_ticket": "1d2d2a05-a85d-43c1-99ab-49a3d2859b24"
+    },
+    {
+      "id": "2026-12-10-03-historia",
+      "fecha": "2026-12-10T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-10/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educación",
+      "layout": "reto",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-10",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "reto de punto de equilibrio diario",
+      "gancho": "¿Ganaste con $250.000 y fijos de $90.000?",
+      "primera_linea": "Tus fijos son $90.000 al día…",
+      "estilo": "reto, blanco, 3 opciones con la correcta marcada (historia)",
+      "modela": {
+        "referencia": "Tatiana Castro, «Tu punto de equilibrio»",
+        "url": "https://www.facebook.com/ads/library/?id=2149392075680933",
+        "que_tomo": "el punto de equilibrio del día explicado con una sola cuenta"
+      },
+      "qa_ticket": "b9854391-2a9b-456a-8758-dbbebc4c7f70"
+    },
+    {
+      "id": "2026-12-11-01-historia",
+      "fecha": "2026-12-11T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-11/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "chat",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-11",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "chat con el proveedor",
+      "gancho": "«Para enero sube 8 %»",
+      "primera_linea": "Para enero el bulto sube 8 %.",
+      "estilo": "chat, menta, pantallazo con el proveedor (historia)",
+      "modela": {
+        "referencia": "Una Fashion, postura de precio en una línea",
+        "url": "https://www.facebook.com/ads/library/?id=4173682196273527",
+        "que_tomo": "la postura de precio dicha en una línea"
+      },
+      "qa_ticket": "4a389701-32eb-46c1-b11e-bee06bec83c8"
+    },
+    {
+      "id": "2026-12-11-04-post",
+      "fecha": "2026-12-11T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-11/04-post.jpg"
+      ],
+      "caption": "Un arreglo de $180.000 no son $180.000 para ti.\nFlores $60.000, base y papel $33.000, domicilio $12.000 y datáfono $5.000: te quedan $70.000.\n¿Ya sabes cuánto te deja cada arreglo de Navidad? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Floristeria",
+      "pilar": "verticales",
+      "layout": "recibo",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-11",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "tiquete de un arreglo floral",
+      "gancho": "Un arreglo de $180.000: lo que te queda",
+      "primera_linea": "Un arreglo de $180.000 no son $180.000 para ti.",
+      "estilo": "recibo, blanco, tiquete con 4 costos y total (post)",
+      "modela": {
+        "referencia": "Organizando Tu Vida, «Calcula el costo real de tus arreglos florales» (2.º uso)",
+        "url": "https://www.facebook.com/ads/library/?id=4439596406298072",
+        "que_tomo": "el costo real de un arreglo floral, partida por partida"
+      },
+      "qa_ticket": "93f2383c-f82b-4c17-ae64-ccabb0d592c8"
+    },
+    {
+      "id": "2026-12-11-05-post",
+      "fecha": "2026-12-11T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-11/05-post.jpg"
+      ],
+      "caption": "En diciembre se vende más. No siempre se gana más.\nCompras más mercancía, pagas más domicilios y más horas extra. Si no lo anotas, enero te pasa la cuenta.\n¿Tu diciembre del año pasado te dejó lo que esperabas? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Diciembre",
+      "pilar": "ganancia-real",
+      "layout": "mito",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-11",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "mito vs realidad",
+      "gancho": "«En diciembre todo el mundo gana»",
+      "primera_linea": "En diciembre se vende más. No siempre se gana más.",
+      "estilo": "mito, navy, tarjetas mito y realidad (post)",
+      "modela": {
+        "referencia": "@nosoysanta26, «las ventas no van a solucionar tus problemas»",
+        "url": "https://www.instagram.com/reel/Df2BkkGoWor",
+        "que_tomo": "la creencia de que vender más arregla todo"
+      },
+      "qa_ticket": "a9f8a538-648c-411c-9dc3-3947fe1f253f"
     }
   ]
 }

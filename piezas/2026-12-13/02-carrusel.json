@@ -1,0 +1,132 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "claro",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "claro",
+   "kicker": "Restaurantes",
+   "titulo": "Tu restaurante vende más en diciembre. **Y gasta más.**",
+   "sub": "4 costos que suben y casi nadie anota.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 1,
+   "titulo": "Los insumos",
+   "texto": "El pollo y la carne suben justo cuando más pedidos tienes.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Pollo antes",
+      "$14.000/kg"
+     ],
+     [
+      "Pollo ahora",
+      "$16.000/kg",
+      "rojo"
+     ],
+     [
+      "60 kg/semana, al mes",
+      "+$480.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 2,
+   "titulo": "El personal extra",
+   "texto": "Un mesero más los fines de semana de diciembre.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Por día",
+      "$90.000"
+     ],
+     [
+      "8 días",
+      "+$720.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 3,
+   "titulo": "Empaques de domicilio",
+   "texto": "Más pedidos para llevar y empaques más caros.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Empaque antes",
+      "$350"
+     ],
+     [
+      "Empaque ahora",
+      "$600",
+      "rojo"
+     ],
+     [
+      "900 pedidos",
+      "+$225.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 4,
+   "titulo": "Gas y luz",
+   "texto": "La cocina abre más horas y el recibo llega en enero.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Horas extra de cocina",
+      "+$180.000",
+      "rojo"
+     ],
+     [
+      "Total del mes",
+      "+$1.605.000",
+      "rojo"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "navy",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Lo que le debes al proveedor, **con su fecha**",
+   "sub": "Las facturas por pagar a la vista, antes de que lleguen las de enero.",
+   "captura": "movil-cuentas-lista-23nov.png",
+   "recorte": "610px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Vende más.\nAnota más.",
+   "items": [
+    "Insumos con su precio nuevo",
+    "Personal extra como gasto",
+    "Empaques y gas a la vista"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

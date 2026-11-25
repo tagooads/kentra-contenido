@@ -1,0 +1,29 @@
+{
+ "layout": "dato",
+ "formato": "historia",
+ "tema": "verde",
+ "titulo": "Tu diciembre en 3 números. ¿Los tienes?",
+ "filas": [
+  {
+   "label": "Entró",
+   "valor": "$ ¿?",
+   "color": "gris"
+  },
+  {
+   "label": "Salió",
+   "valor": "$ ¿?",
+   "color": "gris"
+  },
+  {
+   "label": "Quedó",
+   "valor": "$ ¿?",
+   "color": "verde",
+   "grande": true
+  }
+ ],
+ "cierre": "Si te falta uno, haz el diagnóstico en 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}

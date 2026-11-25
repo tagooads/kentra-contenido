@@ -1,0 +1,13 @@
+{
+ "layout": "tweet",
+ "formato": "post",
+ "tema": "noche",
+ "kicker": "Postura",
+ "texto": "«Nunca cierres diciembre sin saber cuánto te quedó. Lo que vendiste se celebra; lo que quedó es lo que tienes para enero.»",
+ "pie": "Saca la cuenta antes del 31.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ },
+ "tamTexto": 60
+}

@@ -1,0 +1,21 @@
+{
+ "layout": "precio",
+ "formato": "post",
+ "tema": "claro",
+ "kicker": "Kentra Pro",
+ "titulo": "Menos de US$1 al día para saber **cuánto te queda**",
+ "plan": "Pro",
+ "precio": "US$20",
+ "periodo": "/mes",
+ "nota": "Hasta 2 negocios, con un usuario extra.",
+ "items": [
+  "Ganancia real del mes",
+  "Importación con IA",
+  "KentrAI incluido"
+ ],
+ "mascota": "app",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

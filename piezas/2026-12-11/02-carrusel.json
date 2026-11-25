@@ -123,9 +123,9 @@
    "tema": "navy",
    "kicker": "Así lo ves en Kentra",
    "titulo": "Todo empieza con **anotar cada venta**",
-   "sub": "Fecha, cuenta y monto. KentrAI hace el resto.",
-   "captura": "movil-registrar-venta-23nov.png",
-   "recorte": "140px",
+   "sub": "Categoría, cuenta y monto. KentrAI hace el resto.",
+   "captura": "movil-registrar-venta-sin-fecha.png",
+   "recorte": "420px",
    "anchoCel": 520,
    "mascara": 90
   },

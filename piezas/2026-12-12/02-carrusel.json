@@ -1,0 +1,125 @@
+{
+ "layout": "carrusel",
+ "formato": "post",
+ "tema": "navy",
+ "slides": [
+  {
+   "layout": "portada",
+   "tema": "navy",
+   "kicker": "Diciembre",
+   "titulo": "4 preguntas de dinero de diciembre **que nadie te responde**",
+   "sub": "Respuestas cortas, con números de una tienda.",
+   "visual": "none",
+   "sinPildora": true
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 1,
+   "titulo": "«¿Lo que vendí es para gastarlo?»",
+   "texto": "No todo. Una parte es la mercancía que tienes que volver a comprar.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Vendiste",
+      "$10.000.000"
+     ],
+     [
+      "Era mercancía",
+      "−$5.200.000",
+      "rojo"
+     ],
+     [
+      "Lo que sí es tuyo",
+      "$4.800.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 2,
+   "titulo": "«¿Cuánto separo para enero?»",
+   "texto": "Por lo menos un mes de gastos fijos, porque enero vende menos.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Arriendo",
+      "$1.200.000"
+     ],
+     [
+      "Servicios",
+      "$300.000"
+     ],
+     [
+      "Ayudante",
+      "$1.400.000"
+     ],
+     [
+      "Separa",
+      "$2.900.000",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "valor",
+   "tema": "claro",
+   "num": 3,
+   "titulo": "«¿Dejo la plata en la caja?»",
+   "texto": "Lo que no anotas se mezcla con la casa. Cuenta la caja cada noche y anótala.",
+   "bullets": [
+    "Caja del negocio aparte",
+    "Retiros anotados como retiros"
+   ]
+  },
+  {
+   "layout": "valor",
+   "tema": "navy",
+   "num": 4,
+   "titulo": "«¿Surto a crédito con el proveedor?»",
+   "texto": "Solo si lo vendes antes de que venza el pago.",
+   "ejemplo": {
+    "filas": [
+     [
+      "Surtido a 30 días",
+      "$3.000.000"
+     ],
+     [
+      "Lo vendes en",
+      "3 semanas",
+      "verde"
+     ]
+    ]
+   }
+  },
+  {
+   "layout": "captura",
+   "tema": "noche",
+   "kicker": "Así lo ves en Kentra",
+   "titulo": "Cuánto vas a tener **cuando llegue enero**",
+   "sub": "Lo que tienes, lo que te deben y lo que debes, en una proyección.",
+   "captura": "movil-analisis-23nov.png",
+   "recorte": "545px"
+  },
+  {
+   "layout": "mascota",
+   "tema": "verde",
+   "titulo": "Diciembre se vive.\nEnero se paga.",
+   "items": [
+    "Repón la mercancía",
+    "Separa un mes de fijos",
+    "Anota cada retiro"
+   ],
+   "mascota": "telefono",
+   "tam": "media",
+   "cta": {
+    "texto": "kentra.pro",
+    "boton": true
+   }
+  }
+ ]
+}

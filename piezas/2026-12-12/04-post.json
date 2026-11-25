@@ -1,0 +1,17 @@
+{
+ "layout": "lista",
+ "formato": "post",
+ "tema": "marfil",
+ "kicker": "Negocios pequeños",
+ "titulo": "¿Vendes menos de $5.000.000 al mes? **Esto es para ti**",
+ "items": [
+  "Anotas en un cuaderno o en el chat",
+  "Mezclas la plata de la casa y la del negocio",
+  "No sabes cuánto te quedó en noviembre"
+ ],
+ "cierre": "Kentra está hecha para ese tamaño de negocio.",
+ "cta": {
+  "texto": "kentra.pro",
+  "boton": false
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "layout": "encuesta",
+ "formato": "historia",
+ "tema": "blanco",
+ "kicker": "Mitad de diciembre",
+ "titulo": "¿Cómo vas a **mitad de diciembre**?",
+ "opciones": [
+  "Sé cuánto me ha quedado",
+  "Sé cuánto vendí, no cuánto quedó"
+ ],
+ "nota": "Haz el diagnóstico de tu negocio en 2 minutos.",
+ "cta": {
+  "texto": "kentra.pro/quiz",
+  "boton": true
+ }
+}
