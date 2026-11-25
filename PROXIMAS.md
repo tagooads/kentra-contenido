@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 59 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
 
 
 ## Miércoles 25/11
-
-**10:00 — Post** · verticales · `2026-11-25-04-post`
-
-<img src="piezas/2026-11-25/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Cobras $18.000 por el almuerzo y sientes que te va bien. Haz la cuenta del plato.
-
-Insumos $7.200, gas y servicios $1.300, empaque $900 y domicilio $3.600: $13.000 se van antes de servirlo. Te quedan $5.000 por plato.
-
-Black November: el plan mensual con 40 % menos los 2 primeros meses.
-Costea tu menú con tus números. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Restaurantes
-
-</details>
 
 **12:00 — Carrusel** · precio · `2026-11-25-02-carrusel`
 
@@ -662,9 +645,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- miércoles 25/11 · 10:00 · Post `2026-11-25-04-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 08:00 · Historia `2026-11-25-01-historia` · IG ✓ · FB ✓
 - martes 24/11 · 19:00 · Historia `2026-11-24-03-historia` · IG ✓ · FB ✓
 - martes 24/11 · 18:00 · Post `2026-11-24-05-post` · IG ✓ · FB ✓
 - martes 24/11 · 12:00 · Carrusel `2026-11-24-02-carrusel` · IG ✓ · FB ✓
 - martes 24/11 · 10:00 · Post `2026-11-24-04-post` · IG ✓ · FB ✓
-- martes 24/11 · 08:00 · Historia `2026-11-24-01-historia` · IG ✓ · FB ✓
