@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 58 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 57 piezas agendadas.
 
 
 ## Miércoles 25/11
-
-**12:00 — Carrusel** · precio · `2026-11-25-02-carrusel`
-
-<img src="piezas/2026-11-25/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-25/02-carrusel-6.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Conoces a alguien con una tienda, un salón o clientes freelance?
-
-Desliza: tres dueños, tres dolores y cómo los resuelve Kentra. Al final, cómo se suman los meses: por cada dueño que invites y pague, sumas 1 mes sin costo.
-
-Invita y gana va con Black November, hasta el 30. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackNovember #NegocioPropio
-
-</details>
 
 **18:00 — Post** · objeciones · `2026-11-25-05-post`
 
@@ -645,9 +629,9 @@ Vendes, atiendes, compras y a las 11 de la noche todavía falta acordarse de la 
 
 ## Últimas publicadas
 
+- miércoles 25/11 · 12:00 · Carrusel `2026-11-25-02-carrusel` · IG ✓ · FB ✓
 - miércoles 25/11 · 10:00 · Post `2026-11-25-04-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 08:00 · Historia `2026-11-25-01-historia` · IG ✓ · FB ✓
 - martes 24/11 · 19:00 · Historia `2026-11-24-03-historia` · IG ✓ · FB ✓
 - martes 24/11 · 18:00 · Post `2026-11-24-05-post` · IG ✓ · FB ✓
 - martes 24/11 · 12:00 · Carrusel `2026-11-24-02-carrusel` · IG ✓ · FB ✓
-- martes 24/11 · 10:00 · Post `2026-11-24-04-post` · IG ✓ · FB ✓
