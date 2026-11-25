@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 79 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 78 piezas agendadas.
 
 
 ## Miércoles 25/11
-
-**18:00 — Post** · objeciones · `2026-11-25-05-post`
-
-<img src="piezas/2026-11-25/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-«¿Me haces precio?» es más fácil de responder cuando sabes tu margen.
-
-Si te queda el 22 % de cada venta, una rebaja de 5 % todavía te deja 17 %. Una de 20 % te deja 2 %: casi todo el trabajo sin ganancia.
-
-Black November: mensual con 40 % menos los 2 primeros meses.
-Conoce tu margen antes de rebajar. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **19:00 — Historia** · ganancia-real · `2026-11-25-03-historia`
 
@@ -849,9 +832,9 @@ Compras más mercancía, pagas más domicilios y más horas extra. Si no lo anot
 
 ## Últimas publicadas
 
+- miércoles 25/11 · 18:00 · Post `2026-11-25-05-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 12:00 · Carrusel `2026-11-25-02-carrusel` · IG ✓ · FB ✓
 - miércoles 25/11 · 10:00 · Post `2026-11-25-04-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 08:00 · Historia `2026-11-25-01-historia` · IG ✓ · FB ✓
 - martes 24/11 · 19:00 · Historia `2026-11-24-03-historia` · IG ✓ · FB ✓
 - martes 24/11 · 18:00 · Post `2026-11-24-05-post` · IG ✓ · FB ✓
-- martes 24/11 · 12:00 · Carrusel `2026-11-24-02-carrusel` · IG ✓ · FB ✓
