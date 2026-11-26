@@ -1,13 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 78 piezas agendadas.
-
-
-## Miércoles 25/11
-
-**19:00 — Historia** · ganancia-real · `2026-11-25-03-historia`
-
-<img src="piezas/2026-11-25/03-historia.jpg" width="160">
+Se actualiza sola cada hora. Hora de Bogotá. 77 piezas agendadas.
 
 
 ## Jueves 26/11
@@ -832,9 +825,9 @@ Compras más mercancía, pagas más domicilios y más horas extra. Si no lo anot
 
 ## Últimas publicadas
 
+- miércoles 25/11 · 19:00 · Historia `2026-11-25-03-historia` · IG ✓ · FB ✓
 - miércoles 25/11 · 18:00 · Post `2026-11-25-05-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 12:00 · Carrusel `2026-11-25-02-carrusel` · IG ✓ · FB ✓
 - miércoles 25/11 · 10:00 · Post `2026-11-25-04-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 08:00 · Historia `2026-11-25-01-historia` · IG ✓ · FB ✓
 - martes 24/11 · 19:00 · Historia `2026-11-24-03-historia` · IG ✓ · FB ✓
-- martes 24/11 · 18:00 · Post `2026-11-24-05-post` · IG ✓ · FB ✓
