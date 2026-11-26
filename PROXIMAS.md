@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
 
 
 ## Jueves 26/11
-
-**12:00 — Carrusel** · funcionalidades · `2026-11-26-02-carrusel`
-
-<img src="piezas/2026-11-26/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-26/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-26/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-26/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-26/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-26/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-26/02-carrusel-7.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vender más no siempre es ganar más.
-
-Desliza y cierra tu viernes de descuentos en 4 pasos: separa las ventas con descuento, anota envíos y comisiones, resta el costo de la mercancía y quédate con un solo número. En el ejemplo: $2.800.000 vendidos y $936.000 que de verdad quedaron.
-
-Black November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.
-Guárdalo para el sábado. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes #NegocioPropio
-
-</details>
 
 **18:00 — Post** · precio · `2026-11-26-05-post`
 
@@ -935,9 +918,9 @@ Lo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. 
 
 ## Últimas publicadas
 
+- jueves 26/11 · 12:00 · Carrusel `2026-11-26-02-carrusel` · IG ✓ · FB ✓
 - jueves 26/11 · 10:00 · Post `2026-11-26-04-post` · IG ✓ · FB ✓
 - jueves 26/11 · 08:00 · Historia `2026-11-26-01-historia` · IG ✓ · FB ✓
 - miércoles 25/11 · 19:00 · Historia `2026-11-25-03-historia` · IG ✓ · FB ✓
 - miércoles 25/11 · 18:00 · Post `2026-11-25-05-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 12:00 · Carrusel `2026-11-25-02-carrusel` · IG ✓ · FB ✓
-- miércoles 25/11 · 10:00 · Post `2026-11-25-04-post` · IG ✓ · FB ✓
