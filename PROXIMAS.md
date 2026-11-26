@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
 
 
 ## Jueves 26/11
-
-**10:00 — Post** · kentra-vs-excel · `2026-11-26-04-post`
-
-<img src="piezas/2026-11-26/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Si tu ferretería vive en una hoja por proveedor, cada noche toca sumar a mano.
-
-En Kentra registras ventas y gastos por categoría, ves lo que entró, salió y quedó, y sabes quién te debe sin buscar en cuadernos.
-
-Black November: si otro dueño se suscribe con tu invitación y paga, sumas un mes sin costo. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Ferreteria
-
-</details>
 
 **12:00 — Carrusel** · funcionalidades · `2026-11-26-02-carrusel`
 
@@ -951,9 +935,9 @@ Lo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. 
 
 ## Últimas publicadas
 
+- jueves 26/11 · 10:00 · Post `2026-11-26-04-post` · IG ✓ · FB ✓
 - jueves 26/11 · 08:00 · Historia `2026-11-26-01-historia` · IG ✓ · FB ✓
 - miércoles 25/11 · 19:00 · Historia `2026-11-25-03-historia` · IG ✓ · FB ✓
 - miércoles 25/11 · 18:00 · Post `2026-11-25-05-post` · IG ✓ · FB ✓
 - miércoles 25/11 · 12:00 · Carrusel `2026-11-25-02-carrusel` · IG ✓ · FB ✓
 - miércoles 25/11 · 10:00 · Post `2026-11-25-04-post` · IG ✓ · FB ✓
-- miércoles 25/11 · 08:00 · Historia `2026-11-25-01-historia` · IG ✓ · FB ✓
