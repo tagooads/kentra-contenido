@@ -91,7 +91,7 @@
    "ejemplo": {
     "filas": [
      [
-      "Horas extra de cocina",
+      "Gas y luz extra",
       "+$180.000",
       "rojo"
      ],
@@ -109,8 +109,8 @@
    "kicker": "Así lo ves en Kentra",
    "titulo": "Lo que le debes al proveedor, **con su fecha**",
    "sub": "Las facturas por pagar a la vista, antes de que lleguen las de enero.",
-   "captura": "movil-cuentas-lista-23nov.png",
-   "recorte": "610px"
+   "captura": "movil-cuentas-pagar-dic.png",
+   "recorte": "200px"
   },
   {
    "layout": "mascota",

@@ -11104,6 +11104,35 @@
       "qa_ticket": "1d2d2a05-a85d-43c1-99ab-49a3d2859b24"
     },
     {
+      "id": "2026-12-10-05-post",
+      "fecha": "2026-12-10T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-10/05-post.jpg"
+      ],
+      "caption": "Esta semana no fue buena. Eso también se anota.\nLas semanas flojas te muestran qué día no vendiste, qué gasto creció y qué cambiar. Las que no anotas se repiten.\n¿Qué te enseñó tu última semana floja? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #DueñoDeNegocio",
+      "pilar": "objeciones",
+      "layout": "cita",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-10",
+      "archivo": "05-post",
+      "version": 2,
+      "formato": "confesión relatable",
+      "gancho": "Esta semana no fue buena. Eso también se anota.",
+      "primera_linea": "Esta semana no fue buena. Eso también se anota.",
+      "estilo": "cita, noche, frase grande con barra verde (post)",
+      "modela": {
+        "referencia": "@latorrearg, la mala semana del dueño",
+        "url": "https://www.instagram.com/reel/Df5pf_qAvf-",
+        "que_tomo": "la semana floja contada sin drama y con una salida"
+      },
+      "qa_ticket": "f6bc16a1-cfbd-45d7-8b7d-819ceb70e6d4"
+    },
+    {
       "id": "2026-12-10-03-historia",
       "fecha": "2026-12-10T19:00:00-05:00",
       "tipo": "historia",
@@ -11191,6 +11220,42 @@
       "qa_ticket": "93f2383c-f82b-4c17-ae64-ccabb0d592c8"
     },
     {
+      "id": "2026-12-11-02-carrusel",
+      "fecha": "2026-12-11T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-11/02-carrusel-1.jpg",
+        "piezas/2026-12-11/02-carrusel-2.jpg",
+        "piezas/2026-12-11/02-carrusel-3.jpg",
+        "piezas/2026-12-11/02-carrusel-4.jpg",
+        "piezas/2026-12-11/02-carrusel-5.jpg",
+        "piezas/2026-12-11/02-carrusel-6.jpg",
+        "piezas/2026-12-11/02-carrusel-7.jpg",
+        "piezas/2026-12-11/02-carrusel-8.jpg"
+      ],
+      "caption": "¿Y si tu negocio te respondiera?\nDesliza: 5 preguntas que le puedes hacer a KentrAI con lo que anotas: cuánto te quedó, en qué se te fue más dinero, quién te debe, cómo vas contra el mes pasado y qué hacer primero en enero.\n¿Cuál le harías primero? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #KentrAI",
+      "pilar": "funcionalidades",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-11",
+      "archivo": "02-carrusel",
+      "version": 2,
+      "formato": "100 % Kentra: 5 preguntas para KentrAI",
+      "gancho": "5 preguntas que le puedes hacer a tu negocio",
+      "primera_linea": "¿Y si tu negocio te respondiera?",
+      "estilo": "portada verde sin visual + 5 preguntas claro/navy con tabla + captura Registrar venta + cierre mascota",
+      "modela": {
+        "referencia": "Kame ERP, «Tu analista financiero IA»",
+        "url": "https://www.facebook.com/ads/library/?id=1714583496907026",
+        "que_tomo": "presentar la IA como alguien a quien le preguntas por tu negocio"
+      },
+      "qa_ticket": "2dc5e8e1-f416-434a-8deb-e22cd0b9a502"
+    },
+    {
       "id": "2026-12-11-05-post",
       "fecha": "2026-12-11T18:00:00-05:00",
       "tipo": "post",
@@ -11218,6 +11283,273 @@
         "que_tomo": "la creencia de que vender más arregla todo"
       },
       "qa_ticket": "a9f8a538-648c-411c-9dc3-3947fe1f253f"
+    },
+    {
+      "id": "2026-12-11-03-historia",
+      "fecha": "2026-12-11T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-11/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "funcionalidades",
+      "layout": "captura",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-11",
+      "archivo": "03-historia",
+      "version": 2,
+      "formato": "captura real: Movimientos",
+      "gancho": "Cada venta, con su día",
+      "primera_linea": "Cada venta, con su día",
+      "estilo": "captura, navy, celular ampliado de Movimientos (historia)",
+      "modela": {
+        "referencia": "Treinta, promesa de orden",
+        "url": "https://www.facebook.com/ads/library/?id=1692272472484596",
+        "que_tomo": "la promesa de orden con la pantalla real"
+      },
+      "qa_ticket": "045d6ca1-f70a-4cc5-866f-0fd68db1901c"
+    },
+    {
+      "id": "2026-12-12-04-post",
+      "fecha": "2026-12-12T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-12/04-post.jpg"
+      ],
+      "caption": "Si vendes menos de $5.000.000 al mes, esto es contigo.\nAnotas en un cuaderno o en el chat, la plata de la casa y la del negocio andan juntas y no sabes cuánto te quedó en noviembre.\nKentra está hecha para ese tamaño de negocio. {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #NegociosPequeños",
+      "pilar": "objeciones",
+      "layout": "lista",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-12",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "lista segmentada por facturación",
+      "gancho": "¿Vendes menos de $5.000.000 al mes? Esto es para ti",
+      "primera_linea": "Si vendes menos de $5.000.000 al mes, esto es contigo.",
+      "estilo": "lista, marfil, tarjeta con 3 checks y cierre (post)",
+      "modela": {
+        "referencia": "Naimi Núñez, «Para empresarias que facturan +$20K/mes»",
+        "url": "https://www.facebook.com/ads/library/?id=1554213876542989",
+        "que_tomo": "segmentar por nivel de facturación en el titular"
+      },
+      "qa_ticket": "af654670-3ae8-42e3-a006-c5604574b4ea"
+    },
+    {
+      "id": "2026-12-12-02-carrusel",
+      "fecha": "2026-12-12T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-12/02-carrusel-1.jpg",
+        "piezas/2026-12-12/02-carrusel-2.jpg",
+        "piezas/2026-12-12/02-carrusel-3.jpg",
+        "piezas/2026-12-12/02-carrusel-4.jpg",
+        "piezas/2026-12-12/02-carrusel-5.jpg",
+        "piezas/2026-12-12/02-carrusel-6.jpg",
+        "piezas/2026-12-12/02-carrusel-7.jpg"
+      ],
+      "caption": "4 preguntas de dinero que todo dueño se hace en diciembre.\nLo que vendiste no es todo tuyo ($5.200.000 de $10.000.000 eran mercancía), enero pide un mes de fijos separado ($2.900.000), la caja se cuenta cada noche y el surtido a crédito solo si lo vendes antes del pago.\n¿Cuál de las 4 te tocaba responder? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #Diciembre",
+      "pilar": "educacion",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-12",
+      "archivo": "02-carrusel",
+      "version": 1,
+      "formato": "serie de preguntas con respuesta corta (7 slides)",
+      "gancho": "4 preguntas de dinero de diciembre que nadie te responde",
+      "primera_linea": "4 preguntas de dinero que todo dueño se hace en diciembre.",
+      "estilo": "portada navy + valor claro/navy + captura Análisis (proyección) + mascota verde",
+      "modela": {
+        "referencia": "@accountant_she, «answering the questions that your accountant won't» (serie diaria)",
+        "url": "https://www.tiktok.com/@accountant_she/video/7707944750212599072",
+        "que_tomo": "serie de preguntas que nadie responde, una respuesta corta por pregunta"
+      },
+      "qa_ticket": "bc22a2f7-eb24-4898-8057-0a9b4c720bdc"
+    },
+    {
+      "id": "2026-12-12-05-post",
+      "fecha": "2026-12-12T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-12/05-post.jpg"
+      ],
+      "caption": "Kentra Pro cuesta US$20 al mes: menos de US$1 al día.\nIncluye la ganancia real de cada mes, la importación con IA de tus extractos y KentrAI para preguntarle a tu negocio. Hasta 2 negocios, con un usuario extra.\n¿Cuánto te cuesta no saber cuánto te queda? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #KentraPro",
+      "pilar": "precio",
+      "layout": "precio",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-12",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "precio visible con valor",
+      "gancho": "Kentra Pro: US$20 al mes, menos de US$1 al día",
+      "primera_linea": "Kentra Pro cuesta US$20 al mes: menos de US$1 al día.",
+      "estilo": "precio, claro, cifra grande + 3 checks + mascota con app (post)",
+      "modela": {
+        "referencia": "Kev.Estoico, «Ordena las finanzas de tu negocio desde hoy» (2.º uso)",
+        "url": "https://www.facebook.com/ads/library/?id=1485633840169029",
+        "que_tomo": "precio a la vista con lo que incluye"
+      },
+      "qa_ticket": "a89b2928-6a21-439f-b9de-efe47b071db8"
+    },
+    {
+      "id": "2026-12-12-03-historia",
+      "fecha": "2026-12-12T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-12/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "dato",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-12",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "reto de 3 números en blanco",
+      "gancho": "Tu diciembre en 3 números. ¿Los tienes?",
+      "primera_linea": "Tu diciembre en 3 números. ¿Los tienes?",
+      "estilo": "dato, verde, tres filas con «$ ¿?» para llenar (historia)",
+      "modela": {
+        "referencia": "Método PISO, «Calcula lo que realmente ganas» (2.º uso)",
+        "url": "https://www.facebook.com/ads/library/?id=1146976011639315",
+        "que_tomo": "invitar a calcular la ganancia real con tus propios números"
+      },
+      "qa_ticket": "7503e416-0719-4c12-b6a3-36aea90b3086"
+    },
+    {
+      "id": "2026-12-13-01-historia",
+      "fecha": "2026-12-13T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-13/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "objeciones",
+      "layout": "mito",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-13",
+      "archivo": "01-historia",
+      "version": 1,
+      "formato": "mito vs realidad de la objeción de tiempo",
+      "gancho": "«Anoto en enero, ahora no tengo tiempo»",
+      "primera_linea": "Anotar no te quita el día",
+      "estilo": "mito, menta, tarjetas mito y realidad (historia)",
+      "modela": {
+        "referencia": "Bind, quitar la objeción de tiempo",
+        "url": "https://www.facebook.com/ads/library/?id=1186896883902313",
+        "que_tomo": "responder la objeción de falta de tiempo en una línea"
+      },
+      "qa_ticket": "154b0bc7-7cfe-4c3a-87a4-c847da8f3129"
+    },
+    {
+      "id": "2026-12-13-04-post",
+      "fecha": "2026-12-13T10:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-13/04-post.jpg"
+      ],
+      "caption": "«Vendí el doble en diciembre.» Bien. ¿Y cuánto quedó?\nDe $12.000.000 vendidos, $6.600.000 fueron mercancía y $2.800.000 personal y fijos: quedaron $2.600.000.\n¿Tú sabes cuánto te quedó a ti? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #GananciaReal",
+      "pilar": "ganancia-real",
+      "layout": "split",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-13",
+      "archivo": "04-post",
+      "version": 1,
+      "formato": "lo que dices vs la cuenta",
+      "gancho": "«Vendí el doble en diciembre»",
+      "primera_linea": "«Vendí el doble en diciembre.» Bien. ¿Y cuánto quedó?",
+      "estilo": "split, claro, frase arriba + cuenta de 2 filas y total (post)",
+      "modela": {
+        "referencia": "@oriana.digital, «En un mes logré facturar +53 millones»",
+        "url": "https://www.tiktok.com/@oriana.digital/video/7707730830373784850",
+        "que_tomo": "reacción a lo facturado contra lo que queda"
+      },
+      "qa_ticket": "eb387047-533b-4ee4-b7b0-4c830323269a"
+    },
+    {
+      "id": "2026-12-13-05-post",
+      "fecha": "2026-12-13T18:00:00-05:00",
+      "tipo": "post",
+      "imagenes": [
+        "piezas/2026-12-13/05-post.jpg"
+      ],
+      "caption": "Nunca cierres diciembre sin saber cuánto te quedó.\nLo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. Saca la cuenta antes del 31.\n¿Ya la sacaste? {CTA}\n#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes",
+      "pilar": "ganancia-real",
+      "layout": "tweet",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-13",
+      "archivo": "05-post",
+      "version": 1,
+      "formato": "postura en negativo",
+      "gancho": "Nunca cierres diciembre sin saber cuánto te quedó",
+      "primera_linea": "Nunca cierres diciembre sin saber cuánto te quedó.",
+      "estilo": "tweet, noche, tarjeta blanca sobre fondo oscuro (post)",
+      "modela": {
+        "referencia": "@roxymsotelo.digital, postura «nunca…»",
+        "url": "https://www.instagram.com/reel/Dfx5fBjhC9W",
+        "que_tomo": "postura en negativo como primera línea"
+      },
+      "qa_ticket": "873da3b6-8231-4206-bebf-b445b0975868"
+    },
+    {
+      "id": "2026-12-13-03-historia",
+      "fecha": "2026-12-13T19:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-13/03-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "ganancia-real",
+      "layout": "encuesta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-13",
+      "archivo": "03-historia",
+      "version": 1,
+      "formato": "encuesta de mitad de mes",
+      "gancho": "¿Cómo vas a mitad de diciembre?",
+      "primera_linea": "¿Cómo vas a mitad de diciembre?",
+      "estilo": "encuesta, blanco, dos opciones en primera persona (historia)",
+      "modela": {
+        "referencia": "@lebronedinson, dilema de dos opciones (2.º uso)",
+        "url": "https://www.instagram.com/reel/Dfm5E3KPAwA",
+        "que_tomo": "dilema de dos opciones para responder"
+      },
+      "qa_ticket": "8ba58c66-42a6-45de-bbf4-612c2a46a06c"
     }
   ]
 }

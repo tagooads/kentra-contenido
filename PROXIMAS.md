@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 77 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 88 piezas agendadas.
 
 
 ## Jueves 26/11
@@ -785,6 +785,19 @@ Desliza: menos $18.000.000 de mercancía y $8.400.000 de fijos quedan $3.600.000
 
 </details>
 
+**18:00 — Post** · objeciones · `2026-12-10-05-post`
+
+<img src="piezas/2026-12-10/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Esta semana no fue buena. Eso también se anota.
+Las semanas flojas te muestran qué día no vendiste, qué gasto creció y qué cambiar. Las que no anotas se repiten.
+¿Qué te enseñó tu última semana floja? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #DueñoDeNegocio
+
+</details>
+
 **19:00 — Historia** · educación · `2026-12-10-03-historia`
 
 <img src="piezas/2026-12-10/03-historia.jpg" width="160">
@@ -809,6 +822,19 @@ Flores $60.000, base y papel $33.000, domicilio $12.000 y datáfono $5.000: te q
 
 </details>
 
+**12:00 — Carrusel** · funcionalidades · `2026-12-11-02-carrusel`
+
+<img src="piezas/2026-12-11/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-12-11/02-carrusel-8.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+¿Y si tu negocio te respondiera?
+Desliza: 5 preguntas que le puedes hacer a KentrAI con lo que anotas: cuánto te quedó, en qué se te fue más dinero, quién te debe, cómo vas contra el mes pasado y qué hacer primero en enero.
+¿Cuál le harías primero? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #KentrAI
+
+</details>
+
 **18:00 — Post** · ganancia-real · `2026-12-11-05-post`
 
 <img src="piezas/2026-12-11/05-post.jpg" width="220">
@@ -821,6 +847,93 @@ Compras más mercancía, pagas más domicilios y más horas extra. Si no lo anot
 #Kentra #FinanzasParaNegocios #Emprendedores #Diciembre
 
 </details>
+
+**19:00 — Historia** · funcionalidades · `2026-12-11-03-historia`
+
+<img src="piezas/2026-12-11/03-historia.jpg" width="160">
+
+
+## Sábado 12/12
+
+**10:00 — Post** · objeciones · `2026-12-12-04-post`
+
+<img src="piezas/2026-12-12/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Si vendes menos de $5.000.000 al mes, esto es contigo.
+Anotas en un cuaderno o en el chat, la plata de la casa y la del negocio andan juntas y no sabes cuánto te quedó en noviembre.
+Kentra está hecha para ese tamaño de negocio. 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #NegociosPequeños
+
+</details>
+
+**12:00 — Carrusel** · educacion · `2026-12-12-02-carrusel`
+
+<img src="piezas/2026-12-12/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-12/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-12/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-12/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-12/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-12/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-12/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+4 preguntas de dinero que todo dueño se hace en diciembre.
+Lo que vendiste no es todo tuyo ($5.200.000 de $10.000.000 eran mercancía), enero pide un mes de fijos separado ($2.900.000), la caja se cuenta cada noche y el surtido a crédito solo si lo vendes antes del pago.
+¿Cuál de las 4 te tocaba responder? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #Diciembre
+
+</details>
+
+**18:00 — Post** · precio · `2026-12-12-05-post`
+
+<img src="piezas/2026-12-12/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Kentra Pro cuesta US$20 al mes: menos de US$1 al día.
+Incluye la ganancia real de cada mes, la importación con IA de tus extractos y KentrAI para preguntarle a tu negocio. Hasta 2 negocios, con un usuario extra.
+¿Cuánto te cuesta no saber cuánto te queda? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #KentraPro
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-12-12-03-historia`
+
+<img src="piezas/2026-12-12/03-historia.jpg" width="160">
+
+
+## Domingo 13/12
+
+**08:00 — Historia** · objeciones · `2026-12-13-01-historia`
+
+<img src="piezas/2026-12-13/01-historia.jpg" width="160">
+
+**10:00 — Post** · ganancia-real · `2026-12-13-04-post`
+
+<img src="piezas/2026-12-13/04-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+«Vendí el doble en diciembre.» Bien. ¿Y cuánto quedó?
+De $12.000.000 vendidos, $6.600.000 fueron mercancía y $2.800.000 personal y fijos: quedaron $2.600.000.
+¿Tú sabes cuánto te quedó a ti? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #GananciaReal
+
+</details>
+
+**18:00 — Post** · ganancia-real · `2026-12-13-05-post`
+
+<img src="piezas/2026-12-13/05-post.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Nunca cierres diciembre sin saber cuánto te quedó.
+Lo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. Saca la cuenta antes del 31.
+¿Ya la sacaste? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Emprendedores #CierreDeMes
+
+</details>
+
+**19:00 — Historia** · ganancia-real · `2026-12-13-03-historia`
+
+<img src="piezas/2026-12-13/03-historia.jpg" width="160">
 
 
 ## Últimas publicadas
