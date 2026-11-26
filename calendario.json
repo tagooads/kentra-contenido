@@ -11320,6 +11320,35 @@
       "qa_ticket": "045d6ca1-f70a-4cc5-866f-0fd68db1901c"
     },
     {
+      "id": "2026-12-12-01-historia",
+      "fecha": "2026-12-12T08:00:00-05:00",
+      "tipo": "historia",
+      "imagenes": [
+        "piezas/2026-12-12/01-historia.jpg"
+      ],
+      "caption": "",
+      "pilar": "educacion",
+      "layout": "pregunta",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-12",
+      "archivo": "01-historia",
+      "version": 2,
+      "formato": "pregunta de decisión (fiestas)",
+      "gancho": "Llegan las fiestas: ¿sabes cuánto puedes gastar?",
+      "primera_linea": "Llegan las fiestas. ¿Sabes cuánto puedes gastar?",
+      "estilo": "pregunta, noche, titular grande con sub (historia)",
+      "modela": {
+        "referencia": "@mmpiensaloclips, «¿Tu negocio puede pagar un nuevo sueldo?»",
+        "url": "https://www.tiktok.com/@mmpiensaloclips/video/7705627451895958804",
+        "que_tomo": "pregunta de decisión de dinero con criterio para responder"
+      },
+      "qa_ticket": "af6d7df6-9203-40ab-b8a3-8554fd16d63a"
+    },
+    {
       "id": "2026-12-12-04-post",
       "fecha": "2026-12-12T10:00:00-05:00",
       "tipo": "post",
@@ -11498,6 +11527,41 @@
         "que_tomo": "reacción a lo facturado contra lo que queda"
       },
       "qa_ticket": "eb387047-533b-4ee4-b7b0-4c830323269a"
+    },
+    {
+      "id": "2026-12-13-02-carrusel",
+      "fecha": "2026-12-13T12:00:00-05:00",
+      "tipo": "carrusel",
+      "imagenes": [
+        "piezas/2026-12-13/02-carrusel-1.jpg",
+        "piezas/2026-12-13/02-carrusel-2.jpg",
+        "piezas/2026-12-13/02-carrusel-3.jpg",
+        "piezas/2026-12-13/02-carrusel-4.jpg",
+        "piezas/2026-12-13/02-carrusel-5.jpg",
+        "piezas/2026-12-13/02-carrusel-6.jpg",
+        "piezas/2026-12-13/02-carrusel-7.jpg"
+      ],
+      "caption": "Tu restaurante vende más en diciembre. Y también gasta más.\nPollo que sube $2.000 el kilo (+$480.000 al mes), un mesero extra 8 días (+$720.000), empaques más caros en 900 pedidos (+$225.000) y más horas de gas y luz (+$180.000): $1.605.000 más en el mes.\n¿Cuál de los 4 ya estás anotando? {CTA}\n#Kentra #FinanzasParaNegocios #Restaurantes #Emprendedores",
+      "pilar": "verticales",
+      "layout": "carrusel",
+      "destinos": [
+        "instagram",
+        "facebook"
+      ],
+      "qa": "aprobado",
+      "carpeta": "2026-12-13",
+      "archivo": "02-carrusel",
+      "version": 2,
+      "formato": "4 costos que suben en temporada por oficio (7 slides)",
+      "gancho": "Tu restaurante vende más en diciembre. Y gasta más",
+      "primera_linea": "Tu restaurante vende más en diciembre. Y también gasta más.",
+      "estilo": "portada claro + valor navy/claro + captura Cuentas por pagar + mascota verde",
+      "modela": {
+        "referencia": "Dompi Store, titular por oficio",
+        "url": "https://www.facebook.com/ads/library/?id=1177456031377484",
+        "que_tomo": "titular dirigido a un oficio concreto"
+      },
+      "qa_ticket": "1bf5d767-9352-44e5-8197-d0670d531992"
     },
     {
       "id": "2026-12-13-05-post",

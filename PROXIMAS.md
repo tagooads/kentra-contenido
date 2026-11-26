@@ -1,6 +1,6 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 87 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 89 piezas agendadas.
 
 
 ## Jueves 26/11
@@ -851,6 +851,10 @@ Compras más mercancía, pagas más domicilios y más horas extra. Si no lo anot
 
 ## Sábado 12/12
 
+**08:00 — Historia** · educacion · `2026-12-12-01-historia`
+
+<img src="piezas/2026-12-12/01-historia.jpg" width="160">
+
 **10:00 — Post** · objeciones · `2026-12-12-04-post`
 
 <img src="piezas/2026-12-12/04-post.jpg" width="220">
@@ -911,6 +915,19 @@ Incluye la ganancia real de cada mes, la importación con IA de tus extractos y 
 De $12.000.000 vendidos, $6.600.000 fueron mercancía y $2.800.000 personal y fijos: quedaron $2.600.000.
 ¿Tú sabes cuánto te quedó a ti? 👉 [link de la bio en Instagram / link con UTM en Facebook]
 #Kentra #FinanzasParaNegocios #Emprendedores #GananciaReal
+
+</details>
+
+**12:00 — Carrusel** · verticales · `2026-12-13-02-carrusel`
+
+<img src="piezas/2026-12-13/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-12-13/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-12-13/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-12-13/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-12-13/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-12-13/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-12-13/02-carrusel-7.jpg" width="220">
+
+<details><summary>Descripción</summary>
+
+Tu restaurante vende más en diciembre. Y también gasta más.
+Pollo que sube $2.000 el kilo (+$480.000 al mes), un mesero extra 8 días (+$720.000), empaques más caros en 900 pedidos (+$225.000) y más horas de gas y luz (+$180.000): $1.605.000 más en el mes.
+¿Cuál de los 4 ya estás anotando? 👉 [link de la bio en Instagram / link con UTM en Facebook]
+#Kentra #FinanzasParaNegocios #Restaurantes #Emprendedores
 
 </details>
 
