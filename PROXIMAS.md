@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 82 piezas agendadas.
 
 
 ## Viernes 27/11
-
-**12:00 — Carrusel** · educación · `2026-11-27-02-carrusel`
-
-<img src="piezas/2026-11-27/02-carrusel-1.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-2.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-3.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-4.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-5.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-6.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-7.jpg" width="220"> <img src="piezas/2026-11-27/02-carrusel-8.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-¿Ya te pagaron todo lo que vendiste?
-
-Después de un día de muchas ventas, el dinero se queda en 4 lugares: transferencias pendientes ($540.000), pedidos contra entrega ($810.000), pagos con tarjeta que llegan después ($1.400.000) y lo fiado ($450.000). De $5.000.000 vendidos, solo $1.800.000 ya entró.
-
-Black November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.
-Guárdalo y revisa tus cobros. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #Pymes
-
-</details>
 
 **18:00 — Post** · precio · `2026-11-27-05-post`
 
@@ -876,9 +859,9 @@ Lo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. 
 
 ## Últimas publicadas
 
+- viernes 27/11 · 12:00 · Carrusel `2026-11-27-02-carrusel` · IG ✓ · FB ✓
 - viernes 27/11 · 10:00 · Post `2026-11-27-04-post` · IG ✓ · FB ✓
 - viernes 27/11 · 08:00 · Historia `2026-11-27-01-historia` · IG ✓ · FB ✓
 - jueves 26/11 · 19:00 · Historia `2026-11-26-03-historia` · IG ✓ · FB ✓
 - jueves 26/11 · 18:00 · Post `2026-11-26-05-post` · IG ✓ · FB ✓
 - jueves 26/11 · 12:00 · Carrusel `2026-11-26-02-carrusel` · IG ✓ · FB ✓
-- jueves 26/11 · 10:00 · Post `2026-11-26-04-post` · IG ✓ · FB ✓
