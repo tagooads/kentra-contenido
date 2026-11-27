@@ -1,25 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 82 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 81 piezas agendadas.
 
 
 ## Viernes 27/11
-
-**18:00 — Post** · precio · `2026-11-27-05-post`
-
-<img src="piezas/2026-11-27/05-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Hoy es Black Friday y todos te ofrecen descuentos.
-
-Nosotros también tenemos uno, pero el punto es otro: que sepas si los tuyos te dejaron ganancia. Kentra Pro mensual a US$12 los 2 primeros meses (luego US$20), hasta el lunes 30.
-
-Empieza hoy. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #BlackFriday
-
-</details>
 
 **19:00 — Historia** · ganancia-real · `2026-11-27-03-historia`
 
@@ -859,9 +843,9 @@ Lo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. 
 
 ## Últimas publicadas
 
+- viernes 27/11 · 18:00 · Post `2026-11-27-05-post` · IG ✓ · FB ✓
 - viernes 27/11 · 12:00 · Carrusel `2026-11-27-02-carrusel` · IG ✓ · FB ✓
 - viernes 27/11 · 10:00 · Post `2026-11-27-04-post` · IG ✓ · FB ✓
 - viernes 27/11 · 08:00 · Historia `2026-11-27-01-historia` · IG ✓ · FB ✓
 - jueves 26/11 · 19:00 · Historia `2026-11-26-03-historia` · IG ✓ · FB ✓
 - jueves 26/11 · 18:00 · Post `2026-11-26-05-post` · IG ✓ · FB ✓
-- jueves 26/11 · 12:00 · Carrusel `2026-11-26-02-carrusel` · IG ✓ · FB ✓
