@@ -1,26 +1,9 @@
 # Próximas publicaciones de Kentra
 
-Se actualiza sola cada hora. Hora de Bogotá. 84 piezas agendadas.
+Se actualiza sola cada hora. Hora de Bogotá. 83 piezas agendadas.
 
 
 ## Viernes 27/11
-
-**10:00 — Post** · ganancia-real · `2026-11-27-04-post`
-
-<img src="piezas/2026-11-27/04-post.jpg" width="220">
-
-<details><summary>Descripción</summary>
-
-Vendes $6.000.000 al mes y te quedan $360.000.
-
-Así se reparte la venta de una tienda online: mercancía $2.700.000, envíos $900.000, publicidad $960.000 y gastos fijos $1.080.000. Lo que queda es el 6 %, y casi nunca se ve salir el resto.
-
-Black November: con Invita y gana, cada dueño que invites y pague te da 1 mes sin costo.
-Mira tu reparto real. 👉 [link de la bio en Instagram / link con UTM en Facebook]
-
-#Kentra #FinanzasParaNegocios #Emprendedores #TiendaOnline
-
-</details>
 
 **12:00 — Carrusel** · educación · `2026-11-27-02-carrusel`
 
@@ -893,9 +876,9 @@ Lo que vendiste se celebra; lo que quedó es lo que tienes para arrancar enero. 
 
 ## Últimas publicadas
 
+- viernes 27/11 · 10:00 · Post `2026-11-27-04-post` · IG ✓ · FB ✓
 - viernes 27/11 · 08:00 · Historia `2026-11-27-01-historia` · IG ✓ · FB ✓
 - jueves 26/11 · 19:00 · Historia `2026-11-26-03-historia` · IG ✓ · FB ✓
 - jueves 26/11 · 18:00 · Post `2026-11-26-05-post` · IG ✓ · FB ✓
 - jueves 26/11 · 12:00 · Carrusel `2026-11-26-02-carrusel` · IG ✓ · FB ✓
 - jueves 26/11 · 10:00 · Post `2026-11-26-04-post` · IG ✓ · FB ✓
-- jueves 26/11 · 08:00 · Historia `2026-11-26-01-historia` · IG ✓ · FB ✓
